@@ -14,11 +14,11 @@
       "Priority": 1,
       "ImageName": "Banner_1",
       "UseDateTime": true,
-      "BeginDateTime": "2022-09-18T00:00:00",
-      "EndDateTime": "2022-09-30T23:59:59",
-      "Url": "https://dcc.nine-chronicles.com/",
+      "BeginDateTime": "2022-10-28T00:00:00",
+      "EndDateTime": "2022-11-02T23:59:59",
+      "Url": "https://bit.ly/9CHalloween2022",
       "UseAgentAddress": false,
-      "Description": "PFP Allow&Wait"
+      "Description": "2nd Anniversary"
     },
     {
       "Priority": 3,
