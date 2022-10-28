@@ -1,24 +1,24 @@
 {
   "Banners": [
     {
-      "Priority": 2,
+      "Priority": 1,
       "ImageName": "Banner_2",
       "UseDateTime": true,
-      "BeginDateTime": "2022-09-09T00:00:00",
-      "EndDateTime": "2022-09-26T23:59:59",
-      "Url": "https://bit.ly/DCCMintingSchedule",
-      "UseAgentAddress": true,
-      "Description": "PFP Allow&Wait"
+      "BeginDateTime": "2022-10-28T00:00:00",
+      "EndDateTime": "2022-11-02T23:59:59",
+      "Url": "https://bit.ly/9C2ndAnniversary",
+      "UseAgentAddress": false,
+      "Description": "2nd Anniversary"
     },
     {
-      "Priority": 1,
+      "Priority": 2,
       "ImageName": "Banner_1",
       "UseDateTime": true,
       "BeginDateTime": "2022-10-28T00:00:00",
       "EndDateTime": "2022-11-02T23:59:59",
       "Url": "https://bit.ly/9CHalloween2022",
       "UseAgentAddress": false,
-      "Description": "2nd Anniversary"
+      "Description": "Halloween"
     },
     {
       "Priority": 3,
