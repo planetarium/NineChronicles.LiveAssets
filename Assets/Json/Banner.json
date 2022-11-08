@@ -2,17 +2,17 @@
   "Banners": [
     {
       "Priority": 1,
-      "ImageName": "Banner_2",
+      "ImageName": "Banner_1",
       "UseDateTime": true,
-      "BeginDateTime": "2022-10-28T00:00:00",
-      "EndDateTime": "2022-11-02T23:59:59",
-      "Url": "https://bit.ly/9C2ndAnniversary",
+      "BeginDateTime": "2022-11-08T00:00:00",
+      "EndDateTime": "2022-11-11T14:00:00",
+      "Url": "https://snapshot.org/#/nine-chronicles-dao.eth/proposal/0xb10287a921320f3a8173221dd621f154d389dd6cc90224d1bbb1ec95466287b7",
       "UseAgentAddress": false,
-      "Description": "2nd Anniversary"
+      "Description": "Arena voting"
     },
     {
       "Priority": 2,
-      "ImageName": "Banner_1",
+      "ImageName": "Banner_2",
       "UseDateTime": true,
       "BeginDateTime": "2022-10-28T00:00:00",
       "EndDateTime": "2022-11-02T23:59:59",
