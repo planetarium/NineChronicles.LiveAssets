@@ -1,0 +1,9 @@
+{
+    "NoticeData": [
+        {
+            "Header":"[Patch Note] v100330",
+            "Date":"22.11.29",
+            "Contents":"<size=200%>Improvements</size>\n<size=150%>Arena Improvement</size>\n[Player] Adding a Grand Finale UI Adding the Grand Finale Event Recipe UI Championship 2 title and costume resources added Modify Arena Mission medal image to match new medal frame\n[Lib9c] Add Grand Finale List Entry and Ranking Processing Grand Finale Exclusive Event Recipe Feature Added Adding Grand Finale title data Championship 2 title and costume compensation data added\n\n<size=150%>Other improvements</size>\n[Player] Replace intro animation\n[Lib9c] Change Stage Sweep Request CP\n- The CP demand value required to perform the sweep action per stage has increased. NCG Staking Monster Collection adds 'Golden Leaf Run' to the basic reward\n[Launcher] A piece of \"golden leaf rune\" has been added to Staking's 50400-block base reward for every 6000 saved amount. \n[Lib9c] A piece of \"golden leaf rune\" has been added to Staking's 50400-block base reward for every 6000 saved amount. \n[Lib9c]Change World Boss Global HP\n[Lib9c]Remove ByteSerializer\n[Lib9c]Change serializing logic of ActionBase\n- Remove implementing ISerializable interface\n- Add TxId? TxId property\n[Lib9c]Obsoleting ClaimStakeReward(\"claim_stake_reward2\") at 5_549_200L\n- And ClaimStakeReward3(\"claim_stake_reward3\") will be available at 5_549_201L\n[Lib9c]Add BattleGrandFinale(\"battle_grand_finale\")\n[Lib9c]Add EventMaterialItemCrafts(\"event_material_item_crafts\")\n[Lib9c]Add TransferAssets(\"transfer_assets\")\n\n<size=200%>Bug Fixes</size>\n[Player] Fix a bug where the skill option image appeared as another image in the item reinforcement result \n[Player] Fixed an abnormal bug in the World Boss result background output\n[Player] Fixed a bug that was displayed strangely on the goods icon of the monster collection full benefit display"
+        }
+    ]
+}
