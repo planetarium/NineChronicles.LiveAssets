@@ -1,6 +1,17 @@
 {
   "Banners": [
     {
+      "Priority": 0,
+      "BannerImageName": "dcc_staking",
+      "PopupImageName": "dcc_staking_600_420",
+      "UseDateTime": true,
+      "BeginDateTime": "2022-12-16T00:00:00",
+      "EndDateTime": "2022-12-23T23:59:59",
+      "Url": "https://ninechronicles.medium.com/d-cc-event-early-cat-promotion-for-d-cc-nft-staking-375651a6aa7b",
+      "UseAgentAddress": false,
+      "Description": "PFP Staking"
+    },
+    {
       "Priority": 1,
       "BannerImageName": "Banner_1",
       "PopupImageName": "Banner_Main",
