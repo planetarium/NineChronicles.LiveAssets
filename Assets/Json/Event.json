@@ -23,17 +23,6 @@
       "Description": "Winter Event"
     },
     {
-      "Priority": 1,
-      "BannerImageName": "world_horizon",
-      "PopupImageName": "world_horizon",
-      "UseDateTime": true,
-      "BeginDateTime": "01-01T00:00:00",
-      "EndDateTime": "01-19T23:59:59",
-      "Url": "https://bit.ly/9CWinterEventDungeon",
-      "UseAgentAddress": false,
-      "Description": "Winter Event"
-    },
-    {
       "Priority": 2,
       "ImageName": "Banner_2",
       "PopupImageName": "RuneUpgrade",
