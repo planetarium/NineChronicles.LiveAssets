@@ -1,18 +1,18 @@
 {
   "Banners": [
     {
-      "Priority": 0,
-      "BannerImageName": "dcc_staking",
-      "PopupImageName": "dcc_staking_600_420",
+      "Priority": 1,
+      "BannerImageName": "pbft_test",
+      "PopupImageName": "pbft_test",
       "UseDateTime": true,
-      "BeginDateTime": "2022-12-16T00:00:00",
-      "EndDateTime": "2022-12-23T23:59:59",
-      "Url": "https://ninechronicles.medium.com/d-cc-event-early-cat-promotion-for-d-cc-nft-staking-375651a6aa7b",
+      "BeginDateTime": "2023-01-03T00:00:00",
+      "EndDateTime": "2023-01-17T14:00:00",
+      "Url": "https://bit.ly/9C_Invitation_to_PBFT",
       "UseAgentAddress": false,
-      "Description": "PFP Staking"
+      "Description": "PBFT testnet"
     },
     {
-      "Priority": 1,
+      "Priority": 2,
       "BannerImageName": "world_horizon",
       "PopupImageName": "world_horizon",
       "UseDateTime": true,
@@ -21,17 +21,6 @@
       "Url": "https://bit.ly/9CWinterEventDungeon",
       "UseAgentAddress": false,
       "Description": "Winter Event"
-    },
-    {
-      "Priority": 2,
-      "BannerImageName": "Banner_2",
-      "PopupImageName": "rune_open",
-      "UseDateTime": true,
-      "BeginDateTime": "2022-12-14T00:00:00",
-      "EndDateTime": "2022-12-31T23:59:59",
-      "Url": "https://ninechronicles.medium.com/9c-update-runes-new-changes-to-come-ft-previewnet-bff9109398e7",
-      "UseAgentAddress": false,
-      "Description": "Rune Open"
     },
     {
       "Priority": 3,
