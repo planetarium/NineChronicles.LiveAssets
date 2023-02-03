@@ -5,11 +5,11 @@
       "BannerImageName": "new_worldboss",
       "PopupImageName": "new_worldboss",
       "UseDateTime": true,
-      "BeginDateTime": "2023-02-03T00:00:00",
+      "BeginDateTime": "2023-02-03T22:00:00",
       "EndDateTime": "2023-02-12T23:59:59",
-      "Url": "https://ninechronicles.medium.com/%EF%B8%8F2023-nine-chronicles-roadmap-is-here-%EF%B8%8F-c39df02e71c1",
+      "Url": "https://bit.ly/9CWorldBossSaehrimnir",
       "UseAgentAddress": false,
-      "Description": "New Worldboss"
+      "Description": "New_Worldboss"
     },
     {
       "Priority": 4,
