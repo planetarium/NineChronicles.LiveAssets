@@ -2,14 +2,14 @@
   "Banners": [
     {
       "Priority": 1,
-      "BannerImageName": "new_worldboss",
-      "PopupImageName": "new_worldboss",
+      "BannerImageName": "pbft",
+      "PopupImageName": "pbft",
       "UseDateTime": true,
-      "BeginDateTime": "2023-02-03T22:00:00",
-      "EndDateTime": "2023-02-12T23:59:59",
-      "Url": "https://bit.ly/9CWorldBossSaehrimnir",
+      "BeginDateTime": "2023-02-12T00:00:00",
+      "EndDateTime": "2023-02-27T23:59:59",
+      "Url": "https://bit.ly/9C_Second_PBFT_Playertest",
       "UseAgentAddress": false,
-      "Description": "New_Worldboss"
+      "Description": "2nd_pbft_test"
     },
     {
       "Priority": 4,
