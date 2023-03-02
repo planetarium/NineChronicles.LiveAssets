@@ -2,14 +2,14 @@
   "Banners": [
     {
       "Priority": 1,
-      "BannerImageName": "pbft",
-      "PopupImageName": "pbft",
+      "BannerImageName": "grrrind",
+      "PopupImageName": "grrrind",
       "UseDateTime": true,
-      "BeginDateTime": "2023-02-12T00:00:00",
-      "EndDateTime": "2023-02-27T23:59:59",
-      "Url": "https://bit.ly/9C_Second_PBFT_Playertest",
+      "BeginDateTime": "2023-03-02T00:00:00",
+      "EndDateTime": "2023-03-16T23:59:59",
+      "Url": "https://bit.ly/9C-Just_Grrrind_it",
       "UseAgentAddress": false,
-      "Description": "2nd_pbft_test"
+      "Description": "grrrind it"
     },
     {
       "Priority": 4,
