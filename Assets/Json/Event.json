@@ -1,17 +1,6 @@
 {
   "Banners": [
     {
-      "Priority": 1,
-      "BannerImageName": "grrrind",
-      "PopupImageName": "grrrind",
-      "UseDateTime": true,
-      "BeginDateTime": "2023-03-02T00:00:00",
-      "EndDateTime": "2023-03-16T23:59:59",
-      "Url": "https://bit.ly/9C-Just_Grrrind_it",
-      "UseAgentAddress": false,
-      "Description": "grrrind it"
-    },
-    {
       "Priority": 4,
       "BannerImageName": "Banner_3",
       "PopupImageName": "MonsterCollection",
