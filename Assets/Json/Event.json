@@ -2,14 +2,25 @@
   "Banners": [
     {
       "Priority": 1,
-      "BannerImageName": "world_boss_event",
-      "PopupImageName": "world_boss_event",
+      "BannerImageName": "pet",
+      "PopupImageName": "pet",
       "UseDateTime": true,
-      "BeginDateTime": "2023-03-17T21:00:00",
-      "EndDateTime": "2023-03-25T23:59:59",
-      "Url": "https://discord.com/channels/539405872346955788/613670425729171456/1086160450678435900",
+      "BeginDateTime": "2023-03-28T00:00:00",
+      "EndDateTime": "2023-04-25T23:59:59",
+      "Url": "https://ninechronicles.medium.com/9c-update-d-cc-pets-are-coming-to-nine-chronicles-v100380-update-56c336234f8e",
       "UseAgentAddress": false,
-      "Description": "world_boss_event"
+      "Description": "D:CC Pet"
+    },
+    {
+      "Priority": 2,
+      "BannerImageName": "stfy",
+      "PopupImageName": "stfy",
+      "UseDateTime": true,
+      "BeginDateTime": "2023-03-29T08:00:00",
+      "EndDateTime": "2023-04-04T15:00:00",
+      "Url": "https://gleam.io/Yv8Gp/stella-fantasy-x-nine-chronicles-exclusive-partnership-event",
+      "UseAgentAddress": false,
+      "Description": "stfy collab"
     },
     {
       "Priority": 4,
