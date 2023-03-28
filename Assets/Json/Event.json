@@ -13,6 +13,17 @@
     },
     {
       "Priority": 2,
+      "BannerImageName": "dcc_game",
+      "PopupImageName": "dcc_game",
+      "UseDateTime": true,
+      "BeginDateTime": "2023-03-28T00:00:00",
+      "EndDateTime": "2023-04-25T23:59:59",
+      "Url": "https://bit.ly/DCC_NFT_Come_Alive",
+      "UseAgentAddress": false,
+      "Description": "dcc_game"
+    },
+    {
+      "Priority": 3,
       "BannerImageName": "stfy",
       "PopupImageName": "stfy",
       "UseDateTime": true,
