@@ -1,6 +1,17 @@
 {
   "Banners": [
     {
+      "Priority": 0,
+      "BannerImageName": "dcc_costume",
+      "PopupImageName": "dcc_costume",
+      "UseDateTime": true,
+      "BeginDateTime": "2023-03-31T09:00:00",
+      "EndDateTime": "2023-04-06T23:59:59",
+      "Url": "https://bit.ly/DCC_NFT_Costume_Event",
+      "UseAgentAddress": false,
+      "Description": "dcc_costume"
+    },
+    {
       "Priority": 1,
       "BannerImageName": "pet",
       "PopupImageName": "pet",
