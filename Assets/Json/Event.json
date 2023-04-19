@@ -1,18 +1,18 @@
 {
   "Banners": [
     {
-      "Priority": 0,
-      "BannerImageName": "dcc_costume",
-      "PopupImageName": "dcc_costume",
+      "Priority": 1,
+      "BannerImageName": "pancakeswap",
+      "PopupImageName": "pancakeswap",
       "UseDateTime": true,
-      "BeginDateTime": "2023-03-31T09:00:00",
-      "EndDateTime": "2023-04-06T23:59:59",
-      "Url": "https://bit.ly/DCC_NFT_Costume_Event",
+      "BeginDateTime": "2023-04-19T15:00:00",
+      "EndDateTime": "2023-05-31T15:00:00",
+      "Url": "https://pancakeswap.finance/swap?chain=eth&outputCurrency=0xf203Ca1769ca8e9e8FE1DA9D147DB68B6c919817",
       "UseAgentAddress": false,
-      "Description": "dcc_costume"
+      "Description": "PancakeSwap"
     },
     {
-      "Priority": 1,
+      "Priority": 2,
       "BannerImageName": "pet",
       "PopupImageName": "pet",
       "UseDateTime": true,
@@ -23,7 +23,7 @@
       "Description": "D:CC Pet"
     },
     {
-      "Priority": 2,
+      "Priority": 3,
       "BannerImageName": "dcc_game",
       "PopupImageName": "dcc_game",
       "UseDateTime": true,
@@ -32,17 +32,6 @@
       "Url": "https://bit.ly/DCC_NFT_Come_Alive",
       "UseAgentAddress": false,
       "Description": "dcc_game"
-    },
-    {
-      "Priority": 3,
-      "BannerImageName": "stfy",
-      "PopupImageName": "stfy",
-      "UseDateTime": true,
-      "BeginDateTime": "2023-03-29T08:00:00",
-      "EndDateTime": "2023-04-04T15:00:00",
-      "Url": "https://gleam.io/Yv8Gp/stella-fantasy-x-nine-chronicles-exclusive-partnership-event",
-      "UseAgentAddress": false,
-      "Description": "stfy collab"
     },
     {
       "Priority": 4,
