@@ -2,6 +2,17 @@
   "Banners": [
     {
       "Priority": 1,
+      "BannerImageName": "pbft_event",
+      "PopupImageName": "pbft_event",
+      "UseDateTime": true,
+      "BeginDateTime": "2023-05-03T15:00:00",
+      "EndDateTime": "2023-05-16T15:00:00",
+      "Url": "https://bit.ly/9C_Event_PBFT_Anomaly",
+      "UseAgentAddress": false,
+      "Description": "pbft_event"
+    },
+    {
+      "Priority": 2,
       "BannerImageName": "pancakeswap",
       "PopupImageName": "pancakeswap",
       "UseDateTime": true,
@@ -10,17 +21,6 @@
       "Url": "https://pancakeswap.finance/swap?chain=eth&outputCurrency=0xf203Ca1769ca8e9e8FE1DA9D147DB68B6c919817",
       "UseAgentAddress": false,
       "Description": "PancakeSwap"
-    },
-    {
-      "Priority": 2,
-      "BannerImageName": "pet",
-      "PopupImageName": "pet",
-      "UseDateTime": true,
-      "BeginDateTime": "2023-03-28T00:00:00",
-      "EndDateTime": "2023-04-25T23:59:59",
-      "Url": "https://ninechronicles.medium.com/9c-update-d-cc-pets-are-coming-to-nine-chronicles-v100380-update-56c336234f8e",
-      "UseAgentAddress": false,
-      "Description": "D:CC Pet"
     },
     {
       "Priority": 3,
