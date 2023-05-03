@@ -5,8 +5,8 @@
       "BannerImageName": "pbft_event",
       "PopupImageName": "pbft_event",
       "UseDateTime": true,
-      "BeginDateTime": "2023-05-03T15:00:00",
-      "EndDateTime": "2023-05-16T15:00:00",
+      "BeginDateTime": "2023-05-03T04:00:00",
+      "EndDateTime": "2023-05-17T04:00:00",
       "Url": "https://bit.ly/9C_Event_PBFT_Anomaly",
       "UseAgentAddress": false,
       "Description": "pbft_event"
