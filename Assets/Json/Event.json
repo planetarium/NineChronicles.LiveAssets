@@ -7,7 +7,7 @@
       "UseDateTime": true,
       "BeginDateTime": "2023-05-03T04:00:00",
       "EndDateTime": "2023-05-17T04:00:00",
-      "Url": "https://bit.ly/9C_Event_PBFT_Anomaly",
+      "Url": "https://bit.ly/PBFT_Anomaly_and_Hourglass_Event",
       "UseAgentAddress": false,
       "Description": "pbft_event"
     },
