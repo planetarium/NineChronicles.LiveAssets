@@ -2,14 +2,14 @@
   "Banners": [
     {
       "Priority": 1,
-      "BannerImageName": "pbft_event",
-      "PopupImageName": "pbft_event",
+      "BannerImageName": "fortune",
+      "PopupImageName": "fortune",
       "UseDateTime": true,
-      "BeginDateTime": "2023-05-03T04:00:00",
-      "EndDateTime": "2023-05-17T04:00:00",
-      "Url": "https://bit.ly/PBFT_Anomaly_and_Hourglass_Event",
+      "BeginDateTime": "2023-05-22T05:00:00",
+      "EndDateTime": "2023-06-13T00:00:00",
+      "Url": "https://bit.ly/9C_Referral_Event_and_The_Wheel_of_Fortune",
       "UseAgentAddress": false,
-      "Description": "pbft_event"
+      "Description": "fortune"
     },
     {
       "Priority": 2,
@@ -21,17 +21,6 @@
       "Url": "https://pancakeswap.finance/swap?chain=eth&outputCurrency=0xf203Ca1769ca8e9e8FE1DA9D147DB68B6c919817",
       "UseAgentAddress": false,
       "Description": "PancakeSwap"
-    },
-    {
-      "Priority": 3,
-      "BannerImageName": "dcc_game",
-      "PopupImageName": "dcc_game",
-      "UseDateTime": true,
-      "BeginDateTime": "2023-03-28T00:00:00",
-      "EndDateTime": "2023-04-25T23:59:59",
-      "Url": "https://bit.ly/DCC_NFT_Come_Alive",
-      "UseAgentAddress": false,
-      "Description": "dcc_game"
     },
     {
       "Priority": 4,
