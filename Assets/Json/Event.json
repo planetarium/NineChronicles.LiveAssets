@@ -2,6 +2,17 @@
   "Banners": [
     {
       "Priority": 1,
+      "BannerImageName": "world7open",
+      "PopupImageName": "world7open",
+      "UseDateTime": true,
+      "BeginDateTime": "2023-05-31T03:00:00",
+      "EndDateTime": "2023-06-21T03:00:00",
+      "Url": "https://bit.ly/9C_World_7",
+      "UseAgentAddress": false,
+      "Description": "world7open"
+    },
+    {
+      "Priority": 2,
       "BannerImageName": "fortune",
       "PopupImageName": "fortune",
       "UseDateTime": true,
@@ -12,7 +23,7 @@
       "Description": "fortune"
     },
     {
-      "Priority": 2,
+      "Priority": 3,
       "BannerImageName": "pancakeswap",
       "PopupImageName": "pancakeswap",
       "UseDateTime": true,
