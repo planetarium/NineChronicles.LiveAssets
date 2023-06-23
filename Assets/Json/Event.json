@@ -2,36 +2,14 @@
   "Banners": [
     {
       "Priority": 1,
-      "BannerImageName": "world7open",
-      "PopupImageName": "world7open",
+      "BannerImageName": "mobile",
+      "PopupImageName": "mobile",
       "UseDateTime": true,
-      "BeginDateTime": "2023-05-31T03:00:00",
-      "EndDateTime": "2023-06-21T03:00:00",
-      "Url": "https://bit.ly/9C_World_7",
+      "BeginDateTime": "2023-06-21T00:00:00",
+      "EndDateTime": "2023-06-29T02:00:00",
+      "Url": "https://bit.ly/9C_Mobile_Version_Test",
       "UseAgentAddress": false,
-      "Description": "world7open"
-    },
-    {
-      "Priority": 2,
-      "BannerImageName": "fortune",
-      "PopupImageName": "fortune",
-      "UseDateTime": true,
-      "BeginDateTime": "2023-05-22T05:00:00",
-      "EndDateTime": "2023-06-13T00:00:00",
-      "Url": "https://bit.ly/9C_Referral_Event_and_The_Wheel_of_Fortune",
-      "UseAgentAddress": false,
-      "Description": "fortune"
-    },
-    {
-      "Priority": 3,
-      "BannerImageName": "pancakeswap",
-      "PopupImageName": "pancakeswap",
-      "UseDateTime": true,
-      "BeginDateTime": "2023-04-19T15:00:00",
-      "EndDateTime": "2023-05-31T15:00:00",
-      "Url": "https://pancakeswap.finance/swap?chain=eth&outputCurrency=0xf203Ca1769ca8e9e8FE1DA9D147DB68B6c919817",
-      "UseAgentAddress": false,
-      "Description": "PancakeSwap"
+      "Description": "mobile_test"
     },
     {
       "Priority": 4,
