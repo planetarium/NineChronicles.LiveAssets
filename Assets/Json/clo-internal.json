@@ -13,6 +13,6 @@
     "MarketServiceHost": "http://k8s-9cnetwor-marketse-5a0aff7e14-8fb0c2fef9ca7461.elb.us-east-2.amazonaws.com",
     "Development": true,
     "MeadPledgePortalUrl" : "https://develop.d3mkl7om8mgjhs.amplifyapp.com",
-    "IAPServiceHost" : "https://5836blb3ah.execute-api.us-east-2.amazonaws.com/internal"
+    "IAPServiceHost" : "https://xd2n1dpmce.execute-api.us-east-2.amazonaws.com/internal"
 }
   
