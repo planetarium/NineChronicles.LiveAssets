@@ -17,7 +17,7 @@
   "ApiServerHost": "https://api.9c.gg/graphql",
   "DataProviderUrl": "https://api.9c.gg/graphql",
   "OnboardingPortalUrl": "https://world-boss.9c.gg",
-  "MarketServiceHost": "https://market.9c.gg/",
+  "MarketServiceHost": "https://market.9c.gg",
   "MeadPledgePortalUrl" : "https://nine-chronicles.com",
-  "IAPServiceHost" : "https://xd2n1dpmce.execute-api.us-east-2.amazonaws.com/mainnet"
+  "IAPServiceHost" : "https://hr6vfhdasc.execute-api.us-east-2.amazonaws.com/mainnet/"
 }
