@@ -6,10 +6,7 @@
     "9c-main-rpc-1.nine-chronicles.com",
     "9c-main-rpc-2.nine-chronicles.com",
     "9c-main-rpc-3.nine-chronicles.com",
-    "sgp-nc-1.ninodes.com",
-    "sgp-nc-2.ninodes.com",
     "ash-nc-1.ninodes.com",
-    "phx-nc-1.ninodes.com",
     "nld-nc-1.ninodes.com"
   ],
   "RpcServerPort": 31238,
