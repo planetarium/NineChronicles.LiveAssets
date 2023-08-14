@@ -13,4 +13,5 @@
     "MarketServiceHost": "http://k8s-9cnetwor-marketse-5a0aff7e14-6e661de319d8d2d4.elb.us-east-2.amazonaws.com/",
     "MeadPledgePortalUrl" : "https://developer-mode.nine-chronicles.com",
     "IAPServiceHost" : "https://xd2n1dpmce.execute-api.us-east-2.amazonaws.com/internal",
+    "IngameDebugConsole":true,
 }
