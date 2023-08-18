@@ -2,14 +2,14 @@
   "Banners": [
     {
       "Priority": 1,
-      "BannerImageName": "mobile",
-      "PopupImageName": "mobile",
+      "BannerImageName": "ContentsCreator",
+      "PopupImageName": "ContentsCreator",
       "UseDateTime": true,
-      "BeginDateTime": "2023-06-21T00:00:00",
-      "EndDateTime": "2023-06-29T02:00:00",
-      "Url": "https://bit.ly/9C_Mobile_Version_Test",
+      "BeginDateTime": "2023-08-17T00:00:00",
+      "EndDateTime": "2023-11-10T00:00:00",
+      "Url": "https://bit.ly/9C_Content_Creators_Program",
       "UseAgentAddress": false,
-      "Description": "mobile_test"
+      "Description": "Contents Creator"
     },
     {
       "Priority": 4,
