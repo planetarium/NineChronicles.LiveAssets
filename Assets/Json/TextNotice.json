@@ -1,6 +1,11 @@
 {
     "NoticeData": [
         {
+            "Header":"[Patch Note] v200060",
+            "Date":"22.08.2023",
+            "Contents":"<b>[Improvement]</b>\n\nChange NCG Staking - Monster Collection - rewards Change the AP potions and hourglasses compensation of levels 5, 6, and 7 to higher than before. Add crystals to the regular rewards you get each week at levels 2,3,4,5,6,7. There is an update in the Monster Collection section of Launcher and 9c player. We will introduce the detailed information through medium.\\nAdding a loading progress bar UI."
+        },
+        {
             "Header":"[Patch Note] v200050",
             "Date":"07.08.2023",
             "Contents":"<b>[Improvement]</b>\n\n- <b>Improved display of remaining blocks</b>\n    - Mark the block and time together on the part where only the block was displayed before.\n    - Block 1 is being calculated on a 12-second basis, and it will be improved on areas where the area does not proceed stably due to issues such as improvement of action time.\n- Modified minimum font size.We have improved the problem that was not visible because the font was too small.\n\n<b>[Bugfix]</b>\n\n- Fixed an issue where the screen ratio was unevenly displayed at a certain resolution.\n- Fixed an issue where launcher language settings were forced into English(en)\n- Fixed an issue where the tip phrase went out of the screen on the loading screen"
