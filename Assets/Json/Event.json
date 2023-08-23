@@ -2,6 +2,17 @@
   "Banners": [
     {
       "Priority": 1,
+      "BannerImageName": "230823_pancakeswap_wncg",
+      "PopupImageName": "230823_pancakeswap_wncg",
+      "UseDateTime": true,
+      "BeginDateTime": "2023-08-23T15:00:00",
+      "EndDateTime": "2023-09-30T15:00:00",
+      "Url": "https://pancakeswap.finance/swap?outputCurrency=0x52242cbAb41e290E9E17CCC50Cc437bB60020a9d",
+      "UseAgentAddress": false,
+      "Description": "pancake swap wncg"
+    },
+    {
+      "Priority": 2,
       "BannerImageName": "ContentsCreator",
       "PopupImageName": "ContentsCreator",
       "UseDateTime": true,
