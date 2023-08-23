@@ -1,6 +1,11 @@
 {
     "NoticeData": [
         {
+            "Header":"[Patch Note] v200061",
+            "Date":"23.08.2023",
+            "Contents":"<b>[Bugfix]</b>\n\n- Fixed an issue where monster collection reward quantity was calculated incorrectly."
+        },
+        {
             "Header":"[Patch Note] v200060",
             "Date":"22.08.2023",
             "Contents":"<b>[Improvement]</b>\n\n- Change NCG Staking - Monster Collection - rewards\n    - Change the AP potions and hourglasses compensation of levels 5, 6, and 7 to higher than before. Add crystals to the regular rewards you get each week at levels 2,3,4,5,6,7.\n    - There is an update in the Monster Collection section of Launcher and 9c player.We will introduce the detailed information through medium.\n- Adding a loading progress bar UI."
