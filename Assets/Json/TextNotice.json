@@ -1,6 +1,11 @@
 {
     "NoticeData": [
         {
+            "Header":"[Patch Note] v200063",
+            "Date":"29.08.2023",
+            "Contents":"<b>[Bugfix]</b>\n\n- Fixed a monster collection reward bug that hasn't happened yet."
+        },
+        {
             "Header":"[Patch Note] v200061",
             "Date":"23.08.2023",
             "Contents":"<b>[Bugfix]</b>\n\n- Fixed an issue where monster collection reward quantity was calculated incorrectly."
