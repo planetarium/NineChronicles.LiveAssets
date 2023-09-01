@@ -2,6 +2,17 @@
   "Banners": [
     {
       "Priority": 1,
+      "BannerImageName": "230901_upgrade_improvement",
+      "PopupImageName": "230901_upgrade_improvement",
+      "UseDateTime": true,
+      "BeginDateTime": "2023-09-01T00:00:00",
+      "EndDateTime": "2023-09-30T23:59:59",
+      "Url": "https://bit.ly/9C_Update_Equipment_Upgrade_Reworked",
+      "UseAgentAddress": false,
+      "Description": "upgrade improvement"
+    },
+    {
+      "Priority": 2,
       "BannerImageName": "230823_pancakeswap_wncg",
       "PopupImageName": "230823_pancakeswap_wncg",
       "UseDateTime": true,
@@ -12,7 +23,7 @@
       "Description": "pancake swap wncg"
     },
     {
-      "Priority": 2,
+      "Priority": 3,
       "BannerImageName": "ContentsCreator",
       "PopupImageName": "ContentsCreator",
       "UseDateTime": true,
