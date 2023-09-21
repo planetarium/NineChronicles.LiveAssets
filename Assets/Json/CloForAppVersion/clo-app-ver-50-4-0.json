@@ -12,6 +12,5 @@
   "OnboardingPortalUrl": "https://world-boss.9c.gg",
   "MarketServiceHost": "https://market.9c.gg",
   "MeadPledgePortalUrl" : "https://nine-chronicles.com",
-  "IAPServiceHost" : "https://hr6vfhdasc.execute-api.us-east-2.amazonaws.com/mainnet",
-  "IngameDebugConsole" : true
+  "IAPServiceHost" : "https://hr6vfhdasc.execute-api.us-east-2.amazonaws.com/mainnet"
 }
