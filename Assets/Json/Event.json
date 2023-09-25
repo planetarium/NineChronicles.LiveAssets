@@ -2,6 +2,50 @@
   "Banners": [
     {
       "Priority": 1,
+      "BannerImageName": "230925_aura",
+      "PopupImageName": "230925_aura",
+      "UseDateTime": true,
+      "BeginDateTime": "2023-09-25T15:00:00",
+      "EndDateTime": "2023-10-10T15:00:00",
+      "Url": "https://bit.ly/9CUpdate_Intro_to_Aura",
+      "UseAgentAddress": false,
+      "Description": "AURA"
+    },
+    {
+      "Priority": 2,
+      "BannerImageName": "230925_golden_dust_sale",
+      "PopupImageName": "230925_golden_dust_sale",
+      "UseDateTime": true,
+      "BeginDateTime": "2023-09-25T15:00:00",
+      "EndDateTime": "2023-10-10T15:00:00",
+      "Url": "https://bit.ly/Golden_Dust_Super_Sale",
+      "UseAgentAddress": false,
+      "Description": "GOLDENDUST SUPER SALE"
+    },
+    {
+      "Priority": 3,
+      "BannerImageName": "230925_voucher",
+      "PopupImageName": "230925_voucher",
+      "UseDateTime": true,
+      "BeginDateTime": "2023-09-25T15:00:00",
+      "EndDateTime": "2023-10-10T15:00:00",
+      "Url": "https://bit.ly/9C_NCG_Voucher_Event",
+      "UseAgentAddress": false,
+      "Description": "VOUCHER"
+    },
+    {
+      "Priority": 4,
+      "BannerImageName": "230925_bnb_chronicles",
+      "PopupImageName": "230925_bnb_chronicles",
+      "UseDateTime": true,
+      "BeginDateTime": "2023-09-26T06:30:00",
+      "EndDateTime": "2023-11-23T06:30:00",
+      "Url": "https://bit.ly/BNB_Chronicles_Tutorial",
+      "UseAgentAddress": false,
+      "Description": "BNB CHRONICLES"
+    },
+    {
+      "Priority": 5,
       "BannerImageName": "230901_upgrade_improvement",
       "PopupImageName": "230901_upgrade_improvement",
       "UseDateTime": true,
@@ -12,7 +56,7 @@
       "Description": "upgrade improvement"
     },
     {
-      "Priority": 2,
+      "Priority": 6,
       "BannerImageName": "230823_pancakeswap_wncg",
       "PopupImageName": "230823_pancakeswap_wncg",
       "UseDateTime": true,
@@ -23,7 +67,7 @@
       "Description": "pancake swap wncg"
     },
     {
-      "Priority": 3,
+      "Priority": 7,
       "BannerImageName": "ContentsCreator",
       "PopupImageName": "ContentsCreator",
       "UseDateTime": true,
@@ -34,7 +78,7 @@
       "Description": "Contents Creator"
     },
     {
-      "Priority": 4,
+      "Priority": 8,
       "BannerImageName": "Banner_3",
       "PopupImageName": "MonsterCollection",
       "UseDateTime": false,
@@ -45,7 +89,7 @@
       "Description": "Monster Collection"
     },
     {
-      "Priority": 5,
+      "Priority": 9,
       "BannerImageName": "Banner_4",
       "PopupImageName": "InviteFriend",
       "UseDateTime": false,
