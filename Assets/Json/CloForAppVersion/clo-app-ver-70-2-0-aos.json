@@ -13,6 +13,5 @@
   "MarketServiceHost": "https://market.9c.gg",
   "MeadPledgePortalUrl" : "https://nine-chronicles.com",
   "IAPServiceHost" : "https://hr6vfhdasc.execute-api.us-east-2.amazonaws.com/mainnet",
-  "PatrolRewardServiceHost": "https://patrol.9c.gg/graphql",
-  "IngameDebugConsole":true
+  "PatrolRewardServiceHost": "https://patrol.9c.gg/graphql"
 }
