@@ -2,39 +2,17 @@
   "Banners": [
     {
       "Priority": 1,
-      "BannerImageName": "230925_aura",
-      "PopupImageName": "230925_aura",
+      "BannerImageName": "231027_3rd_aniversary",
+      "PopupImageName": "231027_3rd_aniversary",
       "UseDateTime": true,
-      "BeginDateTime": "2023-09-25T15:00:00",
-      "EndDateTime": "2023-10-10T15:00:00",
-      "Url": "https://bit.ly/9CUpdate_Intro_to_Aura",
+      "BeginDateTime": "2023-10-27T10:00:00",
+      "EndDateTime": "2023-11-01T13:00:00",
+      "Url": "https://bit.ly/9C_3rd_Anniversary_and_Mobile_Launch",
       "UseAgentAddress": false,
-      "Description": "AURA"
+      "Description": "3rd aniversary event"
     },
     {
       "Priority": 2,
-      "BannerImageName": "230925_golden_dust_sale",
-      "PopupImageName": "230925_golden_dust_sale",
-      "UseDateTime": true,
-      "BeginDateTime": "2023-09-25T15:00:00",
-      "EndDateTime": "2023-10-10T15:00:00",
-      "Url": "https://bit.ly/Golden_Dust_Super_Sale",
-      "UseAgentAddress": false,
-      "Description": "GOLDENDUST SUPER SALE"
-    },
-    {
-      "Priority": 3,
-      "BannerImageName": "230925_voucher",
-      "PopupImageName": "230925_voucher",
-      "UseDateTime": true,
-      "BeginDateTime": "2023-09-25T15:00:00",
-      "EndDateTime": "2023-10-10T15:00:00",
-      "Url": "https://bit.ly/9C_NCG_Voucher_Event",
-      "UseAgentAddress": false,
-      "Description": "VOUCHER"
-    },
-    {
-      "Priority": 4,
       "BannerImageName": "230925_bnb_chronicles",
       "PopupImageName": "230925_bnb_chronicles",
       "UseDateTime": true,
@@ -45,29 +23,7 @@
       "Description": "BNB CHRONICLES"
     },
     {
-      "Priority": 5,
-      "BannerImageName": "230901_upgrade_improvement",
-      "PopupImageName": "230901_upgrade_improvement",
-      "UseDateTime": true,
-      "BeginDateTime": "2023-09-01T00:00:00",
-      "EndDateTime": "2023-09-30T23:59:59",
-      "Url": "https://bit.ly/9C_Update_Equipment_Upgrade_Reworked",
-      "UseAgentAddress": false,
-      "Description": "upgrade improvement"
-    },
-    {
-      "Priority": 6,
-      "BannerImageName": "230823_pancakeswap_wncg",
-      "PopupImageName": "230823_pancakeswap_wncg",
-      "UseDateTime": true,
-      "BeginDateTime": "2023-08-23T15:00:00",
-      "EndDateTime": "2023-09-30T15:00:00",
-      "Url": "https://pancakeswap.finance/swap?outputCurrency=0x52242cbAb41e290E9E17CCC50Cc437bB60020a9d",
-      "UseAgentAddress": false,
-      "Description": "pancake swap wncg"
-    },
-    {
-      "Priority": 7,
+      "Priority": 3,
       "BannerImageName": "ContentsCreator",
       "PopupImageName": "ContentsCreator",
       "UseDateTime": true,
@@ -78,7 +34,7 @@
       "Description": "Contents Creator"
     },
     {
-      "Priority": 8,
+      "Priority": 4,
       "BannerImageName": "Banner_3",
       "PopupImageName": "MonsterCollection",
       "UseDateTime": false,
@@ -89,7 +45,7 @@
       "Description": "Monster Collection"
     },
     {
-      "Priority": 9,
+      "Priority": 5,
       "BannerImageName": "Banner_4",
       "PopupImageName": "InviteFriend",
       "UseDateTime": false,
