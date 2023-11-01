@@ -1,0 +1,16 @@
+{
+  "AppProtocolVersion": "1/54684Ac4ee5B933e72144C4968BEa26056880d71/MEUCIQDFvvGTtUSSRj524xJf0EcxmmU6UaXVDAfp3fsb7P6fkwIgdSicMlCnEUZwsPr+W6VLg+2ReY4+FIRC2vB1Yssz7EU=/ZHU5OnRpbWVzdGFtcHUxMDoyMDIzLTA1LTE5ZQ==",
+  "NoMiner": true,
+  "RpcClient": true,
+  "RpcServerHosts": [
+    "k8s-v200100-remotehe-55f337fade-3623d5d27ca5d00f.elb.us-east-2.amazonaws.com"
+  ],
+  "RpcServerPort": 31238,
+  "GenesisBlockPath": "https://release.nine-chronicles.com/genesis-block-9c-main",
+  "ApiServerHost": "http://k8s-v200100-dataprov-85919aeab1-2ff96ba72b93749d.elb.us-east-2.amazonaws.com/graphql",
+  "OnboardingPortalUrl": "http://a982387b5c82f467e8fe0e19775cc2db-1226575365.us-east-2.elb.amazonaws.com",
+  "MarketServiceHost": "http://k8s-v200100-marketse-fa436fde1b-a0853896bd91e1d5.elb.us-east-2.amazonaws.com",
+  "MeadPledgePortalUrl" : "https://developer-mode.nine-chronicles.com",
+  "IAPServiceHost" : "https://xd2n1dpmce.execute-api.us-east-2.amazonaws.com/internal",
+  "PatrolRewardServiceHost": "http://k8s-v200100-patrolre-662dea283a-7726196d07616e05.elb.us-east-2.amazonaws.com/graphql",
+}
