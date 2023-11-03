@@ -1,17 +1,17 @@
-{
-    "NoMiner": true,
-    "RpcClient": true,
-    "RpcServerHosts": [
-      "9c-internal-rpc-1.nine-chronicles.com"
-    ],
-    "RpcServerPort": 31238,
-    "GenesisBlockPath": "https://release.nine-chronicles.com/genesis-block-9c-main",
-    "ApiServerHost": "http://9c-internal-data-provider.nine-chronicles.com/graphql",
-    "DataProviderUrl": "http://9c-internal-data-provider.nine-chronicles.com/graphql",
-    "OnboardingPortalUrl": "http://a982387b5c82f467e8fe0e19775cc2db-1226575365.us-east-2.elb.amazonaws.com",
-    "MarketServiceHost": "http://k8s-9cnetwor-marketse-5a0aff7e14-6e661de319d8d2d4.elb.us-east-2.amazonaws.com",
-    "MeadPledgePortalUrl" : "https://developer-mode.nine-chronicles.com",
-    "IAPServiceHost" : "https://xd2n1dpmce.execute-api.us-east-2.amazonaws.com/internal",
-    "PatrolRewardServiceHost": "http://k8s-9cnetwor-patrolre-923f855e5c-2a363c245314b77f.elb.us-east-2.amazonaws.com/graphql",
-    "IngameDebugConsole" : true
-  }
+{  
+  "AppProtocolVersion": "200091/AB2da648b9154F2cCcAFBD85e0Bc3d51f97330Fc/MEUCIQC5SXKqfmpX4l6k.nZCzokLiOaLqSGODoKxxmvoeYBDlAIgR.ejrM5XO2m9EWkbvRi8oIV.GcGbiUFz6ONSgFyikY8=/ZHU5OnRpbWVzdGFtcHUxMDoyMDIzLTEwLTEyZQ==",
+  "NoMiner": true,
+  "RpcClient": true,
+  "RpcServerHosts": [
+    "9c-main-rpc-3.nine-chronicles.com"
+  ],
+  "RpcServerPort": 31238,
+  "GenesisBlockPath": "https://release.nine-chronicles.com/genesis-block-9c-main",
+  "ApiServerHost": "https://api.9c.gg/graphql",
+  "DataProviderUrl": "https://api.9c.gg/graphql",
+  "OnboardingPortalUrl": "https://world-boss.9c.gg",
+  "MarketServiceHost": "https://market.9c.gg",
+  "MeadPledgePortalUrl" : "https://nine-chronicles.com",
+  "IAPServiceHost" : "https://hr6vfhdasc.execute-api.us-east-2.amazonaws.com/mainnet",
+  "PatrolRewardServiceHost": "https://patrol.9c.gg/graphql"
+}
