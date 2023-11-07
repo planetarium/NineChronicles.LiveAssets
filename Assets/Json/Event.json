@@ -1,17 +1,6 @@
 {
   "Banners": [
     {
-      "Priority": 1,
-      "BannerImageName": "231027_3rd_aniversary",
-      "PopupImageName": "231027_3rd_aniversary",
-      "UseDateTime": true,
-      "BeginDateTime": "2023-10-27T10:00:00",
-      "EndDateTime": "2023-11-01T13:00:00",
-      "Url": "https://bit.ly/9C_3rd_Anniversary_and_Mobile_Launch",
-      "UseAgentAddress": false,
-      "Description": "3rd aniversary event"
-    },
-    {
       "Priority": 2,
       "BannerImageName": "230925_bnb_chronicles",
       "PopupImageName": "230925_bnb_chronicles",
