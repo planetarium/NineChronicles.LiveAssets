@@ -12,5 +12,6 @@
   "MarketServiceHost": "http://k8s-v200100-marketse-fa436fde1b-a0853896bd91e1d5.elb.us-east-2.amazonaws.com",
   "MeadPledgePortalUrl" : "https://developer-mode.nine-chronicles.com",
   "IAPServiceHost" : "https://xd2n1dpmce.execute-api.us-east-2.amazonaws.com/internal",
-  "PatrolRewardServiceHost": "http://k8s-v200100-patrolre-662dea283a-7726196d07616e05.elb.us-east-2.amazonaws.com/graphql"
+  "PatrolRewardServiceHost": "http://k8s-v200100-patrolre-662dea283a-7726196d07616e05.elb.us-east-2.amazonaws.com/graphql",
+  "privatekey" : "28134598fdd532a02ed29bac2b8aca9a9d0475ccb7d08c86e2cb86f5c1e9b316"
 }
