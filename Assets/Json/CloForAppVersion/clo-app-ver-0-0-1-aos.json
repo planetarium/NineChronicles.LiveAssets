@@ -6,6 +6,6 @@
     "RpcServerHost": "empty",
     "RpcServerPort": 0,
     "MeadPledgePortalUrl" : "https://feat-multiplanetary.d3mkl7om8mgjhs.amplifyapp.com",
-    "IAPServiceHost" : "https://hr6vfhdasc.execute-api.us-east-2.amazonaws.com/mainnet",
+    "IAPServiceHost" : "https://xd2n1dpmce.execute-api.us-east-2.amazonaws.com/internal",
     "IngameDebugConsole": true
 }
