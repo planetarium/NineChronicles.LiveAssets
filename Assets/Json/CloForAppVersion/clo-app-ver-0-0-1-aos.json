@@ -5,7 +5,8 @@
     "RpcClient": true,
     "RpcServerHost": "empty",
     "RpcServerPort": 0,
-    "MeadPledgePortalUrl" : "https://feat-multiplanetary.d3mkl7om8mgjhs.amplifyapp.com",
-    "IAPServiceHost" : "https://xd2n1dpmce.execute-api.us-east-2.amazonaws.com/internal",
+    "MeadPledgePortalUrl": "https://feat-multiplanetary.d3mkl7om8mgjhs.amplifyapp.com",
+    "IAPServiceHost": "https://xd2n1dpmce.execute-api.us-east-2.amazonaws.com/internal",
+    "SeasonPassServiceHost": "https://9s6qapxbef.execute-api.us-east-2.amazonaws.com/internal",
     "IngameDebugConsole": true
 }
