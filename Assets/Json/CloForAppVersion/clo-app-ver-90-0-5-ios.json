@@ -1,0 +1,12 @@
+{
+    "PlanetRegistryUrl": "https://planets-internal.nine-chronicles.com/planets/index.json",
+    "DefaultPlanetId": "0x100000000001",
+    "NoMiner": true,
+    "RpcClient": true,
+    "RpcServerHost": "empty",
+    "RpcServerPort": 0,
+    "MeadPledgePortalUrl": "https://feat-multiplanetary.d3mkl7om8mgjhs.amplifyapp.com",
+    "IAPServiceHost": "https://iap-internal.9c.gg",
+    "SeasonPassServiceHost": "https://9s6qapxbef.execute-api.us-east-2.amazonaws.com/internal",
+    "IngameDebugConsole": true
+}
