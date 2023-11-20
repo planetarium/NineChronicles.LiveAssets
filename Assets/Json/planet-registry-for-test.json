@@ -1,0 +1,117 @@
+[
+    {
+        "id": "0x100000000000",
+        "name": "odin (internal)",
+        "genesisHash": "4582250d0da33b06779a8475d283d5dd210c683b9b999d74d03fac4f58fa6bce",
+        "genesisUri": "https://release.nine-chronicles.com/genesis-block-9c-main",
+        "9cscanUrl": "https://internal.9cscan.com",
+        "rpcEndpoints": {
+            "dp.gql": [
+                "http://odin-internal-dp.9c.gg/graphql"
+            ],
+            "9cscan.rest": [
+                "https://api-internal.9cscan.com"
+            ],
+            "headless.gql": [
+                "https://9c-internal-rpc-1.nine-chronicles.com/graphql"
+            ],
+            "headless.grpc": [
+                "http://9c-internal-rpc-1.nine-chronicles.com:31238"
+            ],
+            "market.rest": [
+                "http://odin-internal-market.9c.gg"
+            ],
+            "world-boss.rest": [
+                "https://world-boss.9c.gg"
+            ],
+            "patrol-reward.gql": [
+                "http://odin-internal-patrol.9c.gg/graphql"
+            ]
+        },
+        "planetariumInternal": {
+            "rudolf-service.rest": "http://odin-internal-rudolf.9c.gg:3000"
+        },
+        "bridges": {
+            "0x100000000001": {
+                "agent": "0x9b9566db35d5eff2f0b0758c5ac4c354debaf118",
+                "avatar": "0xeFE0bB583257C5C3c5650Bef70d135d4aD0E9b73"
+            }
+        }
+    },
+    {
+        "id": "0x100000000001",
+        "name": "heimdall (internal)",
+        "genesisUri": "https://planets.nine-chronicles.com/planets/0x000000000001/genesis",
+        "9cscanUrl": "https://heimdall.9cscan.com",
+        "rpcEndpoints": {
+            "dp.gql": [
+                "http://heimdall-internal-dp.9c.gg/graphql"
+            ],
+            "9cscan.rest": [
+                "https://api-planet1.9cscan.com"
+            ],
+            "headless.gql": [
+                "https://heimdall-internal-rpc-1.nine-chronicles.com/graphql"
+            ],
+            "headless.grpc": [
+                "http://heimdall-internal-rpc-1.nine-chronicles.com:31238"
+            ],
+            "market.rest": [
+                "http://heimdall-internal-market.9c.gg"
+            ],
+            "world-boss.rest": [
+                "http://heimdall-internal-world-boss.9c.gg"
+            ],
+            "patrol-reward.gql": [
+                "http://heimdall-internal-patrol.9c.gg/graphql"
+            ]
+        },
+        "planetariumInternal": {
+            "rudolf-service.rest": "http://heimdall-internal-rudolf.9c.gg:3000"
+        },
+        "bridges": {
+            "0x100000000000": {
+                "agent": "0x9b9566db35d5eff2f0b0758c5ac4c354debaf118",
+                "avatar": "0xeFE0bB583257C5C3c5650Bef70d135d4aD0E9b73"
+            }
+        }
+    },
+    {
+        "id": "0x100000000002",
+        "name": "idun (internal)",
+        "genesisUri": "https://planets.nine-chronicles.com/planets/0x000000000001/genesis",
+        "9cscanUrl": "https://heimdall.9cscan.com",
+        "rpcEndpoints": {
+            "dp.gql": [
+                "http://heimdall-internal-dp.9c.gg/graphql"
+            ],
+            "9cscan.rest": [
+                "https://api-planet1.9cscan.com"
+            ],
+            "headless.gql": [
+                "https://heimdall-internal-rpc-1.nine-chronicles.com/graphql"
+            ],
+            "headless.grpc": [
+                "http://heimdall-internal-rpc-1.nine-chronicles.com:31238"
+            ],
+            "market.rest": [
+                "http://heimdall-internal-market.9c.gg"
+            ],
+            "world-boss.rest": [
+                "http://heimdall-internal-world-boss.9c.gg"
+            ],
+            "patrol-reward.gql": [
+                "http://heimdall-internal-patrol.9c.gg/graphql"
+            ]
+        },
+        "planetariumInternal": {
+            "rudolf-service.rest": "http://heimdall-internal-rudolf.9c.gg:3000"
+        },
+        "bridges": {
+            "0x100000000000": {
+                "agent": "0x9b9566db35d5eff2f0b0758c5ac4c354debaf118",
+                "avatar": "0xeFE0bB583257C5C3c5650Bef70d135d4aD0E9b73"
+            }
+        }
+    }
+]
