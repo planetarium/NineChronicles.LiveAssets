@@ -8,5 +8,6 @@
     "MeadPledgePortalUrl": "https://developer-mode.nine-chronicles.com",
     "IAPServiceHost": "https://xd2n1dpmce.execute-api.us-east-2.amazonaws.com/internal",
     "SeasonPassServiceHost": "https://9s6qapxbef.execute-api.us-east-2.amazonaws.com/internal",
-    "IngameDebugConsole": true
+    "IngameDebugConsole": true,
+    "RequiredUpdate": true
 }
