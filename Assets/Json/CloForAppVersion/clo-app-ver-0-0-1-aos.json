@@ -1,5 +1,5 @@
 {
-    "PlanetRegistryUrl": "https://planets-internal.nine-chronicles.com/planets/index.json",
+    "PlanetRegistryUrl": "https://raw.githubusercontent.com/planetarium/NineChronicles.LiveAssets/main/Assets/Json/planet-registry-for-test.json",
     "DefaultPlanetId": "0x100000000001",
     "NoMiner": true,
     "RpcClient": true,
