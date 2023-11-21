@@ -1,40 +1,62 @@
 {
   "Banners": [
     {
-      "Priority": 2,
-      "BannerImageName": "230925_bnb_chronicles",
-      "PopupImageName": "230925_bnb_chronicles",
+      "Priority": 1,
+      "BannerImageName": "Banner_Event53",
+      "PopupImageName": "Main_Event53",
       "UseDateTime": true,
-      "BeginDateTime": "2023-09-26T06:30:00",
-      "EndDateTime": "2023-11-23T06:30:00",
-      "Url": "https://bit.ly/BNB_Chronicles_Tutorial",
+      "BeginDateTime": "2023-11-22T00:00:00",
+      "EndDateTime": "2023-12-31T23:59:00",
+      "Url": "https://bit.ly/9C_M_Launching_Promotion",
       "UseAgentAddress": false,
-      "Description": "BNB CHRONICLES"
+      "Description": "Launching_Promotion"
+    },
+    {
+      "Priority": 2,
+      "BannerImageName": "Banner_Event54",
+      "PopupImageName": "Main_Event54",
+      "UseDateTime": true,
+      "BeginDateTime": "2023-11-22T00:00:00",
+      "EndDateTime": "2023-12-31T23:59:00",
+      "Url": "https://bit.ly/9C_M_How_to_Get_Pre-Reg_Rewards",
+      "UseAgentAddress": false,
+      "Description": "Pre_Reg_Rewards"
     },
     {
       "Priority": 3,
-      "BannerImageName": "ContentsCreator",
-      "PopupImageName": "ContentsCreator",
+      "BannerImageName": "Banner_Event55",
+      "PopupImageName": "Main_Event55",
       "UseDateTime": true,
-      "BeginDateTime": "2023-08-17T00:00:00",
-      "EndDateTime": "2023-11-10T00:00:00",
-      "Url": "https://bit.ly/9C_Content_Creators_Program",
+      "BeginDateTime": "2023-11-22T00:00:00",
+      "EndDateTime": "2023-12-19T23:59:00",
+      "Url": "https://bit.ly/9C_M_Heimdall_Launch_Promotion",
       "UseAgentAddress": false,
-      "Description": "Contents Creator"
+      "Description": "Heimdall_Launch_Promotion"
     },
     {
       "Priority": 4,
-      "BannerImageName": "Banner_3",
-      "PopupImageName": "MonsterCollection",
-      "UseDateTime": false,
-      "BeginDateTime": "",
-      "EndDateTime": "",
-      "Url": "https://ninechronicles.medium.com/monster-collection-v2-update-6cde770c9f31",
+      "BannerImageName": "Banner_Event56",
+      "PopupImageName": "Main_Event56",
+      "UseDateTime": true,
+      "BeginDateTime": "2023-11-22T00:00:00",
+      "EndDateTime": "2023-12-19T23:59:00",
+      "Url": "https://bit.ly/9C_M_Aura_Upgrade_Event",
       "UseAgentAddress": false,
-      "Description": "Monster Collection"
+      "Description": "Aura_Upgrade_Event"
     },
     {
       "Priority": 5,
+      "BannerImageName": "Banner_Event56",
+      "PopupImageName": "Main_Event56",
+      "UseDateTime": false,
+      "BeginDateTime": "",
+      "EndDateTime": "",
+      "Url": "https://bit.ly/9C_M_Save_Your_Private_Key",
+      "UseAgentAddress": false,
+      "Description": "Save_Your_Private_Key"
+    },
+    {
+      "Priority": 6,
       "BannerImageName": "Banner_4",
       "PopupImageName": "InviteFriend",
       "UseDateTime": false,
@@ -43,6 +65,17 @@
       "Url": "https://onboarding.nine-chronicles.com/",
       "UseAgentAddress": true,
       "Description": "Invite Your friend"
+    },
+    {
+      "Priority": 7,
+      "BannerImageName": "Banner_3",
+      "PopupImageName": "MonsterCollection",
+      "UseDateTime": false,
+      "BeginDateTime": "",
+      "EndDateTime": "",
+      "Url": "https://ninechronicles.medium.com/monster-collection-v2-update-6cde770c9f31",
+      "UseAgentAddress": false,
+      "Description": "Monster Collection"
     }
   ]
 }
