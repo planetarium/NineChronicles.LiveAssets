@@ -1,12 +1,11 @@
 {
-    "PlanetRegistryUrl": "https://planets-internal.nine-chronicles.com/planets/index.json",
+    "PlanetRegistryUrl": "https://planets.nine-chronicles.com/planets/",
     "DefaultPlanetId": "0x100000000001",
     "NoMiner": true,
     "RpcClient": true,
     "RpcServerHost": "empty",
     "RpcServerPort": 0,
-    "MeadPledgePortalUrl": "https://developer-mode.nine-chronicles.com",
-    "IAPServiceHost": "https://xd2n1dpmce.execute-api.us-east-2.amazonaws.com/internal",
-    "SeasonPassServiceHost": "https://9s6qapxbef.execute-api.us-east-2.amazonaws.com/internal",
-    "IngameDebugConsole": true
+    "MeadPledgePortalUrl": "https://nine-chronicles.com",
+    "IAPServiceHost": "https://hr6vfhdasc.execute-api.us-east-2.amazonaws.com/mainnet",
+    "SeasonPassServiceHost": "https://vzt9225g1h.execute-api.us-east-2.amazonaws.com/mainnet"
 }
