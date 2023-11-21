@@ -33,8 +33,8 @@
         },
         "bridges": {
             "0x100000000001": {
-                "agent": "0x9b9566db35d5eff2f0b0758c5ac4c354debaf118",
-                "avatar": "0xeFE0bB583257C5C3c5650Bef70d135d4aD0E9b73"
+                "agent": "0x1c2ae97380CFB4F732049e454F6D9A25D4967c6f",
+                "avatar": "0x41aEFE4cdDFb57C9dFfd490e17e571705c593dDc"
             }
         }
     },
@@ -71,8 +71,8 @@
         },
         "bridges": {
             "0x100000000000": {
-                "agent": "0x9b9566db35d5eff2f0b0758c5ac4c354debaf118",
-                "avatar": "0xeFE0bB583257C5C3c5650Bef70d135d4aD0E9b73"
+                "agent": "0x1c2ae97380CFB4F732049e454F6D9A25D4967c6f",
+                "avatar": "0x41aEFE4cdDFb57C9dFfd490e17e571705c593dDc"
             }
         }
     },
@@ -109,14 +109,14 @@
         },
         "bridges": {
             "0x100000000000": {
-                "agent": "0x9b9566db35d5eff2f0b0758c5ac4c354debaf118",
-                "avatar": "0xeFE0bB583257C5C3c5650Bef70d135d4aD0E9b73"
+                "agent": "0x1c2ae97380CFB4F732049e454F6D9A25D4967c6f",
+                "avatar": "0x41aEFE4cdDFb57C9dFfd490e17e571705c593dDc"
             }
         }
     },
     {
         "id": "0x100000000003",
-        "name": "planet-0x100000000003 (internal)",
+        "name": "0x100000000003 (internal)",
         "genesisUri": "https://planets.nine-chronicles.com/planets/0x000000000001/genesis",
         "9cscanUrl": "https://heimdall.9cscan.com",
         "rpcEndpoints": {
@@ -147,8 +147,8 @@
         },
         "bridges": {
             "0x100000000000": {
-                "agent": "0x9b9566db35d5eff2f0b0758c5ac4c354debaf118",
-                "avatar": "0xeFE0bB583257C5C3c5650Bef70d135d4aD0E9b73"
+                "agent": "0x1c2ae97380CFB4F732049e454F6D9A25D4967c6f",
+                "avatar": "0x41aEFE4cdDFb57C9dFfd490e17e571705c593dDc"
             }
         }
     }
