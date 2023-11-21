@@ -1,24 +1,9 @@
 {
     "NoticeData": [
         {
-            "Header":"[Patch Note] v200091",
-            "Date":"13.10.2023",
-            "Contents":"<b>[ Improvement ]</b>\n\nAdd rewards when creating new avatars\n- Crystal 200000, Long Sword, Casual Clothes\n\nChange Lobby Image\n- Rearrange background and each content location\n\nChange the loading image\n- Display loading images by adventure, arena, shop, workshop content\n\nChange New Avatar Tutorial\n\n<b>[ Bugfix ]</b>\n\nCorrected the part where the acquired crystal calculation is not properly calculated when grinding the upgraded aura."
-        },
-        {
-            "Header":"[Patch Note] v200090",
-            "Date":"06.10.2023",
-            "Contents":"<b>[ Added 'Patrol Reward' Function ]</b>\nEarn a set reward every 12 hours depending on the level.\nRewards can be earned every 12 hours over time even if you're not connected to the game.\nCan earn crystal and silver dust rewards.\n\n<b>[ Added Nimble Aura Summon ]</b>\nNimble Aura Summon Additional Open to Summon with 10 Silver Dusts\n1 out of 3 grades can be obtained by summoning.\n\n<b>[ Added Nimble Aura equipment ]</b>\nAdd Nimble Aura equipment that all users can summon more than once a day\nSame aura confinement can be used as a reinforcing material\nThe Nimble Aura is not eligible for purchase through NCG or for Voucher events."
-        },
-        {
-            "Header":"[Patch Note] v200080",
-            "Date":"25.09.2023",
-            "Contents":"<b>[ Added 'Summon' Function ]</b>\n\nAdded 'Summon' menu in the workshop\n\nThrough the Summon function, equipment recipes for crafting will be randomly determined, allowing you to obtain equipment.\n\nEquipment can be acquired immediately without any waiting period.\n\nAble to Summon various grades of Beast Aura.\n\n<b>[ Added Aura equipment ]</b>\n\nAdded additional slot with equipment subtype as Aura\n\nOnly equipment created through the Summon function can be worn in the Aura equipment slot.\n\nAura equipment adds effects to your avatar.\n\nFor more details, please refer to the following link: [https://bit.ly/9CUpdate_Intro_to_Aura](https://bit.ly/9CUpdate_Intro_to_Aura)\n\n<b>[ Monster Collection Improvement ]</b>\n\nWe will provide a notification when the Monster Collection rewards have been changed.\n\nYou can choose to adhere to the new reward policy or maintain the existing one after confirming the changes in the reward policy.\n\nIf you switch to the new reward policy, it will reset aspects of your contract, including termination and reward collection timing.\n\nFor more details, please refer to the following link: https://github.com/planetarium/NCIPs/blob/e105d87f152c42fcc6958aa4f545e131d7deb04a/NCIP/ncip-17.md"
-        },
-        {
-            "Header":"[Patch Note] v200070",
-            "Date":"01.09.2023",
-            "Contents":"<b>[Improvement]</b>\n\nImprovement of the Equipment Item Upgrade Method\nEach Equipment Item has an initial experience based on its grade and crafting cost.\nReinforcing the same kind of items with materials increases the experience value.\nIf the experience value is higher than the value for a particular level, it becomes that level.\nItems of the same class and type have the same experience required to raise the level.\nAs the level goes up, the stat number that increases is the same as before.\nUpgrades beyond level 4 consume the same NCG regardless of grade.\nExisting reinforced items are calculated to have the required experience to achieve the same level of reinforcement.\nWe will explain the details through the community soon.\n\nEquipment Item Craft UI improvement\nMove to the top of the equipment category tab position\nShow in the list of items where the recipe does not exist X\nAdd a condition to display the recipe and change the order of display according to the condition\n\n<b>[Bugfix]</b>\n\nFixed a bug where the opponent's rune level was treated the same as my rune level when fighting an opponent wearing a rune in Arena Battle\n"
+            "Header":"[Patch Note] v200110",
+            "Date":"22.11.2023",
+            "Contents":"<b>Nine Chronicles Mがオープンしました！</b>\nGoogle PlayやApp Storeなど、さまざまな国でNine Chroniclesモバイルバージョンを楽しむことができます。\n\n<b>Multiplanetary：新しいネットワークシステム</b>\n既存のNine Chroniclesメインネットでは処理できるトランザクションの総量が制限されていました。また、過去数年間にわたるプレイの記録が既に蓄積されており、新しいシステムで競争することが難しいという問題もありました。これらの問題を克服するために、2つ以上のネットワークをサポートするMultiplanetaryを導入しています。\n\n- 既存のメインネットのプレイ記録はその後Odinと名付けられ、従来通りプレイできます。\n- Multiplanetaryシステムの導入とともに、新しいネットワーク- Heimdallがローンチされます。\n- 各ネットワークはPlanetと呼ばれ、独自のプレイ記録と経済システムを持っています。\n詳細は以下のリンクを参照してください。\n[https://bit.ly/9C_M_New_Chain_Heimdall](https://bit.ly/9C_M_New_Chain_Heimdall)\n\n<b>バランス調整</b>\n初期のユーザーがさまざまな装備クラフトと冒険の経験を楽しむために、さまざまな値が変更されます。\n初期の強化コストは削減され、装備のクラフト時の初回の経験値、ワールドごとのクリアボーナスなどが従来よりも向上しています。\n\n新しいAuraのリリース\nGolden Dustで召喚可能なイージスオーラ（アリーナスペシャル）と弾幕オーラ（アドベンチャースペシャル）が追加されました。\n詳細は召喚メニューを確認してください。\n\n<b>シーズンパスシステムの追加</b>\nゲームをプレイするだけで蓄積される勇気経験値で多様な補償が受けられるシーズンパスシステムが追加されました。"
         }
     ]
 }
