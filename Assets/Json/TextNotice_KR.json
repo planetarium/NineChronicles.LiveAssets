@@ -1,24 +1,9 @@
 {
     "NoticeData": [
         {
-            "Header":"[업데이트 내용] v200110",
-            "Date":"??????",
-            "Contents":"넣어야하는데 바빠서 깜빡했어요 데헷큥 한글 패치노트 테스트용"
-        },
-        {
-            "Header":"[Patch Note] v200091",
-            "Date":"2023년 10월 13일",
-            "Contents":"<b>[ 개선사항 ]</b>\n\nAdd rewards when creating new avatars\n- Crystal 200000, Long Sword, Casual Clothes\n\nChange Lobby Image\n- Rearrange background and each content location\n\nChange the loading image\n- Display loading images by adventure, arena, shop, workshop content\n\nChange New Avatar Tutorial\n\n<b>[ Bugfix ]</b>\n\nCorrected the part where the acquired crystal calculation is not properly calculated when grinding the upgraded aura."
-        },
-        {
-            "Header":"[Patch Note] v200090",
-            "Date":"06.10.2023",
-            "Contents":"<b>[ Added 'Patrol Reward' Function ]</b>\nEarn a set reward every 12 hours depending on the level.\nRewards can be earned every 12 hours over time even if you're not connected to the game.\nCan earn crystal and silver dust rewards.\n\n<b>[ Added Nimble Aura Summon ]</b>\nNimble Aura Summon Additional Open to Summon with 10 Silver Dusts\n1 out of 3 grades can be obtained by summoning.\n\n<b>[ Added Nimble Aura equipment ]</b>\nAdd Nimble Aura equipment that all users can summon more than once a day\nSame aura confinement can be used as a reinforcing material\nThe Nimble Aura is not eligible for purchase through NCG or for Voucher events."
-        },
-        {
-            "Header":"[Patch Note] v200080",
-            "Date":"25.09.2023",
-            "Contents":"<b>[ Added 'Summon' Function ]</b>\n\nAdded 'Summon' menu in the workshop\n\nThrough the Summon function, equipment recipes for crafting will be randomly determined, allowing you to obtain equipment.\n\nEquipment can be acquired immediately without any waiting period.\n\nAble to Summon various grades of Beast Aura.\n\n<b>[ Added Aura equipment ]</b>\n\nAdded additional slot with equipment subtype as Aura\n\nOnly equipment created through the Summon function can be worn in the Aura equipment slot.\n\nAura equipment adds effects to your avatar.\n\nFor more details, please refer to the following link: [https://bit.ly/9CUpdate_Intro_to_Aura](https://bit.ly/9CUpdate_Intro_to_Aura)\n\n<b>[ Monster Collection Improvement ]</b>\n\nWe will provide a notification when the Monster Collection rewards have been changed.\n\nYou can choose to adhere to the new reward policy or maintain the existing one after confirming the changes in the reward policy.\n\nIf you switch to the new reward policy, it will reset aspects of your contract, including termination and reward collection timing.\n\nFor more details, please refer to the following link: https://github.com/planetarium/NCIPs/blob/e105d87f152c42fcc6958aa4f545e131d7deb04a/NCIP/ncip-17.md"
+            "Header":"[Patch Note] v200110",
+            "Date":"22.11.2023",
+            "Contents":"<b>Nine Chronicles M 오픈!</b>\n다양한 나라의 Google Play, App Store 에서 Nine Chronicles 모바일 버전을 만날 수 있습니다.\n\n<b>멀티플라네타리(Multiplanetary) : 새로운 네트워크 시스템</b>\n기존의 나인 크로니클 메인넷에서는 처리할 수 있는 트랜잭션 총량이 제한적이었습니다.\n또한 이미 지난 수년간 쌓인 플레이 기록들로 인해, 새로운 시스템에서의 경쟁을 하기 어렵다는 문제도 있었습니다.\n이 두 가지 문제를 이를 극복하기 위해 2개 이상의 네트워크를 지원하는, 멀티플라네타리(Mutliplanetary)를 도입합니다.\n\n- 기존 메인넷의 플레이 기록은 이후 Odin으로 명명되며, 이전과 같이 플레이하실 수 있습니다.\n- 멀티플라네타리 시스템 도입과 함께 신규 네트워크인 Heimdall이 론칭합니다.\n- 각 네트워크들은 플래닛(Planet)으로 명명되며, 독립된 플레이 기록과 경제 체계를 갖춥니다.\n\n보다 자세한 내용은 아래 내용을 참고해주세요.\n[https://bit.ly/9C_M_New_Chain_Heimdall](https://bit.ly/9C_M_New_Chain_Heimdall)\n\n<b>밸런스 조정</b>\n초기 유저들이 다양한 장비 craft 와 adventure 경험을 즐길 수 있도록 다양한 수치가 변경됩니다.\n초기 강화 비용은 절감하고, 장비 제작시 최초 경험치, 월드별 클리어 보상 등은 기존보다 상향합니다.\n\n<b>신규 Aura 출시</b>\nGolden Dust로 소환 가능한 이지스 아우라(아레나 특화), 폭격 아우라(모험 특화)가 추가되었습니다.\n자세한 내용은 소환 메뉴를 확인하세요.\n\n<b>시즌패스 시스템 추가</b>\n컨텐츠를 플레이 하기만해도 쌓이는 용기 경험치로 다양한 보상들을 받을 수 있는 시즌패스 시스템이 추가되었습니다."
         }
     ]
 }
