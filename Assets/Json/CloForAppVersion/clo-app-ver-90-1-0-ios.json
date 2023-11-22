@@ -8,5 +8,6 @@
     "RpcServerPort": 0,
     "MeadPledgePortalUrl": "https://nine-chronicles.com",
     "IAPServiceHost": "https://hr6vfhdasc.execute-api.us-east-2.amazonaws.com/mainnet",
-    "SeasonPassServiceHost": "https://vzt9225g1h.execute-api.us-east-2.amazonaws.com/mainnet"
+    "SeasonPassServiceHost": "https://vzt9225g1h.execute-api.us-east-2.amazonaws.com/mainnet",
+    "IngameDebugConsole": true
 }
