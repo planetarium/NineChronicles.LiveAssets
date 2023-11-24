@@ -1,6 +1,17 @@
 {
   "Banners": [
     {
+      "Priority": 0,
+      "BannerImageName": "BF",
+      "PopupImageName": "BF",
+      "UseDateTime": true,
+      "BeginDateTime": "2023-11-24T11:00",
+      "EndDateTime": "2023-12-05T12:59",
+      "Url": "https://bit.ly/9C_M_Black_Friday_Sale",
+      "UseAgentAddress": false,
+      "Description": "black_friday"
+    },
+    {
       "Priority": 1,
       "BannerImageName": "Banner_Event53",
       "PopupImageName": "Main_Event53",
