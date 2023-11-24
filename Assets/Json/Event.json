@@ -1,6 +1,28 @@
 {
   "Banners": [
     {
+      "Priority": -1,
+      "BannerImageName": "BF",
+      "PopupImageName": "BF",
+      "UseDateTime": true,
+      "BeginDateTime": "2023-11-24T11:00",
+      "EndDateTime": "2023-12-05T12:59",
+      "Url": "https://bit.ly/9C_M_Black_Friday_Sale",
+      "UseAgentAddress": false,
+      "Description": "black_friday"
+    },
+    {
+      "Priority": 0,
+      "BannerImageName": "h-arena",
+      "PopupImageName": "h-arena",
+      "UseDateTime": true,
+      "BeginDateTime": "2023-11-24T00:00",
+      "EndDateTime": "2024-01-16T12:59",
+      "Url": "https://bit.ly/9C_M_Heimdall_Arena_Event",
+      "UseAgentAddress": false,
+      "Description": "h-arena"
+    },
+    {
       "Priority": 1,
       "BannerImageName": "Banner_Event53",
       "PopupImageName": "Main_Event53",
