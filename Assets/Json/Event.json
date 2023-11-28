@@ -1,17 +1,6 @@
 {
   "Banners": [
     {
-      "Priority": -2,
-      "BannerImageName": "season-pass",
-      "PopupImageName": "season-pass",
-      "UseDateTime": true,
-      "BeginDateTime": "2023-11-27T00:00:00",
-      "EndDateTime": "2023-12-19T23:59:00",
-      "Url": "https://bit.ly/9C_M_Season_Pass_Promotion",
-      "UseAgentAddress": false,
-      "Description": "season-pass"
-    },
-    {
       "Priority": -1,
       "BannerImageName": "BF",
       "PopupImageName": "BF",
