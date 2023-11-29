@@ -1,6 +1,28 @@
 {
   "Banners": [
     {
+      "Priority": -3,
+      "BannerImageName": "GoldenLeaf",
+      "PopupImageName": "GoldenLeaf",
+      "UseDateTime": true,
+      "BeginDateTime": "2023-11-30T01:00:00",
+      "EndDateTime": "2023-12-13T23:59:00",
+      "Url": "https://bit.ly/9CM_Golden_Leaf_Rune_Promotion",
+      "UseAgentAddress": false,
+      "Description": "GoldenLeaf"
+    },
+    {
+      "Priority": -2,
+      "BannerImageName": "Seasonpass",
+      "PopupImageName": "Seasonpass",
+      "UseDateTime": true,
+      "BeginDateTime": "2023-11-29T10:00:00",
+      "EndDateTime": "2023-12-26T23:59:00",
+      "Url": "https://bit.ly/9CM_Season_Pass_Invitation_Event",
+      "UseAgentAddress": false,
+      "Description": "Seasonpass-promotion"
+    },
+    {
       "Priority": -1,
       "BannerImageName": "BF",
       "PopupImageName": "BF",
