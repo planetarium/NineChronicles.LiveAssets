@@ -1,23 +1,15 @@
 {
-  "AppProtocolVersion": "200040/AB2da648b9154F2cCcAFBD85e0Bc3d51f97330Fc/MEQCICx20hKZH0vOgd5L.uPS.m8IB3AL.gaqajch.tidbjpFAiASY9xDsXU3vmGUJdhgNdhfb3imBENuYUXRBqTz46IfLA==/ZHU5OnRpbWVzdGFtcHUxMDoyMDIzLTA3LTIwZQ==",
+  "AppProtocolVersion": "200110/AB2da648b9154F2cCcAFBD85e0Bc3d51f97330Fc/MEUCIQCnkMilH6x6+Pf3Ud0wF54ZdH7P.30PZfZzOc75hq6TggIgfbaK6p3XNAGrFi1+3uOxXd.heWP.SfgX9NvM9mvgh44=/ZHU5OnRpbWVzdGFtcHUxMDoyMDIzLTExLTIxZQ==",
+  "PlanetRegistryUrl": "https://planets.nine-chronicles.com/planets/",
+  "DefaultPlanetId": "0x000000000001",
   "NoMiner": true,
   "RpcClient": true,
-  "RpcServerHosts": [
-      "9c-main-rpc-1.nine-chronicles.com",
-      "9c-main-rpc-2.nine-chronicles.com",
-      "9c-main-rpc-3.nine-chronicles.com",
-      "sgp-nc-1.ninodes.com",
-      "sgp-nc-2.ninodes.com",
-      "ash-nc-1.ninodes.com",
-      "phx-nc-1.ninodes.com",
-      "nld-nc-1.ninodes.com"
-  ],
-  "RpcServerPort": 31238,
-  "GenesisBlockPath": "https://release.nine-chronicles.com/genesis-block-9c-main",
-  "ApiServerHost": "https://api.9c.gg/graphql",
-  "DataProviderUrl": "https://api.9c.gg/graphql",
-  "OnboardingPortalUrl": "https://world-boss.9c.gg",
-  "MarketServiceHost": "https://market.9c.gg",
-  "MeadPledgePortalUrl" : "https://nine-chronicles.com",
-  "IAPServiceHost" : "https://hr6vfhdasc.execute-api.us-east-2.amazonaws.com/mainnet"
+  "RpcServerHost": "empty",
+  "RpcServerPort": 0,
+  "MeadPledgePortalUrl": "https://nine-chronicles.com",
+  "IAPServiceHost": "https://hr6vfhdasc.execute-api.us-east-2.amazonaws.com/mainnet",
+  "SeasonPassServiceHost": "https://vzt9225g1h.execute-api.us-east-2.amazonaws.com/mainnet",
+  "AppleMarketUrl" : "https://apps.apple.com/us/app/nine-chronicles-m/id6462364578",
+  "GoogleMarketUrl" : "https://play.google.com/store/apps/details?id=com.planetariumlabs.ninechroniclesmobile",
+  "requiredUpdate" : true
 }
