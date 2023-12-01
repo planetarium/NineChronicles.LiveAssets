@@ -101,6 +101,17 @@
     },
     {
       "Priority": 6,
+      "BannerImageName": "MonsterCollectionRewardIncreaseBanner",
+      "PopupImageName": "MonsterCollectionRewardIncrease",
+      "UseDateTime": true,
+      "BeginDateTime": "2023-12-02T04:00:00",
+      "EndDateTime": "2023-12-31T00:00:00",
+      "Url": "https://bit.ly/9CM_Monster_Collection_Reward_Increase_Update",
+      "UseAgentAddress": true,
+      "Description": "Monster_Collection_Reward_Increase"
+    },
+    {
+      "Priority": 7,
       "BannerImageName": "Banner_4",
       "PopupImageName": "InviteFriend",
       "UseDateTime": false,
@@ -111,7 +122,7 @@
       "Description": "Invite Your friend"
     },
     {
-      "Priority": 7,
+      "Priority": 8,
       "BannerImageName": "Banner_3",
       "PopupImageName": "MonsterCollection",
       "UseDateTime": false,
