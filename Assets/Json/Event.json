@@ -1,6 +1,17 @@
 {
   "Banners": [
     {
+      "Priority": -4,
+      "BannerImageName": "GoldenHourglass",
+      "PopupImageName": "GoldenHourglass",
+      "UseDateTime": true,
+      "BeginDateTime": "2023-12-07T00:00:00",
+      "EndDateTime": "2023-12-20T15:00:00",
+      "Url": "https://bit.ly/9CM_Golden_Hourglass_Promotion_Express_Crafting_Event",
+      "UseAgentAddress": false,
+      "Description": "GoldenHourglass"
+    },
+    {
       "Priority": -3,
       "BannerImageName": "GoldenLeaf",
       "PopupImageName": "GoldenLeaf",
