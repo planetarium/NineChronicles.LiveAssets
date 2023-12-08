@@ -1,6 +1,17 @@
 {
   "Banners": [
     {
+      "Priority": -5,
+      "BannerImageName": "TimeAttackWeekend",
+      "PopupImageName": "TimeAttackWeekend",
+      "UseDateTime": true,
+      "BeginDateTime": "2023-12-08T00:00:00",
+      "EndDateTime": "2023-12-12T23:59:59",
+      "Url": "https://bit.ly/9CM_Time_Attack_Weekend_Sale",
+      "UseAgentAddress": false,
+      "Description": "TimeAttackWeekend"
+    },
+    {
       "Priority": -4,
       "BannerImageName": "GoldenHourglass",
       "PopupImageName": "GoldenHourglass",
