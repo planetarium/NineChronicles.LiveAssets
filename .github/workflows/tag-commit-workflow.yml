@@ -15,7 +15,7 @@ jobs:
 
       - name: Setup Git
         run: |
-          git config --global user.name 'sonohoshi'
+          git config --global user.name '9c-liveAsset-ci'
           git config --global user.email 'dev.sonohoshi@gmail.com'
 
       - name: Delete existing tag
