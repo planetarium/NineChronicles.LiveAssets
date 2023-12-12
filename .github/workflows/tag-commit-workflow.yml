@@ -17,6 +17,9 @@ jobs:
         run: |
           git config --global user.name '9c-liveAsset-ci'
           git config --global user.email 'dev.sonohoshi@gmail.com'
+          
+      - name: Fetch all tags
+        run: git fetch --tags
 
       - name: Delete existing tag
         run: |
