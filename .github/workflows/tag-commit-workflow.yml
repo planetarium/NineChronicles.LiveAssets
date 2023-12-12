@@ -1,0 +1,31 @@
+name: Tag Commit Workflow
+
+on:
+  push:
+    branches:
+      - main
+      - ci/*
+
+jobs:
+  tag-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Setup Git
+        run: |
+          git config --global user.name 'sonohoshi'
+          git config --global user.email 'dev.sonohoshi@gmail.com'
+
+      - name: Delete existing tag
+        run: |
+          if git rev-parse -q --verify "refs/tags/Release"; then
+            git tag -d Release
+            git push origin :refs/tags/Release
+          fi
+
+      - name: Tag the commit
+        run: |
+          git tag Release
+          git push origin Release
