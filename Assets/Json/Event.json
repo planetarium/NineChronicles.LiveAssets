@@ -1,6 +1,17 @@
 {
   "Banners": [
     {
+      "Priority": -8,
+      "BannerImageName": "v200130",
+      "PopupImageName": "v200130",
+      "UseDateTime": true,
+      "BeginDateTime": "2023-12-19T00:00:00",
+      "EndDateTime": "2024-01-02T23:59:00",
+      "Url": "https://bit.ly/9CM_v200130_Update",
+      "UseAgentAddress": false,
+      "Description": "v200130"
+    },
+    {
       "Priority": -7,
       "BannerImageName": "NewRunes",
       "PopupImageName": "NewRunes",
@@ -43,17 +54,6 @@
       "Url": "https://bit.ly/9CM_Golden_Hourglass_Promotion_Express_Crafting_Event",
       "UseAgentAddress": false,
       "Description": "GoldenHourglass"
-    },
-    {
-      "Priority": -3,
-      "BannerImageName": "GoldenLeaf",
-      "PopupImageName": "GoldenLeaf",
-      "UseDateTime": true,
-      "BeginDateTime": "2023-11-30T06:30:00",
-      "EndDateTime": "2023-12-13T23:59:00",
-      "Url": "https://bit.ly/9CM_Golden_Leaf_Rune_Promotion",
-      "UseAgentAddress": false,
-      "Description": "GoldenLeaf"
     },
     {
       "Priority": -2,
