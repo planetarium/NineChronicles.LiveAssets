@@ -1,6 +1,39 @@
 {
   "Banners": [
     {
+      "Priority": -11,
+      "BannerImageName": "Christmas",
+      "PopupImageName": "Christmas",
+      "UseDateTime": true,
+      "BeginDateTime": "2023-12-23T00:00:00",
+      "EndDateTime": "2024-01-02T23:59:00",
+      "Url": "https://bit.ly/9CM_23_Christmas_Promotion",
+      "UseAgentAddress": false,
+      "Description": "Christmas"
+    },
+    {
+      "Priority": -10,
+      "BannerImageName": "heimdall_worldboss",
+      "PopupImageName": "heimdall_worldboss",
+      "UseDateTime": true,
+      "BeginDateTime": "2023-12-23T00:00:00",
+      "EndDateTime": "2024-01-02T23:59:00",
+      "Url": "https://bit.ly/9CM_Heimdall_WBS1",
+      "UseAgentAddress": false,
+      "Description": "heimdall_worldboss"
+    },
+    {
+      "Priority": -9,
+      "BannerImageName": "eventdungeon_patrolreward",
+      "PopupImageName": "eventdungeon_patrolreward",
+      "UseDateTime": true,
+      "BeginDateTime": "2023-12-20T00:00:00",
+      "EndDateTime": "2024-01-09T23:59:00",
+      "Url": "https://bit.ly/9CM_Winter_Event_Dungeon",
+      "UseAgentAddress": false,
+      "Description": "eventdungeon_patrolreward"
+    },
+    {
       "Priority": -8,
       "BannerImageName": "v200130",
       "PopupImageName": "v200130",
@@ -98,17 +131,6 @@
       "Url": "https://bit.ly/9C_M_How_to_Get_Pre-Reg_Rewards",
       "UseAgentAddress": false,
       "Description": "Pre_Reg_Rewards"
-    },
-    {
-      "Priority": 3,
-      "BannerImageName": "Banner_Event55",
-      "PopupImageName": "Main_Event55",
-      "UseDateTime": true,
-      "BeginDateTime": "2023-11-22T00:00:00",
-      "EndDateTime": "2023-12-19T23:59:00",
-      "Url": "https://bit.ly/9C_M_Heimdall_Launch_Promotion",
-      "UseAgentAddress": false,
-      "Description": "Heimdall_Launch_Promotion"
     },
     {
       "Priority": 4,
