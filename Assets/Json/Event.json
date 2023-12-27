@@ -1,7 +1,18 @@
 {
   "Banners": [
     {
-      "Priority": -11,
+      "Priority": 89,
+      "BannerImageName": "233Adieu2023",
+      "PopupImageName": "600Adieu2023",
+      "UseDateTime": true,
+      "BeginDateTime": "2023-12-27T02:00:00",
+      "EndDateTime": "2024-01-09T23:59:00",
+      "Url": "https://bit.ly/9CM_Adieu_2023",
+      "UseAgentAddress": false,
+      "Description": "Adieu 2023 Promo"
+    },
+    {
+      "Priority": 90,
       "BannerImageName": "Christmas",
       "PopupImageName": "Christmas",
       "UseDateTime": true,
@@ -12,7 +23,7 @@
       "Description": "Christmas"
     },
     {
-      "Priority": -10,
+      "Priority": 91,
       "BannerImageName": "heimdall_worldboss",
       "PopupImageName": "heimdall_worldboss",
       "UseDateTime": true,
@@ -23,7 +34,7 @@
       "Description": "heimdall_worldboss"
     },
     {
-      "Priority": -9,
+      "Priority": 92,
       "BannerImageName": "eventdungeon_patrolreward",
       "PopupImageName": "eventdungeon_patrolreward",
       "UseDateTime": true,
@@ -34,7 +45,7 @@
       "Description": "eventdungeon_patrolreward"
     },
     {
-      "Priority": -8,
+      "Priority": 93,
       "BannerImageName": "v200130",
       "PopupImageName": "v200130",
       "UseDateTime": true,
@@ -45,7 +56,7 @@
       "Description": "v200130"
     },
     {
-      "Priority": -7,
+      "Priority": 94,
       "BannerImageName": "NewRunes",
       "PopupImageName": "NewRunes",
       "UseDateTime": true,
@@ -56,18 +67,7 @@
       "Description": "NewRunes"
     },
     {
-      "Priority": -6,
-      "BannerImageName": "SpecialPromo",
-      "PopupImageName": "SpecialPromo",
-      "UseDateTime": true,
-      "BeginDateTime": "2023-12-13T00:00:00",
-      "EndDateTime": "2023-12-26T23:59:00",
-      "Url": "https://bit.ly/9CM_Update_Promotion",
-      "UseAgentAddress": false,
-      "Description": "SpecialPromo"
-    },
-    {
-      "Priority": -5,
+      "Priority": 95,
       "BannerImageName": "VoucherEvent",
       "PopupImageName": "VoucherEvent",
       "UseDateTime": true,
@@ -78,29 +78,7 @@
       "Description": "VoucherEvent"
     },
     {
-      "Priority": -4,
-      "BannerImageName": "GoldenHourglass",
-      "PopupImageName": "GoldenHourglass",
-      "UseDateTime": true,
-      "BeginDateTime": "2023-12-07T00:00:00",
-      "EndDateTime": "2023-12-20T15:00:00",
-      "Url": "https://bit.ly/9CM_Golden_Hourglass_Promotion_Express_Crafting_Event",
-      "UseAgentAddress": false,
-      "Description": "GoldenHourglass"
-    },
-    {
-      "Priority": -2,
-      "BannerImageName": "Seasonpass",
-      "PopupImageName": "Seasonpass",
-      "UseDateTime": true,
-      "BeginDateTime": "2023-11-29T10:00:00",
-      "EndDateTime": "2023-12-26T23:59:00",
-      "Url": "https://bit.ly/9CM_Season_Pass_Invitation_Event",
-      "UseAgentAddress": false,
-      "Description": "Seasonpass-promotion"
-    },
-    {
-      "Priority": 0,
+      "Priority": 96,
       "BannerImageName": "h-arena",
       "PopupImageName": "h-arena",
       "UseDateTime": true,
@@ -111,7 +89,7 @@
       "Description": "h-arena"
     },
     {
-      "Priority": 1,
+      "Priority": 97,
       "BannerImageName": "Banner_Event53",
       "PopupImageName": "Main_Event53",
       "UseDateTime": true,
@@ -122,29 +100,7 @@
       "Description": "Launching_Promotion"
     },
     {
-      "Priority": 2,
-      "BannerImageName": "Banner_Event54",
-      "PopupImageName": "Main_Event54",
-      "UseDateTime": true,
-      "BeginDateTime": "2023-11-22T00:00:00",
-      "EndDateTime": "2023-12-31T23:59:00",
-      "Url": "https://bit.ly/9C_M_How_to_Get_Pre-Reg_Rewards",
-      "UseAgentAddress": false,
-      "Description": "Pre_Reg_Rewards"
-    },
-    {
-      "Priority": 4,
-      "BannerImageName": "Banner_Event57",
-      "PopupImageName": "Main_Event57",
-      "UseDateTime": true,
-      "BeginDateTime": "2023-11-22T00:00:00",
-      "EndDateTime": "2023-12-19T23:59:00",
-      "Url": "https://bit.ly/9C_M_Aura_Upgrade_Event",
-      "UseAgentAddress": false,
-      "Description": "Aura_Upgrade_Event"
-    },
-    {
-      "Priority": 5,
+      "Priority": 98,
       "BannerImageName": "Banner_Event56",
       "PopupImageName": "Main_Event56",
       "UseDateTime": false,
@@ -155,18 +111,7 @@
       "Description": "Save_Your_Private_Key"
     },
     {
-      "Priority": 6,
-      "BannerImageName": "MonsterCollectionRewardIncreaseBanner",
-      "PopupImageName": "MonsterCollectionRewardIncrease",
-      "UseDateTime": true,
-      "BeginDateTime": "2023-12-02T04:00:00",
-      "EndDateTime": "2023-12-31T00:00:00",
-      "Url": "https://bit.ly/9CM_Monster_Collection_Reward_Increase_Update",
-      "UseAgentAddress": true,
-      "Description": "Monster_Collection_Reward_Increase"
-    },
-    {
-      "Priority": 7,
+      "Priority": 99,
       "BannerImageName": "Banner_4",
       "PopupImageName": "InviteFriend",
       "UseDateTime": false,
@@ -177,7 +122,7 @@
       "Description": "Invite Your friend"
     },
     {
-      "Priority": 8,
+      "Priority": 100,
       "BannerImageName": "Banner_3",
       "PopupImageName": "MonsterCollection",
       "UseDateTime": false,
