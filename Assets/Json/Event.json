@@ -1,6 +1,17 @@
 {
   "Banners": [
     {
+      "Priority": 86,
+      "BannerImageName": "HappyNewYear24",
+      "PopupImageName": "HappyNewYear24",
+      "UseDateTime": true,
+      "BeginDateTime": "2024-01-10T00:00:00",
+      "EndDateTime": "2024-01-31T23:59:00",
+      "Url": "https://bit.ly/9CM_HappyNewYear24_Event",
+      "UseAgentAddress": false,
+      "Description": "HappyNewYear24"
+    },
+    {
       "Priority": 87,
       "BannerImageName": "Welcome2024",
       "PopupImageName": "Welcome2024",
