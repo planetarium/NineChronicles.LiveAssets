@@ -9,7 +9,8 @@
       "EndDateTime": "2024-01-31T23:59:00",
       "Url": "https://bit.ly/9CM_HappyNewYear24_Event",
       "UseAgentAddress": false,
-      "Description": "HappyNewYear24"
+      "Description": "HappyNewYear24",
+      "EnableKeys": []
     },
     {
       "Priority": 87,
@@ -20,7 +21,8 @@
       "EndDateTime": "2024-01-23T23:59:00",
       "Url": "https://bit.ly/9CM_Welcome2024_Promo",
       "UseAgentAddress": false,
-      "Description": "Welcome2024"
+      "Description": "Welcome2024",
+      "EnableKeys": []
     },
     {
       "Priority": 88,
@@ -31,7 +33,8 @@
       "EndDateTime": "2024-01-31T23:59:00",
       "Url": "https://bit.ly/9CM_SesonPass_S2",
       "UseAgentAddress": false,
-      "Description": "Seasonpass 2"
+      "Description": "Seasonpass 2",
+      "EnableKeys": []
     },
     {
       "Priority": 96,
@@ -42,7 +45,8 @@
       "EndDateTime": "2024-01-16T23:59:00",
       "Url": "https://bit.ly/9C_M_Heimdall_Arena_Event",
       "UseAgentAddress": false,
-      "Description": "h-arena"
+      "Description": "h-arena",
+      "EnableKeys": []
     },
     {
       "Priority": 98,
@@ -53,7 +57,8 @@
       "EndDateTime": "",
       "Url": "https://bit.ly/9C_M_Save_Your_Private_Key",
       "UseAgentAddress": false,
-      "Description": "Save_Your_Private_Key"
+      "Description": "Save_Your_Private_Key",
+      "EnableKeys": []
     },
     {
       "Priority": 99,
@@ -64,7 +69,8 @@
       "EndDateTime": "",
       "Url": "https://onboarding.nine-chronicles.com/",
       "UseAgentAddress": true,
-      "Description": "Invite Your friend"
+      "Description": "Invite Your friend",
+      "EnableKeys": []
     },
     {
       "Priority": 100,
@@ -75,7 +81,8 @@
       "EndDateTime": "",
       "Url": "https://ninechronicles.medium.com/monster-collection-v2-update-6cde770c9f31",
       "UseAgentAddress": false,
-      "Description": "Monster Collection"
+      "Description": "Monster Collection",
+      "EnableKeys": []
     }
   ]
 }
