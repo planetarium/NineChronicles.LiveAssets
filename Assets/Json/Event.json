@@ -6,7 +6,7 @@
       "PopupImageName": "GuildRecruitDetail",
       "UseDateTime": true,
       "BeginDateTime": "2024-01-18T00:00:00",
-      "EndDateTime": "2024-02-08T23:59:00",
+      "EndDateTime": "2024-01-23T23:59:00",
       "Url": "https://medium.com/nine-chronicles/prelude-to-guild-war-heimdall-arena-season-3-en-kr-jp-7d997da7878f",
       "UseAgentAddress": false,
       "Description": "Guild_Recuruit_Update",
