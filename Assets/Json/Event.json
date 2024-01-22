@@ -1,6 +1,18 @@
 {
   "Banners": [
     {
+      "Priority": 83,
+      "BannerImageName": "RuneBalance",
+      "PopupImageName": "RuneBalance",
+      "UseDateTime": true,
+      "BeginDateTime": "2024-01-22T06:00:00",
+      "EndDateTime": "2024-02-02T23:59:00",
+      "Url": "https://bit.ly/9CM_2401_Rune_Update",
+      "UseAgentAddress": false,
+      "Description": "Rune_Balance_Update",
+      "EnableKeys": [      ]
+    },
+    {
       "Priority": 84,
       "BannerImageName": "GuildRecruit",
       "PopupImageName": "GuildRecruitDetail",
