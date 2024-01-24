@@ -1,6 +1,18 @@
 {
   "Banners": [
     {
+      "Priority": 82,
+      "BannerImageName": "RunePromo",
+      "PopupImageName": "RunePromo",
+      "UseDateTime": true,
+      "BeginDateTime": "2024-01-24T00:00:00",
+      "EndDateTime": "2024-02-06T23:59:00",
+      "Url": "https://bit.ly/9CM_0124_Rune_Promo",
+      "UseAgentAddress": false,
+      "Description": "Rune_Upgrade_Summon_Promotion_240124",
+      "EnableKeys": [      ]
+    },
+    {
       "Priority": 83,
       "BannerImageName": "RuneBalance",
       "PopupImageName": "RuneBalance",
