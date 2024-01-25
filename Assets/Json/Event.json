@@ -1,6 +1,18 @@
 {
   "Banners": [
     {
+      "Priority": 81,
+      "BannerImageName": "guild-war",
+      "PopupImageName": "guild-war",
+      "UseDateTime": true,
+      "BeginDateTime": "2024-01-24T00:00:00",
+      "EndDateTime": "2024-01-29T23:59:00",
+      "Url": "https://bit.ly/9CM_PTGW_RewardBreakdown",
+      "UseAgentAddress": false,
+      "Description": "guild-war",
+      "EnableKeys": [      ]
+    },
+    {
       "Priority": 82,
       "BannerImageName": "RunePromo",
       "PopupImageName": "RunePromo",
