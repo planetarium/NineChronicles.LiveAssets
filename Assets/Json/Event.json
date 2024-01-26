@@ -1,6 +1,18 @@
 {
   "Banners": [
     {
+      "Priority": 80,
+      "BannerImageName": "guild-list",
+      "PopupImageName": "guild-list",
+      "UseDateTime": true,
+      "BeginDateTime": "2024-01-26T12:00:00",
+      "EndDateTime": "2024-01-30T23:59:00",
+      "Url": "https://bit.ly/9CM_GW_Roster",
+      "UseAgentAddress": false,
+      "Description": "guild-list",
+      "EnableKeys": [      ]
+    },
+    {
       "Priority": 81,
       "BannerImageName": "guild-war",
       "PopupImageName": "guild-war",
