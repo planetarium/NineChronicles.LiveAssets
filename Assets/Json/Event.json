@@ -82,10 +82,7 @@
       "Url": "https://bit.ly/9CM_HappyNewYear24_Event",
       "UseAgentAddress": false,
       "Description": "HappyNewYear24",
-      "EnableKeys": [
-        "UI_Menu_PatrolBtn_EventMark",
-        "UI_PatrolRewardPopup_Event"
-      ]
+      "EnableKeys": []
     },
     {
       "Priority": 87,
@@ -97,13 +94,7 @@
       "Url": "https://bit.ly/9CM_Welcome2024_Promo",
       "UseAgentAddress": false,
       "Description": "Welcome2024",
-      "EnableKeys": [
-        "UI_Menu_CombinationBtn_EventMark",
-        "UI_CombinationMain_UpgradeButton_EventMark",
-        "UI_CombinationMain_BackButton_Banner",
-        "UI_MobileShop_BackButton_Banner",
-        "UI_Enhancement_BackButton_Banner"
-      ]
+      "EnableKeys": []
     },
     {
       "Priority": 88,
