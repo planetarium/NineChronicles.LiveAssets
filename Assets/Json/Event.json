@@ -1,6 +1,18 @@
 {
   "Banners": [
     {
+      "Priority": 79,
+      "BannerImageName": "lunar-promo",
+      "PopupImageName": "lunar-promo",
+      "UseDateTime": true,
+      "BeginDateTime": "2024-02-07T00:00:00",
+      "EndDateTime": "2024-02-20T23:59:00",
+      "Url": "https://bit.ly/9CM_24_LNYPromo",
+      "UseAgentAddress": false,
+      "Description": "lunar-promo",
+      "EnableKeys": []
+    },
+    {
       "Priority": 80,
       "BannerImageName": "seasonpass3",
       "PopupImageName": "seasonpass3",
@@ -23,30 +35,6 @@
       "UseAgentAddress": false,
       "Description": "2024lunar",
       "EnableKeys": []
-    },
-    {
-      "Priority": 82,
-      "BannerImageName": "RunePromo",
-      "PopupImageName": "RunePromo",
-      "UseDateTime": true,
-      "BeginDateTime": "2024-01-24T00:00:00",
-      "EndDateTime": "2024-02-06T23:59:00",
-      "Url": "https://bit.ly/9CM_0124_Rune_Promo",
-      "UseAgentAddress": false,
-      "Description": "Rune_Upgrade_Summon_Promotion_240124",
-      "EnableKeys": [      ]
-    },
-    {
-      "Priority": 83,
-      "BannerImageName": "RuneBalance",
-      "PopupImageName": "RuneBalance",
-      "UseDateTime": true,
-      "BeginDateTime": "2024-01-22T06:00:00",
-      "EndDateTime": "2024-02-02T23:59:00",
-      "Url": "https://bit.ly/9CM_2401_Rune_Update",
-      "UseAgentAddress": false,
-      "Description": "Rune_Balance_Update",
-      "EnableKeys": [      ]
     },
     {
       "Priority": 85,
