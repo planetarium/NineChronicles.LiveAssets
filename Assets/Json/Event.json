@@ -1,6 +1,42 @@
 {
   "Banners": [
     {
+      "Priority": 76,
+      "BannerImageName": "collection-promo",
+      "PopupImageName": "collection-promo",
+      "UseDateTime": true,
+      "BeginDateTime": "2024-02-28T02:00:00",
+      "EndDateTime": "2024-03-12T23:59:00",
+      "Url": "https://bit.ly/9CM0228P",
+      "UseAgentAddress": false,
+      "Description": "collection-promo",
+      "EnableKeys": []
+    },
+    {
+      "Priority": 77,
+      "BannerImageName": "2024spring",
+      "PopupImageName": "2024spring",
+      "UseDateTime": true,
+      "BeginDateTime": "2024-02-28T02:00:00",
+      "EndDateTime": "2024-03-31T23:59:00",
+      "Url": "https://bit.ly/9CM0228Event",
+      "UseAgentAddress": false,
+      "Description": "2024spring",
+      "EnableKeys": []
+    },
+    {
+      "Priority": 78,
+      "BannerImageName": "collection",
+      "PopupImageName": "collection",
+      "UseDateTime": true,
+      "BeginDateTime": "2024-02-28T02:00:00",
+      "EndDateTime": "2024-03-19T23:59:00",
+      "Url": "https://bit.ly/9CM_240228_Update",
+      "UseAgentAddress": false,
+      "Description": "collection",
+      "EnableKeys": []
+    },
+    {
       "Priority": 79,
       "BannerImageName": "feb-promo",
       "PopupImageName": "feb-promo",
