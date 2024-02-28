@@ -22,7 +22,12 @@
       "Url": "https://bit.ly/9CM0228Event",
       "UseAgentAddress": false,
       "Description": "2024spring",
-      "EnableKeys": []
+      "EnableKeys": [
+        "UI_Menu_PatrolBtn_EventMark",
+        "UI_PatrolRewardPopup_Event",
+        "UI_Menu_CombinationBtn_EventMark",
+        "UI_CombinationMain_BackButton_Banner"
+      ]
     },
     {
       "Priority": 78,
