@@ -1,22 +1,22 @@
 {
     "NoticeData": [
         {
-            "Header": "[Release Note] v200150",
+            "Header": "v200150",
             "Date": "28.02.2024",
             "Contents": "<b>Collection System Update</b>\n\n- A collection system has been added that allows players to gather equipment, food, costumes, titles, and materials to acquire Stats.\n- The stats obtained through this system include two types: the existing + stats and the % stats, which are being added for the first time.\n    - % stats are calculated in combination with existing skill buffs, applying the percentage after summing all + stats.\n    - CDMG is an abbreviation for Critical Damage, a stat that increases the additional damage dealt on a critical hit.\n\n<b>Monster Collection In-Game Start, Change, and Claim Feature Added</b>\n\n- The functionality to start Monster Collection, change amounts, and claim rewards, which was previously only possible through the PC version launcher, has been made available in-game for players.\n- As a result, users who do not use the PC version can also receive various rewards through the Monster Collection.\n\n<b>Monster Collection Ruby Dust Reward Added</b>\n\n- Ruby Dust, used in the collection, has been added as a reward for the Monster Collection.\n- Plans are in place to provide various uses for this material item in the future.\n\n<b>SPD Related Combat Processing Change</b>\n\n- The display of stats owned by players has been changed to not use decimals.\n- In arenas, world bosses, and stages, the processing of speed after using a skill, which was previously treated the same as attacks, has been changed. Now, when a skill is used, the SPD value is recalculated by multiplying by 0.9 instead of 0.6. Through these changes, the probability of taking another turn after using a skill has significantly increased.\n- This change aims to reduce the cost of using skills, thereby increasing the value of skill equipment and emphasizing the diversity of combat strategy with skill use going forward.\n\n<b>Bugfix</b>\n\n- Fixed an issue where the announcement image did not display in the main lobby at the start of the World Boss season.\n- Fixed an issue where the levels of avatars in the arena were displayed abnormally."
         },
         {
-            "Header": "[Release Note] v200140",
+            "Header": "v200140",
             "Date": "19.02.2024",
             "Contents": "<b>Libplanet Update</b>\n\n- Making systems faster at processing activities.\n- Optimization of data structures."
         },
         {
-            "Header": "[Release Note] v200132",
+            "Header": "v200132",
             "Date": "31.01.2024",
             "Contents": "<b>Preparation for Guild Event</b>\n\n- The features related to the guild event that will take place during Season 3 of the Heimdall Planet Arena have been updated.\n\n<b>Preparation for Mobile - Shop Event</b>\n\n- The feature related to purchasing free items in the mobile shop has been updated.\n\n<b>Bug Fixes</b>\n\n- Fixed a bug where the tradability of Monster Collection Golden Dust, Silver Dust, and Golden Meat was incorrectly set.\n- Fixed a bug where the calculation of misses was incorrect when the hit stat was very high.\n- Fixed a bug where menus were displaying information about events that had already ended."
         },
         {
-            "Header": "[Release Note] v200130",
+            "Header": "v200130",
             "Date": "19.12.2023",
             "Contents": "<b>Event Dungeon Open</b>\n\n- From December 20th, 2023, to January 9th, 2024, an event dungeon with generous rewards is open! Rewards includes Golden Dust, Silver Dust, AP Potions, and Hourglasses, and it gives you 10 or more EXP each time you play.\n\n<b>Added Crystal Rune Slot</b>\n\n- You can open one slot each for Stat Runes and Skill Runes with 5M and 50M crystals, respectively.\n\n<b>Added new DCC Pet Function</b>\n \n- A Pet function using Souls Stones for crafting is added. You can acquire Soul Stones through the PC version now, and will be available on mobile version soon as well.\n\n<b>Bugfix</b> \n\n- Fixed the bug where equipment worn in the arena or stage was being unequipped."
         }
