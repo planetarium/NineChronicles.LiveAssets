@@ -1,6 +1,18 @@
 {
   "Banners": [
     {
+      "Priority": 75,
+      "BannerImageName": "seasonpass4",
+      "PopupImageName": "seasonpass4",
+      "UseDateTime": true,
+      "BeginDateTime": "2024-03-01T04:00:00",
+      "EndDateTime": "2024-03-31T02:59:59",
+      "Url": "https://bit.ly/9CM0301_Promo",
+      "UseAgentAddress": false,
+      "Description": "seasonpass4",
+      "EnableKeys": []
+    },
+    {
       "Priority": 76,
       "BannerImageName": "collection-promo",
       "PopupImageName": "collection-promo",
