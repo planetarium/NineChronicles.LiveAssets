@@ -1,6 +1,18 @@
 {
   "Banners": [
     {
+      "Priority": 74,
+      "BannerImageName": "starter-package-renew",
+      "PopupImageName": "starter-package-renew",
+      "UseDateTime": true,
+      "BeginDateTime": "2024-03-04T00:00:00",
+      "EndDateTime": "2024-03-18T23:59:59",
+      "Url": "https://bit.ly/9CM0304_Promo",
+      "UseAgentAddress": false,
+      "Description": "starter-package-renew",
+      "EnableKeys": []
+    },
+    {
       "Priority": 75,
       "BannerImageName": "seasonpass4",
       "PopupImageName": "seasonpass4",
@@ -63,30 +75,6 @@
       "Url": "https://bit.ly/9CM_202402Promo",
       "UseAgentAddress": false,
       "Description": "feb-promo",
-      "EnableKeys": []
-    },
-    {
-      "Priority": 80,
-      "BannerImageName": "seasonpass3",
-      "PopupImageName": "seasonpass3",
-      "UseDateTime": true,
-      "BeginDateTime": "2024-02-01T00:00:00",
-      "EndDateTime": "2024-02-29T23:59:00",
-      "Url": "https://bit.ly/9CM_SP_S3",
-      "UseAgentAddress": false,
-      "Description": "seasonpass3",
-      "EnableKeys": []
-    },
-    {
-      "Priority": 81,
-      "BannerImageName": "2024lunar",
-      "PopupImageName": "2024lunar",
-      "UseDateTime": true,
-      "BeginDateTime": "2024-02-01T00:00:00",
-      "EndDateTime": "2024-02-29T23:59:00",
-      "Url": "https://bit.ly/9CM_2024LNY_Event",
-      "UseAgentAddress": false,
-      "Description": "2024lunar",
       "EnableKeys": []
     },
     {
