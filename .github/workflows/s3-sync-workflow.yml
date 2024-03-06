@@ -23,4 +23,4 @@ jobs:
         DEST_DIR: 'live-assets'
     - name: create cf invalidation
       run: |
-        aws cloudfront create-invalidation --distribution-id ${{ secrets.AWS_CF_DISTRIBUTION_ID }} --paths /live-assets/*
+        aws cloudfront create-invalidation --distribution-id ${{ secrets.AWS_CF_DISTRIBUTION_ID }} --paths "/live-assets/*"
