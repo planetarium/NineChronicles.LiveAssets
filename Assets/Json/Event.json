@@ -1,6 +1,42 @@
 {
   "Banners": [
     {
+      "Priority": 60,
+      "BannerImageName": "march-promo",
+      "PopupImageName": "march-promo",
+      "UseDateTime": true,
+      "BeginDateTime": "2024-03-13T00:00:00",
+      "EndDateTime": "2024-03-26T23:59:59",
+      "Url": "https://bit.ly/9CM_240313PRM02",
+      "UseAgentAddress": false,
+      "Description": "march-promo",
+      "EnableKeys": []
+    },
+    {
+      "Priority": 61,
+      "BannerImageName": "voucher-promo",
+      "PopupImageName": "voucher-promo",
+      "UseDateTime": true,
+      "BeginDateTime": "2024-03-13T00:00:00",
+      "EndDateTime": "2024-03-26T23:59:59",
+      "Url": "https://bit.ly/9CM_240313PRM1",
+      "UseAgentAddress": false,
+      "Description": "voucher-promo",
+      "EnableKeys": []
+    },
+    {
+      "Priority": 62,
+      "BannerImageName": "free-daily",
+      "PopupImageName": "free-daily",
+      "UseDateTime": true,
+      "BeginDateTime": "2024-03-13T00:00:00",
+      "EndDateTime": "2024-03-26T23:59:59",
+      "Url": "https://bit.ly/9CM_240313EVT",
+      "UseAgentAddress": false,
+      "Description": "free-daily",
+      "EnableKeys": []
+    },
+    {
       "Priority": 72,
       "BannerImageName": "starter-package-renew",
       "PopupImageName": "starter-package-renew",
