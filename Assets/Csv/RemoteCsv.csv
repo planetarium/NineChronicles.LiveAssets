@@ -1,2 +1,5 @@
 Key,English,Korean,Portuguese,Japanese,Spanish,Thai,Indonesian,Russian,ChineseSimplified,ChineseTraditional,Tagalog,Vietnam
-STC_NO_ACCOUNT,No account,?? ??,Nenhuma conta,???????,Nenhuma conta,??????????,Tidak ada akun,??? ????????,????,????,Walang account,Kh?ng t?i kho?n
+STC_NO_ACCOUNT,No account,계정 없음,Nenhuma conta,アカウントなし,Nenhuma conta,ไม่มีบัญชี,Tidak ada akun,Нет аккаунта,没有帐户,沒有帳戶,Walang account,Không tài khoản
+STC_NO_ACCOUNT3,No account,계정 없음테스트,Nenhuma conta,アカウントなし,Nenhuma conta,ไม่มีบัญชี,Tidak ada akun,Нет аккаунта,没有帐户,沒有帳戶,Walang account,Không tài khoản
+STC_NO_ACCOUNT2,Test,,,,,,,,,,,
+STC_NO_ACCOUNT5,It Test,0,0,0,4,,,,,,,
