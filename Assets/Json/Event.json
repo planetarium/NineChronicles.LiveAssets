@@ -1,6 +1,18 @@
 {
   "Banners": [
     {
+      "Priority": 40,
+      "BannerImageName": "blooming-apr-promo",
+      "PopupImageName": "blooming-apr-promo",
+      "UseDateTime": true,
+      "BeginDateTime": "2024-04-09T00:00:00",
+      "EndDateTime": "2024-04-29T23:59:59",
+      "Url": "https://bit.ly/240409_Promo",
+      "UseAgentAddress": false,
+      "Description": "blooming-apr-promo",
+      "EnableKeys": []
+    },
+    {
       "Priority": 50,
       "BannerImageName": "helheim-pass",
       "PopupImageName": "helheim-pass",
