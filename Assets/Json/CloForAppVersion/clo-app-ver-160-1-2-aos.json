@@ -12,5 +12,5 @@
     "GoogleMarketUrl" : "https://play.google.com/store/apps/details?id=com.planetariumlabs.ninechroniclesmobile",
     "IngameDebugConsole" : true,
     "EnableGuestLogin" : true,
-    "RequiredUpdate" : true
+    "maintenance" : true
 }
