@@ -1,6 +1,18 @@
 {
   "Banners": [
     {
+      "Priority": 30,
+      "BannerImageName": "spe-collection-promo",
+      "PopupImageName": "spe-collection-promo",
+      "UseDateTime": true,
+      "BeginDateTime": "2024-04-23T00:00:00",
+      "EndDateTime": "2024-05-07T23:59:59",
+      "Url": "https://bit.ly/0423_Collec_Promo",
+      "UseAgentAddress": false,
+      "Description": "spe-collection-promo",
+      "EnableKeys": []
+    },
+    {
       "Priority": 40,
       "BannerImageName": "blooming-apr-promo",
       "PopupImageName": "blooming-apr-promo",
