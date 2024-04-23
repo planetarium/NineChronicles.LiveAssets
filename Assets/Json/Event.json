@@ -1,6 +1,18 @@
 {
   "Banners": [
     {
+      "Priority": 30,
+      "BannerImageName": "spe-collection-promo",
+      "PopupImageName": "spe-collection-promo",
+      "UseDateTime": true,
+      "BeginDateTime": "2024-04-23T00:00:00",
+      "EndDateTime": "2024-05-07T23:59:59",
+      "Url": "https://bit.ly/0423_Collec_Promo",
+      "UseAgentAddress": false,
+      "Description": "spe-collection-promo",
+      "EnableKeys": []
+    },
+    {
       "Priority": 40,
       "BannerImageName": "blooming-apr-promo",
       "PopupImageName": "blooming-apr-promo",
@@ -25,18 +37,6 @@
       "EnableKeys": []
     },
     {
-      "Priority": 60,
-      "BannerImageName": "w8promo",
-      "PopupImageName": "w8promo",
-      "UseDateTime": true,
-      "BeginDateTime": "2024-03-27T00:00:00",
-      "EndDateTime": "2024-04-09T23:59:59",
-      "Url": "https://bit.ly/0327_W8_Promo",
-      "UseAgentAddress": false,
-      "Description": "w8promo",
-      "EnableKeys": []
-    },
-    {
       "Priority": 61,
       "BannerImageName": "w8event",
       "PopupImageName": "w8event",
@@ -46,18 +46,6 @@
       "Url": "https://bit.ly/0327_W8_Event",
       "UseAgentAddress": false,
       "Description": "w8event",
-      "EnableKeys": []
-    },
-    {
-      "Priority": 62,
-      "BannerImageName": "w8",
-      "PopupImageName": "w8",
-      "UseDateTime": true,
-      "BeginDateTime": "2024-03-27T00:00:00",
-      "EndDateTime": "2024-04-10T23:59:59",
-      "Url": "https://bit.ly/W8_Helheim",
-      "UseAgentAddress": false,
-      "Description": "w8",
       "EnableKeys": []
     },
     {
