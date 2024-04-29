@@ -79,3 +79,195 @@ Cường hóa chỉ số của các rune được trang bị để nhận Thư�
 "COLLECTION_NAME_200022","Christmas Cat Warrior","크리스마스 고양이 전사","Gato Guerreiro de Natal","クリスマスのキャットウォリアー","Guerrera felina de la Navidad","นักรบแมวแห่งคริสต์มาส","Prajurit Kucing Natal","Războinicul pisicilor de Crăciun","圣诞猫战士","聖誕貓戰士","Mandirigmang Pusa ng Pasko","Chiến Binh Mèo Giáng Sinh"
 "COLLECTION_NAME_200023","Cat of Darkness","어둠의 고양이","Gato das Trevas","闇の猫","Gato de la Oscuridad","แมวแห่งความมืด","Kucing Kegelapan","Кошка Тьмы","暗黑之猫","黑暗之貓","Pusa ng Dilim","Mèo Bóng Tối"
 "COLLECTION_NAME_200024","Lion of Darkness","어둠의 사자","Leão das Trevas","闇の獅子","León de la Oscuridad","สิงโตแห่งความมืด","Singa Kegelapan","Лев Тьмы","暗黑之狮","黑暗之獅","Leon ng Dilim","Sư tử Bóng Tối"
+"DIALOG_113_1_0","[npc:07](Amidst the confusion, the goddess Freya made her appearance)","[npc:07](혼란스러워 하는 도중 프레이야 여신이 나타났다)","[npc:07](No meio da confusão, a deusa Freya fez sua aparição)","[npc:07]（混乱するさなか、女神フレイヤが現れた）","[npc:07](En medio de la confusión, la diosa Freya hizo su aparición)","[npc:07](ในสมัยของความสับสน เทพีเฟรยาได้ทำการปรากฏตัว)","[npc:07](Di tengah kebingungan, dewi Freya membuat penampilannya)","[npc:07](Среди путаницы, богиня Фрейя сделала свое появление)","[npc:07](在混乱中，女神弗雷娅出现了)","[npc:07](在混亂中，女神弗雷娅出現了)","[npc:07](Sa gitna ng kalituhan, ang diyosa na si Freya ay nagpakita)","[npc:07](Giữa sự lộn xộn, nữ thần Freya đã xuất hiện)"
+"DIALOG_117_1_0","[npc:07]You are so close to ending the chaos that plagues this world.
+At the end of this realm awaits Hella, the God of Death—he's the very source of this chaos.
+
+There is no time to waste. Lingering here longer risks the world being consumed by darkness.
+You must hurry now.
+(After her plea, Freya disappeared without hearing your response)","[npc:07]이제 세계의 혼돈을 잠재울 수 있을 날이 머지 않았습니다.
+이 지옥의 끝에는 죽음의 신, 헬라가 있습니다. 그가 이 혼돈의 원흉입니다.
+
+지체할 시간이 없어요. 조금이라도 늦으면 이 세계는 어둠의 힘에 의해 소멸될 겁니다.
+서두르세요.
+(프레이야는 당부한 뒤 대답도 듣지 않고 사라져버렸다.)","[npc:07]Você está tão perto de acabar com o caos que assola este mundo.
+No fim deste reino, espera Hella, o Deus da Morte — ele é a própria fonte desse caos.
+
+Não há tempo a perder. Ficar mais tempo aqui arrisca que o mundo seja consumido pela escuridão.
+Você deve se apressar agora.
+(Depois de seu apelo, Freya desapareceu sem ouvir sua resposta)","[npc:07]世界の混沌を静める日が目前に迫っています。
+この地獄の果てには死の神ヘラがいます。彼女がこの混沌の元凶です。
+
+もう時間がありません。少しでも遅れたら、この世界は闇の力で消滅します。
+急いでください。
+（フレイヤはそう念を押した後、返事も聞かずに消えてしまった。）","[npc:07]Estás tan cerca de poner fin al caos que azota este mundo.
+Al final de este reino espera Hella, el Dios de la Muerte — él es la misma fuente de este caos.
+
+No hay tiempo que perder. Demorarse aquí más tiempo significa arriesgar que el mundo sea consumido por la oscuridad.
+Debes apurarte ahora.
+(Después de su súplica, Freya desapareció sin escuchar tu respuesta)","[npc:07]คุณอยู่ใกล้จะสิ้นสุดความ混วสังหาริมที่ทำให้โลกนี้พ่ายแพ้
+ณ ปลายของแดนสิ่งนี้เหลือแค่ Hella, เทพเจ้าของความตาย — เขาเป็นต้นตอของความ混วสังหาริมเอง
+
+ไม่มีเวลาที่จะสูญเสีย การพักค้างที่นี่นานขึ้นเสี่ยงที่โลกจะถูกทำลายโดยความมืด
+คุณต้องรีบเดี๋ยวนี้
+(หลังจากการร้องขอของเธอ, Freya หายไปโดยไม่ได้ยินการตอบของคุณ)","[npc:07]Kamu sudah sangat dekat untuk mengakhiri kekacauan yang melanda dunia ini.
+Di ujung ranah ini menanti Hella, Dewa Kematian — dia adalah sumber kekacauan ini.
+
+Tidak ada waktu untuk disia-siakan. Bertahan di sini lebih lama berisiko dunia akan diliputi oleh kegelapan.
+Kamu harus segera bergerak sekarang.
+(Setelah permohonannya, Freya menghilang tanpa mendengar responsmu)","[npc:07]Ты так близок к тому, чтобы положить конец хаосу, который охватил этот мир.
+В конце этого царства ждет Хелла, Бог Смерти — он сам источник этого хаоса.
+
+Нет времени терять. Задерживаться здесь дольше означает риск того, что мир будет поглощен тьмой.
+Тебе следует поторопиться сейчас.
+(После ее мольбы, Фрейя исчезла, не услышав вашего ответа)","[npc:07]你离结束困扰这个世界的混乱已经很近了。
+在这个领域的尽头等待着黑拉，死神 — 他就是这场混乱的源头。
+
+没有时间可浪费。在这里逗留更长时间将使世界陷入黑暗之中。
+你现在必须赶紧行动。
+(在她的请求之后，弗雷娅听不到你的回答就消失了)","[npc:07]你離結束困擾這個世界的混亂已經很近了。
+在這個領域的盡頭等待著黑拉，死神 — 他就是這場混亂的源頭。
+
+沒有時間可浪費。在這裡逗留更長時間將使世界陷入黑暗之中。
+你現在必須趕緊行動。
+(在她的請求之後，弗雷婭聽不到你的回答就消失了)","[npc:07]Malapit ka nang tapusin ang kaguluhan na sumisira sa mundong ito.
+Sa dulo ng sadyang ito ay naghihintay si Hella, ang Diyos ng Kamatayan—siya mismo ang pinagmulan ng kaguluhan na ito.
+
+Walang oras na dapat sayangin. Ang pag-antala dito nang mas matagal ay nagreresiko na ang mundo ay malunod sa kadiliman.
+Kailangan mong magmadali ngayon.
+(Pagkatapos ng kanyang pakiusap, si Freya ay nawala nang hindi naririnig ang iyong tugon)","[npc:07]Bạn gần như đã kết thúc sự hỗn loạn làm hại cho thế giới này.
+Ở cuối vương quốc này đang chờ đợi Hella, vị Thần Chết — chính ông là nguồn gốc của sự hỗn loạn này.
+
+Không có thời gian để lãng phí. Linger ở đây lâu hơn rủi ro thế giới bị chìm vào bóng tối.
+Bạn phải vội vàng bây giờ.
+(Sau lời kêu gọi của cô, Freya biến mất mà không nghe thấy câu trả lời của bạn)"
+"DIALOG_118_1_0","[npc:09]Freya acted a little suspicious just now, didn't she?
+Something was off with Odin, and now Freya... We can't trust anyone anymore.","[npc:09]아까 프레이야도 뭔가 이상해 보이지 않았어?
+오딘도 수상하고, 프레이야도 미심쩍고 모두 다.. 아무도 믿을 수가 없어","[npc:09]Freya agiu um pouco suspeita agora, não é?
+Algo estava estranho com Odin, e agora Freya... Não podemos mais confiar em ninguém.","[npc:09]さっき、フレイヤもどこかおかしくなかった？
+オーディンも怪しいし、フレイヤもなんか引っかかるし…みんな…誰も信用できないよ。","[npc:09]Freya actuó un poco sospechosa ahora, ¿verdad?
+Algo estaba mal con Odin, y ahora Freya... Ya no podemos confiar en nadie.","[npc:09]เฟรย่าทำท่าน้อยหนักไปสักพักนึงเพิ่งใช่ไหม?
+มีบางอย่างผิดปกติกับโอดิน และตอนนี้เฟรย่า... เราไม่สามารถเชื่อใครได้อีกต่อไป","[npc:09]Freya bertindak agak mencurigakan sekarang, bukan?
+Ada yang aneh dengan Odin, dan sekarang Freya... Kita tidak bisa lagi mempercayai siapa pun.","[npc:09]Фрейя только что поступила немного подозрительно, верно?
+Что-то было не так с Одином, а теперь Фрейя... Мы больше не можем никому доверять.","[npc:09]弗蕾娅刚才的行为有点可疑，不是吗？
+奥丁也有些不对劲，现在又轮到弗蕾娅了...我们不能再信任任何人了。","[npc:09]弗雷婭剛才的舉動有點可疑，對吧？
+奧丁也有些不對勁，現在又輪到弗雷婭了...我們不能再信任任何人了。","[npc:09]Mukhang may kakaiba sa kilos ni Freya kanina, di ba?
+May kakaiba rin kay Odin, at ngayon kay Freya... Hindi na natin maaasahan ang sino man.","[npc:09]Freya vừa mới hành động một cách đáng ngờ, phải không?
+Có điều gì đó không ổn với Odin, và giờ đây là Freya... Chúng ta không thể tin vào ai nữa."
+"DIALOG_158_1_0","[npc:06](Hella collapsed, turning into a pile of ash,
+yet nothing seems to have changed. The ominous energy from Yggdrasil and the rampaging monsters still persist.)
+
+Why hasn't anything been resolved?
+According to the goddess Freya, everything should've returned to normal now...","[npc:06](헬라가 쓰러져 한 줌의 재로 변하기 시작하고 있다.
+하지만 이그드라실의 음울한 기운도, 날뛰던 마물들도 여전히 변함이 없다.)
+
+왜 아무것도 변하지 않지?
+프레이야 여신님의 말씀대로라면 이제 모든 것이 끝나야 할 텐데.","[npc:06](Hella desabou, transformando-se em um monte de cinzas, mas nada parece ter mudado. A energia sinistra de Yggdrasil e os monstros enfurecidos ainda persistem.)
+
+Por que nada foi resolvido? Segundo a deusa Freya, tudo deveria ter voltado ao normal agora...","[npc:06]（ヘラが倒れ、一握りの灰に変わり始める。
+しかし、イグドラシルの陰鬱な気配も、暴れていた魔物もそのままだ。）
+
+どうして何も変わらないんだろう？
+女神様の言うとおりなら、これで全部終わるはずなのに。","[npc:06](Hella se derrumbó, convirtiéndose en un montón de cenizas, pero nada parece haber cambiado. La energía ominosa de Yggdrasil y los monstruos enfurecidos aún persisten.)
+
+¿Por qué no se ha resuelto nada? Según la diosa Freya, todo debería haber vuelto a la normalidad ahora...","[npc:06](Hella ล้มลง กลายเป็นกองเถ้าหิน แต่ก็ไม่มีอะไรเปลี่ยนแปลง พลังหมอกมืดจาก Yggdrasil และมอนสเตอร์ที่บ้าบุ่นยังคงอยู่)
+
+ทำไมไม่มีอะไรได้รับการแก้ไข? ตามที่เทพี Freya บอกว่าทุกอย่างควรกลับมาเป็นปกติตอนนี้...","[npc:06](Hella runtuh, berubah menjadi tumpukan abu, namun tidak ada yang tampak berubah. Energi yang menyeramkan dari Yggdrasil dan para monster yang marah masih bertahan.)
+
+Mengapa tidak ada yang terselesaikan? Menurut dewi Freya, seharusnya semuanya sudah kembali normal sekarang...","[npc:06](Хелла рухнула, превратившись в кучу пепла, но ничего не изменилось. Зловещая энергия Игдрасиля и бушующие монстры все еще присутствуют.)
+
+Почему ничего не решено? По словам богини Фрейи, сейчас всё должно было вернуться к нормальному состоянию...","[npc:06](赫拉倒塌，化为一堆灰烬，但似乎没有任何改变。 Yggdrasil 的不祥能量和狂暴的怪物仍然存在。)
+
+为什么什么都没有解决？ 根据女神弗雷娅的说法，现在一切都应该恢复正常了...","[npc:06](赫拉倒塌，化為一堆灰燼，但似乎沒有任何改變。 Yggdrasil 的不祥能量和狂暴的怪物仍然存在。)
+
+為什麼什麼都沒有解決？ 根據女神弗雷婭的說法，現在一切都應該恢復正常了...","[npc:06](Nadurog si Hella, at naging isang bunton ng abo, pero wala pang nagbabago. Ang nakapangilabot na enerhiya mula sa Yggdrasil at ang mga nagmamalupitang halimaw ay patuloy pa rin.)
+
+Bakit walang nairesolba? Ayon sa diyosa Freya, dapat sana'y bumalik na sa normal ang lahat ngayon...","[npc:06](Hella sụp đổ, biến thành một đống tro, nhưng dường như không có gì thay đổi. Năng lượng đen tối từ Yggdrasil và quái vật cuồng nộ vẫn tiếp tục tồn tại.)
+
+Tại sao không có gì được giải quyết? Theo nữ thần Freya, mọi thứ bây giờ đã trở lại bình thường rồi..."
+"DIALOG_161_1_0","[npc:07](Freya emerges from the darkness.)
+
+Brave hero, you have done well.
+Now I can finally accomplish what I set out to do.","[npc:07](어둠 속에서 프레이야가 나타났다.)
+
+용사여, 지금까지 잘 해주셨습니다.
+이제 드디어 내 목적을 달성할 수 있게 되었습니다.","[npc:07](Freya emerge das trevas.)
+
+Bravo herói, você se saiu bem.
+Agora posso finalmente realizar o que me propus a fazer.","[npc:07]（闇の中からフレイヤが現れた。）
+
+勇者よ、今までよくやってくれました。
+ついに私の目的を達成できるようになりました。","[npc:07](Freya emerge de la oscuridad.)
+
+Valiente héroe, lo has hecho bien.
+Ahora puedo finalmente lograr lo que me propuse hacer.","[npc:07](เฟรย่าปรากฏจากความมืด)
+
+นักวีรบุรุษกล้าหาญคุณทำได้ดี
+ตอนนี้ฉันสามารถทำสิ่งที่ฉันตั้งใจทำได้แล้ว","[npc:07](Freya muncul dari kegelapan.)
+
+Pahlawan yang berani, kau telah berbuat baik.
+Sekarang saya akhirnya bisa mencapai apa yang saya rencanakan.","[npc:07](Фрейя появляется из темноты.)
+
+Храбрый герой, ты справился хорошо.
+Теперь я наконец могу достичь того, что задумала.","[npc:07]（弗雷亚从黑暗中出现。）
+
+勇敢的英雄，你做得很好。
+现在我终于可以实现我设想的目标。","[npc:07](弗雷亞從黑暗中出現。)
+
+勇敢的英雄，你做得很好。
+現在我終於可以實現我設想的目標。","[npc:07](Si Freya ay lumitaw mula sa kadiliman.)
+
+Tapang na bayani, mabuti ang iyong nagawa.
+Ngayon ay maaari ko nang matupad ang aking layunin.","[npc:07](Freya nổi lên từ bóng tối.)
+
+Anh hùng dũng cảm, anh đã làm tốt lắm.
+Bây giờ tôi cuối cùng cũng có thể đạt được những gì tôi đã đặt ra."
+"DIALOG_163_1_0","[npc:07]There is no need for you to know more, brave hero.
+Allow me to fulfill the promise I made to you.
+
+However, I must attend to an urgent matter. If you seek the whole truth, please follow me.
+(Freya swiftly moves away from you,)","[npc:07]용사여, 당신이 이보다 더 많은 것을 알 필요는 없습니다.
+제가 당신에게 약속한 것은 지키도록 하죠.
+
+하지만 저는 먼저 할 일이 있습니다. 정말 모든 진실을 알고 싶다면, 저를 따라오시죠.
+(프레이야는 순식간에 멀어져갔다)","[npc:07]Não há necessidade de você saber mais, bravo herói.
+Permita-me cumprir a promessa que fiz a você.
+
+No entanto, devo atender a um assunto urgente. Se você buscar a verdade completa, por favor, siga-me.
+(Freya se afasta rapidamente de você.)","[npc:07]勇者よ、あなたはこれ以上のことを知る必要はありません。
+私があなたと交わした約束は守ります。
+
+でも、私には先にやるべきことがあります。本当に全ての真実を知りたいなら、私についてきてください。
+（フレイヤは一瞬で遠ざかっていった）","[npc:07]No hay necesidad de que sepas más, valiente héroe.
+Permíteme cumplir la promesa que te hice.
+
+Sin embargo, debo atender un asunto urgente. Si buscas toda la verdad, por favor, sígueme.
+(Freya se aleja rápidamente de ti.)","[npc:07]ไม่จำเป็นต้องให้คุณรู้มากขึ้นแล้วนะ เจ้ากล้า
+ขอให้ผมทำสัญญาที่สั้นไว้แล้วนะ
+
+แต่ผมต้องทำเรื่องด่วนทันที หากคุณต้องการความจริงแท้ ๆ โปรดตามผม
+(เฟรย่าเคลื่อนที่ออกไปอย่างรวดเร็วจากคุณ)","[npc:07]Tidak perlu bagi Anda untuk tahu lebih banyak, pahlawan yang berani.
+Izinkan saya memenuhi janji yang saya buat kepada Anda.
+
+Namun, saya harus menangani masalah mendesak. Jika Anda mencari kebenaran sepenuhnya, silakan ikuti saya.
+(Freya dengan cepat menjauh dari Anda.)","[npc:07]Вам не нужно знать больше, отважный герой.
+Позвольте мне исполнить обещание, данное вам.
+
+Однако мне следует заняться срочным вопросом. Если вы хотите узнать всю правду, пожалуйста, следуйте за мной.
+(Фрейя быстро удаляется от вас.)","[npc:07]勇敢的英雄，你不需要知道更多了。
+让我来履行我对你的承诺。
+
+但是，我必须处理一件紧急事项。如果你想要了解全部真相，请跟我来。
+(弗雷娅迅速离开了你。)","[npc:07]勇敢的英雄，你不需要知道更多了。
+讓我來履行我對你的承諾。
+
+但是，我必須處理一件緊急事項。如果你想要了解全部真相，請跟我來。
+(弗雷婭迅速離開了你。)","[npc:07]Walang pangangailangan na malaman mo pa, tapang na bayani.
+Pahintulutan mo akong tuparin ang pangako na ibinigay ko sa iyo.
+
+Gayunpaman, kailangan kong asikasuhin ang isang mahalagang bagay. Kung naghahanap ka ng buong katotohanan, pakisunod ako.
+(Agad na umalis si Freya mula sa iyo.)","[npc:07]Người anh hùng dũng cảm, không cần phải biết nhiều hơn nữa.
+Hãy để tôi thực hiện lời hứa tôi đã đưa ra cho bạn.
+
+Tuy nhiên, tôi phải giải quyết một vấn đề khẩn cấp. Nếu bạn muốn tìm hiểu toàn bộ sự thật, hãy đi theo tôi.
+(Freya nhanh chóng rời xa bạn.)"
