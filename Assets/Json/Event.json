@@ -1,6 +1,18 @@
 {
   "Banners": [
     {
+      "Priority": 1,
+      "BannerImageName": "9c-k_migration",
+      "PopupImageName": "9c-k_migration",
+      "UseDateTime": false,
+      "BeginDateTime": "",
+      "EndDateTime": "",
+      "Url": "https://bit.ly/9CK_Migrate",
+      "UseAgentAddress": false,
+      "Description": "9c-k_migration",
+      "EnableKeys": []
+    },
+    {
       "Priority": 20,
       "BannerImageName": "costume-package",
       "PopupImageName": "costume-package",
