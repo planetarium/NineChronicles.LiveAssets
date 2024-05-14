@@ -1,6 +1,18 @@
 {
   "Banners": [
     {
+      "Priority": 0,
+      "BannerImageName": "voucher-notice",
+      "PopupImageName": "voucher-notice",
+      "UseDateTime": false,
+      "BeginDateTime": "2024-05-14T00:00:00",
+      "EndDateTime": "2024-06-05T23:59:59",
+      "Url": "https://bit.ly/0514_VoucherEvent",
+      "UseAgentAddress": false,
+      "Description": "voucher-notice",
+      "EnableKeys": []
+    },
+    {
       "Priority": 1,
       "BannerImageName": "9c-k_migration",
       "PopupImageName": "9c-k_migration",
