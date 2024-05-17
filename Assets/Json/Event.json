@@ -1,6 +1,18 @@
 {
   "Banners": [
     {
+      "Priority": -10,
+      "BannerImageName": "goldenweek-promo",
+      "PopupImageName": "goldenweek-promo",
+      "UseDateTime": false,
+      "BeginDateTime": "2024-05-17T00:00:00",
+      "EndDateTime": "2024-06-05T26:59:59",
+      "Url": "https://bit.ly/240517_GoldenWeek",
+      "UseAgentAddress": false,
+      "Description": "goldenweek-promo",
+      "EnableKeys": []
+    },
+    {
       "Priority": 0,
       "BannerImageName": "voucher-notice",
       "PopupImageName": "voucher-notice",
