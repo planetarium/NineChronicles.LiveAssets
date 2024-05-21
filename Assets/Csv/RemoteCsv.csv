@@ -415,3 +415,419 @@ Tuy nhiên, tôi phải giải quyết một vấn đề khẩn cấp. Nếu b�
 
 <color=#C17636><size=20><b>◆ Nghiền</b></size></color>
 - Xay nhuyễn trang bị để thu được Tinh thể."
+"TUTORIAL_NOT_BATTLE_102","Not only will you get stronger with equipment, but you can also earn <b>NCG</b>.","장비로 강해지는 것 뿐만 아니라 <b>골드</b> 도 얻을 수 있어","Não apenas ajuda você a crescer significativamente, mas também ganha NCG","それはあなたが大幅に成長するのに役立つだけでなく、<b>NCG</b>を獲得するのにも役立ちます。","No solo te ayuda a crecer significativamente, sino que también te gana NCG","มันไม่เพียง แต่ช่วยให้คุณเติบโตอย่างมีนัยสำคัญ แต่ยังได้รับคุณ NCG","Anda tidak hanya akan menjadi lebih kuat dengan peralatan yang ada, tapi Anda juga bisa menghasilkan uang <b>NCG</b>.","Это не только поможет вам значительно расти, но и зарабатывает вам NCG","它不仅可以帮助您显着成长，还可以赚取NCG","它不僅可以幫助您顯著成長，還可以賺取NCG","Hindi lamang ito makakatulong sa iyo na lumago nang malaki ngunit kumita ka rin sa NCG","Bạn sẽ không chỉ mạnh mẽ hơn với các trang bị mà còn có thể kiếm được <b> NCG </b>."
+"TUTORIAL_NOT_BATTLE_103","<b>NCG</b> is the most important currency in Nine Chronicles!","<b>골드</b>는 나인크로니클에서 가장 중요한 재화지!","O NCG é a moeda mais importante em nove crônicas.","<b>NCG</b>は、Nine Chroniclesで最も重要な通貨です。","NCG es la moneda más importante en nueve crónicas.","NCG เป็นสกุลเงินที่สำคัญที่สุดในเก้าพงศาวดาร","NCG adalah mata uang terpenting di Nine Chronichles!","NCG является наиболее важной валютой в девяти хрониках.","NCG是九个编年史中最重要的货币。","NCG是九個編年史中最重要的貨幣。","Ang NCG ay ang pinakamahalagang pera sa siyam na mga kronol.","<b> NCG </b> là loại tiền tệ quan trọng nhất trong Cửu giới"
+"TUTORIAL_15_005","When the Arena season ends, you can obtain <b>NCG</b> and <b>Costumes</b> based on your ranking!","아레나 시즌이 종료되면, 나의 순위에 따라 <b>골드</b>와 <b>코스튬</b>을 획득할 수 있어!","Quando a temporada da arena termina, você pode obter NCG e figurinos de acordo com o meu ranking!","アリーナのシーズンが終了すると、各自のランキングに応じて<b>NCG</b>と<b>コスチューム<b>が獲得できます！","Cuando termina la temporada de la arena, ¡puede obtener NCG y disfraces de acuerdo con mi ranking!","เมื่อฤดูเวทีสิ้นสุดลงคุณจะได้รับ NCG และเครื่องแต่งกายตามการจัดอันดับของฉัน!","Saat musim Arena berakhir, Anda bisa mendapatkan <b>NCG</b> dan <b>Costumes</b> berdasarkan peringkat Anda!","Когда заканчивается сезон арены, вы можете получить NCG и костюмы в соответствии с моим рейтингом!","当竞技场赛季结束时，您可以根据我的排名获得NCG和服装！","當競技場賽季結束時，您可以根據我的排名獲得NCG和服裝！","Kapag natapos ang arena, maaari kang makakuha ng NCG at costume ayon sa aking pagraranggo!","Khi mùa Đấu trường kết thúc, bạn có thể nhận được <b> NCG </b> và <b> Trang phục </b> dựa trên thứ hạng của bạn!"
+"QUEST_GOLD_Buy_FORMAT","Use {0} NCG","{0} 골드 사용하기","Gaste {0}","{0}ゴールド使用","Gasta {0} oro","ใช้จ่าย {0} ทอง","Belanjakan {0} emas","","花费{0}黄金","花費{0}黃金","Gumastos ng {0} na ginto","Sử dụng {0} NCG"
+"QUEST_GOLD_Sell_FORMAT","Obtain {0} NCG","{0} 골드 획득하기","Receba {0}","{0}ゴールド獲得","Gana {0} oro","รับ {0} ทอง","Dapatkan {0} emas","","获利{0}黄金","賺取{0}黃金","Kumita ng {0} na ginto","Thu được {0} NCG"
+"HELP_POPUP_100009_PAGE_00_TEXT_00","<color=#c17636><size=20><b>◆ Action Power</b></size></color>
+- Action Power (AP) is essential energy for various in-game actions like battle and crafting.
+- It recharges at regular intervals and also can be instantly recharge using AP potions.
+- You can obtain AP potions through quest rewards, premium season pass, and monster collections (NCG stacking).","<color=#c17636><size=20><b>◆ 행동력</b></size></color>
+- 행동력(Action Power)은 게임 내 전투와 제작과 같은 다양한 활동을 위한 필수 에너지입니다.
+- 행동력은 일정 간격으로 충전할 수 있으며 AP 포션을 사용하여 즉시 충전할 수도 있습니다.
+- AP 포션은 퀘스트 보상, 프리미엄 시즌 패스 및 몬스터 컬렉션(골드 스테이킹)을 통해 획득할 수 있습니다.","<color=#c17636><size=20><b>◆ </b></size></color>
+- O poder de ação (AP) é energia essencial para várias ações no jogo, como batalha e artesanato.
+- Ele recarrega em intervalos regulares e também pode ser recarregado instantaneamente usando poções AP.
+- Você pode obter poções AP através de recompensas de miss, passe de temporada premium e coleções de monstros (empilhamento de NCG).","<color=#c17636><size=20><b>◆ アクションポイント</b></size></color>
+- アクションポイント(Action Point, AP)はゲーム内の戦闘や製作などの様々な活動のための必須エネルギーです。
+- APは一定間隔で充電することができ、APポーションを使用して即座に充電することもできます。
+- APポーションはクエスト報酬、プレミアムシーズンパス、モンスターコレクション(NCGステーキング)で獲得することができます。","<color=#c17636><size=20><b>◆ Power de acción</b></size></color>
+- Action Power (AP) es una energía esencial para varias acciones en el juego como la batalla y la elaboración.
+- Se recarga a intervalos regulares y también se puede recargar instantáneamente usando pociones AP.
+- Puede obtener pociones AP a través de las recompensas de Quest, el pase de temporada premium y las colecciones de monstruos (apilamiento NCG).","<color=#C17636><size=20><b>◆ การกระทำ</b></size></color>
+- Power Action (AP) เป็นพลังงานที่จำเป็นสำหรับการกระทำในเกมต่าง ๆ เช่นการต่อสู้และการประดิษฐ์
+- มันชาร์จใหม่ในช่วงเวลาปกติและยังสามารถเติมเงินได้ทันทีโดยใช้ยา AP
+- คุณสามารถรับ AP Potions ผ่านรางวัล Quest, Premium Season Pass และ Monster Collections (NCG Stacking)","<color=#c17636><size=20><b>◆ Daya Tindakan</b></size></color>
+- Action Power (AP) adalah energi penting untuk berbagai tindakan dalam game seperti pertempuran dan kerajinan.
+- Ini mengisi ulang secara berkala dan juga dapat langsung mengisi ulang menggunakan ramuan AP.
+- Anda dapat memperoleh Ramuan AP melalui Quest Rewards, Premium Season Pass, dan Monster Collections (NCG Stacking).","","<color=#c20436><size=20><b>◆ 动作功率</b></size></color>
+- 动力能力（AP）是战斗和制作等各种游戏内动作的重要能量。
+- 它会定期补充，也可以使用AP药水立即充电。
+- 您可以通过任务奖励，高级季节通行证和怪物收藏（NCG堆叠）获得AP药水。","<color=#c20436><size=20><b>◆ 動作功率</b></size></color>
+- 動力能力（AP）是戰鬥和製作等各種遊戲內動作的重要能量。
+- 它會定期補充，也可以使用AP藥水立即充電。
+- 您可以通過任務獎勵，高級季節通行證和怪物收藏（NCG堆疊）獲得AP藥水。","<color=#c17636><size=20><b>◆ Power Power</b></size></color>
+- Ang Power Power (AP) ay mahalagang enerhiya para sa iba't ibang mga aksyon na in-game tulad ng labanan at crafting.
+- Nag -recharge ito sa mga regular na agwat at maaari ring agad na muling magkarga gamit ang mga potion ng AP.
+- Maaari kang makakuha ng mga potion ng AP sa pamamagitan ng mga gantimpala sa paghahanap, premium season pass, at mga koleksyon ng halimaw (NCG stacking).","<color=#C17636><size=20><b>◆ Công suất hành động</b></size></color>
+- Sức mạnh hành động (AP) là năng lượng thiết yếu cho các hành động trong trò chơi khác nhau như trận chiến và chế tạo.
+- Nó sạc lại trong khoảng thời gian đều đặn và cũng có thể được sạc lại ngay lập tức bằng cách sử dụng Potions AP.
+- Bạn có thể có được Potions AP thông qua các phần thưởng Quest, Pass mùa cao cấp và Bộ sưu tập quái vật (NCG Stacking)."
+"HELP_POPUP_100015_PAGE_00_TEXT_00","<color=#c17636><size=20><b>◆ Arena Season</b></size></color>
+- Earn special rewards like NCG and costumes through Arena battle.
+- Obtain food materials helpful in various battles.
+- Tickets are periodically replenished additional tickets can be purchased with NCG.
+
+<color=#c17636><size=20><b>◆ Arena Championship</b></size></color>
+- Collect Arena Medals during the season.
+- Gather a certain amount of medals to enter the championship with greater rewards.
+
+<color=#c17636><size=20><b>◆ Battle Mechanics</b></size></color>
+- HP increases fivefold in Arena battles.
+- You can check the opponent's CP and choose to challenge.
+- Opponents are cached periodically and can be refreshed within limited attempts.","<color=#c17636><size=20><b>◆ 아레나 시즌</b></size></color>
+- 아레나 시즌과 챔피언십을 통해 골드와 코스튬 등 특별한 보상을 얻으세요.
+- 다양한 전투에 도움이 되는 음식 재료도 획득할 수 있습니다.
+- 주기적으로 티켓이 리필됩니다. 티켓은 골드로 일정 수량을 추가로 구매할 수 있습니다.
+
+<color=#c17636><size=20><b>◆ 아레나 챔피언십</b></size></color>
+- 시즌 중 드랍되는 아레나 메달을 모으세요.
+- 일정 수량 이상의 메달을 모아야 더 큰 보상이 있는 챔피언십에 입장할 수 있습니다.
+
+<color=#c17636><size=20><b>◆ 전투 방식</b></size></color>
+- 아레나 전투에서는 기본 체력이 5배 증가합니다.
+- 상대의 CP를 체크하고 도전을 선택할 수 있습니다.
+- 대전 상대는 일정한 주기로 캐싱되며, 한정된 횟수 내에서 새로고침 할 수 있습니다.","<color=#c17636><size=20><b>◆ Temporada da arena</b></size></color>
+- Ganhe recompensas especiais como NCG e figurinos através da Arena Battle.
+- Obtenha materiais alimentares úteis em várias batalhas.
+- Os ingressos são reabastecidos periodicamente Ingressos adicionais podem ser adquiridos com o NCG.
+
+<color=#c17636><size=20><b>◆ Campeonato da arena</b></size></color>
+- Colete medalhas de arena durante a temporada.
+- Reúna uma certa quantidade de medalhas para entrar no campeonato com maiores recompensas.
+
+<color=#c17636><size=20><b>◆ Mecânica de batalha</b></size></color>
+- A HP aumenta cinco vezes em batalhas na arena.
+- Você pode verificar o CP do oponente e optar por desafiar.
+- Os oponentes são armazenados em cache periodicamente e podem ser atualizados em tentativas limitadas.","<color=#c17636><size=20><b>◆ アリーナシーズン</b></size></color>
+- アリーナシーズンやチャンピオンシップを通じてNCGやコスチュームなどの特別なリワードを手に入れましょう。
+- 様々な戦闘に役立つ食材も獲得できます。
+- 定期的にチケットが補充されます。チケットはNCGで一定量を追加購入することができます。
+
+<color=#c17636><size=20><b>◆ アリーナチャンピオンシップ</b></size></color>
+- シーズン中にドロップするアリーナメダルを集めましょう。
+- 一定数以上のメダルを集めると、より大きな報酬があるチャンピオンシップに参加することができます。
+
+<color=#c17636><size=20><b>◆ バトルメカニック</b></size></color>
+- アリーナバトルでは基本体力が5倍増加します。
+- 相手のCPを確認し、相手を選択することができます。
+- 対戦相手は一定の周期でキャッシュされ、限られた回数内でリフレッシュすることができます。","<color=#c17636><size=20><b>◆ temporada de arena</b></size></color>
+- Gane recompensas especiales como NCG y disfraces a través de Arena Battle.
+- Obtenga materiales alimenticios útiles en varias batallas.
+- Los boletos se reponen periódicamente Se pueden comprar boletos adicionales con NCG.
+
+<color=#c17636><size=20><b>◆ Campeonato de arena</b></size></color>
+- Recoja medallas de arena durante la temporada.
+- Reúna una cierta cantidad de medallas para ingresar al campeonato con mayores recompensas.
+
+<color=#c17636><size=20><b>◆ Mecánica de batalla</b></size></color>
+- HP aumenta cinco veces en las batallas de la arena.
+- Puede consultar el CP del oponente y elegir desafiar.
+- Los opositores se almacenan en caché periódicamente y pueden actualizarse dentro de intentos limitados.","<color=#C17636><size=20><b>◆ ฤดูกาลที่สนาม</b></size></color>
+- รับรางวัลพิเศษเช่น NCG และเครื่องแต่งกายผ่านการต่อสู้ของ Arena
+- รับวัสดุอาหารที่เป็นประโยชน์ในการต่อสู้ต่างๆ
+- ตั๋วจะถูกเติมเต็มเป็นระยะสามารถซื้อตั๋วเพิ่มเติมได้ด้วย NCG
+
+<color=#C17636><size=20><b>◆ arena Championship</b></size></color>
+- รวบรวมเหรียญเวทีในช่วงฤดูกาล
+- รวบรวมเหรียญจำนวนหนึ่งเพื่อเข้าสู่การแข่งขันชิงแชมป์ด้วยรางวัลที่มากขึ้น
+
+<color=#C17636><size=20><b>◆ กลไกการต่อสู้</b></size></color>
+- HP เพิ่มห้าเท่าในการต่อสู้ที่เกิดเหตุ
+- คุณสามารถตรวจสอบ CP ของคู่ต่อสู้และเลือกที่จะท้าทาย
+- ฝ่ายตรงข้ามถูกแคชเป็นระยะและสามารถรีเฟรชภายในความพยายามที่ จำกัด","<color=#c17636><size=20><b>◆ Musim arena</b></size></color>
+- Dapatkan hadiah khusus seperti NCG dan kostum melalui pertempuran arena.
+- Dapatkan bahan makanan bermanfaat dalam berbagai pertempuran.
+- Tiket secara berkala diisi ulang Tiket tambahan dapat dibeli dengan NCG.
+
+<color=#c17636><size=20><b>◆ Arena Championship</b></size></color>
+- Kumpulkan medali arena selama musim.
+- Kumpulkan sejumlah medali untuk memasuki kejuaraan dengan hadiah yang lebih besar.
+
+<color=#c17636><size=20><b>◆ Mekanika pertempuran</b></size></color>
+- HP meningkat lima kali lipat dalam pertempuran arena.
+- Anda dapat memeriksa CP lawan dan memilih untuk menantang.
+- Lawan di -cache secara berkala dan dapat disegarkan dalam upaya terbatas.","","<color=#c17636><size=20><b>◆ 竞技场季节</b></size></color>
+- 通过Arena Battle赚取特殊的奖励和服装。
+- 获得各种战斗中有用的食物材料。
+- 票定期补充；可以使用NCG购买其他门票。
+
+<color=#c17636><size=20><b>◆ 竞技场冠军</b></size></color>
+- 在本赛季收集竞技场奖牌。
+- 收集一定数量的奖牌，获得更大的回报。
+
+<color=#c17636><size=20><b>◆ 战斗机制</b></size></color>
+-HP在竞技场战斗中增加了五倍。
+- 您可以检查对手的CP并选择挑战。
+- 对手是定期缓存的，可以在有限的尝试中刷新。","<color=#c17636><size=20><b>◆ 競技場季節</b></size></color>
+- 通過Arena Battle賺取特殊的獎勵和服裝。
+- 獲得各種戰鬥中有用的食物材料。
+- 票定期補充；可以使用NCG購買其他門票。
+
+<color=#c17636><size=20><b>◆ 競技場冠軍</b></size></color>
+- 在本賽季收集競技場獎牌。
+- 收集一定數量的獎牌，獲得更大的回報。
+
+<color=#c17636><size=20><b>◆ 戰鬥機制</b></size></color>
+-HP在競技場戰鬥中增加了五倍。
+- 您可以檢查對手的CP並選擇挑戰。
+- 對手是定期緩存的，可以在有限的嘗試中刷新。","<color=#c17636><size=20><b>◆ arena season</b></size></color>
+- Kumita ng mga espesyal na gantimpala tulad ng NCG at costume sa pamamagitan ng arena battle.
+- Kumuha ng mga materyales sa pagkain na kapaki -pakinabang sa iba't ibang mga laban.
+- Ang mga tiket ay pana -panahong na -replenished Ang mga karagdagang tiket ay maaaring mabili gamit ang NCG.
+
+<color=#c17636><size=20><b>◆ Arena Championship</b></size></color>
+- Kolektahin ang mga medalya ng arena sa panahon.
+- Magtipon ng isang tiyak na halaga ng mga medalya upang makapasok sa kampeonato na may higit na mga gantimpala.
+
+<color=#c17636><size=20><b>◆ Mekanika ng labanan</b></size></color>
+- Ang HP ay nagdaragdag ng limang beses sa mga laban sa arena.
+- Maaari mong suriin ang CP ng kalaban at piliing hamunin.
+- Ang mga kalaban ay naka -cache pana -panahon at maaaring mai -refresh sa loob ng limitadong mga pagtatangka.","<color=#C17636><size=20><b>◆ Mùa đấu trường</b></size></color>
+- Kiếm phần thưởng đặc biệt như NCG và trang phục thông qua đấu trường.
+- Có được nguyên liệu thực phẩm hữu ích trong các trận chiến khác nhau.
+- Vé được bổ sung định kỳ Vé bổ sung có thể được mua với NCG.
+
+<color=#C17636><size=20><b>◆ Giải vô địch Arena</b></size></color>
+- Thu thập huy chương đấu trường trong mùa.
+- Thu thập một lượng huy chương nhất định để vào chức vô địch với phần thưởng lớn hơn.
+
+<color=#C17636><size=20><b>◆ Cơ học chiến đấu</b></size></color>
+- HP tăng gấp năm lần trong các trận chiến đấu trường.
+- Bạn có thể kiểm tra CP của đối thủ và chọn thách thức.
+- Đối thủ được lưu trữ định kỳ và có thể được làm mới trong những nỗ lực hạn chế."
+"HELP_POPUP_100022_PAGE_00_TEXT_00","<color=#c17636><size=20><b>◆ Grinding Logic</b></size></color>
+- Grind unused equipment to obtain Crystals.
+- Higher grade and upgrade level yield more Crystals.
+
+<color=#c17636><size=20><b>◆ Bonus Effects</b></size></color>
+- Grinding aura grants NCG vouchers.
+- Higher monster collection levels provide multiplier bonuses during grinding.","<color=#c17636><size=20><b>◆ 분해 로직</b></size></color>
+- 더 이상 사용하지 않는 장비를 분해하여 크리스탈을 획득하세요.
+- 등급이 높을 수록, 강화 단계가 높을 수록 더 많은 크리스탈을 획득합니다.
+
+<color=#c17636><size=20><b>◆ 보너스 효과</b></size></color>
+- 아우라를 그라인딩 하면, 골드 바우처를 얻을 수 있습니다.
+- 몬스터 콜렉션 레벨이 높으면 그라인딩 시 배수 보너스를 얻습니다.","<color=#c17636><size=20><b>◆ Lógica de moagem</b></size></color>
+- Moa equipamentos não utilizados para obter cristais.
+- O nível mais alto de grau e atualização produz mais cristais.
+
+<color=#c17636><size=20><b>◆ Efeitos de bônus</b></size></color>
+- A aura de moagem concede cupochers NCG.
+- Níveis mais altos de coleta de monstros fornecem bônus multiplicadores durante a moagem.","<color=#c17636><size=20><b>◆ グラインド</b></size></color>
+- 使わなくなった装備を分解してクリスタルを獲得してください。
+- グレードが高いほど、強化段階が高いほど、より多くのクリスタルを獲得できます。
+
+<color=#c17636><size=20><b>◆ ボーナス効果</b></size></color>
+- オーラをグラインドすると、NCGバウチャーを獲得することができます。
+- モンスターコレクションのレベルが高いと、分解時に倍数ボーナスを獲得できます。","<color=#c17636><size=20><b>◆ Lógica de molienda</b></size></color>
+- Muela equipo no utilizado para obtener cristales.
+- El nivel de mayor grado y de actualización produce más cristales.
+
+<color=#c17636><size=20><b>◆ Efectos de bonificación</b></size></color>
+- AURA AURA RECUENTA COMOS NCG.
+- Los niveles de recolección de monstruos más altos proporcionan bonos multiplicadores durante la rectificación.","<color=#C17636><size=20><b>◆ ตรรกะการบด</b></size></color>
+- บดอุปกรณ์ที่ไม่ได้ใช้เพื่อให้ได้ผลึก
+- ระดับที่สูงขึ้นและระดับการอัพเกรดให้ผลึกมากขึ้น
+
+<color=#C17636><size=20><b>◆ เอฟเฟกต์โบนัส</b></size></color>
+- การบด Aura มอบบัตรกำนัล NCG
+- ระดับการรวบรวมมอนสเตอร์ที่สูงขึ้นให้โบนัสทวีคูณในระหว่างการบด","<color=#c17636><size=20><b>◆ Logika gerinda</b></size></color>
+- Giling peralatan yang tidak digunakan untuk mendapatkan kristal.
+- Tingkat tingkat yang lebih tinggi dan meningkatkan lebih banyak kristal.
+
+<color=#c17636><size=20><b>◆ Efek bonus</b></size></color>
+- Grinding Aura memberikan voucher NCG.
+- Tingkat pengumpulan monster yang lebih tinggi memberikan bonus pengganda selama penggilingan.","","<color=#c17636><size=20><b>◆ 研磨逻辑</b></size></color>
+- 研磨未使用的设备以获取晶体。
+- 较高的等级和升级水平会产生更多的晶体。
+
+<color=#c20436><size=20><b>◆ 奖励效果</b></size></color>
+- 磨牙授予NCG代金券。
+- 较高的怪物收集水平在研磨过程中提供乘数奖金。","<color=#c17636><size=20><b>◆ 研磨邏輯</b></size></color>
+- 研磨未使用的設備以獲取晶體。
+- 較高的等級和升級水平會產生更多的晶體。
+
+<color=#c20436><size=20><b>◆ 獎勵效果</b></size></color>
+- 磨牙授予NCG代金券。
+- 較高的怪物收集水平在研磨過程中提供乘數獎金。","<color=#c17636><size=20><b>◆ Paggiling lohika</b></size></color>
+- Gumiling ng hindi nagamit na kagamitan upang makakuha ng mga kristal.
+- Ang mas mataas na antas ng grado at pag -upgrade ay nagbubunga ng higit pang mga kristal.
+
+<color=#c17636><size=20><b>◆ Bonus effects</b></size></color>
+- Ang paggiling aura ay nagbibigay ng mga voucher ng NCG.
+- Ang mas mataas na antas ng koleksyon ng halimaw ay nagbibigay ng mga multiplier bonus sa panahon ng paggiling.","<color=#C17636><size=20><b>◆ Logic mài</b></size></color>
+- Nghiền thiết bị không sử dụng để có được tinh thể.
+- Lớp cao hơn và cấp độ nâng cấp mang lại nhiều tinh thể hơn.
+
+<color=#C17636><size=20><b>◆ Hiệu ứng tiền thưởng</b></size></color>
+- Nghiền Aura cấp chứng từ NCG.
+- Mức thu thập quái vật cao hơn cung cấp tiền thưởng số nhân trong quá trình mài."
+"HELP_POPUP_100025_PAGE_00_TEXT_00","<color=#c17636><size=20><b>◆ Runes</b></size></color>
+- Runes are valuable equipment that allows you to earn special stats and dedicated skills.
+- To create and enhance Runes, you need Rune Fragments.
+- Obtain Rune Fragments through AP recharge, World Boss, NCG stacking, and summoning with Golden Dust.
+
+<color=#c17636><size=20><b>◆ Rune Enhancement and Application</b></size></color>
+- Rune enhancement allows growth by 1 level at a time. (Bulk enhancement update scheduled)
+- Strategic growth is essential, considering content-specific Rune slots for Arena, World Boss, etc., and content-specialized Runes.","<color=#c17636><size=20><b>◆ 룬</b></size></color>
+- 룬은 특별한 능력치와 전용 스킬을 획득할 수 있는 귀한 장비입니다.
+- 룬은 룬 조각을 보유해야 생성하고 강화할 수 있습니다.
+- 룬 조각은 행동력 충전, 월드보스, 골드 스테이킹, 골든 더스트를 통한 소환을 통해 획득할 수 있습니다.
+
+<color=#c17636><size=20><b>◆ 룬 강화 및 활용</b></size></color>
+- 룬 강화는 한 번에 1레벨씩 성장 가능합니다. (일괄 강화 업데이트 예정)
+- 아레나, 월드보스 등 각 콘텐츠 전용 룬 슬롯과, 각 컨텐츠 특화 룬이 있으므로 전략적인 성장이 필요합니다.","<color=#c17636><size=20><b>◆ Runa </b></size></color>
+- Runas são equipamentos valiosos que permitem obter estatísticas especiais e habilidades dedicadas.
+- Para criar e aprimorar runas, você precisa de fragmentos de runas.
+- Obtenha fragmentos de Rune através da recarga da AP, Boss World, empilhamento de NCG e convocação com poeira dourada.
+
+<color=#c17636><size=20><b>◆ Melhoramento e aplicação do run </b></size></color>
+- O aprimoramento da runa permite o crescimento em 1 nível por vez. (Atualização de aprimoramento em massa programada)
+-O crescimento estratégico é essencial, considerando os slots de runas específicos de conteúdo para arena, chefe mundial etc. e runas especiais de conteúdo.","<color=#c17636><size=20><b>◆ ルーン</b></size></color>
+- ルーンは特別な能力値と専用スキルを獲得できる貴重な装備です。
+- ルーンはルーンストーンを保有することで生成・強化することができます。
+- ルーンストーンは行動力チャージ、ワールドボス、NCGステーキング、ゴールデンダストによる召喚で獲得することができます。
+
+<color=#c17636><size=20><b>◆ ルーン強化と活用</b></size></color>
+- ルーン強化は一度に1レベルずつ成長可能です。 (一括強化アップデート予定)
+- アリーナ、ワールドボスなど各コンテンツ専用ルーンスロットと、各コンテンツに特化したルーンがあるので、戦略的な成長が必要です。","<color=#c17636><size=20><b>◆ Runas</b></size></color>
+- Las runas son equipos valiosos que le permiten ganar estadísticas especiales y habilidades dedicadas.
+- Para crear y mejorar las runas, necesita fragmentos de runa.
+- Obtenga fragmentos de runa a través de la recarga AP, el jefe mundial, la apilamiento NCG y la invocación con polvo dorado.
+
+<color=#c17636><size=20><b>◆ Mejora de runa y aplicación</b></size></color>
+- La mejora de la runa permite el crecimiento en 1 nivel a la vez. (Actualización de mejora masiva programada)
+-El crecimiento estratégico es esencial, considerando las ranuras de runa específicas del contenido para Arena, Boss Mundial, etc., y runas especializadas en el contenido.","<color=#C17636><size=20><b>◆ รูน</b></size></color>
+- รูนเป็นอุปกรณ์ที่มีค่าที่ช่วยให้คุณได้รับสถิติพิเศษและทักษะเฉพาะ
+- ในการสร้างและปรับปรุงรูนคุณต้องมีชิ้นส่วนรูน
+- รับชิ้นส่วนรูนผ่าน AP Recharge, World Boss, NCG ซ้อนและเรียกด้วยฝุ่นสีทอง
+
+<color=#C17636><size=20><b>◆ การเพิ่มประสิทธิภาพรูนและแอปพลิเคชัน</b></size></color>
+- การเพิ่มประสิทธิภาพรูนช่วยให้การเจริญเติบโตครั้งละ 1 ระดับ (กำหนดการปรับปรุงการเพิ่มประสิทธิภาพจำนวนมาก)
+-การเติบโตเชิงกลยุทธ์เป็นสิ่งจำเป็นโดยพิจารณาจากสล็อตรูนเฉพาะเนื้อหาสำหรับ Arena, World Boss, ฯลฯ และรูนที่เฉพาะเจาะจงเนื้อหา","<color=#c17636><size=20><b>◆ runes</b></size></color>
+- Rune adalah peralatan berharga yang memungkinkan Anda mendapatkan statistik khusus dan keterampilan khusus.
+- Untuk membuat dan meningkatkan rune, Anda memerlukan fragmen rune.
+- Dapatkan fragmen rune melalui AP Recharge, World Boss, NCG Stacking, dan Summoning dengan Golden Dust.
+
+<color=#c17636><size=20><b>◆ Peningkatan dan Aplikasi Rune</b></size></color>
+- Peningkatan Rune memungkinkan pertumbuhan dengan 1 level sekaligus. (Pembaruan Peningkatan Massal Dijadwalkan)
+-Pertumbuhan strategis sangat penting, mempertimbangkan slot rune khusus konten untuk arena, bos dunia, dll., Dan rune yang dispesialisasi konten.","","<color=#c17636><size=20><b>◆ runes</b></size></color>
+- 符文是有价值的设备，可让您获得特殊的统计数据和专门的技能。
+- 要创建和增强符文，您需要符文片段。
+- 通过AP补给，世界老板，NCG堆叠以及用金color的灰尘召唤符文碎片。
+
+<color=#c18436><size=20><b>◆ 符文增强和应用</b></size></color>
+- 符文增强允许一次增长1级。 （安排大量增强更新）
+- 考虑到特定于竞技场，世界老板等的特定于内容的符文插槽和内容特有的符文，战略增长至关重要。","<color=#c17636><size=20><b>◆ runes</b></size></color>
+- 符文是有價值的設備，可讓您獲得特殊的統計數據和專門的技能。
+- 要創建和增強符文，您需要符文片段。
+- 通過AP補給，世界老闆，NCG堆疊以及用金color的灰塵召喚符文碎片。
+
+<color=#c18436><size=20><b>◆ 符文增強和應用</b></size></color>
+- 符文增強允許一次增長1級。 （安排大量增強更新）
+- 考慮到特定於競技場，世界老闆等的特定於內容的符文插槽和內容特有的符文，戰略增長至關重要。","<color=#c17636><size=20><b>◆ runes</b></size></color>
+- Ang mga runes ay mahalagang kagamitan na nagbibigay -daan sa iyo upang kumita ng mga espesyal na istatistika at nakatuon na kasanayan.
+- Upang lumikha at mapahusay ang mga runes, kailangan mo ng mga fragment ng rune.
+- Kumuha ng mga fragment ng rune sa pamamagitan ng AP Recharge, World Boss, NCG stacking, at pagtawag gamit ang gintong alikabok.
+
+<color=#C17636><size=20><b>◆ Rune Enhancement and Application</b></size></color></zze></color>
+- Ang pagpapahusay ng rune ay nagbibigay -daan sa pagsize ng 1 antas sa isang pagkakataon. (Naka -iskedyul na pag -update ng Bulk Enhancement)
+-Mahalaga ang madiskarteng paglago, isinasaalang-alang ang mga slot na tiyak na nilalaman para sa arena, boss ng mundo, atbp, at mga runes na tinutukoy ng nilalaman.","<color=#C17636><size=20><b>◆ Runes</b></size></color>
+- Runes là thiết bị có giá trị cho phép bạn kiếm được số liệu thống kê đặc biệt và các kỹ năng chuyên dụng.
+- Để tạo và tăng cường rune, bạn cần các mảnh Rune.
+- Có được các mảnh vỡ của Rune thông qua AP Recharge, World Boss, NCG Stacking và Summoning với Bụi vàng.
+
+không
+- Tăng cường Rune cho phép tăng trưởng 1 cấp tại một thời điểm. (Cập nhật tăng cường số lượng lớn theo lịch trình)
+-Tăng trưởng chiến lược là rất cần thiết, xem xét các vị trí Rune dành riêng cho nội dung cho Arena, World Boss, v.v., và các rune chuyên môn hóa nội dung."
+"UI_BUY_MULTIPLE_FORMAT","<color=#FF9983>Try to purchase {0} items and pay {1}.</color>
+
+Items purchased will be sent by mail.
+NCG is not deducted for unsuccessful purchases.
+If your NCG balance is insufficient, the transaction will fail.","<color=#FF9983>{0}개 아이템을 구매하고 {1}를 지불합니다.</color>
+
+구매에 성공한 아이템은 메일로 도착하고, 실패한 경우에는 차감하지 않습니다.
+골드가 부족한 경우 구매는 실패합니다.","<color=#FF9983><b>Tente comprar {0} itens e pague {1}.</b></color>
+
+Itens comprados será enviado pelo correio.
+NCG não é deduzido para comprar itens que falharam.
+Se NCG é insuficiente, a transação irá falhar.","<color=#FF9983><b>{0}個のアイテムを購入して{1}を払います。</b></color>
+
+購入したアイテムはメールで送信されます。
+購入に失敗した場合はNCGは控除されません。
+NCGが不十分な場合、購入に失敗します。","<color=#FF9983><b>Intenta comprar {0} artículos y pagar {1}.</b></color>
+
+Los artículos comprados se enviarán por correo.
+No se deducirá NCG por objetos de compra fallidos.
+Si los NCG son insuficientes, la transacción fallará.","<color=#FF9983><b>พยายามที่จะซื้อ {0} รายการและจ่าย {1}</b></color>
+
+รายการที่ซื้อจะถูกส่งทางไปรษณีย์
+NCG ไม่ได้หักรายการซื้อล้มเหลว หาก
+NCG ไม่เพียงพอการทำธุรกรรมที่จะล้มเหลว","<color=#FF9983><b>Cobalah untuk pembelian {0} item dan membayar {1}.</b></color>
+
+Barang yang dibeli akan dikirim melalui pos.
+NCG tidak dipotong untuk item pembelian gagal.
+Jika NCG tidak mencukupi, transaksi akan gagal.","<color=#FF9983><b>Попробуйте покупку {0} элементов и оплаты {1}.</b></color>
+
+Приобретенные товары будут отправлены по почте.
+NCG не вычитаются невыполненных пунктов покупки.
+Если NCG недостаточно, сделка не будет выполнена.","<color=#FF9983><b>尽量购买{0}项目和支付{1}。</b></color>
+
+购买的物品将通过邮件发送。
+不扣除未能购买物品NCG。
+如果NCG不足，交易失败。","<color=＃ff9983> <b>嘗試購買{0}項目並付費{1}。</b></color>
+
+購買的項目將通過郵件發送。
+NCG不會因購買失敗而被扣除。
+如果NCG不足，則交易將失敗。","<color=#FF9983><b>Subukang bumili ng {0} na kagamitan at magbayad ng {1}.</b></color>
+
+Ang biniling kagamitan ay ipapadala sa pamamagitan ng liham.
+Ang iyong NCG ay hindi mababwasan tuwing hindi matagumpay ang pagbili.
+Kapag naman hindi sapat ang NCG ang transakyon ay hindi matutuloy.","<color=#ff9983> Thử mua {0} trang bị và trả {1}.</color>
+
+Các mặt hàng đã được mua sẽ được gửi qua thư.
+NCG sẽ không được khấu trừ nếu các giao dịch mua không thành công.
+Nếu số dư NCG của bạn không đủ, giao dịch thất bại."
+"UI_NCG","NCG","골드","NCG","NCG","NCG","NCG","NCG","NCG","NCG","NCG","NCG","NCG"
+"UI_STAKING_POPUP_DESCRIPTION","When you stake NCG, monsters embark on weekly expeditions to collect rewards for you.","골드를 스테이킹 하면 몬스터들이 보물을 얻기 위해 탐험을 떠납니다.","Quando você deposita o NCG, os monstros vão em uma expedição para coletar a recompensa.","NCGをステーキングと、モンスターたちが遠征に行き、報酬を集めます。","Cuando depositas NCG, tus monstruos salen en una expedición para recolectar recompensas.","เมื่อคุณฝาก NCG สัตว์ประหลาดจะไปสำรวจเพื่อรวบรวมรางวัล","Saat Anda menyetor NCG, monster melakukan ekspedisi untuk mengumpulkan hadiah.","Когда вы вносите NCG, монстры отправляются в экспедицию, чтобы собрать награду.","当您存入NCG时，怪物会进行探险以收集奖励。","當您存入NCG時，怪物會進行探險以收集獎勵。","Kung magdedeposito ka ng NCG, ang mga halimaw ay maglalakbay upang mangolekta ng gantimpala.","Khi bạn đặt cược bằng NCG, các quái vật sẽ bắt đầu các cuộc thám hiểm hàng tuần để thu thập phần thưởng cho bạn."
+"UI_NOT_ENOUGH_NCG_WITH_SUPPLIER_INFO","Insufficient NCG.
+Obtain more NCG from Portal NCG Voucher or Arena.","골드가 부족합니다.
+골드는 포털 골드 바우처나 아레나 보상으로 획득할 수 있습니다.","Não é suficiente NCG.
+Os NCGs podem ser obtidos no mercado ou na arena.","NCGが足りません。
+NCGはポータルのNCGバウチャーまたはアリーナから獲得できます。","No tienes suficientes NCG. Los NCG se pueden obtener por medio del portal, tienda o en la arena.","NCG ไม่เพียงพอ NCG สามารถรับได้จากตลาดหรืออารีน่า","NCG tidak cukup.
+NCG dapat diperoleh dari pasar atau arena.","Недостаточно NCG.
+NCGS можно получить с рынка или арены.","不够的NCG。
+可以从市场或竞技场获得NCG。","NCG不夠。可以從市場或競技場獲得NCG。","Hindi sapat ang NCG. Ang NCGs ay makukuha sa pamilihan o kaya ay sa arena.","NCG không đủ.
+Nhận NCG từ Cổng Voucher NCG hoặc đấu trường"
+"UI_STAKING_NCG","Staking NCG","스테이킹 골드","NCG","ステーキングNCG","Staking NCG","ฝากเหรียญ NCG","Mempertaruhkan NCG","","Staging NCG","Staging NCG","Staking NCG","NCG đặt cược"
+"UI_STAKING_BENEFITS_DESCRIPTION","As the amount of storage increases, the buff & interest benefits increase.","스테이킹 골드를 늘릴 수록 버프&이자 혜택이 증가합니다.","","ステーキングしたNCGが増えるほどバフ&リワードの特典が増加します。","A medida que aumenta la cantidad de NCG almacenado se incrementan los beneficios y recompensas.","เมื่อปริมาณเก็บเพิ่มขึ้น บัฟและผลประโยชน์เพิ่มขึ้น","Ketika jumlah penyimpanan meningkat, manfaat buff & bunga meningkat.","","随着存储量的增加，增益和利息收益也会增加。","隨著存儲量的增加，增益和利息收益也會增加。","Habang tumataas ang dami ng imbakan, lumalaki rin ang mga benepisyo ng buff at interes.","Khi lượng đặt cược NCG tăng lên, buff & lãi suất tăng."
+"UI_BUY_TICKET_AND_START","Not enough {0} tickets.
+Would you like to buy a ticket with NCG and start?","{0} 티켓이 부족합니다.
+티켓을 골드로 구입하시겠습니까?","Ingressos não suficientes {0}.
+Você gostaria de comprar um ingresso com o NCG e começar?","{0}チケットが足りません。
+NCGでチケットを購入しますか？","No hay suficientes tickets de {0}. ¿Te gustaría comprar un ticket con NCG y comenzar?","ตั๋ว {0} ไม่เพียงพอ คุณต้องการซื้อตั๋วกับ NCG และเริ่มต้นหรือไม่?","Tiket tidak cukup {0}.
+Apakah Anda ingin membeli tiket dengan NCG dan mulai?","Недостаточно {0} билетов.
+Хотели бы вы купить билет с NCG и начать?","不够{0}门票。
+您想和NCG一起购买票吗？","不夠{0}門票。您想用NCG購買票嗎？","Hindi sapat ang {0} tickets. Gusto mo bang bumili ng ticket gamit ang ncg at magsimula?","Không đủ {0} vé.
+Bạn có muốn mua vé bằng NCG và bắt đầu không?"
+"UI_INVITE_FRIENDS_BANNER_TITLE","Invite your friends and earn NCG!","친구를 초대하고 골드를 얻으세요!","Convide seus amigos e ganhe NCG!","友達を招待してNCGを獲得しましょう！","¡Invita a tus amigos y gana NCG!","เชิญเพื่อนของคุณและรับ NCG!","Undang teman Anda dan dapatkan NCG!","","邀请您的朋友并赚取NCG！","邀請您的朋友並賺取NCG！","Anyayahan ang iyong mga kaibigan at kumita ng NCG!","Mời bạn bè của bạn và kiếm NCG!"
+"UI_INVITE_FRIENDS_BANNER_DESC","Inviter gets {0} NCG instantly.
+Invitee gets {1} NCG now, and {2} NCG more at lv.{3}.","초대한 사람은 즉시 {0} 골드를 받습니다.
+초대받은 사람은 즉시 {1} 골드를 받고, 레벨 {3}에서 추가로 {2} 골드를 받습니다.","O Inviter recebe {0} NCG instantaneamente.
+Convitee recebe {1} NCG agora e {2} NCG mais em lv. {3}.","招待した人は直ちに{0}NCGを受け取ります。
+招待された人は直ちに{1}NCGを受け取り、レベル{3}で追加で{2}NCGを受け取ります。","Inviter obtiene {0} NCG al instante.
+El invitado obtiene {1} ncg ahora, y {2} ncg más en lv. {3}.","ผู้เชิญได้รับ {0} NCG ทันที
+Invitee ได้รับ {1} ncg ตอนนี้และ {2} ncg เพิ่มเติมที่ lv. {3}","Inviter mendapat {0} NCG secara instan.
+Invitee mendapat {1} ncg sekarang, dan {2} ncg lebih banyak di lv. {3}.","","Inviter立即获取{0} NCG。
+Invitee立即获取{1} NCG，{2} ncg在lv。{3}中获得更多。","Inviter立即獲取{0} NCG。
+Invitee立即獲取{1} NCG，{2} ncg在lv。{3}中獲得更多。","Ang Inviter ay nakakakuha ng {0} NCG agad.
+Ang imbitado ay makakakuha ng {1} ncg ngayon, at {2} ncg higit pa sa lv. {3}.","Người mời kiếm được {0} NCG ngay lập tức.
+Người được mời kiếm được {1} NCG ngay lập tức và thêm {2} NCG tại cấp độ {3}."
+"UI_STAKING_LOCK_BLOCK_TIP_FORMAT","You cannot decrease NCG before it becomes block {0}.","{0} 블록이 되기 전에는 스테이킹한 골드를 줄일 수 없습니다.","Você não pode diminuir o NCG antes de alcançar o bloco {0}.","ブロック{0}になる前にNCGを減らすことはできません。","No puedes disminuir NCG antes de que alcance el bloque {0}.","คุณไม่สามารถลด NCG ก่อนที่จะถึงบล็อก {0}","Anda tidak dapat mengurangi NCG sebelum mencapai blok {0}.","","在达到{0}块之前，您不能减少NCG。","在達到{0}塊之前，您不能減少NCG。","Hindi mo mababawasan ang NCG bago ito umabot sa block {0}.","Bạn không thể giảm NCG trước khi nó đạt đến khối {0}."
+"UI_REQUIRE_STAKE_MINIMUM_NCG_FORMAT","You can stake with more than {0} NCG.","{0} 골드 이상으로만 스테이킹할 수 있습니다.","Você pode fazer staking com mais de {0} NCG.","{0} NCG以上でステーキングできます。","Puedes hacer staking con más de {0} NCG.","คุณสามารถทำ staking ด้วย NCG มากกว่า {0}","Anda dapat melakukan staking dengan lebih dari {0} NCG.","","您可以用超过{0} NCG进行质押。","您可以用超過{0} NCG進行質押。","Maaari kang mag-stake ng higit sa {0} NCG.","Bạn có thể stake với số NCG nhiều hơn {0}."
+"UI_STAKING_AMOUNT_LIMIT","You cannot stake more NCG than you possess.","갖고있는 골드보다 많이 스테이킹 할 수는 없습니다.","Você não pode fazer staking de mais NCG do que possui.","所持しているNCGより多くをステーキングすることはできません。","No puedes hacer staking de más NCG de los que posees.","คุณไม่สามารถทำ staking NCG มากกว่าที่คุณมี","Anda tidak dapat melakukan staking lebih banyak NCG dari yang Anda miliki.","","您不能质押超过您所拥有的NCG。","您不能質押超過您所擁有的NCG。","Hindi ka maaaring mag-stake ng higit pang NCG kaysa sa iyong pag-aari.","Bạn không thể stake nhiều NCG hơn số bạn sở hữu."
+"UI_INTRODUCE_STAKING","The NCG you have staked cannot be withdrawn for 4 weeks, and you can receive rewards every week as it passes.","스테이킹한 골드는 4주간 출금할 수 없으며, 일주일이 지날때마다 보상을 받을 수 있습니다.","O NCG que você fez staking não pode ser retirado por 4 semanas, e você pode receber recompensas a cada semana que passa.","ステーキングしたNCGは4週間引き出すことができず、週が経過するごとに報酬を受け取ることができます。","El NCG que has hecho en staking no puede ser retirado durante 4 semanas, y puedes recibir recompensas cada semana que pasa.","NCG ที่คุณทำ staking ไม่สามารถถอนได้เป็นเวลา 4 สัปดาห์ และคุณสามารถรับรางวัลทุกสัปดาห์ที่ผ่านไป","NCG yang Anda staking tidak dapat ditarik selama 4 minggu, dan Anda dapat menerima hadiah setiap minggu berlalu.","","您质押的NCG不能在4周内提取，每过一周您可以收到奖励。","您質押的NCG不能在4週內提取，每過一週您可以收到獎勵。","Ang NCG na iyong na-stake ay hindi maaaring i-withdraw sa loob ng 4 na linggo, at maaari kang makatanggap ng gantimpala bawat linggo na lumipas.","NCG bạn đã stake không thể rút trong 4 tuần, và bạn có thể nhận phần thưởng mỗi tuần trôi qua."
+"UI_WARNING_STAKING_REDUCE","If you reduce the NCG currently staked, your rewards will decrease. Additionally, the reward interval will be reset. Would you like to proceed?","스테이킹 진행중인 골드를 줄이면 보상이 줄어듭니다. 또한 보상 인터벌이 초기화됩니다. 진행 하시겠습니까?","Se você reduzir o NCG atualmente em staking, suas recompensas diminuirão. Além disso, o intervalo de recompensa será reiniciado. Deseja prosseguir?","現在ステーキングしているNCGを減らすと、報酬が減少します。さらに、報酬の間隔がリセットされます。進行しますか？","Si reduces el NCG actualmente en staking, tus recompensas disminuirán. Además, el intervalo de recompensa se reiniciará. ¿Deseas proceder?","หากคุณลด NCG ที่กำลัง staking อยู่ รางวัลของคุณจะลดลง นอกจากนี้ ช่วงเวลารางวัลจะถูกรีเซ็ต คุณต้องการดำเนินการต่อหรือไม่?","Jika Anda mengurangi NCG yang sedang di-stake, hadiah Anda akan berkurang. Selain itu, interval hadiah akan direset. Apakah Anda ingin melanjutkan?","","如果您减少了当前质押的NCG，您的奖励会减少。此外，奖励间隔将被重置。您要继绀吗？","如果您減少了當前質押的NCG，您的獎勵會減少。此外，獎勵間隔將被重置。您要繼續嗎？","Kung babawasan mo ang kasalukuyang na-stake na NCG, bababa ang iyong mga gantimpala. Bilang karagdagan, ang interval ng gantimpala ay i-reset. Nais mo bang magpatuloy?","Nếu bạn giảm số NCG hiện tại đã stake, phần thưởng của bạn sẽ giảm. Ngoài ra, khoảng thời gian nhận thưởng sẽ được thiết lập lại. Bạn có muốn tiếp tục không?"
+"UI_HOLD_NCG","/ NCG","/ 골드","/ NCG","/ NCG","/ NCG","/ NCG","/ NCG","/ NCG","/ NCG","/ NCG","/ NCG","/ NCG"
+"UI_ENTER_NCG_TO_STAKE","Enter the amount of NCG to receive rewards.","보상을 받을 골드를 입력해주세요.","Insira a quantidade de NCG para receber recompensas","報酬を受け取るためにNCGの量を入力してください","Ingresa la cantidad de NCG para recibir recompensas","ป้อนจำนวน NCG เพื่อรับรางวัล","Masukkan jumlah NCG untuk menerima hadiah","Введите количество NCG для получения наград","输入NCG的数量以接收奖励","輸入NCG的數量以接收獎勵","Ilagay ang halaga ng NCG para makatanggap ng gantimpala","Nhập số lượng NCG để nhận phần thưởng"
+"COLLECTION_NAME_1000161","Golden Meat 40","황금 고기 40","Carne dourada 40","ゴールデンミート 40","Carne dorada 40","เนื้อสีทอง 40","Daging emas 40","Золотое мясо 40","金肉 40","金肉 40","Gintong karne 40","Thịt Vàng 40"
+"COLLECTION_NAME_1000162","Golden Meat 40","황금 고기 40","Carne dourada 40","ゴールデンミート 40","Carne dorada 40","เนื้อสีทอง 40","Daging emas 40","Золотое мясо 40","金肉 40","金肉 40","Gintong karne 40","Thịt Vàng 40"
+"COLLECTION_NAME_1000163","Golden Meat 40","황금 고기 40","Carne dourada 40","ゴールデンミート 40","Carne dorada 40","เนื้อสีทอง 40","Daging emas 40","Золотое мясо 40","金肉 40","金肉 40","Gintong karne 40","Thịt Vàng 40"
+"COLLECTION_NAME_1000164","Golden Meat 40","황금 고기 40","Carne dourada 40","ゴールデンミート 40","Carne dorada 40","เนื้อสีทอง 40","Daging emas 40","Золотое мясо 40","金肉 40","金肉 40","Gintong karne 40","Thịt Vàng 40"
+"COLLECTION_NAME_1000165","Golden Meat 40","황금 고기 40","Carne dourada 40","ゴールデンミート 40","Carne dorada 40","เนื้อสีทอง 40","Daging emas 40","Золотое мясо 40","金肉 40","金肉 40","Gintong karne 40","Thịt Vàng 40"
+"COLLECTION_NAME_1000166","Ruby Dust 40","루비 더스트 40","Poeira de Rubi 40","ルビーダスト 40","Polvo de Rubí 40","ผงทับทิม 40","Debu Ruby 40","Рубиновая пыль 40","红宝石粉尘 40","紅寶石塵 40","Alabasterang Rubi 40","Bụi Ruby 40"
+"COLLECTION_NAME_1000167","Ruby Dust 40","루비 더스트 40","Poeira de Rubi 40","ルビーダスト 40","Polvo de Rubí 40","ผงทับทิม 40","Debu Ruby 40","Рубиновая пыль 40","红宝石粉尘 40","紅寶石塵 40","Alabasterang Rubi 40","Bụi Ruby 40"
+"COLLECTION_NAME_1000168","Ruby Dust 40","루비 더스트 40","Poeira de Rubi 40","ルビーダスト 40","Polvo de Rubí 40","ผงทับทิม 40","Debu Ruby 40","Рубиновая пыль 40","红宝石粉尘 40","紅寶石塵 40","Alabasterang Rubi 40","Bụi Ruby 40"
+"COLLECTION_NAME_1000169","Ruby Dust 40","루비 더스트 40","Poeira de Rubi 40","ルビーダスト 40","Polvo de Rubí 40","ผงทับทิม 40","Debu Ruby 40","Рубиновая пыль 40","红宝石粉尘 40","紅寶石塵 40","Alabasterang Rubi 40","Bụi Ruby 40"
