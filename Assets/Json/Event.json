@@ -1,31 +1,7 @@
 {
   "Banners": [
     {
-      "Priority": -10,
-      "BannerImageName": "goldenweek-promo",
-      "PopupImageName": "goldenweek-promo",
-      "UseDateTime": false,
-      "BeginDateTime": "2024-05-17T00:00:00",
-      "EndDateTime": "2024-06-05T26:59:59",
-      "Url": "https://bit.ly/240517_GoldenWeek",
-      "UseAgentAddress": false,
-      "Description": "goldenweek-promo",
-      "EnableKeys": []
-    },
-    {
-      "Priority": 0,
-      "BannerImageName": "voucher-notice",
-      "PopupImageName": "voucher-notice",
-      "UseDateTime": false,
-      "BeginDateTime": "2024-05-14T00:00:00",
-      "EndDateTime": "2024-06-05T23:59:59",
-      "Url": "https://bit.ly/0514_VoucherEvent",
-      "UseAgentAddress": false,
-      "Description": "voucher-notice",
-      "EnableKeys": []
-    },
-    {
-      "Priority": 1,
+      "Priority": 97,
       "BannerImageName": "9c-k_migration",
       "PopupImageName": "9c-k_migration",
       "UseDateTime": false,
@@ -34,90 +10,6 @@
       "Url": "https://bit.ly/9CK_Migrate",
       "UseAgentAddress": false,
       "Description": "9c-k_migration",
-      "EnableKeys": []
-    },
-    {
-      "Priority": 20,
-      "BannerImageName": "costume-package",
-      "PopupImageName": "costume-package",
-      "UseDateTime": true,
-      "BeginDateTime": "2024-04-30T00:00:00",
-      "EndDateTime": "2024-05-31T23:59:59",
-      "Url": "https://bit.ly/240430_Costume_Promo",
-      "UseAgentAddress": false,
-      "Description": "costume-package",
-      "EnableKeys": []
-    },
-    {
-      "Priority": 21,
-      "BannerImageName": "newrune",
-      "PopupImageName": "newrune",
-      "UseDateTime": true,
-      "BeginDateTime": "2024-04-30T00:00:00",
-      "EndDateTime": "2024-05-15T23:59:59",
-      "Url": "https://bit.ly/240430_Rune_Update",
-      "UseAgentAddress": false,
-      "Description": "newrune",
-      "EnableKeys": []
-    },
-    {
-      "Priority": 22,
-      "BannerImageName": "grindit",
-      "PopupImageName": "grindit",
-      "UseDateTime": true,
-      "BeginDateTime": "2024-04-30T00:00:00",
-      "EndDateTime": "2024-05-31T23:59:59",
-      "Url": "https://bit.ly/240430_Crystal_EVT",
-      "UseAgentAddress": false,
-      "Description": "grindit",
-      "EnableKeys": []
-    },
-    {
-      "Priority": 23,
-      "BannerImageName": "raid-rune",
-      "PopupImageName": "raid-rune",
-      "UseDateTime": true,
-      "BeginDateTime": "2024-04-30T00:00:00",
-      "EndDateTime": "2024-05-31T23:59:59",
-      "Url": "https://bit.ly/240430_WB_Evt",
-      "UseAgentAddress": false,
-      "Description": "raid-rune",
-      "EnableKeys": []
-    },
-    {
-      "Priority": 30,
-      "BannerImageName": "spe-collection-promo",
-      "PopupImageName": "spe-collection-promo",
-      "UseDateTime": true,
-      "BeginDateTime": "2024-04-23T00:00:00",
-      "EndDateTime": "2024-05-07T23:59:59",
-      "Url": "https://bit.ly/0423_Collec_Promo",
-      "UseAgentAddress": false,
-      "Description": "spe-collection-promo",
-      "EnableKeys": []
-    },
-    {
-      "Priority": 50,
-      "BannerImageName": "helheim-pass",
-      "PopupImageName": "helheim-pass",
-      "UseDateTime": true,
-      "BeginDateTime": "2024-04-01T00:00:00",
-      "EndDateTime": "2024-04-30T23:59:59",
-      "Url": "https://bit.ly/9CM_Helheim_Pass",
-      "UseAgentAddress": false,
-      "Description": "helheim-pass",
-      "EnableKeys": []
-    },
-    {
-      "Priority": 61,
-      "BannerImageName": "w8event",
-      "PopupImageName": "w8event",
-      "UseDateTime": true,
-      "BeginDateTime": "2024-03-27T00:00:00",
-      "EndDateTime": "2024-04-30T23:59:59",
-      "Url": "https://bit.ly/0327_W8_Event",
-      "UseAgentAddress": false,
-      "Description": "w8event",
       "EnableKeys": []
     },
     {
