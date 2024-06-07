@@ -1,6 +1,41 @@
 {
   "Banners": [
     {
+      "Priority": 0,
+      "BannerImageName": "rubydust-promo",
+      "PopupImageName": "rubydust-promo",
+      "UseDateTime": true,
+      "BeginDateTime": "2024-06-07T00:00:00",
+      "EndDateTime": "2024-06-30T23:59:59",
+      "Url": "https://bit.ly/240607_Promo",
+      "UseAgentAddress": false,
+      "Description": "rubydust-promo",
+      "EnableKeys": []
+    },
+    {
+      "Priority": 10,
+      "BannerImageName": "ruby-guardian-pass",
+      "PopupImageName": "ruby-guardian-pass",
+      "UseDateTime": true,
+      "BeginDateTime": "2024-06-07T00:00:00",
+      "EndDateTime": "2024-06-30T23:59:59",
+      "Url": "https://bit.ly/240607_Ruardian_Pass",
+      "UseAgentAddress": false,
+      "Description": "ruby-guardian-pass",
+      "EnableKeys": []
+    },
+    {
+      "Priority": 20,
+      "BannerImageName": "sparkling-june-event",
+      "PopupImageName": "sparkling-june-event",
+      "UseDateTime": true,
+      "BeginDateTime": "2024-06-07T00:00:00",
+      "EndDateTime": "2024-06-30T23:59:59",
+      "Url": "https://bit.ly/240607_June_Event",
+      "UseAgentAddress": false,
+      "Description": "sparkling-june-event",
+      "EnableKeys": []
+    },{
       "Priority": 97,
       "BannerImageName": "9c-k_migration",
       "PopupImageName": "9c-k_migration",
