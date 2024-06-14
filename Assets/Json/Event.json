@@ -2,6 +2,18 @@
   "Banners": [
     {
       "Priority": 0,
+      "BannerImageName": "rubyweek_banner",
+      "PopupImageName": "rubyweek_thumnail",
+      "UseDateTime": true,
+      "BeginDateTime": "2024-06-13T00:00:00",
+      "EndDateTime": "2024-06-23T23:59:59",
+      "Url": "https://bit.ly/9CM_0615_Promo",
+      "UseAgentAddress": false,
+      "Description": "rubyweek-promo",
+      "EnableKeys": []
+    },
+    {
+      "Priority": 1,
       "BannerImageName": "rubydust-promo",
       "PopupImageName": "rubydust-promo",
       "UseDateTime": true,
@@ -66,7 +78,7 @@
       "UseDateTime": false,
       "BeginDateTime": "",
       "EndDateTime": "",
-      "Url": "https://onboarding.nine-chronicles.com/",
+      "Url": "https://nine-chronicles.com/earn#Referral",
       "UseAgentAddress": true,
       "Description": "Invite Your friend",
       "EnableKeys": []
@@ -78,7 +90,7 @@
       "UseDateTime": false,
       "BeginDateTime": "",
       "EndDateTime": "",
-      "Url": "https://ninechronicles.medium.com/monster-collection-v2-update-6cde770c9f31",
+      "Url": "https://nine-chronicles.com/earn#Stake",
       "UseAgentAddress": false,
       "Description": "Monster Collection",
       "EnableKeys": []
