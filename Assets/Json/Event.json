@@ -2,8 +2,8 @@
   "Banners": [
     {
       "Priority": 0,
-      "BannerImageName": "rubyweek_banner",
-      "PopupImageName": "rubyweek_thumnail",
+      "BannerImageName": "rubyweek_thumnail",
+      "PopupImageName": "rubyweek_banner",
       "UseDateTime": true,
       "BeginDateTime": "2024-06-13T00:00:00",
       "EndDateTime": "2024-06-23T23:59:59",
