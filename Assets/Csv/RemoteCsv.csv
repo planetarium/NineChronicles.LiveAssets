@@ -1045,7 +1045,7 @@ Trong thời gian này, xin vui lòng tham gia kênh Discord và kiểm tra lị
 (chọn 1 trong 4)"
 "UI_ADVENTURE_BOSS_REWARD_INFO_OPERATIONAL_DESC","At the end of the season, you will be rewarded based on the amount of bounty you paid.","시즌이 끝나면 제공한 현상금에 따라 보상을 받습니다.","","シーズンが終わると提供した懸賞金に応じて報酬を受け取ります。","","","","","","","","Cuối mỗi mùa giải, thưởng sẽ được trao cho người chơi sẽ dựa trên số tiền thưởng đã đóng góp."
 "UI_ADVENTURE_BOSS_REWARD_INFO_OPERATIONAL_SUB_DESC","5% of the total bounty is paid to 1 person.","전체 현상금의 5%는 1명에게 보상으로 지급됩니다.","","全体の懸賞金のうち、5％は1人に報酬として支給されます。","","","","","","","","5% tổng tiền thưởng sẽ được trao cho một người chơi."
-"UI_ADVENTURE_BOSS_REWARD_INFO_SCORE","Contribute Rewards","공헌도 보상","","貢献度報酬","","","","","","","","Thưởng Đóng Góp"
+"UI_ADVENTURE_BOSS_REWARD_INFO_SCORE","Total Rewards","공헌도 보상","","貢献度報酬","","","","","","","","Thưởng Đóng Góp"
 "UI_ADVENTURE_BOSS_REWARD_INFO_FLOOR","First Clear Rewards","최초 클리어 보상","","初クリア報酬","","","","","","","","Thưởng Vượt Lần Đầu"
 "UI_ADVENTURE_BOSS_REWARD_INFO_OPERATIONAL","Operational Rewards","운영 보상","","運営報酬","","","","","","","","Thưởng Quản Lý"
 "UI_ADVENTURE_BOSS_REWARD_INFO_TITLE","Rewards","보상","","報酬","","","","","","","","Thưởng"
