@@ -1104,19 +1104,7 @@ bằng một trong hai vật liệu."
 "UI_ADVENTURE_BOSS_UNLOCK_FLOOR_GOLDENDUST_OPEN_BTN","Open","열기","Abrir","開ける","Abrir","เปิด","Buka","Открыть","打开","開啟","Buksan","Mở"
 "UI_ADVENTURE_BOSS_ENTER","Enter","들어가기","Entrar","入場する","Entrar","เข้า","Masuk","Войти","进入","進入","Pumasok","Vào"
 "UI_ADVENTURE_BOSS_BATTLEPOPUP_CHALLENGE","Challenge","도전","Desafio","挑戦","Reto","ความท้าทาย","Tantangan","Вызов","挑战","挑戰","Hamon","Thách Đấu"
-"UI_ADVENTURE_BOSS_BATTLEPOPUP_CHALLENGE_DESC","Failed to clear the challenged floor.
-If you are defeated during battle, only the AP potions used up to the cleared point will be consumed.","도전한 층의 공략에 실패했습니다.
-전투 도중에 패배하면, 클리어한곳까지만큼의 AP포션만 사용됩니다.","Falhou em limpar o andar desafiado.
-Se você for derrotado durante a batalha, apenas as poções de AP usadas até o ponto limpo serão consumidas.","挑戦した階の攻略に失敗しました。
-戦闘中に敗北すると、クリアしたところまでのAPポーションのみ使われます。","No se logró superar el piso desafiado.
-Si eres derrotado durante la batalla, solo se consumirán las pociones de AP usadas hasta el punto despejado.","ไม่สามารถผ่านชั้นที่ท้าทายได้
-หากคุณพ่ายแพ้ระหว่างการต่อสู้ จะมีการใช้ยา AP จนถึงจุดที่ถูกล้างเท่านั้น","Gagal membersihkan lantai yang ditantang.
-Jika Anda kalah dalam pertarungan, hanya ramuan AP yang digunakan sampai titik yang dibersihkan akan dikonsumsi.","Не удалось пройти вызов на этаже.
-Если вы проиграете в бою, будут использованы только зелья АП до достигнутой точки.","未能清除挑战楼层。
-如果你在战斗中被击败，只会消耗到达清除点为止的AP药水。","未能清除挑戰樓層。
-如果你在戰鬥中被擊敗，只會消耗到達清除點為止的AP藥水。","Nabigo na malinis ang hinamon na palapag.
-Kung ikaw ay tatalunin sa laban, tanging ang mga AP potion na ginamit hanggang sa na-clear na punto ang magagamit.","Bạn đã không chinh phục được tầng đã thách đấu.
-Khi thất bại trong trận chiến, bạn sẽ chỉ tiêu thụ thuốc AP cho đến điểm bạn vượt qua gần nhất."
+"UI_ADVENTURE_BOSS_BATTLEPOPUP_CHALLENGE_DESC","Break through the floors that have not been cleared.","클리어하지 않은 층을 돌파합니다.","Avançar pelos andares que não foram limpos.","クリアしていない階層を突破します。","Atraviesa los pisos que no han sido despejados.","ทะลุชั้นที่ยังไม่ได้เคลียร์","Tembus lantai yang belum dibersihkan.","Прорыв через не пройденные этажи.","突破尚未清除的楼层。","突破尚未清除的樓層。","Lampasan ang mga palapag na hindi pa nalilinis.","Vượt qua các tầng chưa được dọn dẹp."
 "UI_ADVENTURE_BOSS_BATTLEPOPUP_CHALLENGE_UNLOCK","Clear new floors through Challenge.","도전를 통해 새로운 충을 클리어 할 수 있습니다.","Limpe novos andares através do Desafio.","挑戦を通じて新しい階をクリアできます。","Supera nuevos pisos mediante un Reto.","ผ่านชั้นใหม่ๆ ผ่านการท้าทาย","Bersihkan lantai baru melalui Tantangan.","Пройдите новые этажи через Вызов.","通过挑战清理新楼层。","通過挑戰清理新樓層。","Linisin ang mga bagong palapag sa pamamagitan ng Hamon.","Bạn có thể thách đấu và vượt qua các tầng mới. "
 "UI_ADVENTURE_BOSS_BATTLEPOPUP_CHALLENGE_GO_TO_UNLOCK","Go to Unlock","해제하러 가기","Ir para Desbloquear","解除しに行く","Ir a Desbloquear","ไปที่การปลดล็อก","Pergi untuk Membuka","Перейти к Разблокировке","前往解锁","前往解鎖","Pumunta para Mag-unlock","Vào Hủy"
 "UI_ADVENTURE_BOSS_BATTLEPOPUP_CHALLENGE_FIRST_CLEAR_REWARD","First Clear Rewards","최초 클리어 보상","Recompensas de Primeira Conclusão","初クリア報酬","Recompensas de Primer Desbloqueo","รางวัลการเคลียร์ครั้งแรก","Hadiah Pembersihan Pertama","Награды за Первое Прохождение","首次清除奖励","首次清除獎勵","Gantimpala sa Unang Paglinis","Thưởng Vượt Lần Đầu"
