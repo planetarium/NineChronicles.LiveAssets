@@ -1003,12 +1003,242 @@ Trong thời gian này, xin vui lòng tham gia kênh Discord và kiểm tra lị
 "ITEM_NAME_600303","Hammer","망치","Martelo","ハンマー","Martillo","ค้อน","Palu","Молоток","锤子","錘子","Martilyo","Búa"
 "ITEM_NAME_600304","Hammer","망치","Martelo","ハンマー","Martillo","ค้อน","Palu","Молоток","锤子","錘子","Martilyo","Búa"
 "ITEM_NAME_600305","Hammer","망치","Martelo","ハンマー","Martillo","ค้อน","Palu","Молоток","锤子","錘子","Martilyo","Búa"
-"ITEM_DESCRIPTION_600203","Emerald Dust","에메랄드 더스트","Pó de Esmeralda","エメラルドダスト","Polvo de Esmeralda","ผงมรกต","Debu Zamrud","Изумрудная пыль","翡翠粉尘","翡翠粉塵","Alabok ng Esmeralda","Bụi Ngọc Lục Bảo"
-"ITEM_DESCRIPTION_600301","Hammer","망치","Martelo","ハンマー","Martillo","ค้อน","Palu","Молоток","锤子","錘子","Martilyo","Búa"
-"ITEM_DESCRIPTION_600302","Hammer","망치","Martelo","ハンマー","Martillo","ค้อน","Palu","Молоток","锤子","錘子","Martilyo","Búa"
-"ITEM_DESCRIPTION_600303","Hammer","망치","Martelo","ハンマー","Martillo","ค้อน","Palu","Молоток","锤子","錘子","Martilyo","Búa"
-"ITEM_DESCRIPTION_600304","Hammer","망치","Martelo","ハンマー","Martillo","ค้อน","Palu","Молоток","锤子","錘子","Martilyo","Búa"
-"ITEM_DESCRIPTION_600305","Hammer","망치","Martelo","ハンマー","Martillo","ค้อน","Palu","Молоток","锤子","錘子","Martilyo","Búa"
+"ITEM_NAME_600306","Hammer","망치","Martelo","ハンマー","Martillo","ค้อน","Palu","Молоток","锤子","錘子","Martilyo","Búa"
+"ITEM_DESCRIPTION_600203","Emerald Dust is necessary to draw premium grimoire items.
+Emerald Dust can be obtained through Adventure Boss Rewards, Package items","에메랄드 더스트는 품질좋은 그리모어를 소환하기위해 필요합니다.
+에메랄드 더스트는 어드벤쳐 보스보상과 패키지 아이템등을 통해 획득가능합니다.","Pó de Esmeralda é necessário para adquirir itens premium de grimório.
+Pó de Esmeralda pode ser obtido através de Recompensas do Chefe de Aventura, itens de Pacotes.","エメラルドダストはプレミアムグリモアアイテムを引くために必要です。
+エメラルドダストは、アドベンチャーボスの報酬やパッケージアイテムを通じて入手できます。","El Polvo de Esmeralda es necesario para obtener artículos premium del grimorio.
+El Polvo de Esmeralda se puede obtener a través de Recompensas del Jefe de Aventura, artículos de Paquete.","ผงมรกตจำเป็นสำหรับการสุ่มไอเท็มกริมัวร์พรีเมียม
+ผงมรกตสามารถได้รับผ่านรางวัลบอสผจญภัย, ไอเท็มแพ็กเกจ","Emerald Dust diperlukan untuk mendapatkan item grimoire premium.
+Emerald Dust dapat diperoleh melalui Hadiah Bos Petualangan, item Paket.","Изумрудная пыль необходима для получения премиальных предметов гримуара.
+Изумрудную пыль можно получить через награды Босса Приключений, предметы из пакетов.","翡翠粉尘对于获取高级魔法书物品是必需的。
+翡翠粉尘可以通过冒险BOSS奖励、礼包物品获得。","翡翠粉塵對於獲取高級魔法書物品是必需的。
+翡翠粉塵可以通過冒險BOSS獎勵、禮包物品獲得。","Kailangan ang Emerald Dust upang makuha ang premium na mga item ng grimoire.
+Maaaring makuha ang Emerald Dust sa pamamagitan ng Mga Gantimpala ng Adventure Boss, mga item ng Package.","Bụi Ngọc Lục Bảo là cần thiết để rút các vật phẩm grimoire cao cấp.
+Bụi Ngọc Lục Bảo có thể được thu thông qua Phần thưởng Boss Phiêu lưu, các mặt hàng Gói."
+"ITEM_DESCRIPTION_600301","A hammer known to be used by the dwarves who have crafted countless weapons.
+It holds the power to enhance a wide variety of equipment, making them significantly stronger.
+It is known to be primarily obtained from adventure bosses
+The normal hammer is known to have experience points similar to those of normal-grade items","수많은 무기를 만들어낸 드워프들이 사용하는것으로 알려진 망치
+수없이 다양한 장비들을 보다 강력하게 강화하는 파워를 가졌다.
+어드벤쳐 보스에서 주로 획득할수 있다고 알려져있다.
+노멀 해머는 노멀등급 아이템과 비슷한 경험치를 가지고 있다고 알려져있다.","Um martelo conhecido por ser usado pelos anões que forjaram inúmeras armas.
+Possui o poder de melhorar uma ampla variedade de equipamentos, tornando-os significativamente mais fortes.
+É conhecido por ser obtido principalmente de chefes de aventura.
+O martelo normal é conhecido por ter pontos de experiência semelhantes aos de itens de grau normal.","数多くの武器を作り出したドワーフが使用していることで知られるハンマーです。
+さまざまな装備を強化する力を持ち、それらを大幅に強くします。
+主にアドベンチャーボスから入手されることが知られています。
+通常のハンマーは、通常グレードのアイテムと同様の経験値を持つことで知られています。","Un martillo conocido por ser utilizado por los enanos que han forjado innumerables armas.
+Posee el poder de mejorar una amplia variedad de equipos, haciéndolos significativamente más fuertes.
+Se sabe que se obtiene principalmente de jefes de aventura.
+Se conoce que el martillo normal tiene puntos de experiencia similares a los de los artículos de grado normal.","ค้อนที่รู้จักกันว่าใช้โดยคนแคระที่ได้สร้างอาวุธนับไม่ถ้วน
+มีพลังในการเพิ่มประสิทธิภาพอุปกรณ์หลากหลายชนิด ทำให้แข็งแกร่งขึ้นอย่างมาก
+ทราบกันว่าได้มาจากบอสผจญภัยเป็นหลัก
+ค้อนธรรมดาที่รู้จักกันว่ามีคะแนนประสบการณ์คล้ายกับไอเท็มเกรดปกติ","Palu yang diketahui digunakan oleh para kurcaci yang telah menciptakan banyak senjata.
+Memiliki kekuatan untuk meningkatkan berbagai peralatan, membuatnya jauh lebih kuat.
+Diketahui terutama diperoleh dari bos petualangan.
+Palu biasa diketahui memiliki poin pengalaman mirip dengan item bergrade normal.","Молот, известный тем, что его использовали дворфы, создавшие бесчисленное количество оружия.
+Он обладает способностью улучшать разнообразное снаряжение, значительно усиливая его.
+Известно, что его в основном можно получить у приключенческих боссов.
+Обычный молот известен тем, что имеет опыт, аналогичный обычным предметам.","一种被众多打造无数武器的矮人所使用的锤子。
+它拥有增强各种设备的能力，使它们显著变强。
+据知主要可以通过冒险BOSS获得。
+普通锤子据知拥有与普通等级物品相似的经验点。","一種被眾多打造無數武器的矮人所使用的錘子。
+它擁有增強各種設備的能力，使它們顯著變強。
+據知主要可以通過冒險BOSS獲得。
+普通錘子據知擁有與普通等級物品相似的經驗點。","Isang martilyo na kilala na ginagamit ng mga duwende na gumawa ng hindi mabilang na mga armas.
+Mayroon itong kapangyarihan na palakasin ang iba't ibang kagamitan, ginagawa itong makabuluhang mas malakas.
+Kilala ito na pangunahing nakukuha mula sa mga boss ng pakikipagsapalaran.
+Ang karaniwang martilyo ay kilala na may mga puntos ng karanasan katulad ng mga normal na grado na item.","Cái búa được biết đến là do những người lùn đã chế tạo ra vô số vũ khí sử dụng.
+Nó có khả năng nâng cao đa dạng các trang bị, làm cho chúng trở nên mạnh mẽ hơn đáng kể.
+Được biết chủ yếu có được từ các boss phiêu lưu.
+Búa thường được biết đến có điểm kinh nghiệm tương tự như các mặt hàng hạng bình thường."
+"ITEM_DESCRIPTION_600302","A hammer known to be used by the dwarves who have crafted countless weapons.
+It holds the power to enhance a wide variety of equipment, making them significantly stronger.
+It is known to be primarily obtained from adventure bosses.
+The rare hammer is known to have experience points similar to those of rare-grade items","수많은 무기를 만들어낸 드워프들이 사용하는것으로 알려진 망치
+수없이 다양한 장비들을 보다 강력하게 강화하는 파워를 가졌다.
+어드벤쳐 보스에서 주로 획득할수 있다고 알려져있다.
+레어 해머는 레어등급 아이템과 비슷한 경험치를 가지고 있다고 알려져있다.","Um martelo conhecido por ser usado pelos anões que forjaram inúmeras armas.
+Possui o poder de melhorar uma ampla variedade de equipamentos, tornando-os significativamente mais fortes.
+É conhecido por ser obtido principalmente de chefes de aventura.
+O martelo normal é conhecido por ter pontos de experiência semelhantes aos de itens de grau normal.","数多くの武器を作り出したドワーフが使用していることで知られるハンマーです。
+さまざまな装備を強化する力を持ち、それらを大幅に強くします。
+主にアドベンチャーボスから入手されることが知られています。
+通常のハンマーは、通常グレードのアイテムと同様の経験値を持つことで知られています。","Un martillo conocido por ser utilizado por los enanos que han forjado innumerables armas.
+Posee el poder de mejorar una amplia variedad de equipos, haciéndolos significativamente más fuertes.
+Se sabe que se obtiene principalmente de jefes de aventura.
+Se conoce que el martillo normal tiene puntos de experiencia similares a los de los artículos de grado normal.","ค้อนที่รู้จักกันว่าใช้โดยคนแคระที่ได้สร้างอาวุธนับไม่ถ้วน
+มีพลังในการเพิ่มประสิทธิภาพอุปกรณ์หลากหลายชนิด ทำให้แข็งแกร่งขึ้นอย่างมาก
+ทราบกันว่าได้มาจากบอสผจญภัยเป็นหลัก
+ค้อนธรรมดาที่รู้จักกันว่ามีคะแนนประสบการณ์คล้ายกับไอเท็มเกรดปกติ","Palu yang diketahui digunakan oleh para kurcaci yang telah menciptakan banyak senjata.
+Memiliki kekuatan untuk meningkatkan berbagai peralatan, membuatnya jauh lebih kuat.
+Diketahui terutama diperoleh dari bos petualangan.
+Palu biasa diketahui memiliki poin pengalaman mirip dengan item bergrade normal.","Молот, известный тем, что его использовали дворфы, создавшие бесчисленное количество оружия.
+Он обладает способностью улучшать разнообразное снаряжение, значительно усиливая его.
+Известно, что его в основном можно получить у приключенческих боссов.
+Обычный молот известен тем, что имеет опыт, аналогичный обычным предметам.","一种被众多打造无数武器的矮人所使用的锤子。
+它拥有增强各种设备的能力，使它们显著变强。
+据知主要可以通过冒险BOSS获得。
+普通锤子据知拥有与普通等级物品相似的经验点。","一種被眾多打造無數武器的矮人所使用的錘子。
+它擁有增強各種設備的能力，使它們顯著變強。
+據知主要可以通過冒險BOSS獲得。
+普通錘子據知擁有與普通等級物品相似的經驗點。","Isang martilyo na kilala na ginagamit ng mga duwende na gumawa ng hindi mabilang na mga armas.
+Mayroon itong kapangyarihan na palakasin ang iba't ibang kagamitan, ginagawa itong makabuluhang mas malakas.
+Kilala ito na pangunahing nakukuha mula sa mga boss ng pakikipagsapalaran.
+Ang karaniwang martilyo ay kilala na may mga puntos ng karanasan katulad ng mga normal na grado na item.","Cái búa được biết đến là do những người lùn đã chế tạo ra vô số vũ khí sử dụng.
+Nó có khả năng nâng cao đa dạng các trang bị, làm cho chúng trở nên mạnh mẽ hơn đáng kể.
+Được biết chủ yếu có được từ các boss phiêu lưu.
+Búa thường được biết đến có điểm kinh nghiệm tương tự như các mặt hàng hạng bình thường."
+"ITEM_DESCRIPTION_600303","A hammer known to be used by the dwarves who have crafted countless weapons.
+It holds the power to enhance a wide variety of equipment, making them significantly stronger.
+It is known to be primarily obtained from adventure bosses.
+The epic hammer is known to have experience points similar to those of epic-grade items","수많은 무기를 만들어낸 드워프들이 사용하는것으로 알려진 망치
+수없이 다양한 장비들을 보다 강력하게 강화하는 파워를 가졌다.
+어드벤쳐 보스에서 주로 획득할수 있다고 알려져있다.
+에픽 해머는 에픽등급 아이템과 비슷한 경험치를 가지고 있다고 알려져있다.","Um martelo conhecido por ser usado pelos anões que forjaram inúmeras armas.
+Possui o poder de melhorar uma ampla variedade de equipamentos, tornando-os significativamente mais fortes.
+É conhecido por ser obtido principalmente de chefes de aventura.
+O martelo normal é conhecido por ter pontos de experiência semelhantes aos de itens de grau normal.","数多くの武器を作り出したドワーフが使用していることで知られるハンマーです。
+さまざまな装備を強化する力を持ち、それらを大幅に強くします。
+主にアドベンチャーボスから入手されることが知られています。
+通常のハンマーは、通常グレードのアイテムと同様の経験値を持つことで知られています。","Un martillo conocido por ser utilizado por los enanos que han forjado innumerables armas.
+Posee el poder de mejorar una amplia variedad de equipos, haciéndolos significativamente más fuertes.
+Se sabe que se obtiene principalmente de jefes de aventura.
+Se conoce que el martillo normal tiene puntos de experiencia similares a los de los artículos de grado normal.","ค้อนที่รู้จักกันว่าใช้โดยคนแคระที่ได้สร้างอาวุธนับไม่ถ้วน
+มีพลังในการเพิ่มประสิทธิภาพอุปกรณ์หลากหลายชนิด ทำให้แข็งแกร่งขึ้นอย่างมาก
+ทราบกันว่าได้มาจากบอสผจญภัยเป็นหลัก
+ค้อนธรรมดาที่รู้จักกันว่ามีคะแนนประสบการณ์คล้ายกับไอเท็มเกรดปกติ","Palu yang diketahui digunakan oleh para kurcaci yang telah menciptakan banyak senjata.
+Memiliki kekuatan untuk meningkatkan berbagai peralatan, membuatnya jauh lebih kuat.
+Diketahui terutama diperoleh dari bos petualangan.
+Palu biasa diketahui memiliki poin pengalaman mirip dengan item bergrade normal.","Молот, известный тем, что его использовали дворфы, создавшие бесчисленное количество оружия.
+Он обладает способностью улучшать разнообразное снаряжение, значительно усиливая его.
+Известно, что его в основном можно получить у приключенческих боссов.
+Обычный молот известен тем, что имеет опыт, аналогичный обычным предметам.","一种被众多打造无数武器的矮人所使用的锤子。
+它拥有增强各种设备的能力，使它们显著变强。
+据知主要可以通过冒险BOSS获得。
+普通锤子据知拥有与普通等级物品相似的经验点。","一種被眾多打造無數武器的矮人所使用的錘子。
+它擁有增強各種設備的能力，使它們顯著變強。
+據知主要可以通過冒險BOSS獲得。
+普通錘子據知擁有與普通等級物品相似的經驗點。","Isang martilyo na kilala na ginagamit ng mga duwende na gumawa ng hindi mabilang na mga armas.
+Mayroon itong kapangyarihan na palakasin ang iba't ibang kagamitan, ginagawa itong makabuluhang mas malakas.
+Kilala ito na pangunahing nakukuha mula sa mga boss ng pakikipagsapalaran.
+Ang karaniwang martilyo ay kilala na may mga puntos ng karanasan katulad ng mga normal na grado na item.","Cái búa được biết đến là do những người lùn đã chế tạo ra vô số vũ khí sử dụng.
+Nó có khả năng nâng cao đa dạng các trang bị, làm cho chúng trở nên mạnh mẽ hơn đáng kể.
+Được biết chủ yếu có được từ các boss phiêu lưu.
+Búa thường được biết đến có điểm kinh nghiệm tương tự như các mặt hàng hạng bình thường."
+"ITEM_DESCRIPTION_600304","A hammer known to be used by the dwarves who have crafted countless weapons.
+It holds the power to enhance a wide variety of equipment, making them significantly stronger.
+It is known to be primarily obtained from adventure bosses.
+The unique hammer is known to have experience points similar to those of Unique-grade items","수많은 무기를 만들어낸 드워프들이 사용하는것으로 알려진 망치
+수없이 다양한 장비들을 보다 강력하게 강화하는 파워를 가졌다.
+어드벤쳐 보스에서 주로 획득할수 있다고 알려져있다.
+유니크 해머는 유니크등급 아이템과 비슷한 경험치를 가지고 있다고 알려져있다.","Um martelo conhecido por ser usado pelos anões que forjaram inúmeras armas.
+Possui o poder de melhorar uma ampla variedade de equipamentos, tornando-os significativamente mais fortes.
+É conhecido por ser obtido principalmente de chefes de aventura.
+O martelo normal é conhecido por ter pontos de experiência semelhantes aos de itens de grau normal.","数多くの武器を作り出したドワーフが使用していることで知られるハンマーです。
+さまざまな装備を強化する力を持ち、それらを大幅に強くします。
+主にアドベンチャーボスから入手されることが知られています。
+通常のハンマーは、通常グレードのアイテムと同様の経験値を持つことで知られています。","Un martillo conocido por ser utilizado por los enanos que han forjado innumerables armas.
+Posee el poder de mejorar una amplia variedad de equipos, haciéndolos significativamente más fuertes.
+Se sabe que se obtiene principalmente de jefes de aventura.
+Se conoce que el martillo normal tiene puntos de experiencia similares a los de los artículos de grado normal.","ค้อนที่รู้จักกันว่าใช้โดยคนแคระที่ได้สร้างอาวุธนับไม่ถ้วน
+มีพลังในการเพิ่มประสิทธิภาพอุปกรณ์หลากหลายชนิด ทำให้แข็งแกร่งขึ้นอย่างมาก
+ทราบกันว่าได้มาจากบอสผจญภัยเป็นหลัก
+ค้อนธรรมดาที่รู้จักกันว่ามีคะแนนประสบการณ์คล้ายกับไอเท็มเกรดปกติ","Palu yang diketahui digunakan oleh para kurcaci yang telah menciptakan banyak senjata.
+Memiliki kekuatan untuk meningkatkan berbagai peralatan, membuatnya jauh lebih kuat.
+Diketahui terutama diperoleh dari bos petualangan.
+Palu biasa diketahui memiliki poin pengalaman mirip dengan item bergrade normal.","Молот, известный тем, что его использовали дворфы, создавшие бесчисленное количество оружия.
+Он обладает способностью улучшать разнообразное снаряжение, значительно усиливая его.
+Известно, что его в основном можно получить у приключенческих боссов.
+Обычный молот известен тем, что имеет опыт, аналогичный обычным предметам.","一种被众多打造无数武器的矮人所使用的锤子。
+它拥有增强各种设备的能力，使它们显著变强。
+据知主要可以通过冒险BOSS获得。
+普通锤子据知拥有与普通等级物品相似的经验点。","一種被眾多打造無數武器的矮人所使用的錘子。
+它擁有增強各種設備的能力，使它們顯著變強。
+據知主要可以通過冒險BOSS獲得。
+普通錘子據知擁有與普通等級物品相似的經驗點。","Isang martilyo na kilala na ginagamit ng mga duwende na gumawa ng hindi mabilang na mga armas.
+Mayroon itong kapangyarihan na palakasin ang iba't ibang kagamitan, ginagawa itong makabuluhang mas malakas.
+Kilala ito na pangunahing nakukuha mula sa mga boss ng pakikipagsapalaran.
+Ang karaniwang martilyo ay kilala na may mga puntos ng karanasan katulad ng mga normal na grado na item.","Cái búa được biết đến là do những người lùn đã chế tạo ra vô số vũ khí sử dụng.
+Nó có khả năng nâng cao đa dạng các trang bị, làm cho chúng trở nên mạnh mẽ hơn đáng kể.
+Được biết chủ yếu có được từ các boss phiêu lưu.
+Búa thường được biết đến có điểm kinh nghiệm tương tự như các mặt hàng hạng bình thường."
+"ITEM_DESCRIPTION_600305","A hammer known to be used by the dwarves who have crafted countless weapons.
+It holds the power to enhance a wide variety of equipment, making them significantly stronger.
+It is known to be primarily obtained from adventure bosses.
+The legendry hammer is known to have experience points similar to those of legendry-grade items","수많은 무기를 만들어낸 드워프들이 사용하는것으로 알려진 망치
+수없이 다양한 장비들을 보다 강력하게 강화하는 파워를 가졌다.
+어드벤쳐 보스에서 주로 획득할수 있다고 알려져있다.
+레전드리 해머는 레전드리등급 아이템과 비슷한 경험치를 가지고 있다고 알려져있다.","Um martelo conhecido por ser usado pelos anões que forjaram inúmeras armas.
+Possui o poder de melhorar uma ampla variedade de equipamentos, tornando-os significativamente mais fortes.
+É conhecido por ser obtido principalmente de chefes de aventura.
+O martelo normal é conhecido por ter pontos de experiência semelhantes aos de itens de grau normal.","数多くの武器を作り出したドワーフが使用していることで知られるハンマーです。
+さまざまな装備を強化する力を持ち、それらを大幅に強くします。
+主にアドベンチャーボスから入手されることが知られています。
+通常のハンマーは、通常グレードのアイテムと同様の経験値を持つことで知られています。","Un martillo conocido por ser utilizado por los enanos que han forjado innumerables armas.
+Posee el poder de mejorar una amplia variedad de equipos, haciéndolos significativamente más fuertes.
+Se sabe que se obtiene principalmente de jefes de aventura.
+Se conoce que el martillo normal tiene puntos de experiencia similares a los de los artículos de grado normal.","ค้อนที่รู้จักกันว่าใช้โดยคนแคระที่ได้สร้างอาวุธนับไม่ถ้วน
+มีพลังในการเพิ่มประสิทธิภาพอุปกรณ์หลากหลายชนิด ทำให้แข็งแกร่งขึ้นอย่างมาก
+ทราบกันว่าได้มาจากบอสผจญภัยเป็นหลัก
+ค้อนธรรมดาที่รู้จักกันว่ามีคะแนนประสบการณ์คล้ายกับไอเท็มเกรดปกติ","Palu yang diketahui digunakan oleh para kurcaci yang telah menciptakan banyak senjata.
+Memiliki kekuatan untuk meningkatkan berbagai peralatan, membuatnya jauh lebih kuat.
+Diketahui terutama diperoleh dari bos petualangan.
+Palu biasa diketahui memiliki poin pengalaman mirip dengan item bergrade normal.","Молот, известный тем, что его использовали дворфы, создавшие бесчисленное количество оружия.
+Он обладает способностью улучшать разнообразное снаряжение, значительно усиливая его.
+Известно, что его в основном можно получить у приключенческих боссов.
+Обычный молот известен тем, что имеет опыт, аналогичный обычным предметам.","一种被众多打造无数武器的矮人所使用的锤子。
+它拥有增强各种设备的能力，使它们显著变强。
+据知主要可以通过冒险BOSS获得。
+普通锤子据知拥有与普通等级物品相似的经验点。","一種被眾多打造無數武器的矮人所使用的錘子。
+它擁有增強各種設備的能力，使它們顯著變強。
+據知主要可以通過冒險BOSS獲得。
+普通錘子據知擁有與普通等級物品相似的經驗點。","Isang martilyo na kilala na ginagamit ng mga duwende na gumawa ng hindi mabilang na mga armas.
+Mayroon itong kapangyarihan na palakasin ang iba't ibang kagamitan, ginagawa itong makabuluhang mas malakas.
+Kilala ito na pangunahing nakukuha mula sa mga boss ng pakikipagsapalaran.
+Ang karaniwang martilyo ay kilala na may mga puntos ng karanasan katulad ng mga normal na grado na item.","Cái búa được biết đến là do những người lùn đã chế tạo ra vô số vũ khí sử dụng.
+Nó có khả năng nâng cao đa dạng các trang bị, làm cho chúng trở nên mạnh mẽ hơn đáng kể.
+Được biết chủ yếu có được từ các boss phiêu lưu.
+Búa thường được biết đến có điểm kinh nghiệm tương tự như các mặt hàng hạng bình thường."
+"ITEM_DESCRIPTION_600306","A hammer known to be used by the dwarves who have crafted countless weapons.
+It holds the power to enhance a wide variety of equipment, making them significantly stronger.
+It is known to be primarily obtained from adventure bosses.
+The sacred hammer is known to have experience points similar to those of sacred-grade items","수많은 무기를 만들어낸 드워프들이 사용하는것으로 알려진 망치
+수없이 다양한 장비들을 보다 강력하게 강화하는 파워를 가졌다.
+어드벤쳐 보스에서 주로 획득할수 있다고 알려져있다.
+신성 해머는 신성등급 아이템과 비슷한 경험치를 가지고 있다고 알려져있다.","Um martelo conhecido por ser usado pelos anões que forjaram inúmeras armas.
+Possui o poder de melhorar uma ampla variedade de equipamentos, tornando-os significativamente mais fortes.
+É conhecido por ser obtido principalmente de chefes de aventura.
+O martelo normal é conhecido por ter pontos de experiência semelhantes aos de itens de grau normal.","数多くの武器を作り出したドワーフが使用していることで知られるハンマーです。
+さまざまな装備を強化する力を持ち、それらを大幅に強くします。
+主にアドベンチャーボスから入手されることが知られています。
+通常のハンマーは、通常グレードのアイテムと同様の経験値を持つことで知られています。","Un martillo conocido por ser utilizado por los enanos que han forjado innumerables armas.
+Posee el poder de mejorar una amplia variedad de equipos, haciéndolos significativamente más fuertes.
+Se sabe que se obtiene principalmente de jefes de aventura.
+Se conoce que el martillo normal tiene puntos de experiencia similares a los de los artículos de grado normal.","ค้อนที่รู้จักกันว่าใช้โดยคนแคระที่ได้สร้างอาวุธนับไม่ถ้วน
+มีพลังในการเพิ่มประสิทธิภาพอุปกรณ์หลากหลายชนิด ทำให้แข็งแกร่งขึ้นอย่างมาก
+ทราบกันว่าได้มาจากบอสผจญภัยเป็นหลัก
+ค้อนธรรมดาที่รู้จักกันว่ามีคะแนนประสบการณ์คล้ายกับไอเท็มเกรดปกติ","Palu yang diketahui digunakan oleh para kurcaci yang telah menciptakan banyak senjata.
+Memiliki kekuatan untuk meningkatkan berbagai peralatan, membuatnya jauh lebih kuat.
+Diketahui terutama diperoleh dari bos petualangan.
+Palu biasa diketahui memiliki poin pengalaman mirip dengan item bergrade normal.","Молот, известный тем, что его использовали дворфы, создавшие бесчисленное количество оружия.
+Он обладает способностью улучшать разнообразное снаряжение, значительно усиливая его.
+Известно, что его в основном можно получить у приключенческих боссов.
+Обычный молот известен тем, что имеет опыт, аналогичный обычным предметам.","一种被众多打造无数武器的矮人所使用的锤子。
+它拥有增强各种设备的能力，使它们显著变强。
+据知主要可以通过冒险BOSS获得。
+普通锤子据知拥有与普通等级物品相似的经验点。","一種被眾多打造無數武器的矮人所使用的錘子。
+它擁有增強各種設備的能力，使它們顯著變強。
+據知主要可以通過冒險BOSS獲得。
+普通錘子據知擁有與普通等級物品相似的經驗點。","Isang martilyo na kilala na ginagamit ng mga duwende na gumawa ng hindi mabilang na mga armas.
+Mayroon itong kapangyarihan na palakasin ang iba't ibang kagamitan, ginagawa itong makabuluhang mas malakas.
+Kilala ito na pangunahing nakukuha mula sa mga boss ng pakikipagsapalaran.
+Ang karaniwang martilyo ay kilala na may mga puntos ng karanasan katulad ng mga normal na grado na item.","Cái búa được biết đến là do những người lùn đã chế tạo ra vô số vũ khí sử dụng.
+Nó có khả năng nâng cao đa dạng các trang bị, làm cho chúng trở nên mạnh mẽ hơn đáng kể.
+Được biết chủ yếu có được từ các boss phiêu lưu.
+Búa thường được biết đến có điểm kinh nghiệm tương tự như các mặt hàng hạng bình thường."
 "UI_ADVENTURE_BODD_BACK_BUTTON","Adventure Boss","어드벤쳐 보스","Chefe de Aventura","アドベンチャーボス","Jefe de Aventura","บอสผจญภัย","Bos Petualangan","Босс Приключений","冒险老板","冒險老闆","Pinuno ng Pakikipagsapalaran","Adventure Boss"
 "BOUNTY_TOTAL","Total Bounty ","현상금 총액","Recompensa Total","懸賞金総額","Recompensa Total","รางวัลรวม","Total Hadiah","Общая Награда","总赏金","總賞金","Kabuuang Pabuya","Tổng Tiền Thưởng"
 "UI_VIEW_ALL","View All","전부 보기","Ver Tudo","すべて見る","Ver Todo","ดูทั้งหมด","Lihat Semua","Посмотреть все","查看全部","查看全部","Tingnan Lahat","Xem Tất Cả"
@@ -1083,7 +1313,7 @@ El 15% del total de la recompensa NCG se distribuirá según la contribución.",
 "UI_ADVENTURE_BOSS_RANDOM_REWARD_POPUP_DESC","5% of the total bounty is paid to 1 person.","전체 현상금의 5%는 1명에게 보상으로 지급됩니다.","5% do total da recompensa é pago a 1 pessoa.","全体の懸賞金のうち、5％は1人に報酬として支給されます。","El 5% del total de la recompensa se paga a 1 persona.","5% ของเงินรางวัลทั้งหมดจ่ายให้กับ 1 คน","5% dari total hadiah dibayarkan kepada 1 orang.","5% от общей суммы вознаграждения выплачивается одному человеку.","总赏金的5%支付给1人。","總賞金的5%支付給1人。","5% ng kabuuang bounty ay ibinabayad sa 1 tao.","5% tổng tiền thưởng sẽ được trao cho một người chơi."
 "UI_ADVENTURE_BOSS_RANDOM_REWARD_OPERATOR_WINNER","Winner among Operators","운영자중 당첨자","Vencedor entre Operadores","運営者のうち当選者","Ganador entre Operadores","ผู้ชนะจากผู้ปฏิบัติการ","Pemenang di antara Operator","Победитель среди Операторов","操作者中的赢家","操作者中的贏家","Nanalo sa mga Operator","Người Chiến Thắng - Quản Lý"
 "UI_ADVENTURE_BOSS_RANDOM_REWARD_PARTICIPANT_WINNER","Winner among Participants","참가자중 당첨자","Vencedor entre os Participantes","参加者のうち当選者","Ganador entre los Participantes","ผู้ชนะจากผู้เข้าร่วม","Pemenang di antara Peserta","Победитель среди Участников","参与者中的赢家","參與者中的贏家","Nanalo sa mga Kalahok","Người Chiến Thắng - Người Tham Gia"
-"NOTIFICATION_CLAIM_ADVENTURE_BOSS_REWARD_COMPLETE","The winner for this season has been determined.","이번 시즌 당첨자가 결정되었습니다.","O vencedor desta temporada foi determinado.","今シーズンの当選者が決定されました。","El ganador de esta temporada ha sido determinado.","ผู้ชนะในฤดูกาลนี้ได้รับการตัดสินแล้ว","Pemenang untuk musim ini telah ditentukan.","Победитель этого сезона был определен.","本赛季的赢家已经确定。","本賽季的贏家已經確定。","Ang nanalo para sa panahong ito ay natukoy na.","Đã chọn được người chiến thắng mùa giải này."
+"NOTIFICATION_CLAIM_ADVENTURE_BOSS_REWARD_COMPLETE","The rewards have arrived","보상이 도착했습니다.","As recompensas chegaram.","報酬が届きました。","Las recompensas han llegado.","รางวัลมาถึงแล้ว","Hadiahnya telah tiba.","Награды прибыли.","奖励已经到达。","獎勵已經到達。","Dumating na ang mga gantimpala.","Phần thưởng đã đến."
 "UI_ADVENTURE_BOSS_BOUNTY_POPUP_FIRST_INFO","The boss is determined when the initial bounty is placed.","보스는 최초 현상금을 걸때 결정됩니다.","O chefe é determinado quando a recompensa inicial é colocada.","ボスは最初の懸賞金をかけるときに決定されます。","El jefe se determina cuando se coloca la recompensa inicial.","หัวหน้าจะถูกตัดสินเมื่อวางเงินรางวัลเริ่มต้น","Bos ditentukan saat hadiah awal ditempatkan.","Босс определяется, когда устанавливается начальное вознаграждение.","当最初的赏金被放置时，老板就被确定下来。","當最初的賞金被放置時，老板就被確定下來。","Ang boss ay natutukoy kapag nailagay ang paunang pabuya.","Boss được xác định khi khoản tiền thưởng đầu tiên được đăng."
 "UI_ADVENTURE_BOSS_BOUNTY_POPUP_TOTAL_BOUNTY","Total Bounty","전체 현상금","Recompensa Total","全体懸賞金","Recompensa Total","รางวัลรวม","Total Hadiah","Общая Награда","总赏金","總賞金","Kabuuang Pabuya","Tổng Tiền Thưởng"
 "UI_ADVENTURE_BOSS_BOUNTY_POPUP_CONFIRMED_REWARDS","Guaranteed Rewards for Each Boss","각 보스별 확정 보상","Recompensas Garantidas para Cada Chefe","各ボス別の確定報酬","Recompensas Garantizadas para Cada Jefe","รางวัลที่รับประกันสำหรับแต่ละบอส","Hadiah Terjamin untuk Setiap Bos","Гарантированные Награды за Каждого Босса","每个BOSS的保证奖励","每個BOSS的保證獎勵","Garantisadong Gantimpala para sa Bawat Boss","Thưởng Đảm Bảo cho Mỗi Boss"
@@ -1104,7 +1334,7 @@ bằng một trong hai vật liệu."
 "UI_ADVENTURE_BOSS_UNLOCK_FLOOR_GOLDENDUST_OPEN_BTN","Open","열기","Abrir","開ける","Abrir","เปิด","Buka","Открыть","打开","開啟","Buksan","Mở"
 "UI_ADVENTURE_BOSS_ENTER","Enter","들어가기","Entrar","入場する","Entrar","เข้า","Masuk","Войти","进入","進入","Pumasok","Vào"
 "UI_ADVENTURE_BOSS_BATTLEPOPUP_CHALLENGE","Challenge","도전","Desafio","挑戦","Reto","ความท้าทาย","Tantangan","Вызов","挑战","挑戰","Hamon","Thách Đấu"
-"UI_ADVENTURE_BOSS_BATTLEPOPUP_CHALLENGE_DESC","Break through the floors that have not been cleared.","클리어하지 않은 층을 돌파합니다.","Avançar pelos andares que não foram limpos.","クリアしていない階層を突破します。","Atraviesa los pisos que no han sido despejados.","ทะลุชั้นที่ยังไม่ได้เคลียร์","Tembus lantai yang belum dibersihkan.","Прорыв через не пройденные этажи.","突破尚未清除的楼层。","突破尚未清除的樓層。","Lampasan ang mga palapag na hindi pa nalilinis.","Vượt qua các tầng chưa được dọn dẹp."
+"UI_ADVENTURE_BOSS_BATTLEPOPUP_CHALLENGE_DESC","Challenge the floors that have not been cleared.","클리어하지 않은 층을 도전합니다.","Desafie os andares que não foram limpos.","クリアされていない階層に挑戦してください。","Desafía los pisos que no han sido despejados.","ท้าทายชั้นที่ยังไม่ได้เคลียร์","Tantang lantai yang belum dibersihkan.","Бросьте вызов этажам, которые еще не были пройдены.","挑战尚未清理的楼层。","挑戰尚未清理的樓層。","Hamunin ang mga palapag na hindi pa nalilinis.","Thách thức các tầng chưa được dọn dẹp."
 "UI_ADVENTURE_BOSS_BATTLEPOPUP_CHALLENGE_UNLOCK","Clear new floors through Challenge.","도전를 통해 새로운 충을 클리어 할 수 있습니다.","Limpe novos andares através do Desafio.","挑戦を通じて新しい階をクリアできます。","Supera nuevos pisos mediante un Reto.","ผ่านชั้นใหม่ๆ ผ่านการท้าทาย","Bersihkan lantai baru melalui Tantangan.","Пройдите новые этажи через Вызов.","通过挑战清理新楼层。","通過挑戰清理新樓層。","Linisin ang mga bagong palapag sa pamamagitan ng Hamon.","Bạn có thể thách đấu và vượt qua các tầng mới. "
 "UI_ADVENTURE_BOSS_BATTLEPOPUP_CHALLENGE_GO_TO_UNLOCK","Go to Unlock","해제하러 가기","Ir para Desbloquear","解除しに行く","Ir a Desbloquear","ไปที่การปลดล็อก","Pergi untuk Membuka","Перейти к Разблокировке","前往解锁","前往解鎖","Pumunta para Mag-unlock","Vào Hủy"
 "UI_ADVENTURE_BOSS_BATTLEPOPUP_CHALLENGE_FIRST_CLEAR_REWARD","First Clear Rewards","최초 클리어 보상","Recompensas de Primeira Conclusão","初クリア報酬","Recompensas de Primer Desbloqueo","รางวัลการเคลียร์ครั้งแรก","Hadiah Pembersihan Pertama","Награды за Первое Прохождение","首次清除奖励","首次清除獎勵","Gantimpala sa Unang Paglinis","Thưởng Vượt Lần Đầu"
@@ -1122,83 +1352,106 @@ bằng một trong hai vật liệu."
 "RUNE_NAME_10033","HIT Rune","HIT 룬","Runa de HIT","HITルーン","Runa de HIT","รูน HIT","Runa HIT","Руна HIT","命中符文","命中符文","Rune ng HIT","Rune HIT"
 "RUNE_NAME_10034","SPD Rune","SPD 룬","Runa de SPD","SPDルーン","Runa de SPD","รูน SPD","Runa SPD","Руна SPD","速度符文","速度符文","Rune ng SPD","Rune SPD"
 "RUNE_NAME_10035","CRI Rune","CRI 룬","Runa de CRI","CRIルーン","Runa de CRI","รูน CRI","Runa CRI","Руна CRI","暴击符文","暴擊符文","Rune ng CRI","Rune CRI"
-"ITEM_DESCRIPTION_49900019","The adventures you've experienced in 'Nine Chronicles' are never simple journeys. Now, your courage and dedication are rewarded with honorable titles. This symbolizes how remarkable your deeds have been in this world. Available through Brave Cat's Journey Season 4 Premium.","당신이 '나인 크로니클'에서 겪은 모험은 결코 단순한 여정이 아닙니다. 이제, 당신의 용맹함과 헌신이 명예로운 칭호로 결실을 맺습니다. 이는 당신이 이 세계에서 얼마나 뛰어난 행위를 했는지를 상징합니다. 용감한 고양이의 여행 시즌4 프리미엄 통해 획득 가능합니다.","As aventuras que você experimentou em 'Nine Chronicles' nunca são jornadas simples. Agora, sua coragem e dedicação são recompensadas com títulos honrosos. Isso simboliza o quão notáveis foram suas ações neste mundo. Disponível através do Brave Cat's Journey Season 4 Premium.","Nine Chronicles'で経験した冒険は決して単純な旅ではありません。今、あなたの勇気と献身は名誉ある称号で報われます。これはあなたのこの世界での行いがどれだけ優れていたかを象徴しています。勇敢な猫の旅 シーズン4 プレミアムで入手可能です。","Las aventuras que has experimentado en 'Nine Chronicles' nunca son simples viajes. Ahora, tu valentía y dedicación son recompensadas con títulos honorables. Esto simboliza lo notable que han sido tus acciones en este mundo. Disponible a través del Premium de la Temporada 4 del Viaje del Gato Valiente.","การผจญภัยของคุณในโลกของ 'Nine Chronicle' ไม่ใช่เพียงแค่การเดินทางธรรมดา ตอนนี้ความกล้าหาญและการทุ่มเทของคุณได้กลายเป็นตำแหน่งเกียรติยศใหม่ นี่เป็นสัญลักษณ์ของการกระทำที่ยอดเยี่ยมที่คุณได้ทำไว้ในโลกนี้ สามารถรับได้ผ่าน Brave Cat's Journey Season 4 Premium","Petualangan yang kamu alami di 'Nine Chronicles' tidak pernah menjadi perjalanan yang sederhana. Sekarang, keberanian dan dedikasi Anda dihargai dengan gelar kehormatan. Ini melambangkan seberapa luar biasa perbuatan Anda di dunia ini. Tersedia melalui Premium Brave Cat's Journey Season 4.","Ваши приключения в мире 'Nine Chronicle' никогда не были простым путешествием. Теперь ваше мужество и преданность дали плоды в виде нового почетного звания. Это символизирует ваши выдающиеся поступки в этом мире. Доступно через премиум Путешествия Отважного Кота Сезон 4.","在'Nine Chronicle'世界中的冒险绝不仅仅是一段简单的旅程。现在，你的勇气和奉献将以一种新的荣誉称号的形式结出果实。这象征着你在这个世界中所完成的非凡事迹。通过勇敢猫咪的旅程第四季高级版获得。","在'Nine Chronicle'世界中的冒險絕不僅僅是一段簡單的旅程。現在，您的勇氣和奉獻將以一種新的榮譽稱號的形式結出果實。這象徵著您在這個世界中所完成的非凡事蹟。通過勇敢貓咪的旅程第四季高級版獲得。","Ang iyong mga pakikipagsapalaran sa mundo ng 'Nine Chronicle' ay hindi lamang isang simpleng paglalakbay. Ngayon, ang iyong katapangan at dedikasyon ay magbubunga ng isang bagong marangal na titulo. Ito ay simbolo ng mga natatanging gawa na iyong nagawa sa mundong ito. Makukuha sa pamamagitan ng Brave Cat's Journey Season 4 Premium.","Cuộc phiêu lưu của bạn trong thế giới 'Nine Chronicle' không phải là một hành trình đơn giản. Giờ đây, sự dũng cảm và cống hiến của bạn sẽ mang lại danh hiệu danh dự mới. Điều này tượng trưng cho những hành động xuất sắc mà bạn đã thực hiện trong thế giới này. Có thể nhận được thông qua Phiên bản Premium của Hành Trình Mèo Dũng Cảm Mùa 4."
 "ITEM_DESCRIPTION_10033","This is a material used to craft runes and level up. It can be obtained as a [SUMMON] reward.","룬 제작과 레벨 업에 사용되는 재료입니다. [SUMMON] 보상으로 획득할 수 있습니다.","Este é um material usado para criar runas e aumentar o nível. Pode ser obtido como recompensa de [SUMMON].","ルーンの製作とレベルアップに使用される素材です。[召喚]のリワードとして入手できます。","Este es un material utilizado para crear runas y subir de nivel. Se puede obtener como recompensa de [SUMMON].","นี่คือวัสดุที่ใช้ในการสร้างรูนและเพิ่มระดับ สามารถได้รับเป็นรางวัลจาก [SUMMON]","Ini adalah bahan yang digunakan untuk membuat runa dan meningkatkan level. Bisa didapatkan sebagai hadiah [SUMMON].","Это материал, используемый для создания рун и повышения уровня. Можно получить в качестве награды за [ПРИЗЫВ].","这是用于制作符文和升级的材料。可以作为[召唤]奖励获得。","這是用於製作符文和升級的材料。可以作為[召喚]獎勵獲得。","Ito ay isang materyal na ginagamit para sa paggawa ng mga runa at pag-level up. Maaaring makuha bilang gantimpala sa [SUMMON].","Đây là nguyên liệu được sử dụng để chế tạo rune và tăng cấp. Có thể nhận được như một phần thưởng của [SUMMON]."
 "ITEM_DESCRIPTION_10034","This is a material used to craft runes and level up. It can be obtained as a [SUMMON] reward.","룬 제작과 레벨 업에 사용되는 재료입니다. [SUMMON] 보상으로 획득할 수 있습니다.","Este é um material usado para criar runas e aumentar o nível. Pode ser obtido como recompensa de [SUMMON].","ルーンの製作とレベルアップに使用される素材です。[召喚]のリワードとして入手できます。","Este es un material utilizado para crear runas y subir de nivel. Se puede obtener como recompensa de [SUMMON].","นี่คือวัสดุที่ใช้ในการสร้างรูนและเพิ่มระดับ สามารถได้รับเป็นรางวัลจาก [SUMMON]","Ini adalah bahan yang digunakan untuk membuat runa dan meningkatkan level. Bisa didapatkan sebagai hadiah [SUMMON].","Это материал, используемый для создания рун и повышения уровня. Можно получить в качестве награды за [ПРИЗЫВ].","这是用于制作符文和升级的材料。可以作为[召唤]奖励获得。","這是用於製作符文和升級的材料。可以作為[召喚]獎勵獲得。","Ito ay isang materyal na ginagamit para sa paggawa ng mga runa at pag-level up. Maaaring makuha bilang gantimpala sa [SUMMON].","Đây là nguyên liệu được sử dụng để chế tạo rune và tăng cấp. Có thể nhận được như một phần thưởng của [SUMMON]."
 "ITEM_DESCRIPTION_10035","This is a material used to craft runes and level up. It can be obtained as a [SUMMON] reward.","룬 제작과 레벨 업에 사용되는 재료입니다. [SUMMON] 보상으로 획득할 수 있습니다.","Este é um material usado para criar runas e aumentar o nível. Pode ser obtido como recompensa de [SUMMON].","ルーンの製作とレベルアップに使用される素材です。[召喚]のリワードとして入手できます。","Este es un material utilizado para crear runas y subir de nivel. Se puede obtener como recompensa de [SUMMON].","นี่คือวัสดุที่ใช้ในการสร้างรูนและเพิ่มระดับ สามารถได้รับเป็นรางวัลจาก [SUMMON]","Ini adalah bahan yang digunakan untuk membuat runa dan meningkatkan level. Bisa didapatkan sebagai hadiah [SUMMON].","Это материал, используемый для создания рун и повышения уровня. Можно получить в качестве награды за [ПРИЗЫВ].","这是用于制作符文和升级的材料。可以作为[召唤]奖励获得。","這是用於製作符文和升級的材料。可以作為[召喚]獎勵獲得。","Ito ay isang materyal na ginagamit para sa paggawa ng mga runa at pag-level up. Maaaring makuha bilang gantimpala sa [SUMMON].","Đây là nguyên liệu được sử dụng để chế tạo rune và tăng cấp. Có thể nhận được như một phần thưởng của [SUMMON]."
-"HELP_POPUP_100031_PAGE_00_TITLE","Management and Subjugation of the Adventure Boss","어드벤쳐 보스 운영 및 토벌","Gestão e Subjugação do Chefe da Aventura","アドベンチャーボスの運営及び制圧","Gestión y Sometimiento del Jefe de Aventura","การจัดการและการควบคุมบอสผจญภัย","Pengelolaan dan Penaklukan Bos Petualangan","Управление и Подчинение Приключенческого Босса","冒险BOSS的管理与征服","冒險BOSS的管理與征服","Pamamahala at Pagsubok sa Boss ng Pakikipagsapalaran","Quản lý và Chinh phục Boss Phiêu lưu"
-"HELP_POPUP_100031_PAGE_00_TEXT_00","- If you entrust NCG to Loki for operation, you will receive rewards after the season ends. The rewards consist of predefined rewards for each Adventure Boss and randomly vary each season.
+"HELP_POPUP_100031_PAGE_00_TITLE","HELP","도움말","AJUDA","ヘルプ","AYUDA","ช่วยเหลือ","BANTUAN","ПОМОЩЬ","帮助","幫助","TULONG","GIÚP ĐỠ"
+"HELP_POPUP_100031_PAGE_00_TEXT_00","<color=#c17636><size=20><b>◆ Operation and Contribution </b></size></color>
+- If you entrust NCG to Loki for operation, you will receive rewards after the season ends. The rewards consist of predefined rewards for each Adventure Boss and randomly vary each season.
 - The user who entrusts the most operational funds each season will receive an additional bonus of 20% of the total amount.
 - After the season ends, 15% of the operational funds will be distributed as NCG based on the contributions made through challenges and breakthroughs.
-- After the season ends, one of the players who participated in the subjugation will receive 5% of the total operational funds as NCG.","- 로키에게 NCG를 맡기어 운영에 참여하면 시즌 종료후 보상을 받게 됩니다. 보상은 어드벤쳐 보스마다 결정되어있는 보상과 시즌마다 랜덤하게 바뀌는 보상으로 구성되어 있습니다. 
+- After the season ends, one of the players who participated in the subjugation will receive 5% of the total operational funds as NCG.","<color=#c17636><size=20><b>◆ 운영과 공헌도 </b></size></color>
+- 로키에게 NCG를 맡기어 운영에 참여하면 시즌 종료후 보상을 받게 됩니다. 보상은 어드벤쳐 보스마다 결정되어있는 보상과 시즌마다 랜덤하게 바뀌는 보상으로 구성되어 있습니다. 
 - 각 시즌마다 가장 많은 운영자금을 맡긴 유저는 전체 금액의 20% 만큼 보너스를 추가로 받게 됩니다.
 - 시즌 종료후 도전과 돌파로 쌓은 공헌도에 따라 운영자금의 15%에 해당하는 NCG가 분배됩니다.
-- 시즌 종료후 토벌에 참여한 플레이어중 1명은 전체 운영자금의 5%에 해당하는 NCG를 획득하게 됩니다.","- Se você confiar o NCG ao Loki para operação, receberá recompensas após o término da temporada. As recompensas consistem em recompensas predeterminadas para cada Chefe de Aventura e variam aleatoriamente a cada temporada.
+- 시즌 종료후 토벌에 참여한 플레이어중 1명은 전체 운영자금의 5%에 해당하는 NCG를 획득하게 됩니다.","<color=#c17636><size=20><b>◆ Operação e Contribuição </b></size></color>
+- Se você confiar o NCG ao Loki para operação, receberá recompensas após o término da temporada. As recompensas consistem em recompensas predeterminadas para cada Chefe de Aventura e variam aleatoriamente a cada temporada.
 - O usuário que confiar mais fundos operacionais em cada temporada receberá um bônus adicional de 20% do total.
 - Após o término da temporada, 15% dos fundos operacionais serão distribuídos como NCG com base nas contribuições feitas através de desafios e superações.
-- Após o término da temporada, um dos jogadores que participou da subjugação receberá 5% dos fundos operacionais totais como NCG.","- NCGをロキに委託して運営に参加すると、シーズン終了後に報酬を受け取ります。報酬は各アドベンチャーボスごとに定められた報酬と、シーズンごとにランダムに変わる報酬で構成されています。
-- 各シーズンで最も多く運営資金を預けたユーザーは、総額の20％のボーナスを追加で受け取ります。
-- シーズン終了後、挑戦と突破を通じて蓄積された貢献度に基づき、運用資金の15％がNCGとして分配されます。
-- シーズン終了後、討伐に参加したプレイヤーの中から1人が、運営資金の総額の5％に相当するNCGを獲得します。","- Si confías NCG a Loki para la operación, recibirás recompensas después del fin de la temporada. Las recompensas consisten en recompensas predeterminadas para cada Jefe de Aventura y varían aleatoriamente cada temporada.
-- El usuario que aporte más fondos operativos cada temporada recibirá un bono adicional del 20% del total.
-- Después de que finalice la temporada, el 15% de los fondos operativos se distribuirá como NCG según las contribuciones realizadas a través de desafíos y avances.
-- Después de que finalice la temporada, uno de los jugadores que participaron en la subyugación recibirá el 5% de los fondos operativos totales como NCG.","- หากคุณให้ NCG กับ Loki เพื่อดำเนินการ คุณจะได้รับรางวัลหลังจากฤดูกาลสิ้นสุด รางวัลประกอบด้วยรางวัลที่กำหนดไว้สำหรับแต่ละบอสผจญภัยและเปลี่ยนแปลงอย่างสุ่มในแต่ละฤดูกาล
-- ผู้ใช้ที่มอบเงินทุนดำเนินการมากที่สุดในแต่ละฤดูกาลจะได้รับโบนัสเพิ่มเติม 20% ของยอดรวม
-- หลังจากฤดูกาลสิ้นสุด 15% ของเงินทุนดำเนินการจะถูกแจกจ่ายเป็น NCG ตามการสนับสนุนที่ทำผ่านการท้าทายและการทะลุผ่าน
-- หลังจากฤดูกาลสิ้นสุด ผู้เล่นหนึ่งคนที่เข้าร่วมในการปราบปรามจะได้รับ 5% ของเงินทุนดำเนินการทั้งหมดเป็น NCG","- Jika Anda menyerahkan NCG kepada Loki untuk dioperasikan, Anda akan menerima hadiah setelah musim berakhir. Hadiah tersebut terdiri dari hadiah yang telah ditentukan untuk setiap Bos Petualangan dan berubah secara acak setiap musim.
-- Pengguna yang menyetorkan dana operasional terbanyak setiap musim akan menerima bonus tambahan sebesar 20% dari jumlah total.
-- Setelah musim berakhir, 15% dari dana operasional akan didistribusikan sebagai NCG berdasarkan kontribusi yang dibuat melalui tantangan dan terobosan.
-- Setelah musim berakhir, salah satu pemain yang berpartisipasi dalam penaklukan akan menerima 5% dari total dana operasional sebagai NCG.","- Если вы поручите NCG Локи для управления, после окончания сезона вы получите награды. Награды состоят из заранее определённых наград для каждого Приключенческого Босса и случайно меняются каждый сезон.
-- Пользователь, вложивший наибольшие операционные средства в каждом сезоне, получит дополнительный бонус в размере 20% от общей суммы.
-- По завершении сезона 15% операционных средств будут распределены в виде NCG в зависимости от вклада, сделанного через вызовы и прорывы.
-- После окончания сезона один из игроков, участвовавших в подавлении, получит 5% от общего операционного фонда в виде NCG.","- 如果你将NCG委托给洛基进行运营，你将在赛季结束后获得奖励。奖励包括每个冒险Boss的固定奖励以及每个赛季随机变化的奖励。
-- 每个赛季投入最多运营资金的用户将获得总金额20%的额外奖金。
-- 赛季结束后，根据通过挑战和突破所做出的贡献，将分配15%的运营资金作为NCG。
-- 赛季结束后，参与镇压的玩家中的一名将获得总运营资金的5%作为NCG。","- 如果您將NCG委託給洛基進行運營，您將在賽季結束後獲得獎勵。獎勵包括每個冒險Boss的固定獎勵以及每個賽季隨機變化的獎勵。
-- 每個賽季投入最多運營資金的用戶將獲得總金額20%的額外獎金。
-- 賽季結束後，根據通過挑戰和突破所做出的貢獻，將分配15%的運營資金作為NCG。
-- 賽季結束後，參與鎮壓的玩家中的一名將獲得總運營資金的5%作為NCG。","- Kung ipagkakatiwala mo ang NCG kay Loki para sa operasyon, makakatanggap ka ng mga gantimpala pagkatapos ng season. Ang mga gantimpala ay binubuo ng mga paunang itinakdang gantimpala para sa bawat Adventure Boss at nagbabago nang random bawat season.
-- Ang gumagamit na nagtitiwala ng pinakamaraming pondo ng operasyon sa bawat panahon ay makakatanggap ng karagdagang bonus na 20% ng kabuuang halaga.
-- Pagkatapos ng season, ang 15% ng operational funds ay ipamamahagi bilang NCG batay sa mga kontribusyon na nagawa sa pamamagitan ng mga hamon at tagumpay.
-- Pagkatapos ng season, isa sa mga manlalaro na lumahok sa pagsubok ay makakatanggap ng 5% ng kabuuang operational funds bilang NCG.","- Nếu bạn giao NCG cho Loki để vận hành, bạn sẽ nhận được phần thưởng sau khi mùa giải kết thúc. Phần thưởng bao gồm phần thưởng được xác định trước cho mỗi Boss Phiêu lưu và thay đổi ngẫu nhiên mỗi mùa.
-- Người dùng gửi nhiều quỹ hoạt động nhất mỗi mùa sẽ nhận được thêm 20% tổng số tiền dưới dạng bonus.
-- Sau khi mùa giải kết thúc, 15% quỹ hoạt động sẽ được phân phối dưới dạng NCG dựa trên những đóng góp qua các thử thách và đột phá.
+- Após o término da temporada, um dos jogadores que participou da subjugação receberá 5% dos fundos operacionais totais como NCG.","<color=#c17636><size=20><b>◆ 運営と貢献 </b></size></color>
+- NCGをロキに委託して運営に参加すると、シーズン終了後に報酬を受け取ります。報酬は各アドベンチャーボスごとに定められた報酬と、シーズンごとにランダムに変わる報酬で構成されています。 
+- 各シーズンで最も多く運営資金を預けたユーザーは、総額の20％のボーナスを追加で受け取ります。 
+- シーズン終了後、挑戦と突破を通じて蓄積された貢献度に基づき、運用資金の15％がNCGとして分配されます。 
+- シーズン終了後、討伐に参加したプレイヤーの中から1人が、運営資金の総額の5％に相当するNCGを獲得します。","<color=#c17636><size=20><b>◆ Operación y Contribución</b></size></color>
+- Si confías NCG a Loki para la operación, recibirás recompensas después del fin de la temporada. Las recompensas consisten en recompensas predeterminadas para cada Jefe de Aventura y varían aleatoriamente cada temporada. 
+- El usuario que aporte más fondos operativos cada temporada recibirá un bono adicional del 20% del total. 
+- Después de que finalice la temporada, el 15% de los fondos operativos se distribuirá como NCG según las contribuciones realizadas a través de desafíos y avances. 
+- Después de que finalice la temporada, uno de los jugadores que participaron en la subyugación recibirá el 5% de los fondos operativos totales como NCG.","<color=#c17636><size=20><b>◆ การดำเนินการและการสนับสนุน</b></size></color>
+- หากคุณให้ NCG กับ Loki เพื่อดำเนินการ คุณจะได้รับรางวัลหลังจากฤดูกาลสิ้นสุด รางวัลประกอบด้วยรางวัลที่กำหนดไว้สำหรับแต่ละบอสผจญภัยและเปลี่ยนแปลงอย่างสุ่มในแต่ละฤดูกาล 
+- ผู้ใช้ที่มอบเงินทุนดำเนินการมากที่สุดในแต่ละฤดูกาลจะได้รับโบนัสเพิ่มเติม 20% ของยอดรวม 
+- หลังจากฤดูกาลสิ้นสุด 15% ของเงินทุนดำเนินการจะถูกแจกจ่ายเป็น NCG ตามการสนับสนุนที่ทำผ่านการท้าทายและการทะลุผ่าน 
+- หลังจากฤดูกาลสิ้นสุด ผู้เล่นหนึ่งคนที่เข้าร่วมในการปราบปรามจะได้รับ 5% ของเงินทุนดำเนินการทั้งหมดเป็น NCG","<color=#c17636><size=20><b>◆ Operasi dan Kontribusi</b></size></color>
+- Jika Anda menyerahkan NCG kepada Loki untuk dioperasikan, Anda akan menerima hadiah setelah musim berakhir. Hadiah tersebut terdiri dari hadiah yang telah ditentukan untuk setiap Bos Petualangan dan berubah secara acak setiap musim. 
+- Pengguna yang menyetorkan dana operasional terbanyak setiap musim akan menerima bonus tambahan sebesar 20% dari jumlah total. 
+- Setelah musim berakhir, 15% dari dana operasional akan didistribusikan sebagai NCG berdasarkan kontribusi yang dibuat melalui tantangan dan terobosan. 
+- Setelah musim berakhir, salah satu pemain yang berpartisipasi dalam penaklukan akan menerima 5% dari total dana operasional sebagai NCG.","<color=#c17636><size=20><b>◆ Операция и Вклад</b></size></color>
+- Если вы поручите NCG Локи для управления, после окончания сезона вы получите награды. Награды состоят из заранее определённых наград для каждого Приключенческого Босса и случайно меняются каждый сезон. 
+- Пользователь, вложивший наибольшие операционные средства в каждом сезоне, получит дополнительный бонус в размере 20% от общей суммы. 
+- По завершении сезона 15% операционных средств будут распределены в виде NCG в зависимости от вклада, сделанного через вызовы и прорывы. 
+- После окончания сезона один из игроков, участвовавших в подавлении, получит 5% от общего операционного фонда в виде NCG.","<color=#c17636><size=20><b>◆ 运营和贡献</b></size></color>
+- 如果你将NCG委托给洛基进行运营，你将在赛季结束后获得奖励。奖励包括每个冒险Boss的固定奖励以及每个赛季随机变化的奖励。 
+- 每个赛季投入最多运营资金的用户将获得总金额20%的额外奖金。 
+- 赛季结束后，根据通过挑战和突破所做出的贡献，将分配15%的运营资金作为NCG。 
+- 赛季结束后，参与镇压的玩家中的一名将获得总运营资金的5%作为NCG。","<color=#c17636><size=20><b>◆ 運營和貢獻</b></size></color>
+- 如果您將NCG委託給洛基進行運營，您將在賽季結束後獲得獎勵。獎勵包括每個冒險Boss的固定獎勵以及每個賽季隨機變化的獎勵。 
+- 每個賽季投入最多運營資金的用戶將獲得總金額20%的額外獎金。 
+- 賽季結束後，根據通過挑戰和突破所做出的貢獻，將分配15%的運營資金作為NCG。 
+- 賽季結束後，參與鎮壓的玩家中的一名將獲得總運營資金的5%作為NCG。","<color=#c17636><size=20><b>◆ Operasyon at Kontribusyon</b></size></color>
+- Kung ipagkakatiwala mo ang NCG kay Loki para sa operasyon, makakatanggap ka ng mga gantimpala pagkatapos ng season. Ang mga gantimpala ay binubuo ng mga paunang itinakdang gantimpala para sa bawat Adventure Boss at nagbabago nang random bawat season. 
+- Ang gumagamit na nagtitiwala ng pinakamaraming pondo ng operasyon sa bawat panahon ay makakatanggap ng karagdagang bonus na 20% ng kabuuang halaga. 
+- Pagkatapos ng season, ang 15% ng operational funds ay ipamamahagi bilang NCG batay sa mga kontribusyon na nagawa sa pamamagitan ng mga hamon at tagumpay. 
+- Pagkatapos ng season, isa sa mga manlalaro na lumahok sa pagsubok ay makakatanggap ng 5% ng kabuuang operational funds bilang NCG.","<color=#c17636><size=20><b>◆ Hoạt động và Đóng góp</b></size></color>
+- Nếu bạn giao NCG cho Loki để vận hành, bạn sẽ nhận được phần thưởng sau khi mùa giải kết thúc. Phần thưởng bao gồm phần thưởng được xác định trước cho mỗi Boss Phiêu lưu và thay đổi ngẫu nhiên mỗi mùa. 
+- Người dùng gửi nhiều quỹ hoạt động nhất mỗi mùa sẽ nhận được thêm 20% tổng số tiền dưới dạng bonus. 
+- Sau khi mùa giải kết thúc, 15% quỹ hoạt động sẽ được phân phối dưới dạng NCG dựa trên những đóng góp qua các thử thách và đột phá. 
 - Sau khi mùa giải kết thúc, một trong những người chơi tham gia vào việc chinh phục sẽ nhận được 5% tổng quỹ hoạt động dưới dạng NCG."
-"HELP_POPUP_100032_PAGE_00_TITLE","Challenge and Breakthrough of the Adventure Boss","어드벤쳐 보스 도전과 돌파","Desafio e Quebra do Chefe da Aventura","アドベンチャーボスへの挑戦と突破","Desafío y Avance del Jefe de Aventura","การท้าทายและการทะลุผ่านบอสผจญภัย","Tantangan dan Terobosan Bos Petualangan","Вызов и Прорыв Приключенческого Босса","冒险BOSS的挑战与突破","冒險BOSS的挑戰與突破","Hamon at Tagumpay laban sa Boss ng Pakikipagsapalaran","Thách thức và Đột phá của Boss Phiêu lưu"
-"HELP_POPUP_100032_PAGE_00_TEXT_00","- You will receive a first clear reward each season for clearing each floor through challenges.
+"HELP_POPUP_100032_PAGE_00_TITLE","HELP","도움말","AJUDA","ヘルプ","AYUDA","ช่วยเหลือ","BANTUAN","ПОМОЩЬ","帮助","幫助","TULONG","GIÚP ĐỠ"
+"HELP_POPUP_100032_PAGE_00_TEXT_00","<color=#c17636><size=20><b>◆Challenge and Rush </b></size></color>
+- You will receive a first clear reward each season for clearing each floor through challenges.
 - Floors cleared through challenges can be repeatedly subdued through breakthroughs. During the breakthrough, you will receive contributions and battle rewards.
 - After the season ends, 15% of the operational funds will be distributed as NCG based on the contributions made through challenges and breakthroughs.
-- After the season ends, one of the players who participated in the subjugation will receive 5% of the total operational funds as NCG.","- 각층을 도전으로 최초 클리어 하면 시즌마다 최초 클리어 보상을 받게 됩니다.
+- After the season ends, one of the players who participated in the subjugation will receive 5% of the total operational funds as NCG.","<color=#c17636><size=20><b>◆도전과 돌파 </b></size></color>
+- 각층을 도전으로 최초 클리어 하면 시즌마다 최초 클리어 보상을 받게 됩니다.
 - 도전으로 클리어한 층은 돌파로 반복 토벌이 가능합니다. 돌파시에는 공헌도와 배틀 보상을 받게 됩니다.
 - 시즌 종료후 도전과 돌파로 쌓은 공헌도에 따라 운영자금의 15%에 해당하는 NCG가 분배됩니다.
-- 시즌 종료후 토벌에 참여한 플레이어중 1명은 전체 운영자금의 5%에 해당하는 NCG를 획득하게 됩니다.","- Você receberá uma recompensa de primeiro desbloqueio a cada temporada por limpar cada andar através de desafios.
+- 시즌 종료후 토벌에 참여한 플레이어중 1명은 전체 운영자금의 5%에 해당하는 NCG를 획득하게 됩니다.","<color=#c17636><size=20><b>◆ Desafio e Avanço</b></size></color>
+- Você receberá uma recompensa de primeiro desbloqueio a cada temporada por limpar cada andar através de desafios.
 - Andares limpos através de desafios podem ser repetidamente subjugados por avanços. Durante o avanço, você receberá contribuições e recompensas de batalha.
 - Após o término da temporada, 15% dos fundos operacionais serão distribuídos como NCG com base nas contribuições feitas através de desafios e superações.
-- Após o término da temporada, um dos jogadores que participou da subjugação receberá 5% dos fundos operacionais totais como NCG.","- 各フロアをチャレンジで初めてクリアすると、そのシーズンに初クリア報酬を受け取ります。
+- Após o término da temporada, um dos jogadores que participou da subjugação receberá 5% dos fundos operacionais totais como NCG.","<color=#c17636><size=20><b>◆ チャレンジとラッシュ</b></size></color>
+- 各フロアをチャレンジで初めてクリアすると、そのシーズンに初クリア報酬を受け取ります。
 - チャレンジでクリアしたフロアは、突破を通じて繰り返し制圧することができます。突破時には、貢献度とバトル報酬を受け取ります。
 - シーズン終了後、挑戦と突破を通じて蓄積された貢献度に基づき、運用資金の15％がNCGとして分配されます。
-- シーズン終了後、討伐に参加したプレイヤーの中から1人が、運営資金の総額の5％に相当するNCGを獲得します。","- Recibirás una recompensa de primer desbloqueo cada temporada por completar cada piso a través de desafíos.
+- シーズン終了後、討伐に参加したプレイヤーの中から1人が、運営資金の総額の5％に相当するNCGを獲得します。","<color=#c17636><size=20><b>◆ Desafío y Avance</b></size></color>
+- Recibirás una recompensa de primer desbloqueo cada temporada por completar cada piso a través de desafíos.
 - Los pisos despejados mediante desafíos pueden ser subyugados repetidamente mediante avances. Durante el avance, recibirás contribuciones y recompensas de batalla.
 - Después de que finalice la temporada, el 15% de los fondos operativos se distribuirá como NCG según las contribuciones realizadas a través de desafíos y avances.
-- Después de que finalice la temporada, uno de los jugadores que participaron en la subyugación recibirá el 5% de los fondos operativos totales como NCG.","- คุณจะได้รับรางวัลการเคลียร์ครั้งแรกในแต่ละฤดูกาลสำหรับการเคลียร์แต่ละชั้นผ่านการท้าทาย
+- Después de que finalice la temporada, uno de los jugadores que participaron en la subyugación recibirá el 5% de los fondos operativos totales como NCG.","<color=#c17636><size=20><b>◆ ท้าทายและรีบ</b></size></color>
+- คุณจะได้รับรางวัลการเคลียร์ครั้งแรกในแต่ละฤดูกาลสำหรับการเคลียร์แต่ละชั้นผ่านการท้าทาย
 - ชั้นที่เคลียร์ผ่านการท้าทายสามารถทำการปราบปรามซ้ำได้ผ่านการทะลุผ่าน ในขณะทะลุผ่าน คุณจะได้รับความสนับสนุนและรางวัลการต่อสู้
 - หลังจากฤดูกาลสิ้นสุด 15% ของเงินทุนดำเนินการจะถูกแจกจ่ายเป็น NCG ตามการสนับสนุนที่ทำผ่านการท้าทายและการทะลุผ่าน
-- หลังจากฤดูกาลสิ้นสุด ผู้เล่นหนึ่งคนที่เข้าร่วมในการปราบปรามจะได้รับ 5% ของเงินทุนดำเนินการทั้งหมดเป็น NCG","- Anda akan menerima hadiah pembersihan pertama setiap musim untuk membersihkan setiap lantai melalui tantangan.
+- หลังจากฤดูกาลสิ้นสุด ผู้เล่นหนึ่งคนที่เข้าร่วมในการปราบปรามจะได้รับ 5% ของเงินทุนดำเนินการทั้งหมดเป็น NCG","<color=#c17636><size=20><b>◆ Tantangan dan Cepat</b></size></color>
+- Anda akan menerima hadiah pembersihan pertama setiap musim untuk membersihkan setiap lantai melalui tantangan.
 - Lantai yang dibersihkan melalui tantangan dapat berulang kali ditaklukkan melalui terobosan. Selama terobosan, Anda akan menerima kontribusi dan hadiah pertarungan.
 - Setelah musim berakhir, 15% dari dana operasional akan didistribusikan sebagai NCG berdasarkan kontribusi yang dibuat melalui tantangan dan terobosan.
-- Setelah musim berakhir, salah satu pemain yang berpartisipasi dalam penaklukan akan menerima 5% dari total dana operasional sebagai NCG.","- Вы получите награду за первое прохождение каждого этажа в каждом сезоне через вызовы.
+- Setelah musim berakhir, salah satu pemain yang berpartisipasi dalam penaklukan akan menerima 5% dari total dana operasional sebagai NCG.","<color=#c17636><size=20><b>◆ Вызов и Спешка</b></size></color>
+- Вы получите награду за первое прохождение каждого этажа в каждом сезоне через вызовы.
 - Этажи, очищенные через вызовы, могут быть повторно завоеваны через прорывы. Во время прорыва вы получите вклад и боевые награды.
 - По завершении сезона 15% операционных средств будут распределены в виде NCG в зависимости от вклада, сделанного через вызовы и прорывы.
-- После окончания сезона один из игроков, участвовавших в подавлении, получит 5% от общего операционного фонда в виде NCG.","- 每个赛季通过挑战首次清除每一层时，您将获得首次清除奖励。
+- После окончания сезона один из игроков, участвовавших в подавлении, получит 5% от общего операционного фонда в виде NCG.","<color=#c17636><size=20><b>◆ 挑战与冲刺</b></size></color>
+- 每个赛季通过挑战首次清除每一层时，您将获得首次清除奖励。
 - 通过挑战清除的楼层可以通过突破反复征服。在突破时，你将获得贡献度和战斗奖励。
 - 赛季结束后，根据通过挑战和突破所做出的贡献，将分配15%的运营资金作为NCG。
-- 赛季结束后，参与镇压的玩家中的一名将获得总运营资金的5%作为NCG。","- 每個賽季通過挑戰首次清除每一層時，您將獲得首次清除獎勵。
+- 赛季结束后，参与镇压的玩家中的一名将获得总运营资金的5%作为NCG。","<color=#c17636><size=20><b>◆ 挑戰與衝刺</b></size></color>
+- 每個賽季通過挑戰首次清除每一層時，您將獲得首次清除獎勵。
 - 通過挑戰清除的樓層可以通過突破反覆征服。在突破時，你將獲得貢獻度和戰鬥獎勵。
 - 賽季結束後，根據通過挑戰和突破所做出的貢獻，將分配15%的運營資金作為NCG。
-- 賽季結束後，參與鎮壓的玩家中的一名將獲得總運營資金的5%作為NCG。","- Makakatanggap ka ng gantimpala sa unang paglinis bawat panahon sa pag-clear ng bawat palapag sa pamamagitan ng mga hamon.
+- 賽季結束後，參與鎮壓的玩家中的一名將獲得總運營資金的5%作為NCG。","<color=#c17636><size=20><b>◆ Hamon at Apura</b></size></color>
+- Makakatanggap ka ng gantimpala sa unang paglinis bawat panahon sa pag-clear ng bawat palapag sa pamamagitan ng mga hamon.
 - Ang mga palapag na nilinis sa pamamagitan ng mga hamon ay maaaring muling mapasuko sa pamamagitan ng mga tagumpay. Sa panahon ng tagumpay, makakatanggap ka ng mga kontribusyon at gantimpala sa labanan.
 - Pagkatapos ng season, ang 15% ng operational funds ay ipamamahagi bilang NCG batay sa mga kontribusyon na nagawa sa pamamagitan ng mga hamon at tagumpay.
-- Pagkatapos ng season, isa sa mga manlalaro na lumahok sa pagsubok ay makakatanggap ng 5% ng kabuuang operational funds bilang NCG.","- Bạn sẽ nhận được phần thưởng lần đầu tiên mỗi mùa cho việc vượt qua từng tầng qua thử thách.
+- Pagkatapos ng season, isa sa mga manlalaro na lumahok sa pagsubok ay makakatanggap ng 5% ng kabuuang operational funds bilang NCG.","<color=#c17636><size=20><b>◆ Thách thức và Vội vã</b></size></color>
+- Bạn sẽ nhận được phần thưởng lần đầu tiên mỗi mùa cho việc vượt qua từng tầng qua thử thách.
 - Các tầng được dọn dẹp thông qua thử thách có thể được chinh phục lặp lại thông qua đột phá. Trong lúc đột phá, bạn sẽ nhận được đóng góp và phần thưởng chiến đấu.
 - Sau khi mùa giải kết thúc, 15% quỹ hoạt động sẽ được phân phối dưới dạng NCG dựa trên những đóng góp qua các thử thách và đột phá.
 - Sau khi mùa giải kết thúc, một trong những người chơi tham gia vào việc chinh phục sẽ nhận được 5% tổng quỹ hoạt động dưới dạng NCG."
@@ -1331,3 +1584,5 @@ bằng một trong hai vật liệu."
 "SKILL_NAME_250010","Increases Speed","속도 증가","Aumento d Velocidade","SPEED強化","Aumeno de velocidad","เพิ่มความเร็ว","Meningkatkan Kecepatan","","速度增加","提高速度","Nagpapabilis","Tăng tốc độ"
 "UI_SUMMON_GRIMOIRE_PHRASE_1","Season 1 Update! Experience the limited-time recipe for 3 months.","시즌 1 업데이트!  3개월 한정 레시피를 경험해보세요.","Atualização da Temporada 1! Experimente a receita de tempo limitado por 3 meses.","シーズン1アップデート！3ヶ月限定のレシピを体験してください。","¡Actualización de la Temporada 1! Experimenta la receta de tiempo limitado por 3 meses.","อัปเดตซีซั่น 1! ลองสูตรจำกัดเวลา 3 เดือน","Pembaruan Musim 1! Rasakan resep terbatas selama 3 bulan.","Обновление 1 сезона! Испытайте ограниченный рецепт на 3 месяца.","第1季更新！体验为期3个月的限时食谱。","第1季更新！體驗為期3個月的限時食譜。","Update ng Season 1! Subukan ang limited-time recipe sa loob ng 3 buwan.","Cập nhật Mùa 1! Trải nghiệm công thức giới hạn trong 3 tháng."
 "UI_SUMMON_GRIMOIRE_PHRASE_2","Only equipment obtained from this summon can be equipped in the Grimoire slot.","Grimoire 슬롯에는 이 소환에서 나온 장비만 착용할 수 있습니다.","Apenas equipamentos obtidos nesta invocação podem ser equipados no slot do Grimório.","グリモアスロットには、この召喚で得た装備のみ装備可能です。","Solo se puede equipar en la ranura del Grimorio el equipo obtenido de esta invocación.","สามารถติดตั้งอุปกรณ์ที่ได้รับจากการเรียกนี้ในช่อง Grimoire เท่านั้น","Hanya peralatan yang diperoleh dari pemanggilan ini yang dapat dipasang di slot Grimoire.","В слот Гримуара можно установить только оборудование, полученное из этого призыва.","Grimoire槽只能装备此召唤中获得的装备。","Grimoire槽只能裝備此召喚中獲得的裝備。","Tanging mga kagamitang nakuha mula sa summon na ito ang maaaring ilagay sa slot ng Grimoire.","Chỉ trang bị thu được từ lần triệu hồi này mới có thể được trang bị trong khe Grimoire."
+"ITEM_NAME_49900019","Hot Summer","핫 썸머","Verão Quente","熱い夏","Verano Caliente","ฤดูร้อนที่ร้อนแรง","Musim Panas yang Panas","Жаркое Лето","炎热的夏天","炎熱的夏天","Mainit na Tag-init","Mùa Hè Nóng"
+"ITEM_DESCRIPTION_49900019","In the world of Nine Chronicles, the summer recorded as the hottest ever. A title for those who overcome the adventures of that summer. It can be obtained through the Season 8 Premium of Brave Cat's Journey.","나인 크로니클' 세계에서 가장 뜨거웠던 것으로 기록되는 그 여름. 그 여름에 모험을 이겨내는 이들을 위한 칭호. 용감한 고양이의 여행 시즌8 프리미엄 통해 획득 가능합니다.","No mundo de Nine Chronicles, o verão foi registrado como o mais quente de todos. Um título para aqueles que superam as aventuras desse verão. Pode ser obtido através do Premium da Temporada 8 da Jornada do Gato Bravo.","ナインクロニクルの世界では、史上最も暑い夏と記録されました。その夏の冒険を乗り越えた者たちに与えられる称号です。ブレイブキャットのジャーニーシーズン8プレミアムを通じて入手可能です。","En el mundo de Nine Chronicles, el verano se registró como el más caliente de la historia. Un título para aquellos que superan las aventuras de ese verano. Se puede obtener a través del Premium de la Temporada 8 del Viaje del Gato Valiente.","ในโลกของ Nine Chronicles, ฤดูร้อนนี้ถูกบันทึกว่าร้อนที่สุดเท่าที่เคยมีมา ชื่อสำหรับผู้ที่เอาชนะการผจญภัยในฤดูร้อนนั้น สามารถได้รับผ่าน Season 8 Premium ของ Brave Cat's Journey","Di dunia Nine Chronicles, musim panas tercatat sebagai yang terpanas. Sebuah gelar untuk mereka yang mengatasi petualangan musim panas itu. Dapat diperoleh melalui Premium Musim 8 dari Perjalanan Kucing Pemberani.","В мире Nine Chronicles это лето зарегистрировано как самое жаркое. Титул для тех, кто преодолел приключения этого лета. Можно получить через Премиум 8 сезона Путешествия Храброго Кота.","在《九编年史》的世界中，这个夏天被记录为有史以来最热的夏天。这是给那些克服了那个夏天冒险的人的称号。可以通过勇敢猫的旅程第八季高级版获得。","在《九編年史》的世界中，這個夏天被記錄為有史以來最熱的夏天。這是給那些克服了那個夏天冒險的人的稱號。可以通過勇敢貓的旅程第八季高級版獲得。","Sa mundo ng Nine Chronicles, ang tag-init na naitala bilang pinakamainit kailanman. Isang titulo para sa mga nakatagumpay sa mga pakikipagsapalaran ng tag-init na iyon. Maaaring makuha sa pamamagitan ng Season 8 Premium ng Brave Cat's Journey.","Trong thế giới của Nine Chronicles, mùa hè được ghi nhận là nóng nhất từ trước tới nay. Một danh hiệu dành cho những ai vượt qua những cuộc phiêu lưu của mùa hè đó. Có thể được nhận thông qua Premium Mùa 8 của Hành Trình Mèo Dũng Cảm."
