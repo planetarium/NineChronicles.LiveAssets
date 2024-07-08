@@ -1,1 +1,88 @@
-{"Banners":[{"Priority":-1,"BannerImageName":"asasdfestforcommit","PopupImageName":"asasdfestforcommit","UseDateTime":true,"BeginDateTime":"2024-07-01T17:09:00","EndDateTime":"2024-07-02T17:09:00","Url":"https://www.google.com/","UseAgentAddress":false,"Description":"testcommit","EnableKeys":[]},{"Priority":0,"BannerImageName":"july_promo","PopupImageName":"july_promo","UseDateTime":false,"BeginDateTime":"2024-07-01T00:00:00","EndDateTime":"2024-07-31T23:59:59","Url":"https://bit.ly/240701_JulyPromo","UseAgentAddress":false,"Description":"july_promo","EnableKeys":[]},{"Priority":10,"BannerImageName":"hot_summer_pass","PopupImageName":"hot_summer_pass","UseDateTime":false,"BeginDateTime":"2024-07-01T00:00:00","EndDateTime":"2024-07-31T23:59:59","Url":"https://bit.ly/240701_HotSummerPass","UseAgentAddress":false,"Description":"hot_summer_pass","EnableKeys":[]},{"Priority":20,"BannerImageName":"adventure_boss","PopupImageName":"adventure_boss","UseDateTime":false,"BeginDateTime":"2024-07-01T00:00:00","EndDateTime":"2024-07-14T23:59:59","Url":"https://bit.ly/240701_Adventure_Boss","UseAgentAddress":false,"Description":"240701_Adventure_Boss","EnableKeys":[]},{"Priority":97,"BannerImageName":"9c-k_migration","PopupImageName":"9c-k_migration","UseDateTime":false,"BeginDateTime":"","EndDateTime":"","Url":"https://bit.ly/9CK_Migrate","UseAgentAddress":false,"Description":"9c-k_migration","EnableKeys":[]},{"Priority":98,"BannerImageName":"Banner_Event56","PopupImageName":"Main_Event56","UseDateTime":false,"BeginDateTime":"","EndDateTime":"","Url":"https://bit.ly/9C_M_Save_Your_Private_Key","UseAgentAddress":false,"Description":"Save_Your_Private_Key","EnableKeys":[]},{"Priority":99,"BannerImageName":"Banner_4","PopupImageName":"InviteFriend","UseDateTime":false,"BeginDateTime":"","EndDateTime":"","Url":"https://nine-chronicles.com/earn#Referral","UseAgentAddress":true,"Description":"Invite Your friend","EnableKeys":[]},{"Priority":100,"BannerImageName":"Banner_3","PopupImageName":"MonsterCollection","UseDateTime":false,"BeginDateTime":"","EndDateTime":"","Url":"https://nine-chronicles.com/earn#Stake","UseAgentAddress":false,"Description":"Monster Collection","EnableKeys":[]}]}
+{
+    "Banners": [
+        {
+            "Priority": 0,
+            "BannerImageName": "july_promo",
+            "PopupImageName": "july_promo",
+            "UseDateTime": false,
+            "BeginDateTime": "2024-07-01T00:00:00",
+            "EndDateTime": "2024-07-31T23:59:59",
+            "Url": "https://bit.ly/240701_JulyPromo",
+            "UseAgentAddress": false,
+            "Description": "july_promo",
+            "EnableKeys": []
+        },
+        {
+            "Priority": 10,
+            "BannerImageName": "hot_summer_pass",
+            "PopupImageName": "hot_summer_pass",
+            "UseDateTime": false,
+            "BeginDateTime": "2024-07-01T00:00:00",
+            "EndDateTime": "2024-07-31T23:59:59",
+            "Url": "https://bit.ly/240701_HotSummerPass",
+            "UseAgentAddress": false,
+            "Description": "hot_summer_pass",
+            "EnableKeys": []
+        },
+        {
+            "Priority": 20,
+            "BannerImageName": "adventure_boss",
+            "PopupImageName": "adventure_boss",
+            "UseDateTime": false,
+            "BeginDateTime": "2024-07-01T00:00:00",
+            "EndDateTime": "2024-07-14T23:59:59",
+            "Url": "https://bit.ly/240701_Adventure_Boss",
+            "UseAgentAddress": false,
+            "Description": "240701_Adventure_Boss",
+            "EnableKeys": []
+        },
+        {
+            "Priority": 97,
+            "BannerImageName": "9c-k_migration",
+            "PopupImageName": "9c-k_migration",
+            "UseDateTime": false,
+            "BeginDateTime": "",
+            "EndDateTime": "",
+            "Url": "https://bit.ly/9CK_Migrate",
+            "UseAgentAddress": false,
+            "Description": "9c-k_migration",
+            "EnableKeys": []
+        },
+        {
+            "Priority": 98,
+            "BannerImageName": "Banner_Event56",
+            "PopupImageName": "Main_Event56",
+            "UseDateTime": false,
+            "BeginDateTime": "",
+            "EndDateTime": "",
+            "Url": "https://bit.ly/9C_M_Save_Your_Private_Key",
+            "UseAgentAddress": false,
+            "Description": "Save_Your_Private_Key",
+            "EnableKeys": []
+        },
+        {
+            "Priority": 99,
+            "BannerImageName": "Banner_4",
+            "PopupImageName": "InviteFriend",
+            "UseDateTime": false,
+            "BeginDateTime": "",
+            "EndDateTime": "",
+            "Url": "https://nine-chronicles.com/earn#Referral",
+            "UseAgentAddress": true,
+            "Description": "Invite Your friend",
+            "EnableKeys": []
+        },
+        {
+            "Priority": 100,
+            "BannerImageName": "Banner_3",
+            "PopupImageName": "MonsterCollection",
+            "UseDateTime": false,
+            "BeginDateTime": "",
+            "EndDateTime": "",
+            "Url": "https://nine-chronicles.com/earn#Stake",
+            "UseAgentAddress": false,
+            "Description": "Monster Collection",
+            "EnableKeys": []
+        }
+    ]
+}
