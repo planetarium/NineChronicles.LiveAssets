@@ -13,6 +13,18 @@
             "EnableKeys": []
         },
         {
+            "Priority": 5,
+            "BannerImageName": "[233x68][ENG]",
+            "PopupImageName": "[600x400][ENG]",
+            "UseDateTime": true,
+            "BeginDateTime": "2024-07-09T15:14:00",
+            "EndDateTime": "2024-07-31T23:58:00",
+            "Url": "https://medium.com/nine-chronicles/9cm-%EF%B8%8F-run-for-the-adventure-boss-cd69b74fa781",
+            "UseAgentAddress": false,
+            "Description": "adventureboss event",
+            "EnableKeys": []
+        },
+        {
             "Priority": 10,
             "BannerImageName": "hot_summer_pass",
             "PopupImageName": "hot_summer_pass",
