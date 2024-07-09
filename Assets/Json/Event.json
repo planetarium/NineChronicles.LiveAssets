@@ -29,7 +29,7 @@
             "BannerImageName": "event_banner_dvergr_technique",
             "PopupImageName": "event_image_dvergr_technique",
             "UseDateTime": true,
-            "BeginDateTime": "2024-07-09T15:49:00",
+            "BeginDateTime": "2024-07-09T00:00:00",
             "EndDateTime": "2024-07-23T15:50:00",
             "Url": "https://docs.nine-chronicles.com/introduction/intro/roadmap-and-completed/release-notes#v200200",
             "UseAgentAddress": false,
