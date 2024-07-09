@@ -29,7 +29,7 @@
             "BannerImageName": "event_banner_dvergr_technique",
             "PopupImageName": "event_image_dvergr_technique",
             "UseDateTime": true,
-            "BeginDateTime": "2024-07-09T00:00:00",
+            "BeginDateTime": "2024-07-09T15:49:00",
             "EndDateTime": "2024-07-23T15:50:00",
             "Url": "https://docs.nine-chronicles.com/introduction/intro/roadmap-and-completed/release-notes#v200200",
             "UseAgentAddress": false,
@@ -37,6 +37,21 @@
             "EnableKeys": [
                 "UI_CombinationMain_BackButton_Banner",
                 "UI_Menu_CombinationBtn_EventMark"
+            ]
+        },
+        {
+            "Priority": 7,
+            "BannerImageName": "event_banner_freya_blessing",
+            "PopupImageName": "event_image_freya_blessing",
+            "UseDateTime": true,
+            "BeginDateTime": "2024-07-09T03:49:00",
+            "EndDateTime": "2024-07-23T15:50:00",
+            "Url": "https://docs.nine-chronicles.com/introduction/intro/roadmap-and-completed/release-notes#v200200",
+            "UseAgentAddress": false,
+            "Description": "stage event2",
+            "EnableKeys": [
+                "UI_WorldMap_BackButton_Banner",
+                ""
             ]
         },
         {
