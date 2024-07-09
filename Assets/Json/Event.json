@@ -50,8 +50,7 @@
             "UseAgentAddress": false,
             "Description": "stage event2",
             "EnableKeys": [
-                "UI_WorldMap_BackButton_Banner",
-                ""
+                "UI_WorldMap_BackButton_Banner"
             ]
         },
         {
