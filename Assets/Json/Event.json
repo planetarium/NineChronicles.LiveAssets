@@ -1,10 +1,22 @@
 {
     "Banners": [
         {
-            "Priority": 0,
+            "Priority": 3,
+            "BannerImageName": "hot_summer_costume",
+            "PopupImageName": "hot_summer_costume",
+            "UseDateTime": true,
+            "BeginDateTime": "2024-07-24T00:00:00",
+            "EndDateTime": "2024-08-14T12:59:59",
+            "Url": "https://bit.ly/0724_CostumePromo",
+            "UseAgentAddress": false,
+            "Description": "hot_summer_costume",
+            "EnableKeys": []
+        },
+        {
+            "Priority": 4,
             "BannerImageName": "july_promo",
             "PopupImageName": "july_promo",
-            "UseDateTime": false,
+            "UseDateTime": true,
             "BeginDateTime": "2024-07-01T00:00:00",
             "EndDateTime": "2024-07-31T23:59:59",
             "Url": "https://bit.ly/240701_JulyPromo",
