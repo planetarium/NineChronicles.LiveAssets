@@ -2,10 +2,10 @@
     "Banners": [
         {
             "Priority": 2,
-            "BannerImageName": "[233x68][ENG]",
-            "PopupImageName": "[600x420][ENG]",
+            "BannerImageName": "citrus_carnival",
+            "PopupImageName": "citrus_carnival",
             "UseDateTime": true,
-            "BeginDateTime": "2024-07-30T11:55:00",
+            "BeginDateTime": "2024-07-30T00:00:00",
             "EndDateTime": "2024-08-31T23:55:00",
             "Url": "https://bit.ly/0730_CitrusCarnival",
             "UseAgentAddress": false,
