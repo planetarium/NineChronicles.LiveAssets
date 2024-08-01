@@ -1,6 +1,34 @@
 {
     "Banners": [
         {
+            "Priority": 0,
+            "BannerImageName": "[233x68]2408package",
+            "PopupImageName": "[600x420]2408package",
+            "UseDateTime": true,
+            "BeginDateTime": "2024-07-31T11:11:00",
+            "EndDateTime": "2024-08-31T23:11:00",
+            "Url": "https://bit.ly/0801_Aug_Promo",
+            "UseAgentAddress": false,
+            "Description": "2408package",
+            "EnableKeys": [
+                ""
+            ]
+        },
+        {
+            "Priority": 1,
+            "BannerImageName": "[233x68]2408seasonpass",
+            "PopupImageName": "[600x420]2408seasonpass",
+            "UseDateTime": true,
+            "BeginDateTime": "2024-07-31T11:11:00",
+            "EndDateTime": "2024-08-31T23:11:00",
+            "Url": "https://bit.ly/0801_BountyHunter_Pass",
+            "UseAgentAddress": false,
+            "Description": "2408seasonpass",
+            "EnableKeys": [
+                ""
+            ]
+        },
+        {
             "Priority": 2,
             "BannerImageName": "citrus_carnival",
             "PopupImageName": "citrus_carnival",
@@ -24,42 +52,6 @@
             "Url": "https://bit.ly/0724_CostumePromo",
             "UseAgentAddress": false,
             "Description": "hot_summer_costume",
-            "EnableKeys": []
-        },
-        {
-            "Priority": 4,
-            "BannerImageName": "july_promo",
-            "PopupImageName": "july_promo",
-            "UseDateTime": true,
-            "BeginDateTime": "2024-07-01T00:00:00",
-            "EndDateTime": "2024-07-31T23:59:59",
-            "Url": "https://bit.ly/240701_JulyPromo",
-            "UseAgentAddress": false,
-            "Description": "july_promo",
-            "EnableKeys": []
-        },
-        {
-            "Priority": 5,
-            "BannerImageName": "[233x68][ENG]",
-            "PopupImageName": "[600x400][ENG]",
-            "UseDateTime": true,
-            "BeginDateTime": "2024-07-09T00:00:00",
-            "EndDateTime": "2024-07-31T23:59:00",
-            "Url": "https://medium.com/nine-chronicles/9cm-%EF%B8%8F-run-for-the-adventure-boss-cd69b74fa781",
-            "UseAgentAddress": false,
-            "Description": "adventureboss event",
-            "EnableKeys": []
-        },
-        {
-            "Priority": 10,
-            "BannerImageName": "hot_summer_pass",
-            "PopupImageName": "hot_summer_pass",
-            "UseDateTime": false,
-            "BeginDateTime": "2024-07-01T00:00:00",
-            "EndDateTime": "2024-07-31T23:59:59",
-            "Url": "https://bit.ly/240701_HotSummerPass",
-            "UseAgentAddress": false,
-            "Description": "hot_summer_pass",
             "EnableKeys": []
         },
         {
