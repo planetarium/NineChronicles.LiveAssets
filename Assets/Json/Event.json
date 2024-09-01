@@ -1,29 +1,43 @@
 {
     "Banners": [
         {
-            "Priority": 0,
-            "BannerImageName": "[233x68]2408package",
-            "PopupImageName": "[600x420]2408package",
+            "Priority": -1,
+            "BannerImageName": "[233x68] 0901 Promo",
+            "PopupImageName": "[600x420] 0901 Promo",
             "UseDateTime": true,
-            "BeginDateTime": "2024-07-31T11:11:00",
-            "EndDateTime": "2024-08-31T23:11:00",
-            "Url": "https://bit.ly/0801_Aug_Promo",
+            "BeginDateTime": "2024-09-01T01:01:00",
+            "EndDateTime": "2024-09-30T22:01:00",
+            "Url": "https://bit.ly/9CM_0901_Promo",
             "UseAgentAddress": false,
-            "Description": "2408package",
+            "Description": "2409iap",
+            "EnableKeys": [
+                ""
+            ]
+        },
+        {
+            "Priority": 0,
+            "BannerImageName": "[233x68] 0901 Season Pass",
+            "PopupImageName": "[600x420] 0901 Season Pass",
+            "UseDateTime": true,
+            "BeginDateTime": "2024-09-01T01:01:00",
+            "EndDateTime": "2024-09-30T22:01:00",
+            "Url": "https://bit.ly/9CM_0901_SP",
+            "UseAgentAddress": false,
+            "Description": "2409seasonpass",
             "EnableKeys": [
                 ""
             ]
         },
         {
             "Priority": 1,
-            "BannerImageName": "[233x68]2408seasonpass",
-            "PopupImageName": "[600x420]2408seasonpass",
+            "BannerImageName": "[233x68] 0901 Event",
+            "PopupImageName": "[600x420] 0901 Event",
             "UseDateTime": true,
-            "BeginDateTime": "2024-07-31T11:11:00",
-            "EndDateTime": "2024-08-31T23:11:00",
-            "Url": "https://bit.ly/0801_BountyHunter_Pass",
+            "BeginDateTime": "2024-09-01T01:01:00",
+            "EndDateTime": "2024-09-30T22:01:00",
+            "Url": "https://bit.ly/9CM_0901_Event",
             "UseAgentAddress": false,
-            "Description": "2408seasonpass",
+            "Description": "2409event",
             "EnableKeys": [
                 ""
             ]
@@ -41,18 +55,6 @@
             "EnableKeys": [
                 ""
             ]
-        },
-        {
-            "Priority": 3,
-            "BannerImageName": "hot_summer_costume",
-            "PopupImageName": "hot_summer_costume",
-            "UseDateTime": true,
-            "BeginDateTime": "2024-07-24T00:00:00",
-            "EndDateTime": "2024-08-14T12:59:59",
-            "Url": "https://bit.ly/0724_CostumePromo",
-            "UseAgentAddress": false,
-            "Description": "hot_summer_costume",
-            "EnableKeys": []
         },
         {
             "Priority": 97,
