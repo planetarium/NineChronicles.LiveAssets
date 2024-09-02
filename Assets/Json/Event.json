@@ -43,20 +43,6 @@
             ]
         },
         {
-            "Priority": 2,
-            "BannerImageName": "citrus_carnival",
-            "PopupImageName": "citrus_carnival",
-            "UseDateTime": true,
-            "BeginDateTime": "2024-07-30T00:00:00",
-            "EndDateTime": "2024-08-31T23:55:00",
-            "Url": "https://bit.ly/0730_CitrusCarnival",
-            "UseAgentAddress": false,
-            "Description": "24 citrus dungeon",
-            "EnableKeys": [
-                ""
-            ]
-        },
-        {
             "Priority": 97,
             "BannerImageName": "9c-k_migration",
             "PopupImageName": "9c-k_migration",
