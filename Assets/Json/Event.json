@@ -2,8 +2,8 @@
     "Banners": [
         {
             "Priority": -1,
-            "BannerImageName": "[233x68] 0901 Promo",
-            "PopupImageName": "[600x420] 0901 Promo",
+            "BannerImageName": "[233x68]0901Promo",
+            "PopupImageName": "[600x420]0901Promo",
             "UseDateTime": true,
             "BeginDateTime": "2024-09-01T01:01:00",
             "EndDateTime": "2024-09-30T22:01:00",
@@ -16,8 +16,8 @@
         },
         {
             "Priority": 0,
-            "BannerImageName": "[233x68] 0901 Season Pass",
-            "PopupImageName": "[600x420] 0901 Season Pass",
+            "BannerImageName": "[233x68]0901SeasonPass",
+            "PopupImageName": "[600x420]0901SeasonPass",
             "UseDateTime": true,
             "BeginDateTime": "2024-09-01T01:01:00",
             "EndDateTime": "2024-09-30T22:01:00",
@@ -30,8 +30,8 @@
         },
         {
             "Priority": 1,
-            "BannerImageName": "[233x68] 0901 Event",
-            "PopupImageName": "[600x420] 0901 Event",
+            "BannerImageName": "[233x68]0901Event",
+            "PopupImageName": "[600x420]0901Event",
             "UseDateTime": true,
             "BeginDateTime": "2024-09-01T01:01:00",
             "EndDateTime": "2024-09-30T22:01:00",
