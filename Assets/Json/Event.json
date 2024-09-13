@@ -1,6 +1,20 @@
 {
     "Banners": [
         {
+            "Priority": -2,
+            "BannerImageName": "[233x68][ENG]_Surprise",
+            "PopupImageName": "[600x420][ENG]_Surprise",
+            "UseDateTime": true,
+            "BeginDateTime": "2024-09-13T04:01:00",
+            "EndDateTime": "2024-09-18T23:57:00",
+            "Url": "https://bit.ly/9CM_0916_Event",
+            "UseAgentAddress": false,
+            "Description": "FullMoonFREEPackage",
+            "EnableKeys": [
+                ""
+            ]
+        },
+        {
             "Priority": -1,
             "BannerImageName": "[233x68]0901Promo",
             "PopupImageName": "[600x420]0901Promo",
