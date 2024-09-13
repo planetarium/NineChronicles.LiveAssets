@@ -2039,9 +2039,27 @@ bằng một trong hai vật liệu."
 "SKILL_NAME_800193","HIT decrease (BS)","HIT 감소 (BS)","","","","","","","","","",""
 "SKILL_NAME_800194","HIT decrease (CS)","HIT 감소 (CS)","","","","","","","","","",""
 "SKILL_NAME_800195","HIT decrease (DS)","HIT 감소 (DS)","","","","","","","","","",""
-"HELP_POPUP_100012_PAGE_00_TITLE","Custom Crafting Introduction","커스텀 제작 소개","","","","","","","","","",""
+"HELP_POPUP_100012_PAGE_00_TITLE","Custom Crafting Introduction","커스텀 제작 소개","Apresentação de Produção Personalizada","Invalid language code","Introducción a la producción personalizada","แนะนำการผลิตตามแบบ","Pengenalan Pembuatan Kustom","Представление пользовательского производства","定制生产介绍","客製化製作介紹","Pagpapakilala sa Custom na Produksyon","Giới thiệu về sản xuất theo yêu cầu"
 "HELP_POPUP_100012_PAGE_00_TEXT_00","- With Custom Craft, you can choose the desired appearance to create your equipment.
 - Each time you craft equipment using Custom Craft, your relationship increases by 1.
 - As your relationship increases, you can select more powerful equipment and a wider variety of appearances.","- 커스텀 제작으로 원하는 외형을 선택하여 장비를 제작할수 있습니다.
 - 커스텀 제작으로 장비를 제작할때마다 친밀도가 1씩 증가합니다.
-- 친밀도가 증가하면 더욱 강력한 장비와 다양한 외형을 선택할 수 있습니다.","","","","","","","","","",""
+- 친밀도가 증가하면 더욱 강력한 장비와 다양한 외형을 선택할 수 있습니다.","- Com a personalização, você pode escolher a aparência desejada e criar o equipamento.
+- A cada vez que você cria um equipamento personalizado, a intimidade aumenta em 1.
+- Quando a intimidade aumenta, você pode escolher equipamentos mais poderosos e várias aparências.","Invalid language code","- Con la producción personalizada, puede elegir la apariencia que desee y fabricar el equipo.
+- Cada vez que fabricas equipo con producción personalizada, la intimidad aumenta en 1.
+- Cuando la intimidad aumenta, puedes elegir un equipo más potente y una variedad de apariencias.","- คุณสามารถสร้างอุปกรณ์ตามที่ต้องการด้วยการทำคัสตอม
+- ความใกล้ชิดจะเพิ่มขึ้น 1 ทุกครั้งที่คุณสร้างอุปกรณ์ด้วยการสร้างแบบคัสตอม
+- หากความใกล้ชิดเพิ่มขึ้น คุณจะสามารถเลือกอุปกรณ์ที่มีพลังใหม่และรูปลักษณ์ต่างๆ ได้มากกว่า","- Dengan pembuatan kustom, Anda dapat memilih penampilan yang Anda inginkan dan membuat peralatan.
+- Setiap kali Anda membuat peralatan dengan pembuatan kustom, keakraban meningkat satu per satu.
+- Saat keakraban meningkat, Anda dapat memilih peralatan yang lebih kuat dan berbagai penampilan.","- Благодаря индивидуальной настройке вы можете выбрать желаемый внешний вид при изготовлении оборудования.
+- Каждый раз при изготовлении оборудования на заказ, уровень близости увеличивается на 1.
+- С увеличением уровня близости, вы можете выбрать более мощное оборудование и разнообразный внешний вид.","- 通过定制生产，您可以选择所需的外观来制作设备。
+- 每次使用定制生产制作设备，亲密度都会增加1点。
+- 随着亲密度的增加，您可以选择更强大的设备和更多样的外观。","- 通過定製製造，您可以選擇所需的外觀來製造設備。
+- 每次進行定製製造設備時，親密度都將增加1。
+- 隨著親密度的提高，您將能選擇更強大的設備和各種外觀。","- Sa pamamagitan ng paggawa ng pasadya, maaari kang pumili ng hitsurang gusto mo at gumawa ng mga kagamitan.
+- Sa bawat paggawa ng mga kagamitan sa pamamagitan ng pasadyang gawa, ang kasintahan ay tumaas ng isa.
+- Kapag tumaas ang kasintahan, mas makapangyarihang mga kagamitan at iba't ibang hitsura ang maaari mong piliin.","- Bạn có thể tạo ra thiết bị theo ý muốn với việc chọn hình dạng thông qua việc tạo ra tùy chỉnh.
+- Mỗi lần tạo ra thiết bị bằng cách tùy chỉnh, mức độ thân mật tăng lên 1.
+- Khi mức độ thân mật tăng lên, bạn có thể chọn thiết bị mạnh mẽ hơn và nhiều hình dạng khác nhau hơn."
