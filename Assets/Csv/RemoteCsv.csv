@@ -2039,3 +2039,9 @@ bằng một trong hai vật liệu."
 "SKILL_NAME_800193","HIT decrease (BS)","HIT 감소 (BS)","","","","","","","","","",""
 "SKILL_NAME_800194","HIT decrease (CS)","HIT 감소 (CS)","","","","","","","","","",""
 "SKILL_NAME_800195","HIT decrease (DS)","HIT 감소 (DS)","","","","","","","","","",""
+"HELP_POPUP_100012_PAGE_00_TITLE","Custom Crafting Introduction","커스텀 제작 소개","","","","","","","","","",""
+"HELP_POPUP_100012_PAGE_00_TEXT_00","- With Custom Craft, you can choose the desired appearance to create your equipment.
+- Each time you craft equipment using Custom Craft, your relationship increases by 1.
+- As your relationship increases, you can select more powerful equipment and a wider variety of appearances.","- 커스텀 제작으로 원하는 외형을 선택하여 장비를 제작할수 있습니다.
+- 커스텀 제작으로 장비를 제작할때마다 친밀도가 1씩 증가합니다.
+- 친밀도가 증가하면 더욱 강력한 장비와 다양한 외형을 선택할 수 있습니다.","","","","","","","","","",""
