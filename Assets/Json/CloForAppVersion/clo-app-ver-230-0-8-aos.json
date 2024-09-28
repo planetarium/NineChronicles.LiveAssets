@@ -16,5 +16,5 @@
 
     "maintenance" : false,
     "EnableGuestLogin" : true,
-    "ingameDebugConsole" : false
+    "ingameDebugConsole" : true
 }
