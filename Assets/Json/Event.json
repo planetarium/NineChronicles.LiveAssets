@@ -1,57 +1,43 @@
 {
     "Banners": [
         {
-            "Priority": -2,
-            "BannerImageName": "[233x68][ENG]_Surprise",
-            "PopupImageName": "[600x420][ENG]_Surprise",
+            "Priority": 6,
+            "BannerImageName": "[233x68]10Promo",
+            "PopupImageName": "[600x420]10Promo",
             "UseDateTime": true,
-            "BeginDateTime": "2024-09-13T04:01:00",
-            "EndDateTime": "2024-09-18T23:57:00",
-            "Url": "https://bit.ly/9CM_0916_Event",
+            "BeginDateTime": "2024-10-01T00:26:00",
+            "EndDateTime": "2024-10-31T23:58:00",
+            "Url": "https://bit.ly/9CM_Oct_Promo",
             "UseAgentAddress": false,
-            "Description": "FullMoonFREEPackage",
+            "Description": "2410package",
             "EnableKeys": [
                 ""
             ]
         },
         {
-            "Priority": -1,
-            "BannerImageName": "[233x68]0901Promo",
-            "PopupImageName": "[600x420]0901Promo",
+            "Priority": 8,
+            "BannerImageName": "[233x68]10SeasonPass",
+            "PopupImageName": "[600x420]10SeasonPass",
             "UseDateTime": true,
-            "BeginDateTime": "2024-09-01T01:01:00",
-            "EndDateTime": "2024-09-30T22:01:00",
-            "Url": "https://bit.ly/9CM_0901_Promo",
+            "BeginDateTime": "2024-10-01T00:26:00",
+            "EndDateTime": "2024-10-31T23:58:00",
+            "Url": "https://bit.ly/9CM_HWPass",
             "UseAgentAddress": false,
-            "Description": "2409iap",
+            "Description": "2410seasonpass",
             "EnableKeys": [
                 ""
             ]
         },
         {
-            "Priority": 0,
-            "BannerImageName": "[233x68]0901SeasonPass",
-            "PopupImageName": "[600x420]0901SeasonPass",
+            "Priority": 10,
+            "BannerImageName": "[233x68]2024HalloweenEvent",
+            "PopupImageName": "[600x420]2024HalloweenEvent",
             "UseDateTime": true,
-            "BeginDateTime": "2024-09-01T01:01:00",
-            "EndDateTime": "2024-09-30T22:01:00",
-            "Url": "https://bit.ly/9CM_0901_SP",
+            "BeginDateTime": "2024-10-01T00:26:00",
+            "EndDateTime": "2024-10-31T23:58:00",
+            "Url": "https://bit.ly/9CM_24Halloween",
             "UseAgentAddress": false,
-            "Description": "2409seasonpass",
-            "EnableKeys": [
-                ""
-            ]
-        },
-        {
-            "Priority": 1,
-            "BannerImageName": "[233x68]0901Event",
-            "PopupImageName": "[600x420]0901Event",
-            "UseDateTime": true,
-            "BeginDateTime": "2024-09-01T01:01:00",
-            "EndDateTime": "2024-09-30T22:01:00",
-            "Url": "https://bit.ly/9CM_0901_Event",
-            "UseAgentAddress": false,
-            "Description": "2409event",
+            "Description": "2410halloweenevent",
             "EnableKeys": [
                 ""
             ]
