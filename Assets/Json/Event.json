@@ -29,6 +29,20 @@
             ]
         },
         {
+            "Priority": 9,
+            "BannerImageName": "[233x68][ENG]custom",
+            "PopupImageName": "[600x400][ENG]custom",
+            "UseDateTime": true,
+            "BeginDateTime": "2024-10-03T17:09:00",
+            "EndDateTime": "2024-10-25T23:40:00",
+            "Url": "https://bit.ly/9CM_Custom_Crafting",
+            "UseAgentAddress": false,
+            "Description": "customcraftguide",
+            "EnableKeys": [
+                ""
+            ]
+        },
+        {
             "Priority": 10,
             "BannerImageName": "[233x68]2024HalloweenEvent",
             "PopupImageName": "[600x420]2024HalloweenEvent",
