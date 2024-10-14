@@ -3,13 +3,13 @@
         {
             "Priority": 5,
             "BannerImageName": "2024 modathon banner (1)",
-            "PopupImageName": "2024 modathon img",
+            "PopupImageName": "2024 modathon img (1)",
             "UseDateTime": true,
-            "BeginDateTime": "2024-10-13T14:02:00",
-            "EndDateTime": "2024-11-30T23:57:00",
+            "BeginDateTime": "2024-10-13T14:44:00",
+            "EndDateTime": "2024-11-30T14:44:00",
             "Url": "https://nine-chronicles.dev/event/2024modathon",
             "UseAgentAddress": false,
-            "Description": "modathon banner",
+            "Description": "modathon banner fixed",
             "EnableKeys": [
                 ""
             ]
