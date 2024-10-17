@@ -1,6 +1,20 @@
 {
     "Banners": [
         {
+            "Priority": 4,
+            "BannerImageName": "[233x68][ENG]custompr",
+            "PopupImageName": "[600x420][ENG]custompr",
+            "UseDateTime": true,
+            "BeginDateTime": "2024-10-16T10:49:00",
+            "EndDateTime": "2024-10-31T23:50:00",
+            "Url": "https://bit.ly/9CM_CCPackage",
+            "UseAgentAddress": false,
+            "Description": "custompackagepromotion",
+            "EnableKeys": [
+                ""
+            ]
+        },
+        {
             "Priority": 5,
             "BannerImageName": "2024 modathon banner (1)",
             "PopupImageName": "2024 modathon img (1)",
