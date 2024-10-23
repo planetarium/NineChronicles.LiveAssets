@@ -2388,3 +2388,46 @@ Jika kedekatan meningkat, Anda dapat membuat peralatan dengan CP yang lebih ting
 "PET_NAME_1022","Bluebeetle Dongle","블루비틀 동글","Dongle Bluebeetle","ブルービートルドングル","Dongle Bluebeetle","ดงเกิล Bluebeetle","Dongle Bluebeetle","Синий жук Dongle","蓝甲虫蓝牙适配器","藍甲蟲網路卡","Bluebeetle Dongle","Đầu nối Bluebeetle"
 "PET_NAME_1023","Valkyrie of Red Light","붉은 빛의 발키리","Valquíria da Luz Vermelha","赤い光のヴァルキリー","Valkiria de Luz Roja","วัลคีเรียแห่งแสงแดง","Valkyrie Cahaya Merah","Валькирия Красного Света","红光女武神","紅光的女武神","Valkyrie ng Pulang Ilaw","Nữ thần Valkyrie của Ánh sáng Đỏ"
 "PET_NAME_1024","Purple Lil' Fenrir","보라 꼬마 펜리르","Roxo Lil' Fenrir","パープルリルフェンリル","Púrpura Pequeño Fenrir","ฟีนริร์สีม่วง Lil'","Ungu Lil 'Fenrir","Фиолетовый малыш Фенрир","紫色的小芬里尔","紫色小芬里爾","Lila na Maliit na Fenrir","Fenrir nhỏ màu tím"
+"MOBILE_SHOP_PRODUCT_DailyLimit","{0} per day","매일 {0} 번 구매 가능","{0} por dia","毎日{0}回購入可能","{0} por día","{0} ต่อวัน","{0} per hari","{0} в день","每天限购{0}次","{0}每天","{0} bawat araw","{0} mỗi ngày"
+"MOBILE_SHOP_PRODUCT_WeeklyLimit","{0} per week","매 주 {0}번 구매 가능","{0} por semana","毎週{0}回購入可能","{0} por semana","{0} ต่อสัปดาห์","{0} per minggu","{0} в неделю","每周限购{0}次","{0}每週","{0} bawat linggo","{0} mỗi tuần"
+"MOBILE_SHOP_PRODUCT_AccountLimit","{0} per account","{0}번 구매 가능","{0} por conta","アカウントごとに{0}","{0} por cuenta","{0} ต่อบัญชี","{0} per akun","{0} за учетную запись","{0}每个帐户","{0}每個帳戶","{0} bawat account","{0} mỗi tài khoản"
+"UI_LOCK_MONSTER_COLLECTION_NOTI","The monster collection menu is locked.","몬스터 컬렉션 메뉴는 잠겨 있습니다.","O menu de coleção de monstros está bloqueado.","モンスターコレクションメニューはロックされています。","El menú de colección de monstruos está bloqueado.","เมนูคอลเลกชันมอนสเตอร์ถูกล็อคแล้ว","Menu koleksi monster dikunci.","Меню коллекции монстров заблокировано.","怪兽收集菜单已被锁定。","怪獸收藏菜單已被鎖定。","Ang menu ng koleksyon ng halimaw ay nakakandado.","Menu bộ sưu tập quái vật bị khóa."
+"UI_LOCK_GRIND_NOTI","The grind menu is locked.","그라인드 메뉴는 잠겨 있습니다.","O menu de moagem está bloqueado.","グラインドメニューはロックされています。","El menú de molienda está bloqueado.","เมนูการบดถูกล็อคแล้ว","Menu penggilingan terkunci.","Меню помола заблокировано.","研磨菜单已被锁定。","研磨菜單已鎖定。","Nakakandado ang menu ng giling.","Menu xay đã bị khóa."
+"UI_LOCK_SHOP_NOTI","The shop menu is locked.","상점 메뉴는 잠겨 있습니다.","O cardápio da loja está trancado.","ショップのメニューはロックされています。","El menú de la tienda está bloqueado.","เมนูในร้านถูกล็อคไว้","Menu toko tersebut dikunci.","Меню магазина заблокировано.","商店菜单被锁定了。","商店的菜單已被鎖定。","Ang menu ng tindahan ay nakakandado.","Thực đơn của cửa hàng đã bị khóa."
+"UI_IAP_PURCHASE_WITH_MILEAGE_COMPLETE","Product delivery via blockchain.
+Item sent to your mmailbox upon completion.
+
+<Style=Mileage><size=20> 50 mileage earned","블록체인을 통한 제품 배송.
+완료 시 우편함으로 전송되는 항목입니다.
+
+<Style=Mileage><size=20> 50마일리지 적립","Entrega de produto via blockchain.
+Item enviado para sua caixa de correio após a conclusão.
+
+<Style=Mileage><size=20> 50 milhas ganhas","ブロックチェーンを経由した商品の配送。
+完了後、アイテムはあなたのメールボックスに送信されます。
+
+<Style=Mileage><size=20> 50 マイレージ獲得","Entrega de producto a través del blockchain.
+Artículo enviado a su buzón una vez finalizado.
+
+<Style=Mileage><size=20> 50 millas ganadas","การส่งสินค้าผ่านระบบบล็อกเชน
+สินค้าจะถูกส่งถึงกล่องจดหมายของคุณเมื่อเสร็จสิ้น
+
+<Style=Mileage><size=20> ได้รับไมล์ที่ 50","Pengiriman produk melalui blockchain.
+Barang dikirim ke kotak surat Anda setelah selesai.
+
+<Style=Mileage><size=20> 50 jarak tempuh yang diperoleh","Доставка товара через блокчейн.
+Товар отправлен в ваш почтовый ящик после завершения.
+
+<Style=Mileage><size=20> Заработано 50 миль","通过区块链进行的产品交付。
+完成后向您的邮箱发送物品。
+
+<Style=Mileage><size=20> 获得50里程积分","通過區塊鏈進行的產品交付。
+項目在完成後發送到您的郵箱。
+
+<Style=Mileage><size=20> 獲得50里程","Paghahatid ng produkto gamit ang blockchain.
+Ang item ay ipapadala sa iyong mailbox pagkatapos.
+
+<Style=Mileage><size=20> 50 milya ang natamo","Giao hàng sản phẩm thông qua blockchain.
+Mặt hàng được gửi đến hòm thư của bạn sau khi hoàn thành.
+
+<Style=Mileage><size=20> Đã kiếm được 50 dặm."
