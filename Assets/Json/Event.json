@@ -1,6 +1,20 @@
 {
     "Banners": [
         {
+            "Priority": 0,
+            "BannerImageName": "1year_celebrate_banner",
+            "PopupImageName": "1year_celebrate_popup",
+            "UseDateTime": true,
+            "BeginDateTime": "2024-10-28T16:56:00",
+            "EndDateTime": "2024-11-19T23:59:00",
+            "Url": "https://bit.ly/9CM1Yr",
+            "UseAgentAddress": false,
+            "Description": "1year_celebrate",
+            "EnableKeys": [
+                ""
+            ]
+        },
+        {
             "Priority": 4,
             "BannerImageName": "[233x68][ENG]custompr",
             "PopupImageName": "[600x420][ENG]custompr",
