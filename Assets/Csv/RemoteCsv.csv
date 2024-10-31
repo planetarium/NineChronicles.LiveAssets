@@ -2404,37 +2404,37 @@ Item sent to your mmailbox upon completion.
 <Style=Mileage><size=20> {0} mileage earned","블록체인을 통한 제품 배송.
 완료 시 우편함으로 전송되는 항목입니다.
 
-<Style=Mileage><size=20> {0}마일리지 적립","Entrega de produto via blockchain.
+<Style=Mileage><size=20> {0}마일리지 적립","Entrega do produto via blockchain.
 Item enviado para sua caixa de correio após a conclusão.
 
-<Style=Mileage><size=20> 50 milhas ganhas","ブロックチェーンを経由した商品の配送。
-完了後、アイテムはあなたのメールボックスに送信されます。
+<Style=Mileage><size=20> {0} quilometragem ganha","ブロックチェーン経由での商品配送。
+完了後、あなたのメールボックスにアイテムが送られます。
 
-<Style=Mileage><size=20> {0} マイレージ獲得","Entrega de producto a través del blockchain.
-Artículo enviado a su buzón una vez finalizado.
+<Style=Mileage><size=20> {0} マイレージ獲得済み","Entrega del producto a través de blockchain.
+Artículo enviado a su buzón tras la finalización.
 
-<Style=Mileage><size=20> {0} millas ganadas","การส่งสินค้าผ่านระบบบล็อกเชน
+<Style=Mileage><size=20> {0} millas ganadas","การส่งสินค้าผ่านบล็อกเชน
 สินค้าจะถูกส่งถึงกล่องจดหมายของคุณเมื่อเสร็จสิ้น
 
-<Style=Mileage><size=20> ได้รับไมล์ที่ {0}","Pengiriman produk melalui blockchain.
+<Style=Mileage><size=20> {0} ไมล์ที่ได้รับ","Pengiriman produk melalui blockchain.
 Barang dikirim ke kotak surat Anda setelah selesai.
 
 <Style=Mileage><size=20> {0} jarak tempuh yang diperoleh","Доставка товара через блокчейн.
 Товар отправлен в ваш почтовый ящик после завершения.
 
 <Style=Mileage><size=20> Заработано {0} миль","通过区块链进行的产品交付。
-完成后向您的邮箱发送物品。
+任务完成后，物品会发送到您的邮箱。
 
-<Style=Mileage><size=20> 获得{0}里程积分","通過區塊鏈進行的產品交付。
-項目在完成後發送到您的郵箱。
+<Style=Mileage><size=20> {0} 里程已获得","通過區塊鏈進行產品交付。
+完成後的物品將寄送到您的郵箱。
 
-<Style=Mileage><size=20> 獲得{0}里程","Paghahatid ng produkto gamit ang blockchain.
-Ang item ay ipapadala sa iyong mailbox pagkatapos.
+<Style=Mileage><size=20> 獲得 {0} 里程","Paghahatid ng produkto gamit ang blockchain.
+Ang item ay ipapadala sa iyong mailbox kapag natapos na.
 
-<Style=Mileage><size=20> {0} milya ang natamo","Giao hàng sản phẩm thông qua blockchain.
-Mặt hàng được gửi đến hòm thư của bạn sau khi hoàn thành.
+<Style=Mileage><size=20> {0} milya ang naipon","Giao hàng sản phẩm qua blockchain.
+Sản phẩm sẽ được gửi đến hộp thư của bạn sau khi hoàn thành.
 
-<Style=Mileage><size=20> Đã kiếm được {0} dặm."
+<Style=Mileage><size=20> {0} dặm đã kiếm được"
 "UI_SKILL_NOT_CONTAINS","skillless required","스킬 필요하지 않음","habilidade não exigida","技術不要","se requiere sin habilidades","ต้องการคนที่ไม่มีทักษะ","diperlukan tanpa keterampilan","Требуется без навыков","需要无技能的","需要無技能的","kailangan ang walang kasanayan","yêu cầu không cần kỹ năng"
 "ITEM_NAME_49900024","YGG Bravecat","YGG Bravecat","YGG Bravecat","YGG ブレイブキャット","YGG Bravecat","YGG Bravecat","YGG Bravecat","YGG Bravecat","YGG 勇敢猫","YGG勇敢貓","YGG Bravecat","YGG Bravecat"
 "ITEM_NAME_49900025","Collection Master","콜렉션 마스터","Mestre de Coleção","コレクションマスター","Maestro de Colección","ผู้ควบคุมการสะสม","Master Koleksi","Мастер Коллекций","收藏大师","收藏大師","Koleksyon Master","Bộ sưu tập Thạc sĩ"
