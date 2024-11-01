@@ -1,6 +1,34 @@
 {
     "Banners": [
         {
+            "Priority": -2,
+            "BannerImageName": "[233x68]11월신상",
+            "PopupImageName": "[600x420]11월신상",
+            "UseDateTime": true,
+            "BeginDateTime": "2024-10-31T11:49:00",
+            "EndDateTime": "2024-11-30T23:59:00",
+            "Url": "https://bit.ly/9CM_NovPromo",
+            "UseAgentAddress": false,
+            "Description": "202411promo",
+            "EnableKeys": [
+                ""
+            ]
+        },
+        {
+            "Priority": -1,
+            "BannerImageName": "[233x68]11월 시즌패스",
+            "PopupImageName": "[600x420]11월 시즌패스",
+            "UseDateTime": true,
+            "BeginDateTime": "2024-10-31T11:49:00",
+            "EndDateTime": "2024-11-30T23:59:00",
+            "Url": "https://bit.ly/9CM_CMPass",
+            "UseAgentAddress": false,
+            "Description": "202411seasonpass",
+            "EnableKeys": [
+                ""
+            ]
+        },
+        {
             "Priority": 0,
             "BannerImageName": "1year_celebrate_banner",
             "PopupImageName": "1year_celebrate_popup",
