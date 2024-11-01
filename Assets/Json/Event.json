@@ -2,8 +2,8 @@
     "Banners": [
         {
             "Priority": -2,
-            "BannerImageName": "[233x68]11월신상",
-            "PopupImageName": "[600x420]11월신상",
+            "BannerImageName": "11promo",
+            "PopupImageName": "11promo",
             "UseDateTime": true,
             "BeginDateTime": "2024-10-31T11:49:00",
             "EndDateTime": "2024-11-30T23:59:00",
@@ -16,8 +16,8 @@
         },
         {
             "Priority": -1,
-            "BannerImageName": "[233x68]11월 시즌패스",
-            "PopupImageName": "[600x420]11월 시즌패스",
+            "BannerImageName": "11pass",
+            "PopupImageName": "11pass",
             "UseDateTime": true,
             "BeginDateTime": "2024-10-31T11:49:00",
             "EndDateTime": "2024-11-30T23:59:00",
