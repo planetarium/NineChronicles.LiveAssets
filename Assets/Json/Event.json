@@ -1,6 +1,34 @@
 {
     "Banners": [
         {
+            "Priority": -10,
+            "BannerImageName": "[233x68][ENG]_1st",
+            "PopupImageName": "[600x420][ENG]_1st",
+            "UseDateTime": true,
+            "BeginDateTime": "2024-11-27T13:15:00",
+            "EndDateTime": "2024-12-25T23:10:00",
+            "Url": "https://bit.ly/1YR_ANNIV",
+            "UseAgentAddress": false,
+            "Description": "1주년이벤트",
+            "EnableKeys": [
+                ""
+            ]
+        },
+        {
+            "Priority": -8,
+            "BannerImageName": "[233x68][ENG]_1stsns",
+            "PopupImageName": "[600x420][ENG]_1stsns",
+            "UseDateTime": true,
+            "BeginDateTime": "2024-11-27T13:15:00",
+            "EndDateTime": "2024-12-25T23:10:00",
+            "Url": "https://bit.ly/9CM_1yrAPT",
+            "UseAgentAddress": false,
+            "Description": "1주년이벤트sns",
+            "EnableKeys": [
+                ""
+            ]
+        },
+        {
             "Priority": -2,
             "BannerImageName": "11promo",
             "PopupImageName": "11promo",
