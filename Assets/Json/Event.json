@@ -29,15 +29,29 @@
             ]
         },
         {
-            "Priority": -2,
-            "BannerImageName": "11promo",
-            "PopupImageName": "11promo",
+            "Priority": -6,
+            "BannerImageName": "[233x68][ENG]_1stshop",
+            "PopupImageName": "[600x420][ENG]_1stshop",
             "UseDateTime": true,
-            "BeginDateTime": "2024-10-31T11:49:00",
-            "EndDateTime": "2024-11-30T23:59:00",
-            "Url": "https://bit.ly/9CM_NovPromo",
+            "BeginDateTime": "2024-11-27T15:42:00",
+            "EndDateTime": "2024-12-25T23:42:00",
+            "Url": "https://bit.ly/9CM_1yrPromo",
             "UseAgentAddress": false,
-            "Description": "202411promo",
+            "Description": "1st_promotion",
+            "EnableKeys": [
+                ""
+            ]
+        },
+        {
+            "Priority": -4,
+            "BannerImageName": "[233x68][ENG]_1stmileage",
+            "PopupImageName": "[600x400][ENG]_1stmileage",
+            "UseDateTime": true,
+            "BeginDateTime": "2024-11-27T15:42:00",
+            "EndDateTime": "2024-12-25T23:42:00",
+            "Url": "https://bit.ly/9CM_MileageShop",
+            "UseAgentAddress": false,
+            "Description": "1st_mileage",
             "EnableKeys": [
                 ""
             ]
