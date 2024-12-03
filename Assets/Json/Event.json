@@ -1,6 +1,20 @@
 {
     "Banners": [
         {
+            "Priority": -12,
+            "BannerImageName": "[233x68][ENG]pos",
+            "PopupImageName": "[600x420][ENG]pos",
+            "UseDateTime": true,
+            "BeginDateTime": "2024-12-01T19:29:00",
+            "EndDateTime": "2024-12-24T23:59:00",
+            "Url": "https://bit.ly/9C_PoS_Transition",
+            "UseAgentAddress": false,
+            "Description": "pos",
+            "EnableKeys": [
+                ""
+            ]
+        },
+        {
             "Priority": -10,
             "BannerImageName": "[233x68][ENG]_1st",
             "PopupImageName": "[600x420][ENG]_1st",
