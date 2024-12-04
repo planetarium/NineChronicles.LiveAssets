@@ -3,7 +3,7 @@
     "EventRewards": [
         {
             "BeginDateTime": "2024-11-12T00:00:00",
-            "EndDateTime": "2024-12-15T00:00:00",
+            "EndDateTime": "2024-12-25T23:59:00",
 
             "ToggleL10NKey": "UI_EVENT_TOGGLE_0",
             "DescriptionL10NKey": "UI_EVENT_DESCRIPTION_0",
@@ -16,7 +16,7 @@
         },
         {
             "BeginDateTime": "2024-11-12T00:00:00",
-            "EndDateTime": "2024-12-15T00:00:00",
+            "EndDateTime": "2024-12-25T23:59:00",
 
             "ToggleL10NKey": "UI_EVENT_TOGGLE_1",
             "DescriptionL10NKey": "UI_EVENT_DESCRIPTION_1",
@@ -26,7 +26,7 @@
         },
         {
             "BeginDateTime": "2024-11-12T00:00:00",
-            "EndDateTime": "2024-12-15T00:00:00",
+            "EndDateTime": "2024-12-25T23:59:00",
 
             "ToggleL10NKey": "UI_EVENT_TOGGLE_2",
             "DescriptionL10NKey": "UI_EVENT_DESCRIPTION_2",
@@ -41,7 +41,7 @@
         },
         {
             "BeginDateTime": "2024-11-12T00:00:00",
-            "EndDateTime": "2024-12-15T00:00:00",
+            "EndDateTime": "2024-12-25T23:59:00",
 
             "ToggleL10NKey": "UI_EVENT_TOGGLE_3",
             "DescriptionL10NKey": "UI_EVENT_DESCRIPTION_3",
@@ -58,7 +58,7 @@
         },
         {
             "BeginDateTime": "2024-11-12T00:00:00",
-            "EndDateTime": "2024-12-15T00:00:00",
+            "EndDateTime": "2024-12-25T23:59:00",
 
             "ToggleL10NKey": "UI_EVENT_TOGGLE_4",
             "DescriptionL10NKey": "UI_EVENT_DESCRIPTION_4",
