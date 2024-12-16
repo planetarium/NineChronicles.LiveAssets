@@ -3181,20 +3181,107 @@ SỰ KIỆN"
 "COLLECTION_NAME_300017","Ragnarok","라그나로크","Ragnarok","ラグナロク","Ragnarok","แร็กนาร็อค","Ragnarok","Рагнарёк","诸神的黄昏","諸神的黃昏","Ragnarok","Ragnarok"
 "COLLECTION_NAME_300018","Wish Maker","소원 성취자","Fazedor de Desejos","願いを叶える人","Hacedor de Deseos","ผู้สร้างความปรารถนา","Pembuat Harapan","Создатель Желаний","许愿者","許願者","Tagagawa ng Pangarap","Người Ước Muốn"
 "EVENT_DUNGEON_NAME_10130001","Ragnarok Fields","라그나로크 필드","Campos de Ragnarok","ラグナロクのフィールド","Campos del Ragnarok","ทุ่งราคนาร็อก","Lapangan Ragnarok","Поля Рагнарока","诸神的默示录战场","諸神的黃昏戰場","Mga Patlang ng Ragnarok","Cánh đồng Ragnarok"
-"UI_SYNTHESIZE_MATERIAL","{0} Material Synthesis","{0} 재료 합성","Síntese de Material","素材の合成","Síntesis de Material","สังเคราะห์วัสดุ","Sintesis Material","Синтез материалов","{0} 材料合成","{0} 材料合成","Sintesis ng Materyal","Tổng hợp Vật liệu"
+"UI_SYNTHESIZE_MATERIAL","{0} Material Synthesis","{0} 재료 합성","{0} Síntese de Material","{0} 素材の合成","{0} Síntesis de Materiales","{0} สังเคราะห์วัสดุ","{0} Sintesis Material","{0} Синтез материалов","{0} 材料合成","{0} 材料合成","{0} Sintesis ng Materyales","{0} Tổng hợp Vật liệu"
 "UI_SYNTHESIZE_HOLDS","HOLDS","보유","SEGURA","保持する","RETENIDOS","ยึดถือ","MENAHAN","ДЕРЖИТ","持有","保留","HAWAK","GIỮ"
-"UI_SYNTHESIZE_SLOT_NOTICE","Select Item to Synthesize","합성할 아이템을 선택하세요","Selecione o Item para Sintetizar","合成するアイテムを選択してください。","Seleccione el Ítem para Sintetizar","เลือกสิ่งของที่จะสังเคราะห์","Pilih Item untuk Sintesis","Выберите элемент для синтеза","选择要合成的项目","選擇要合成的項目","Piliin ang Item na Isasalin sa Sintesis","Chọn mục để tổng hợp"
+"UI_SYNTHESIZE_SLOT_NOTICE","Select materials.","자재를 선택하십시오.","Selecione materiais.","素材を選択します。","Seleccionar materiales.","เลือกวัสดุ","Pilih bahan.","Выберите материалы.","选择材料。","選擇材料。","Pumili ng mga materyales.","Chọn vật liệu."
 "UI_SYNTHESIZE_NOT_EQUIPPED","The equipment you are wearing cannot bo synthesis","착용중인 장비는 합성할 수 없습니다","O equipamento que você está usando não pode ser sintetizado.","あなたが身につけている装備は、合成できません。","El equipo que llevas puesto no puede ser sintetizado.","อุปกรณ์ที่คุณสวมอยู่ไม่สามารถสังเคราะห์ได้","Peralatan yang sedang Anda kenakan tidak dapat disintesis.","Оборудование, которое вы носите, не может быть синтезировано.","你所穿戴的设备不能进行合成。","你所穿戴的裝備無法進行合成。","Ang kagamitang suot mo ay hindi maaaring mag-synthesis.","Thiết bị bạn đang mặc không thể tổng hợp được."
 "UI_SYNTHESIZE_STRONG_CONFIRM","Items that are enhanced are included in the synthesize target. Are you sure you want to proceed?","강화된 아이템이 합성 대상에 포함되어 있습니다. 계속 진행하시겠습니까?","Itens que são aprimorados estão incluídos no alvo de síntese. Você tem certeza de que quer prosseguir?","強化されたアイテムは合成対象に含まれます。進行しますか？","Los elementos que se encuentran mejorados están incluidos en el objetivo de síntesis. ¿Estás seguro de que deseas continuar?","รายการที่ได้รับการเพิ่มประสิทธิภาพจะถูกรวมอยู่ในเป้าหมายการสังเคราะห์ คุณแน่ใจหรือไม่ว่าต้องการดำเนินการต่อ?","Item yang telah ditingkatkan termasuk dalam target sintesis. Apakah Anda yakin ingin melanjutkan?","Элементы, которые улучшены, включены в цель синтеза. Вы уверены, что хотите продолжить?","被强化的物品包含在合成目标中。你确定要继续吗？","已增強的物品已包含在合成目標中。你確定要繼續進行嗎？","Ang mga item na pinahusay ay kasali sa target na pag-sasama. Sigurado ka bang nais mong magpatuloy?","Các mục đã được nâng cấp sẽ được bao gồm trong mục tiêu tổng hợp. Bạn có chắc chắn muốn tiếp tục không?"
 "UI_NUMBER_SYNTHESIS","Number of Synthesis: {0}","합성 횟수: {0}","Número de Sínteses: {0}","合成の数：{0}","Número de Síntesis: {0}","จำนวนการสังเคราะห์: {0}","Jumlah Sintesis: {0}","Количество синтезов: {0}","合成数量：{0}","合成數量：{0}","Bilang ng Sintesis: {0}","Số lượng tổng hợp: {0}"
-"UI_SYNTHESIZE_SUCCESS_RATE","Synthesis Success Rate: {0}%","합성 성공 확률: {0}%","Taxa de Sucesso de Síntese: {0}%","合成成功率：{0}%","Tasa de Éxito de Síntesis: {0}%","อัตราความสำเร็จในการสังเคราะห์: {0}%","Tingkat Keberhasilan Sintesis: {0}%","Процент успешного синтеза: {0}%","合成成功率：{0}%","綜合成功率：{ 0 }％","Tagumpay na Rate ng Sintesis: {0}%","Tỷ lệ thành công của quá trình tổng hợp: {0}%"
-"UI_SYNTHESIZE_IMPOSSIBLE","Select the grade you want to synthesize.","합성할 등급을 선택하세요.","Selecione a nota que você deseja sintetizar.","合成したいグレードを選択してください。","Seleccione el grado que desea sintetizar.","เลือกเกรดที่คุณต้องการสังเคราะห์","Pilih nilai yang ingin Anda sintesis.","Выберите класс, который вы хотите синтезировать.","选择您想要合成的等级。","選擇您想要合成的等級。","Piliin ang grado na nais mong sintetisahin.","Chọn cấp độ bạn muốn tổng hợp."
+"UI_SYNTHESIZE_SUCCESS_RATE","Success Rate: {0}%","성공률: {0}%","Taxa de Sucesso: {0}%","成功率：{0}%","Tasa de Éxito: {0}%","อัตราความสำเร็จ: {0}%","Tingkat Keberhasilan: {0}%","Успешность: {0}%","成功率：{0}%","成功率：{0}%","Rate ng Tagumpay: {0}%","Tỉ lệ thành công: {0}%"
+"UI_SYNTHESIZE_IMPOSSIBLE","Select materials.","재료를 선택하십시오.","Selecione materiais.","材料を選択します。","Seleccionar materiales.","เลือกวัสดุ","Pilih bahan.","Выберите материалы.","选择材料。","選擇材料。","Piliin ang mga materyales.","Chọn vật liệu."
 "UI_SYNTHESIZE_AUTO_SELECT","Auto Select {0}","자동 선택 {0}","Seleção Automática {0}","オートセレクト {0}","Selección Automática {0}","เลือกอัตโนมัติ {0}","Pilih Otomatis {0}","Автовыбор {0}","自动选择 {0}","自動選擇 {0}","Awto Piliin {0}","Tự động chọn {0}"
 "UI_SYNTHESIZE_AUTO_SELECT_ALL","Auto Select All","모두 자동 선택","Selecionar Todos Automaticamente","すべて自動選択","Seleccionar Todo Automáticamente","เลือกทั้งหมดอัตโนมัติ","Pilih Semua Secara Otomatis","Автоматический выбор всех","自动全选","自動全選","Piliin ang Lahat nang Awtomatiko","Tự động chọn tất cả"
 "UI_SYNTHESIZE_REGISTER","Register","등록","Registrar","登録する","Registrarse","ลงทะเบียน","Daftar","Регистрация","注册","註冊","Magrehistro","Đăng ký"
 "UI_SYNTHESIZE_COUNT_CHECK","You must select an item corresponding to a multiple of {0}.","{0}의 배수에 해당하는 아이템을 선택해야 합니다.","Você deve selecionar um item correspondente a um múltiplo de {0}.","{0}の倍数に対応するアイテムを選択する必要があります。","Debe seleccionar un elemento que corresponda a un múltiplo de {0}.","คุณต้องเลือกรายการที่เท่ากับจำนวนเต็มบวกของ {0}","Anda harus memilih suatu item yang sesuai dengan kelipatan dari {0}.","Вы должны выбрать элемент, соответствующий кратному {0}.","您必须选择一个与{0}的倍数对应的项目。","您必須選擇一個項目，該項目對應於{0}的倍數。","Dapat kang pumili ng isang bagay na tumutugma sa maramihang bilang ng {0}.","Bạn phải chọn một mục tương ứng với một bội số của {0}."
-"SYNTHESIS_UI_BUTTON","SYNTHESIS","합성","SÍNTESE","合成","SÍNTESIS","สังเคราะห์","SINTESIS","СИНТЕЗ","合成","合成","Sintesis","#ERROR!"
+"SYNTHESIS_UI_BUTTON","SYNTHESIS","합성","SÍNTESE","合成","SÍNTESIS","สังเคราะห์","SINTESIS","СИНТЕЗ","合成","合成","Sintesis","Tổng hợp"
 "UI_SYNTHESIZE_MAX_COUNT_CHECK","Cannot select more than {0} materials in the maximum number of synthesize({1}).","{0}개 이상의 재료를 선택할 수 없습니다. 최대 합성 개수({1})를 확인하세요.","Não pode selecionar mais de {0} materiais no número máximo de síntese({1}).","最大合成数({1})では、{0}種類以上の素材を選択することはできません。","No se pueden seleccionar más de {0} materiales en el número máximo de síntesis({1}).","ไม่สามารถเลือกวัสดุมากกว่า {0} ชิ้นในการสังเคราะห์สูงสุด ({1}) ครั้ง","Tidak dapat memilih lebih dari {0} material dalam jumlah maksimum sintesis({1}).","Невозможно выбрать более {0} материалов при максимальном числе синтезов ({1}).","无法选择超过{0}种材料进行最大数量的合成（{1}）。","無法在最大合成數量({1})中選擇超過{0}種材料。","Hindi maaaring pumili ng higit sa {0} na materyales sa pinakamataas na bilang ng pagsasama-sama({1}).","Không thể chọn quá {0} vật liệu trong số lượng tối đa cho việc tổng hợp({1})."
+"UI_SYNTHESIZE_REGISTRATION_INFO","Select the item you want to sunthesize.","선택하고자 하는 항목을 결정하십시오.","Selecione o item que você deseja sintetizar.","合成したいアイテムを選択してください。","Seleccione el artículo que desea sintetizar.","เลือกรายการที่คุณต้องการสังเคราะห์","Pilih item yang ingin Anda sintesis.","Выберите предмет, который вы хотите синтезировать.","选择您想要合成的项目。","選擇您想要合成的項目。","Piliin ang item na nais mong sunthesize.","Chọn mục bạn muốn tổng hợp."
+"HELP_POPUP_100033_PAGE_00_TITLE","SYNTHESIZE INFORMATION","정보를 통합하다","SINTETIZAR INFORMAÇÃO","情報を統合する","SINTETIZAR INFORMACIÓN","สังเคราะห์ข้อมูล","SINTESIS INFORMASI","СИНТЕЗИРУЙТЕ ИНФОРМАЦИЮ","合成信息","綜合信息","ISINOPESISA ANG IMPORMASYON","Tổng hợp thông tin"
+"HELP_POPUP_100033_PAGE_00_TEXT_00","- Each attempt can only process one type of equipment at a single rarity, up to a maximum of 12 attempts.
+- On success, equipment of the next rarity is obtained. On failure, equipment of the current rarity is re-obtained.
+- Equipment meeting the following criteria **cannot be selected as materials**:
+    - 1st Anniversary event equipment (Aura, Grimoire)
+    - Currently equipped equipment
+- Equipment meeting the following criteria cannot be produced as results
+    - 1st Anniversary event equipment (Aura, Grimoire)
+    - Legend Lord aura equipment","- 각 시도는 한 번에 하나의 장비 종류만을 처리할 수 있으며, 최대 12번의 시도까지 가능합니다.
+- 성공 시, 다음 등급의 장비를 획득합니다. 실패 시, 현재 등급의 장비를 다시 획득합니다.
+- 다음 기준을 만족하는 장비는 **재료로 선택될 수 없습니다**:
+    - 1주년 기념 행사 장비 (오라, 그림외어)
+    - 현재 장착 중인 장비
+- 다음 기준을 만족하는 장비는 결과물로 생성될 수 없습니다.
+    - 1주년 기념 행사 장비 (오라, 그림외어)
+    - 전설의 군주 오라 장비","- Cada tentativa só pode processar um tipo de equipamento numa única raridade, até um máximo de 12 tentativas.
+- Em caso de sucesso, é obtido equipamento da próxima raridade. Em caso de falha, é obtido novamente o equipamento da raridade atual.
+- Equipamentos que atendem aos seguintes critérios **não podem ser selecionados como materiais**:
+    - Equipamento do evento do 1º aniversário (Aura, Grimoire)
+    - Equipamento atualmente equipado
+- Equipamentos que atendem aos seguintes critérios não podem ser produzidos como resultados
+    - Equipamento do evento do 1º aniversário (Aura, Grimoire)
+    - Equipamento aura do Lendário Senhor","- 各試行は、一つの種類の装備を一度に処理でき、最大12回まで試行できます。
+- 成功時には、次のレア度の装備が得られます。失敗時には、現在のレア度の装備が再度得られます。
+- 以下の基準に合致する装備は**素材として選択できません**：
+    - 1周年記念イベントの装備（オーラ、グリモワール）
+    - 現在装備中の装備
+- 以下の基準に合致する装備は結果として製造できません
+    - 1周年記念イベントの装備（オーラ、グリモワール）
+    - レジェンドロードのオーラ装備","- Cada intento solo puede procesar un tipo de equipo de una sola rareza, hasta un máximo de 12 intentos.
+- En caso de éxito, se obtiene equipo de la siguiente rareza. En caso de fracaso, se vuelve a obtener equipo de la rareza actual.
+- El equipo que cumple con los siguientes criterios **no puede ser seleccionado como materiales**:
+    - Equipo del evento del primer aniversario (Aura, Grimorio)
+    - Equipo actualmente equipado
+- El equipo que cumple con los siguientes criterios no se puede producir como resultado
+    - Equipo del evento del primer aniversario (Aura, Grimorio)
+    - Equipo de aura del Legend Lord.","- การพยายามแต่ละครั้งสามารถดำเนินการกับอุปกรณ์ประเภทเดียวเท่านั้นในระดับความหายากแต่ละครั้ง สูงสุด 12 ครั้ง
+- หากสำเร็จ อุปกรณ์ความหายากถัดไปจะได้รับ หากล้มเหลว จะได้รับอุปกรณ์ความหายากปัจจุบัน
+- อุปกรณ์ที่ตรงตามเกณฑ์ต่อไปนี้**ไม่สามารถเลือกเป็นวัตถุดิบ**:
+    - อุปกรณ์เหตุการณ์ที่ครบรอบปีที่ 1 (Aura, Grimoire)
+    - อุปกรณ์ที่กำลังใช้งานอยู่
+- อุปกรณ์ที่ตรงตามเกณฑ์ต่อไปนี้ไม่สามารถผลิตเป็นผลลัพธ์
+    - อุปกรณ์เหตุการณ์ที่ครบรอบปีที่ 1 (Aura, Grimoire)
+    - อุปกรณ์อุรา Legend Lord","- Setiap upaya hanya dapat memproses satu jenis peralatan dengan satu tingkat kelangkaan, hingga maksimal 12 kali upaya.
+- Jika berhasil, peralatan dengan tingkat kelangkaan selanjutnya akan diperoleh. Jika gagal, peralatan dengan tingkat kelangkaan saat ini akan diperoleh kembali.
+- Peralatan yang memenuhi kriteria berikut **tidak dapat dipilih sebagai bahan**:
+    - Peralatan acara ulang tahun pertama (Aura, Grimoire)
+    - Peralatan yang sedang digunakan
+- Peralatan yang memenuhi kriteria berikut tidak dapat diproduksi sebagai hasil
+    - Peralatan acara ulang tahun pertama (Aura, Grimoire)
+    - Peralatan aura Legend Lord","- Каждая попытка может обработать только один тип оборудования определенной редкости, не более 12 попыток.
+- В случае успеха получается оборудование следующей редкости. При неудаче снова получается оборудование текущей редкости.
+- Оборудование, соответствующее следующим критериям, **нельзя выбирать в качестве материалов**:
+    - Оборудование события 1-й годовщины (Аура, гримуар)
+    - Текущее экипированное оборудование
+- Оборудование, удовлетворяющее следующим критериям, не может быть создано как результат
+    - Оборудование события 1-й годовщины (Аура, гримуар)
+    - Оборудование ауры владителя легенд","- 每次尝试只能处理一种单一稀有度的设备，最多可以尝试12次。
+- 如果成功，将获得下一稀有度的设备。如果失败，将重新获取当前稀有度的设备。
+- 符合以下标准的设备**不能被选作材料**：
+    - 一周年纪念活动设备 (光环，魔法书)
+    - 当前已装备的设备
+- 符合以下标准的设备不能被生成为结果：
+    - 一周年纪念活动设备 (光环，魔法书)
+    - 传说领主光环设备","- 每次嘗試只能處理單一種類的裝備以及單一稀有程度，最多可以嘗試12次。
+- 如果成功，則可以獲得下一稀有程度的裝備。如果失敗，則可以重新獲得目前稀有程度的裝備。
+- 滿足以下條件的裝備**不能被選為材料**：
+    - 一週年紀念活動裝備（光環，魔導書）
+    - 目前裝備的裝備
+- 滿足以下條件的裝備不能作為結果製作：
+    - 一週年紀念活動裝備（光環，魔導書）
+    - 傳說領主光環裝備","- Bawat pagtatangka ay maaaring magproseso lamang ng isang uri ng kagamitan sa isang pambihirang pagkakataon, hanggang sa maximum na 12 na mga pagtatangka.
+- Sa tagumpay, natatanggap ang kagamitan ng susunod na bihira. Sa kabiguan, muling nakukuha ang kagamitan ng kasalukuyang bihira.
+- Hindi maaaring piliin ang kagamitan na nagtataglay ng sumusunod na pamantayan **bilang mga materyales**:
+    - 1st Anniversary event equipment (Aura, Grimoire)
+    - Kasalukuyang kasuotang kagamitan
+- Hindi maaaring mabuo bilang mga resulta ang mga kagamitan na nagtataglay ng sumusunod na pamantayan
+    - 1st taon ng Anniversary ng kagamitan (Aura, Grimoire)
+    - Alamat ng Panginoong aura ng kagamitan","- Mỗi lần thử chỉ có thể xử lý một loại thiết bị tại một cấp độ hiếm có, lên đến tối đa 12 lần thử.
+- Nếu thành công, thiết bị của cấp độ hiếm hơn tiếp theo sẽ được nhận. Nếu thất bại, thiết bị của cấp độ hiếm hiện tại sẽ được nhận lại.
+- Thiết bị đáp ứng các tiêu chí sau **không được chọn làm vật liệu**:
+    - Thiết bị sự kiện kỷ niệm lần thứ nhất (Aura, Grimoire)
+    - Thiết bị đang được trang bị
+- Thiết bị đáp ứng các tiêu chí sau không thể được sản xuất thành kết quả:
+    - Thiết bị sự kiện kỷ niệm lần thứ nhất (Aura, Grimoire)
+    - Thiết bị aura Legend Lord"
 "ITEM_NAME_800116","Ragnarok Berry","라그나로크 베리","Baga Ragnarok","ラグナロク・ベリー","Baya Ragnarok","แรกนาร็อกเบอรี่","Berry Ragnarok","Ягода Рагнарок","诸神黄昏之莓","諸神的黃昏漿果","Ragnarok Berry","Quả Berry Ragnarok"
 "ITEM_NAME_800117","Annoying Orange","어노잉 오렌지","Laranja Irritante","うっとうしいオレンジ","Naranja Molesta","ส้มน่ารำคาญ","Jeruk Mengganggu","Раздражающий Апельсин","烦人的橙子","討厭的橙子","Nakakainis na Kahel","Quả cam khó chịu"
 "ITEM_NAME_900113","Ragnar Tequila","라그나 데낄라","Tequila Ragnar","ラグナル・テキーラ","Tequila Ragnar","เรกนาร์ เตกีลา","Ragnar Tequila","Текила Рагнар","拉格纳龙舌兰","Ragnar 龍舌蘭酒","Ragnar Tequila","Tequila Ragnar"
