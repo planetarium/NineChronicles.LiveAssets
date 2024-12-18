@@ -3196,22 +3196,22 @@ SỰ KIỆN"
 "SYNTHESIS_UI_BUTTON","SYNTHESIS","합성","SÍNTESE","合成","SÍNTESIS","สังเคราะห์","SINTESIS","СИНТЕЗ","合成","合成","Sintesis","Tổng hợp"
 "UI_SYNTHESIZE_MAX_COUNT_CHECK","Cannot select more than {0} materials in the maximum number of synthesize({1}).","{0}개 이상의 재료를 선택할 수 없습니다. 최대 합성 개수({1})를 확인하세요.","Não pode selecionar mais de {0} materiais no número máximo de síntese({1}).","最大合成数({1})では、{0}種類以上の素材を選択することはできません。","No se pueden seleccionar más de {0} materiales en el número máximo de síntesis({1}).","ไม่สามารถเลือกวัสดุมากกว่า {0} ชิ้นในการสังเคราะห์สูงสุด ({1}) ครั้ง","Tidak dapat memilih lebih dari {0} material dalam jumlah maksimum sintesis({1}).","Невозможно выбрать более {0} материалов при максимальном числе синтезов ({1}).","无法选择超过{0}种材料进行最大数量的合成（{1}）。","無法在最大合成數量({1})中選擇超過{0}種材料。","Hindi maaaring pumili ng higit sa {0} na materyales sa pinakamataas na bilang ng pagsasama-sama({1}).","Không thể chọn quá {0} vật liệu trong số lượng tối đa cho việc tổng hợp({1})."
 "UI_SYNTHESIZE_REGISTRATION_INFO","Select the item you want to sunthesize.","선택하고자 하는 항목을 결정하십시오.","Selecione o item que você deseja sintetizar.","合成したいアイテムを選択してください。","Seleccione el artículo que desea sintetizar.","เลือกรายการที่คุณต้องการสังเคราะห์","Pilih item yang ingin Anda sintesis.","Выберите предмет, который вы хотите синтезировать.","选择您想要合成的项目。","選擇您想要合成的項目。","Piliin ang item na nais mong sunthesize.","Chọn mục bạn muốn tổng hợp."
-"HELP_POPUP_100033_PAGE_00_TITLE","SYNTHESIZE INFORMATION","정보를 통합하다","SINTETIZAR INFORMAÇÃO","情報を統合する","SINTETIZAR INFORMACIÓN","สังเคราะห์ข้อมูล","SINTESIS INFORMASI","СИНТЕЗИРУЙТЕ ИНФОРМАЦИЮ","合成信息","綜合信息","ISINOPESISA ANG IMPORMASYON","Tổng hợp thông tin"
+"HELP_POPUP_100033_PAGE_00_TITLE","SYNTHESIZE INFORMATION","합성 정보","SINTETIZAR INFORMAÇÃO","情報を統合する","SINTETIZAR INFORMACIÓN","สังเคราะห์ข้อมูล","SINTESIS INFORMASI","СИНТЕЗИРУЙТЕ ИНФОРМАЦИЮ","合成信息","綜合信息","ISINOPESISA ANG IMPORMASYON","Tổng hợp thông tin"
 "HELP_POPUP_100033_PAGE_00_TEXT_00","- Each attempt can only process one type of equipment at a single rarity, up to a maximum of 12 attempts.
 - On success, equipment of the next rarity is obtained. On failure, equipment of the current rarity is re-obtained.
-- Equipment meeting the following criteria **cannot be selected as materials**:
+- Equipment meeting the following criteria cannot be selected as materials:
     - 1st Anniversary event equipment (Aura, Grimoire)
     - Currently equipped equipment
 - Equipment meeting the following criteria cannot be produced as results
     - 1st Anniversary event equipment (Aura, Grimoire)
     - Legend Lord aura equipment","- 각 시도는 한 번에 하나의 장비 종류만을 처리할 수 있으며, 최대 12번의 시도까지 가능합니다.
 - 성공 시, 다음 등급의 장비를 획득합니다. 실패 시, 현재 등급의 장비를 다시 획득합니다.
-- 다음 기준을 만족하는 장비는 **재료로 선택될 수 없습니다**:
-    - 1주년 기념 행사 장비 (오라, 그리모어)
+- 다음 기준을 만족하는 장비는 재료로 선택될 수 없습니다.
+    - 1주년 기념 행사 장비 (아우라, 그리모어)
     - 현재 장착 중인 장비
 - 다음 기준을 만족하는 장비는 결과물로 생성될 수 없습니다.
-    - 1주년 기념 행사 장비 (오라, 그리모어)
-    - 전설의 군주 오라 장비","- Cada tentativa só pode processar um tipo de equipamento numa única raridade, até um máximo de 12 tentativas.
+    - 1주년 기념 행사 장비 (아우라, 그리모어)
+    - 로드 레전드 아우라 장비","- Cada tentativa só pode processar um tipo de equipamento numa única raridade, até um máximo de 12 tentativas.
 - Em caso de sucesso, é obtido equipamento da próxima raridade. Em caso de falha, é obtido novamente o equipamento da raridade atual.
 - Equipamentos que atendem aos seguintes critérios **não podem ser selecionados como materiais**:
     - Equipamento do evento do 1º aniversário (Aura, Grimoire)
