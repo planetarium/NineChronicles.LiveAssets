@@ -3282,6 +3282,48 @@ SỰ KIỆN"
 - Thiết bị đáp ứng các tiêu chí sau không thể được sản xuất thành kết quả:
     - Thiết bị sự kiện kỷ niệm lần thứ nhất (Aura, Grimoire)
     - Thiết bị aura Legend Lord"
+"UI_SYNTHESIZE_LACK_MATERIAL","Insufficient materials for this rarity.","해당 희귀도의 재료가 부족합니다","Materiais insuficientes para essa raridade.","このレア度には材料が不足しています。","Materiales insuficientes para esta rareza.","วัสดุไม่เพียงพอสำหรับความหายากนี้","Material tidak mencukupi untuk keunikan ini.","Недостаточно материалов для этой редкости.","此稀有度的材料不足。","此稀有度的材料不足。","Hindi sapat na mga materyales para sa ganitong kahirapan.","Không đủ vật liệu cho sự hiếm hoi này."
+"UI_SYNTHESISING","Synthesis in Progress","합성 진행중","Síntese em Andamento","進行中の合成","Síntesis en Progreso","กำลังดำเนินการสังเคราะห์","Sintesis Sedang Berlangsung","Синтез в процессе","正在进行合成","正在進行合成","Sintesis sa Proseso","Đang Tiến Hành Tổng Hợp"
+"UI_SYNTHESIZE_MATERIAL_CHANGE","Synthesis can only be done for one grade and one subtype at a action. 
+Do you want to reset the existing selected material?","합성은 한번에 한등급에 대해서만 진행 가능합니다. 
+기존 선택된 재료를 리셋하고 새로 집어넣으시겠습니까?","A síntese só pode ser feita para uma única nota e um único subtipo em uma ação.
+Você deseja redefinir o material selecionado existente?","合成は一度のアクションで一つの等級と一つのサブタイプのみ可能です。 
+既存の選択された素材をリセットしますか？","La síntesis sólo puede realizarse para un grado y un subtipo a la vez. ¿Desea restablecer el material seleccionado existente?","สังเคราะห์สามารถทำได้เพียงแค่สำหรับเกรดที่เดียวและประเภทย่อยที่เดียวในการดำเนินการ
+คุณต้องการรีเซ็ตวัสดุที่เลือกไว้ใหม่หรือไม่?","Sintesis hanya bisa dilakukan untuk satu tingkat dan satu subtipe dalam satu tindakan.
+Apakah Anda ingin mereset bahan yang telah dipilih sebelumnya?","Синтез можно проводить только для одной степени и одного подтипа за одно действие. 
+Вы хотите сбросить уже выбранный материал?","合成只能针对一个等级和一个子类型进行一次操作。您想要重置已选择的材料吗？","合成只能在一個等級和一種子型的動作中進行。
+您是否要重設現有的選定材料？","Maaaring gawin lamang ang synthesis para sa isang baitang at isang uri ng subtype sa isang aksyon. 
+Nais mo bang i-reset ang kasalukuyang piniling materyal?","Sự tổng hợp chỉ có thể được thực hiện cho một cấp độ và một loại con trong một hành động.
+Bạn có muốn đặt lại vật liệu đã chọn hiện tại không?"
+"TUTORIAL_151_001","A synthetic menu has been opened that allows you to acquire higher-grade equipment.","상위 장비를 획득할수 있는 합성 메뉴가 오픈됐어.","Foi aberto um menu sintético que permite adquirir equipamentos de maior grau.","より高品質の機器を入手できるように、合成メニューが開かれました。","Se ha abierto un menú sintético que te permite adquirir equipo de mayor grado.","เมนูสังเคราะห์ถูกเปิดให้คุณสามารถได้รับอุปกรณ์ระดับสูงขึ้น","Sebuah menu sintetis telah dibuka yang memungkinkan Anda untuk memperoleh peralatan bergradasi tinggi.","Было открыто синтетическое меню, которое позволяет вам приобрести оборудование высшего класса.","已经打开了一个合成菜单，该菜单允许您获取更高级别的设备。","已開啟一個合成選單，允許您獲取更高等級的設備。","Isang sintetikong menu ang binuksan na nagbibigay-daan sa iyo upang makakuha ng mas mataas na kalidad na kagamitan.","Một menu tổng hợp đã được mở cho phép bạn có thể sở hữu trang bị cao cấp hơn."
+"TUTORIAL_151_002","Let's press here and go in","여기를 눌러서 들어가보자","Vamos pressionar aqui e entrar","ここを押して中に入りましょう。","Presionemos aquí y entremos.","เรามากดที่นี่และเข้าไป","Mari kita tekan di sini dan masuk ke dalam","Давайте нажмем сюда и пойдем внутрь.","我们按这里，然后进去。","我們按這裡然後進去吧。","Pindutin natin dito at pumasok tayo.","Hãy bấm vào đây và tiếp tục đi vào trong"
+"TUTORIAL_151_003","Synthesis can only be done with equipment acquired by summoning such as aura and Grimoire.
+Once you try you can only try to combine items of the same grade.","합성은 아우라와 그리모어등 소환으로 획득한 장비들만 진행할수 있어.
+한번 시도에는 같은 등급 아이템만 합성시도를 할 수 있어","A síntese só pode ser feita com equipamentos adquiridos através da invocação, como aura e Grimoire. 
+Uma vez que você tenta, só pode tentar combinar itens do mesmo grau.","合成は、オーラやグリモアなど、召喚で入手した装備品でのみ行うことができます。
+一度試してみると、同じグレードのアイテムしか組み合わせることができません。","La síntesis solo se puede hacer con equipos adquiridos al invocar, como aura y Grimoire. 
+Una vez que lo intentas, solo puedes intentar combinar artículos del mismo grado.","การสังเคราะห์สามารถทำได้เฉพาะกับอุปกรณ์ที่ได้รับจากการเรียกเช่นอาร่าและคัมภีร์ลายพราง หลังจากที่คุณพยายาม คุณจะสามารถพยายามผสมของที่มีเกรดเดียวกันเท่านั้น","Sintesis hanya dapat dilakukan dengan peralatan yang diperoleh dengan cara memanggil seperti aura dan Grimoire. 
+Setelah Anda mencoba, Anda hanya dapat mencoba menggabungkan barang-barang dengan tingkat yang sama.","Синтез можно осуществить только с помощью приобретенного оборудования, которое можно призвать, например, ауру и гримуар. 
+Как только вы попробуете, вы можете только попытаться объединить предметы одного и того же класса.","合成只能用通过召唤获取的设备，如光环和魔导书进行。
+一旦你尝试，你只能尝试合并同等级的物品。","合成只能使用召喚獲得的設備，例如靈氣和魔導書。
+一旦嘗試，您只能嘗試組合相同等級的物品。","Maaaring maisagawa lamang ang synthesis gamit ang mga kagamitan na nakuha sa pamamagitan ng summoning gaya ng aura at Grimoire. Kapag sinubukan mo, maaari mo lamang subukang pagsamahin ang mga bagay na pareho ang grado.","Việc tổng hợp chỉ có thể được thực hiện với thiết bị đạt được bằng cách triệu hồi như aura và Grimoire.
+Một khi bạn đã thử, bạn chỉ có thể thử kết hợp các mục cùng một cấp độ."
+"TUTORIAL_151_004","If the synthesis is successful, you'll obtain a higher-grade item.
+If it fails, you'll receive an item of the same grade.","합성에 성공하면 상위 등급의 아이템을, 
+실패하면 동일 등급의 아이템을 획득하게 돼","Se a síntese for bem-sucedida, você obterá um item de grau superior. Se falhar, você receberá um item do mesmo grau.","合成が成功すれば、より高級なアイテムを取得します。
+失敗した場合は、同じ等級のアイテムが手に入ります。","Si la síntesis es exitosa, obtendrás un artículo de mayor grado. Si falla, recibirás un artículo del mismo grado.","ถ้าการสังเคราะห์สำเร็จ คุณจะได้รับสิ่งของชั้นดีขึ้น ถ้าไม่สำเร็จ คุณจะได้รับสิ่งของที่มีเกรดเดียวกัน","Jika sintesis berhasil, Anda akan mendapatkan barang bergradasi lebih tinggi. Jika gagal, Anda akan menerima barang dengan gradasi yang sama.","Если синтез прошел успешно, вы получите предмет высшего класса. Если он не удастся, вы получите предмет того же класса.","如果合成成功，你将获得更高等级的物品。如果失败，你将收到相同等级的物品。","如果合成成功，您將得到更高等級的物品。如果失敗，您將收到同等級的物品。","Kung matagumpay ang synthesis, makakakuha ka ng item na mas mataas ang grado. Kung ito'y mabigo, makakatanggap ka ng item na kapareho ng grado.","Nếu quá trình tổng hợp thành công, bạn sẽ nhận được một mặt hàng của hạng cao hơn. Nếu nó thất bại, bạn sẽ nhận được một mặt hàng cùng hạng."
+"TUTORIAL_151_005","The gear you're wearing and some event gear can't be used as materials.
+Good luck with you!","착용하고 있는 장비와 일부 이벤트 장비는 재료로 사용할 수 없어.
+행운이 함께하기를!","O equipamento que você está usando e alguns equipamentos de eventos não podem ser usados como materiais.
+Boa sorte com você!","あなたが着用しているギアと一部のイベントギアは、材料として使用できません。
+幸運を祈ります！","La vestimenta que llevas puesta y algunos equipos de eventos no pueden utilizarse como materiales. ¡Buena suerte contigo!","อุปกรณ์ที่คุณสวมใส่และอุปกรณ์เหตุการณ์บางอย่างไม่สามารถใช้เป็นวัสดุได้
+โชคดีนะคุณ!","Perlengkapan yang Anda kenakan dan beberapa perlengkapan acara tidak bisa digunakan sebagai bahan.
+Semoga sukses untukmu!","Оборудование, которое вы носите, и некоторое оборудование для мероприятий не могут использоваться в качестве материалов. 
+Удачи вам!","你穿着的装备和某些活动装备不能作为材料使用。
+祝你好运！","你正在穿的裝備和一些活動裝備不能用作材料。
+祝你好運！","Ang kasuotan na suot mo at ilang kagamitan sa kaganapan ay hindi maaaring gamitin bilang mga materyales.
+Good luck sa'yo!","Đồ dùng bạn đang mang và một số đồ dùng sự kiện không thể được sử dụng làm vật liệu.
+Chúc bạn may mắn!"
 "ITEM_NAME_800116","Ragnarok Berry","라그나로크 베리","Baga Ragnarok","ラグナロク・ベリー","Baya Ragnarok","แรกนาร็อกเบอรี่","Berry Ragnarok","Ягода Рагнарок","诸神黄昏之莓","諸神的黃昏漿果","Ragnarok Berry","Quả Berry Ragnarok"
 "ITEM_NAME_800117","Annoying Orange","어노잉 오렌지","Laranja Irritante","うっとうしいオレンジ","Naranja Molesta","ส้มน่ารำคาญ","Jeruk Mengganggu","Раздражающий Апельсин","烦人的橙子","討厭的橙子","Nakakainis na Kahel","Quả cam khó chịu"
 "ITEM_NAME_900113","Ragnar Tequila","라그나 데낄라","Tequila Ragnar","ラグナル・テキーラ","Tequila Ragnar","เรกนาร์ เตกีลา","Ragnar Tequila","Текила Рагнар","拉格纳龙舌兰","Ragnar 龍舌蘭酒","Ragnar Tequila","Tequila Ragnar"
