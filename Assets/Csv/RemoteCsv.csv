@@ -3201,70 +3201,60 @@ SỰ KIỆN"
 - On success, equipment of the next rarity is obtained. On failure, equipment of the current rarity is re-obtained.
 - Equipment meeting the following criteria cannot be selected as materials:
     - 1st Anniversary event equipment (Aura, Grimoire)
-    - Currently equipped equipment
 - Equipment meeting the following criteria cannot be produced as results
     - 1st Anniversary event equipment (Aura, Grimoire)
     - Legend Lord aura equipment","- 각 시도는 한 번에 하나의 장비 종류만을 처리할 수 있으며, 최대 12번의 시도까지 가능합니다.
 - 성공 시, 다음 등급의 장비를 획득합니다. 실패 시, 현재 등급의 장비를 다시 획득합니다.
 - 다음 기준을 만족하는 장비는 재료로 선택될 수 없습니다.
     - 1주년 기념 행사 장비 (아우라, 그리모어)
-    - 현재 장착 중인 장비
 - 다음 기준을 만족하는 장비는 결과물로 생성될 수 없습니다.
     - 1주년 기념 행사 장비 (아우라, 그리모어)
     - 로드 레전드 아우라 장비","- Cada tentativa só pode processar um tipo de equipamento numa única raridade, até um máximo de 12 tentativas.
 - Em caso de sucesso, é obtido equipamento da próxima raridade. Em caso de falha, é obtido novamente o equipamento da raridade atual.
 - Equipamentos que atendem aos seguintes critérios **não podem ser selecionados como materiais**:
     - Equipamento do evento do 1º aniversário (Aura, Grimoire)
-    - Equipamento atualmente equipado
 - Equipamentos que atendem aos seguintes critérios não podem ser produzidos como resultados
     - Equipamento do evento do 1º aniversário (Aura, Grimoire)
     - Equipamento aura do Lendário Senhor","- 各試行は、一つの種類の装備を一度に処理でき、最大12回まで試行できます。
 - 成功時には、次のレア度の装備が得られます。失敗時には、現在のレア度の装備が再度得られます。
 - 以下の基準に合致する装備は**素材として選択できません**：
     - 1周年記念イベントの装備（オーラ、グリモワール）
-    - 現在装備中の装備
 - 以下の基準に合致する装備は結果として製造できません
     - 1周年記念イベントの装備（オーラ、グリモワール）
     - レジェンドロードのオーラ装備","- Cada intento solo puede procesar un tipo de equipo de una sola rareza, hasta un máximo de 12 intentos.
 - En caso de éxito, se obtiene equipo de la siguiente rareza. En caso de fracaso, se vuelve a obtener equipo de la rareza actual.
 - El equipo que cumple con los siguientes criterios **no puede ser seleccionado como materiales**:
     - Equipo del evento del primer aniversario (Aura, Grimorio)
-    - Equipo actualmente equipado
 - El equipo que cumple con los siguientes criterios no se puede producir como resultado
     - Equipo del evento del primer aniversario (Aura, Grimorio)
     - Equipo de aura del Legend Lord.","- การพยายามแต่ละครั้งสามารถดำเนินการกับอุปกรณ์ประเภทเดียวเท่านั้นในระดับความหายากแต่ละครั้ง สูงสุด 12 ครั้ง
 - หากสำเร็จ อุปกรณ์ความหายากถัดไปจะได้รับ หากล้มเหลว จะได้รับอุปกรณ์ความหายากปัจจุบัน
 - อุปกรณ์ที่ตรงตามเกณฑ์ต่อไปนี้**ไม่สามารถเลือกเป็นวัตถุดิบ**:
     - อุปกรณ์เหตุการณ์ที่ครบรอบปีที่ 1 (Aura, Grimoire)
-    - อุปกรณ์ที่กำลังใช้งานอยู่
 - อุปกรณ์ที่ตรงตามเกณฑ์ต่อไปนี้ไม่สามารถผลิตเป็นผลลัพธ์
     - อุปกรณ์เหตุการณ์ที่ครบรอบปีที่ 1 (Aura, Grimoire)
     - อุปกรณ์อุรา Legend Lord","- Setiap upaya hanya dapat memproses satu jenis peralatan dengan satu tingkat kelangkaan, hingga maksimal 12 kali upaya.
 - Jika berhasil, peralatan dengan tingkat kelangkaan selanjutnya akan diperoleh. Jika gagal, peralatan dengan tingkat kelangkaan saat ini akan diperoleh kembali.
 - Peralatan yang memenuhi kriteria berikut **tidak dapat dipilih sebagai bahan**:
     - Peralatan acara ulang tahun pertama (Aura, Grimoire)
-    - Peralatan yang sedang digunakan
 - Peralatan yang memenuhi kriteria berikut tidak dapat diproduksi sebagai hasil
     - Peralatan acara ulang tahun pertama (Aura, Grimoire)
     - Peralatan aura Legend Lord","- Каждая попытка может обработать только один тип оборудования определенной редкости, не более 12 попыток.
 - В случае успеха получается оборудование следующей редкости. При неудаче снова получается оборудование текущей редкости.
 - Оборудование, соответствующее следующим критериям, **нельзя выбирать в качестве материалов**:
     - Оборудование события 1-й годовщины (Аура, гримуар)
-    - Текущее экипированное оборудование
 - Оборудование, удовлетворяющее следующим критериям, не может быть создано как результат
     - Оборудование события 1-й годовщины (Аура, гримуар)
     - Оборудование ауры владителя легенд","- 每次尝试只能处理一种单一稀有度的设备，最多可以尝试12次。
 - 如果成功，将获得下一稀有度的设备。如果失败，将重新获取当前稀有度的设备。
 - 符合以下标准的设备**不能被选作材料**：
     - 一周年纪念活动设备 (光环，魔法书)
-    - 当前已装备的设备
 - 符合以下标准的设备不能被生成为结果：
     - 一周年纪念活动设备 (光环，魔法书)
     - 传说领主光环设备","- 每次嘗試只能處理單一種類的裝備以及單一稀有程度，最多可以嘗試12次。
 - 如果成功，則可以獲得下一稀有程度的裝備。如果失敗，則可以重新獲得目前稀有程度的裝備。
 - 滿足以下條件的裝備**不能被選為材料**：
     - 一週年紀念活動裝備（光環，魔導書）
-    - 目前裝備的裝備
 - 滿足以下條件的裝備不能作為結果製作：
     - 一週年紀念活動裝備（光環，魔導書）
     - 傳說領主光環裝備","- Bawat pagtatangka ay maaaring magproseso lamang ng isang uri ng kagamitan sa isang pambihirang pagkakataon, hanggang sa maximum na 12 na mga pagtatangka.
@@ -3278,7 +3268,6 @@ SỰ KIỆN"
 - Nếu thành công, thiết bị của cấp độ hiếm hơn tiếp theo sẽ được nhận. Nếu thất bại, thiết bị của cấp độ hiếm hiện tại sẽ được nhận lại.
 - Thiết bị đáp ứng các tiêu chí sau **không được chọn làm vật liệu**:
     - Thiết bị sự kiện kỷ niệm lần thứ nhất (Aura, Grimoire)
-    - Thiết bị đang được trang bị
 - Thiết bị đáp ứng các tiêu chí sau không thể được sản xuất thành kết quả:
     - Thiết bị sự kiện kỷ niệm lần thứ nhất (Aura, Grimoire)
     - Thiết bị aura Legend Lord"
@@ -3312,18 +3301,19 @@ Một khi bạn đã thử, bạn chỉ có thể thử kết hợp các mục c
 If it fails, you'll receive an item of the same grade.","합성에 성공하면 상위 등급의 아이템을, 
 실패하면 동일 등급의 아이템을 획득하게 돼","Se a síntese for bem-sucedida, você obterá um item de grau superior. Se falhar, você receberá um item do mesmo grau.","合成が成功すれば、より高級なアイテムを取得します。
 失敗した場合は、同じ等級のアイテムが手に入ります。","Si la síntesis es exitosa, obtendrás un artículo de mayor grado. Si falla, recibirás un artículo del mismo grado.","ถ้าการสังเคราะห์สำเร็จ คุณจะได้รับสิ่งของชั้นดีขึ้น ถ้าไม่สำเร็จ คุณจะได้รับสิ่งของที่มีเกรดเดียวกัน","Jika sintesis berhasil, Anda akan mendapatkan barang bergradasi lebih tinggi. Jika gagal, Anda akan menerima barang dengan gradasi yang sama.","Если синтез прошел успешно, вы получите предмет высшего класса. Если он не удастся, вы получите предмет того же класса.","如果合成成功，你将获得更高等级的物品。如果失败，你将收到相同等级的物品。","如果合成成功，您將得到更高等級的物品。如果失敗，您將收到同等級的物品。","Kung matagumpay ang synthesis, makakakuha ka ng item na mas mataas ang grado. Kung ito'y mabigo, makakatanggap ka ng item na kapareho ng grado.","Nếu quá trình tổng hợp thành công, bạn sẽ nhận được một mặt hàng của hạng cao hơn. Nếu nó thất bại, bạn sẽ nhận được một mặt hàng cùng hạng."
-"TUTORIAL_151_005","The gear you're wearing and some event gear can't be used as materials.
-Good luck with you!","착용하고 있는 장비와 일부 이벤트 장비는 재료로 사용할 수 없어.
-행운이 함께하기를!","O equipamento que você está usando e alguns equipamentos de eventos não podem ser usados como materiais.
-Boa sorte com você!","あなたが着用しているギアと一部のイベントギアは、材料として使用できません。
-幸運を祈ります！","La vestimenta que llevas puesta y algunos equipos de eventos no pueden utilizarse como materiales. ¡Buena suerte contigo!","อุปกรณ์ที่คุณสวมใส่และอุปกรณ์เหตุการณ์บางอย่างไม่สามารถใช้เป็นวัสดุได้
-โชคดีนะคุณ!","Perlengkapan yang Anda kenakan dan beberapa perlengkapan acara tidak bisa digunakan sebagai bahan.
-Semoga sukses untukmu!","Оборудование, которое вы носите, и некоторое оборудование для мероприятий не могут использоваться в качестве материалов. 
-Удачи вам!","你穿着的装备和某些活动装备不能作为材料使用。
-祝你好运！","你正在穿的裝備和一些活動裝備不能用作材料。
-祝你好運！","Ang kasuotan na suot mo at ilang kagamitan sa kaganapan ay hindi maaaring gamitin bilang mga materyales.
-Good luck sa'yo!","Đồ dùng bạn đang mang và một số đồ dùng sự kiện không thể được sử dụng làm vật liệu.
-Chúc bạn may mắn!"
+"TUTORIAL_151_005","Some event gear can't be used as materials.
+Good luck with you!","일부 이벤트 장비는 재료로 사용할 수 없어.
+행운이 함께하기를!","Algum equipamento de evento não pode ser usado como material.
+Boa sorte com você!","イベント用の一部のギアは、資材として使用することができません。
+あなたの成功を祈ります！","Algunos equipos de eventos no se pueden utilizar como materiales. 
+¡Buena suerte contigo!","อุปกรณ์ที่ใช้ในกิจกรรมบางอย่างไม่สามารถนำมาใช้เป็นวัสดุได้
+โชคดีกับคุณนะ!","Beberapa perlengkapan acara tidak dapat digunakan sebagai bahan.
+Semoga sukses untukmu!","Некоторые предметы событий не могут использоваться в качестве материалов. 
+Удачи вам!","一些活动装备不能用作材料。
+祝你好运！","一些活動裝備不能用作材料。
+祝你好運！","Hindi magagamit ang ilang kagamitan sa kaganapan bilang mga materyales. 
+Buena suerte sa'yo!","Một số trang thiết bị sự kiện không thể được sử dụng như là vật liệu.
+Chúc may mắn với bạn!"
 "ITEM_NAME_800116","Ragnarok Berry","라그나로크 베리","Baga Ragnarok","ラグナロク・ベリー","Baya Ragnarok","แรกนาร็อกเบอรี่","Berry Ragnarok","Ягода Рагнарок","诸神黄昏之莓","諸神的黃昏漿果","Ragnarok Berry","Quả Berry Ragnarok"
 "ITEM_NAME_800117","Annoying Orange","어노잉 오렌지","Laranja Irritante","うっとうしいオレンジ","Naranja Molesta","ส้มน่ารำคาญ","Jeruk Mengganggu","Раздражающий Апельсин","烦人的橙子","討厭的橙子","Nakakainis na Kahel","Quả cam khó chịu"
 "ITEM_NAME_900113","Ragnar Tequila","라그나 데낄라","Tequila Ragnar","ラグナル・テキーラ","Tequila Ragnar","เรกนาร์ เตกีลา","Ragnar Tequila","Текила Рагнар","拉格纳龙舌兰","Ragnar 龍舌蘭酒","Ragnar Tequila","Tequila Ragnar"
