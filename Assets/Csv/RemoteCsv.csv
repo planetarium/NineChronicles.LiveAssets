@@ -3207,10 +3207,10 @@ SỰ KIỆN"
     - Legend Lord aura equipment","- 각 시도는 한 번에 하나의 장비 종류만을 처리할 수 있으며, 최대 12번의 시도까지 가능합니다.
 - 성공 시, 다음 등급의 장비를 획득합니다. 실패 시, 현재 등급의 장비를 다시 획득합니다.
 - 다음 기준을 만족하는 장비는 **재료로 선택될 수 없습니다**:
-    - 1주년 기념 행사 장비 (오라, 그림외어)
+    - 1주년 기념 행사 장비 (오라, 그리모어)
     - 현재 장착 중인 장비
 - 다음 기준을 만족하는 장비는 결과물로 생성될 수 없습니다.
-    - 1주년 기념 행사 장비 (오라, 그림외어)
+    - 1주년 기념 행사 장비 (오라, 그리모어)
     - 전설의 군주 오라 장비","- Cada tentativa só pode processar um tipo de equipamento numa única raridade, até um máximo de 12 tentativas.
 - Em caso de sucesso, é obtido equipamento da próxima raridade. Em caso de falha, é obtido novamente o equipamento da raridade atual.
 - Equipamentos que atendem aos seguintes critérios **não podem ser selecionados como materiais**:
