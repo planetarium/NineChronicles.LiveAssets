@@ -1,21 +1,23 @@
 {
-    "PlanetRegistryUrl": "https://planets-internal.nine-chronicles.com/planets/",
-    "DefaultPlanetId": "0x100000000003",
+    "AppProtocolVersion": "200260/AB2da648b9154F2cCcAFBD85e0Bc3d51f97330Fc/MEQCIGvqtafvRDgh2A3hvaVchhfEq0oXt.Z0uVzTlJyuQvsIAiBE6ol23fZ.LxXLBMsN245aCTYIWHda3JvgZfgLRIn7Jw==/ZHU5OnRpbWVzdGFtcHUxMDoyMDI0LTEyLTE5ZQ==",
+    "PlanetRegistryUrl": "https://planets.nine-chronicles.com/planets/",
+    "DefaultPlanetId": "0x000000000003",
+    "SelectedPlanetId": "0x000000000003",
 
     "NoMiner": true,
     "RpcClient": true,
     "RpcServerHost": "empty",
     "RpcServerPort": 0,
 
-    "MeadPledgePortalUrl": "https://developer-mode.nine-chronicles.com",
-    "IAPServiceHost": "https://xd2n1dpmce.execute-api.us-east-2.amazonaws.com/internal",
-    "SeasonPassServiceHost": "https://9s6qapxbef.execute-api.us-east-2.amazonaws.com/internal",
+    "MeadPledgePortalUrl": "https://nine-chronicles.com",
+    "IAPServiceHost": "https://hr6vfhdasc.execute-api.us-east-2.amazonaws.com/mainnet",
+    "SeasonPassServiceHost": "https://vzt9225g1h.execute-api.us-east-2.amazonaws.com/mainnet",
 
-    "AppleMarketUrl" : "https://apps.apple.com/us/app/nine-chronicles-m/id6462364578",
-    "GoogleMarketUrl" : "https://play.google.com/store/apps/details?id=com.planetariumlabs.ninechroniclesmobile",
+    "AppleMarketUrl" : "https://apps.apple.com/app/%EB%82%98%EC%9D%B8-%ED%81%AC%EB%A1%9C%EB%8B%88%ED%81%B4-k/id6502042416",
+    "GoogleMarketUrl" : "https://play.google.com/store/apps/details?id=com.planetariumlabs.ninechroniclesmobilek",
 
     "maintenance" : false,
-    "EnableGuestLogin" : true,
+    "EnableGuestLogin" : false,
     "ingameDebugConsole" : false,
     
     "MixpanelDebugError" : true,
