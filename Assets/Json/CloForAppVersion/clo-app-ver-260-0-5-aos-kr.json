@@ -20,8 +20,8 @@
     "EnableGuestLogin" : false,
     "ingameDebugConsole" : false,
 
-    "MixpanelDebugError" : true,
-    "MixpanelDebugAssert" : true,
-    "MixpanelDebugException" : true,
-    "MixpanelDebugWarning" : true
+    "MixpanelDebugError" : false,
+    "MixpanelDebugAssert" : false,
+    "MixpanelDebugException" : false,
+    "MixpanelDebugWarning" : false
 }
