@@ -2,69 +2,17 @@
     "TitleL10NKey": "UI_EVENT_REWARD_POPUP_TITLE",
     "EventRewards": [
         {
-            "BeginDateTime": "2024-11-12T00:00:00",
-            "EndDateTime": "2024-12-25T23:59:00",
+            "BeginDateTime": "2024-12-19T00:00:00",
+            "EndDateTime": "2025-01-12T22:59:00",
 
             "ToggleL10NKey": "UI_EVENT_TOGGLE_0",
             "DescriptionL10NKey": "UI_EVENT_DESCRIPTION_0",
 
-            "ContentPresetType": "ClaimGift",
+            "ContentPresetType": "None",
             "Content": {
-                "ImageName": "event_reward_image_0",
+                "ImageName": "ragnarok_field_2024",
                 "ShortcutTypes": []
             }
-        },
-        {
-            "BeginDateTime": "2024-11-12T00:00:00",
-            "EndDateTime": "2024-12-25T23:59:00",
-
-            "ToggleL10NKey": "UI_EVENT_TOGGLE_1",
-            "DescriptionL10NKey": "UI_EVENT_DESCRIPTION_1",
-
-            "ContentPresetType": "PatrolReward",
-            "Content": null
-        },
-        {
-            "BeginDateTime": "2024-11-12T00:00:00",
-            "EndDateTime": "2024-12-25T23:59:00",
-
-            "ToggleL10NKey": "UI_EVENT_TOGGLE_2",
-            "DescriptionL10NKey": "UI_EVENT_DESCRIPTION_2",
-
-            "ContentPresetType": "None",
-            "Content": {
-                "ImageName": "event_reward_image_2",
-                "ShortcutTypes": [
-                    "MobileShop"
-                ]
-            }
-        },
-        {
-            "BeginDateTime": "2024-11-12T00:00:00",
-            "EndDateTime": "2024-12-25T23:59:00",
-
-            "ToggleL10NKey": "UI_EVENT_TOGGLE_3",
-            "DescriptionL10NKey": "UI_EVENT_DESCRIPTION_3",
-
-            "ContentPresetType": "None",
-            "Content": {
-                "ImageName": "event_reward_image_3",
-                "ShortcutTypes": [
-                    "Arena",
-                    "AdventureBoss",
-                    "WorldBoss"
-                ]
-            }
-        },
-        {
-            "BeginDateTime": "2024-11-12T00:00:00",
-            "EndDateTime": "2024-12-25T23:59:00",
-
-            "ToggleL10NKey": "UI_EVENT_TOGGLE_4",
-            "DescriptionL10NKey": "UI_EVENT_DESCRIPTION_4",
-
-            "ContentPresetType": "ThorChain",
-            "Content": null
         }
     ],
     "EnabledThorChainContent": {
