@@ -2,8 +2,8 @@
     "TitleL10NKey": "UI_EVENT_REWARD_POPUP_TITLE",
     "EventRewards": [
         {
-            "BeginDateTime": "2024-12-19T00:00:00",
-            "EndDateTime": "2025-01-12T22:59:00",
+            "BeginDateTime": "2024-12-20T05:00:00",
+            "EndDateTime": "2025-01-09T05:00:00",
 
             "ToggleL10NKey": "UI_EVENT_TOGGLE_0",
             "DescriptionL10NKey": "UI_EVENT_DESCRIPTION_0",
