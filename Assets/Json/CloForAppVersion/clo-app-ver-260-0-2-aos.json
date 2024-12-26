@@ -1,5 +1,5 @@
 {
-    "PlanetRegistryUrl": "https://planets.nine-chronicles.com/planets/",
+    "PlanetRegistryUrl": "https://planets-internal.nine-chronicles.com/planets/index-test.json",
     "DefaultPlanetId": "0x100000000003",
 
     "NoMiner": true,
