@@ -154,12 +154,18 @@ jobs:
 
           jq "$JQ_FILTER" "$FILE_NAME" > tmp.json && mv tmp.json "$FILE_NAME"
 
-      - name: Commit and push changes
+      - name: Set output variables
+        id: vars
         run: |
-          git config --global user.name 'GitHub Actions'
-          git config --global user.email 'actions@github.com'
           BRANCH_NAME="update-json-parameters-$(date +%s)"
-          git checkout -b "$BRANCH_NAME"
-          git add "Assets/Json/CloForAppVersion/${{ github.event.inputs.jsonFileName }}"
-          git commit -m "update ${{ github.event.inputs.jsonFileName }}"
-          git push --set-upstream origin $BRANCH_NAME
+          COMMIT_MSG="update ${{ github.event.inputs.jsonFileName }}"
+          echo "branch-name=$BRANCH_NAME" >> $GITHUB_OUTPUT
+          echo "commit-msg=$COMMIT_MSG" >> $GITHUB_OUTPUT
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v7
+        with:
+          commit-message: ${{ steps.vars.outputs.commit-msg }}
+          title: ${{ steps.vars.outputs.commit-msg }}
+          body: ${{ steps.vars.outputs.commit-msg }}
+          branch: ${{ steps.vars.outputs.branch-name }}
+          token: ${{ secrets.PAT }}
