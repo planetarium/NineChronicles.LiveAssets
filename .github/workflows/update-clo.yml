@@ -162,4 +162,4 @@ jobs:
           git checkout -b "$BRANCH_NAME"
           git add "Assets/Json/CloForAppVersion/${{ github.event.inputs.jsonFileName }}"
           git commit -m "update ${{ github.events.inputs.jsonFileName }}"
-          git push
+          git push --set-upstream origin $BRANCH_NAME
