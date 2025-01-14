@@ -36,24 +36,31 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
+      - name: Create JSON file if it does not exist
+        run: |
+          DIRECTORY="Assets/Json/CloForAppVersion"
+          FILE_NAME="${DIRECTORY}/${{ github.event.inputs.jsonFileName }}"
+          mkdir -p "$DIRECTORY"
+          if [ ! -f "$FILE_NAME" ]; then
+            echo '{}' > "$FILE_NAME"
+          fi
+
       - name: Install jq
         run: sudo apt-get install jq
 
       - name: Load existing JSON values
         id: load_json
         run: |
-          FILE_NAME="${{ github.event.inputs.jsonFileName }}"
-          if [ -f "$FILE_NAME" ]; then
-            APP_PROTOCOL_VERSION=$(jq -r '.AppProtocolVersion' "$FILE_NAME")
-            PLANET_REGISTRY_URL=$(jq -r '.PlanetRegistryUrl' "$FILE_NAME")
-            PLANET_ID=$(jq -r '.DefaultPlanetId' "$FILE_NAME")
-            MEAD_PLEDGE_PORTAL_URL=$(jq -r '.MeadPledgePortalUrl' "$FILE_NAME")
-            IAP_SERVICE_HOST=$(jq -r '.IAPServiceHost' "$FILE_NAME")
-            SEASON_PASS_SERVICE_HOST=$(jq -r '.SeasonPassServiceHost' "$FILE_NAME")
-            MAINTENANCE=$(jq -r '.maintenance' "$FILE_NAME")
-            ENABLE_GUEST_LOGIN=$(jq -r '.EnableGuestLogin' "$FILE_NAME")
-            INGAME_DEBUG_CONSOLE=$(jq -r '.ingameDebugConsole' "$FILE_NAME")
-          fi
+          FILE_NAME="Assets/Json/CloForAppVersion/${{ github.event.inputs.jsonFileName }}"
+          APP_PROTOCOL_VERSION=$(jq -r '.AppProtocolVersion // empty' "$FILE_NAME")
+          PLANET_REGISTRY_URL=$(jq -r '.PlanetRegistryUrl // empty' "$FILE_NAME")
+          PLANET_ID=$(jq -r '.DefaultPlanetId // empty' "$FILE_NAME")
+          MEAD_PLEDGE_PORTAL_URL=$(jq -r '.MeadPledgePortalUrl // empty' "$FILE_NAME")
+          IAP_SERVICE_HOST=$(jq -r '.IAPServiceHost // empty' "$FILE_NAME")
+          SEASON_PASS_SERVICE_HOST=$(jq -r '.SeasonPassServiceHost // empty' "$FILE_NAME")
+          MAINTENANCE=$(jq -r '.maintenance // empty' "$FILE_NAME")
+          ENABLE_GUEST_LOGIN=$(jq -r '.EnableGuestLogin // empty' "$FILE_NAME")
+          INGAME_DEBUG_CONSOLE=$(jq -r '.ingameDebugConsole // empty' "$FILE_NAME")
 
           echo "APP_PROTOCOL_VERSION=${APP_PROTOCOL_VERSION}" >> $GITHUB_ENV
           echo "PLANET_REGISTRY_URL=${PLANET_REGISTRY_URL}" >> $GITHUB_ENV
@@ -67,7 +74,7 @@ jobs:
 
       - name: Update JSON file
         run: |
-          FILE_NAME="${{ github.event.inputs.jsonFileName }}"
+          FILE_NAME="Assets/Json/CloForAppVersion/${{ github.event.inputs.jsonFileName }}"
           NO_MINER=true
           RPC_CLIENT=true
           RPC_SERVER_HOST="empty"
@@ -151,6 +158,6 @@ jobs:
         run: |
           git config --global user.name 'GitHub Actions'
           git config --global user.email 'actions@github.com'
-          git add "${{ github.event.inputs.jsonFileName }}"
+          git add "Assets/Json/CloForAppVersion/${{ github.event.inputs.jsonFileName }}"
           git commit -m "Update JSON parameters"
           git push
