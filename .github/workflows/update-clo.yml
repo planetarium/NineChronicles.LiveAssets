@@ -161,5 +161,5 @@ jobs:
           BRANCH_NAME="update-json-parameters-$(date +%s)"
           git checkout -b "$BRANCH_NAME"
           git add "Assets/Json/CloForAppVersion/${{ github.event.inputs.jsonFileName }}"
-          git commit -m
+          git commit -m "update ${{ github.events.inputs.jsonFileName }}"
           git push
