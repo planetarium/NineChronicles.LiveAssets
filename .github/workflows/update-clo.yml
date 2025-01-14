@@ -122,20 +122,20 @@ jobs:
           JQ_FILTER+=" | .AppleMarketUrl = \"$APPLE_MARKET_URL\""
           JQ_FILTER+=" | .GoogleMarketUrl = \"$GOOGLE_MARKET_URL\""
 
-          if [ -n "${{ github.event.inputs.maintenance }}" ]; then
-            JQ_FILTER+=" | .maintenance = ${!github.event.inputs.maintenance}"
+          if [ "${{ github.event.inputs.maintenance }}" != "" ]; then
+            JQ_FILTER+=" | .maintenance = ${{ github.event.inputs.maintenance }}"
           elif [ -n "$MAINTENANCE" ]; then
             JQ_FILTER+=" | .maintenance = $MAINTENANCE"
           fi
 
-          if [ -n "${{ github.event.inputs.enableGuestLogin }}" ]; then
-            JQ_FILTER+=" | .EnableGuestLogin = ${!github.event.inputs.enableGuestLogin}"
+          if [ "${{ github.event.inputs.enableGuestLogin }}" != "" ]; then
+            JQ_FILTER+=" | .EnableGuestLogin = ${{ github.event.inputs.enableGuestLogin }}"
           elif [ -n "$ENABLE_GUEST_LOGIN" ]; then
             JQ_FILTER+=" | .EnableGuestLogin = $ENABLE_GUEST_LOGIN"
           fi
 
-          if [ -n "${{ github.event.inputs.ingameDebugConsole }}" ]; then
-            JQ_FILTER+=" | .ingameDebugConsole = ${!github.event.inputs.ingameDebugConsole}"
+          if [ "${{ github.event.inputs.ingameDebugConsole }}" != "" ]; then
+            JQ_FILTER+=" | .ingameDebugConsole = ${{ github.event.inputs.ingameDebugConsole }}"
           elif [ -n "$INGAME_DEBUG_CONSOLE" ]; then
             JQ_FILTER+=" | .ingameDebugConsole = $INGAME_DEBUG_CONSOLE"
           fi
