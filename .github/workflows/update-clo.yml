@@ -1,0 +1,170 @@
+name: Update clo.json
+
+on:
+  workflow_dispatch:
+    inputs:
+      jsonFileName:
+        description: 'JSON File Name'
+        required: true
+        default: 'config.json'
+      appProtocolVersion:
+        description: 'App Protocol Version'
+        required: true
+        default: '200260/AB2da648b9154F2cCcAFBD85e0Bc3d51f97330Fc'
+      planetRegistryUrl:
+        description: 'Planet Registry URL'
+        required: true
+        default: 'https://planets.nine-chronicles.com/planets/'
+      defaultPlanetId:
+        description: 'Default Planet ID'
+        required: true
+        default: '0x000000000003'
+      selectedPlanetId:
+        description: 'Selected Planet ID'
+        required: true
+        default: '0x000000000003'
+      noMiner:
+        description: 'No Miner'
+        required: true
+        type: boolean
+        default: true
+      rpcClient:
+        description: 'RPC Client'
+        required: true
+        type: boolean
+        default: true
+      rpcServerHost:
+        description: 'RPC Server Host'
+        required: true
+        default: 'empty'
+      rpcServerPort:
+        description: 'RPC Server Port'
+        required: true
+        type: number
+      meadPledgePortalUrl:
+        description: 'Mead Pledge Portal URL'
+        required: true
+        default: 'https://nine-chronicles.com'
+      iapServiceHost:
+        description: 'IAP Service Host'
+        required: true
+        default: 'https://hr6vfhdasc.execute-api.us-east-2.amazonaws.com/mainnet'
+      seasonPassServiceHost:
+        description: 'Season Pass Service Host'
+        required: true
+        default: 'https://vzt9225g1h.execute-api.us-east-2.amazonaws.com/mainnet'
+      appleMarketUrl:
+        description: 'Apple Market URL'
+        required: true
+        default: 'https://apps.apple.com/us/app/nine-chronicles-m/id6462364578'
+      googleMarketUrl:
+        description: 'Google Market URL'
+        required: true
+        default: 'https://play.google.com/store/apps/details?id=com.planetariumlabs.ninechroniclesmobile'
+      maintenance:
+        description: 'Maintenance Mode'
+        required: true
+        type: boolean
+        default: false
+      enableGuestLogin:
+        description: 'Enable Guest Login'
+        required: true
+        type: boolean
+        default: false
+      ingameDebugConsole:
+        description: 'In-game Debug Console'
+        required: true
+        type: boolean
+        default: false
+      mixpanelDebugError:
+        description: 'Mixpanel Debug Error'
+        required: true
+        type: boolean
+        default: false
+      mixpanelDebugAssert:
+        description: 'Mixpanel Debug Assert'
+        required: true
+        type: boolean
+        default: false
+      mixpanelDebugException:
+        description: 'Mixpanel Debug Exception'
+        required: true
+        type: boolean
+        default: false
+      mixpanelDebugWarning:
+        description: 'Mixpanel Debug Warning'
+        required: true
+        type: boolean
+        default: false
+
+jobs:
+  update-json:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Install jq
+        run: sudo apt-get install jq
+
+      - name: Update JSON file
+        run: |
+          FILE_NAME="${{ github.event.inputs.jsonFileName }}"
+          NO_MINER=$(if [ "${{ github.event.inputs.noMiner }}" == "true" ]; then echo true; else echo false; fi)
+          RPC_CLIENT=$(if [ "${{ github.event.inputs.rpcClient }}" == "true" ]; then echo true; else echo false; fi)
+          MAINTENANCE=$(if [ "${{ github.event.inputs.maintenance }}" == "true" ]; then echo true; else echo false; fi)
+          ENABLE_GUEST_LOGIN=$(if [ "${{ github.event.inputs.enableGuestLogin }}" == "true" ]; then echo true; else echo false; fi)
+          INGAME_DEBUG_CONSOLE=$(if [ "${{ github.event.inputs.ingameDebugConsole }}" == "true" ]; then echo true; else echo false; fi)
+          MIXPANEL_DEBUG_ERROR=$(if [ "${{ github.event.inputs.mixpanelDebugError }}" == "true" ]; then echo true; else echo false; fi)
+          MIXPANEL_DEBUG_ASSERT=$(if [ "${{ github.event.inputs.mixpanelDebugAssert }}" == "true" ]; then echo true; else echo false; fi)
+          MIXPANEL_DEBUG_EXCEPTION=$(if [ "${{ github.event.inputs.mixpanelDebugException }}" == "true" ]; then echo true; else echo false; fi)
+          MIXPANEL_DEBUG_WARNING=$(if [ "${{ github.event.inputs.mixpanelDebugWarning }}" == "true" ]; then echo true; else echo false; fi)
+
+          jq --arg appProtocolVersion "${{ github.event.inputs.appProtocolVersion }}" \
+             --arg planetRegistryUrl "${{ github.event.inputs.planetRegistryUrl }}" \
+             --arg defaultPlanetId "${{ github.event.inputs.defaultPlanetId }}" \
+             --arg selectedPlanetId "${{ github.event.inputs.selectedPlanetId }}" \
+             --argjson noMiner "$NO_MINER" \
+             --argjson rpcClient "$RPC_CLIENT" \
+             --arg rpcServerHost "${{ github.event.inputs.rpcServerHost }}" \
+             --argjson rpcServerPort "${{ github.event.inputs.rpcServerPort }}" \
+             --arg meadPledgePortalUrl "${{ github.event.inputs.meadPledgePortalUrl }}" \
+             --arg iapServiceHost "${{ github.event.inputs.iapServiceHost }}" \
+             --arg seasonPassServiceHost "${{ github.event.inputs.seasonPassServiceHost }}" \
+             --arg appleMarketUrl "${{ github.event.inputs.appleMarketUrl }}" \
+             --arg googleMarketUrl "${{ github.event.inputs.googleMarketUrl }}" \
+             --argjson maintenance "$MAINTENANCE" \
+             --argjson enableGuestLogin "$ENABLE_GUEST_LOGIN" \
+             --argjson ingameDebugConsole "$INGAME_DEBUG_CONSOLE" \
+             --argjson mixpanelDebugError "$MIXPANEL_DEBUG_ERROR" \
+             --argjson mixpanelDebugAssert "$MIXPANEL_DEBUG_ASSERT" \
+             --argjson mixpanelDebugException "$MIXPANEL_DEBUG_EXCEPTION" \
+             --argjson mixpanelDebugWarning "$MIXPANEL_DEBUG_WARNING" \
+             '.AppProtocolVersion = $appProtocolVersion |
+              .PlanetRegistryUrl = $planetRegistryUrl |
+              .DefaultPlanetId = $defaultPlanetId |
+              .SelectedPlanetId = $selectedPlanetId |
+              .NoMiner = $noMiner |
+              .RpcClient = $rpcClient |
+              .RpcServerHost = $rpcServerHost |
+              .RpcServerPort = $rpcServerPort |
+              .MeadPledgePortalUrl = $meadPledgePortalUrl |
+              .IAPServiceHost = $iapServiceHost |
+              .SeasonPassServiceHost = $seasonPassServiceHost |
+              .AppleMarketUrl = $appleMarketUrl |
+              .GoogleMarketUrl = $googleMarketUrl |
+              .maintenance = $maintenance |
+              .EnableGuestLogin = $enableGuestLogin |
+              .ingameDebugConsole = $ingameDebugConsole |
+              .MixpanelDebugError = $mixpanelDebugError |
+              .MixpanelDebugAssert = $mixpanelDebugAssert |
+              .MixpanelDebugException = $mixpanelDebugException |
+              .MixpanelDebugWarning = $mixpanelDebugWarning' "$FILE_NAME" > tmp.json && mv tmp.json "$FILE_NAME"
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          git add "${{ github.event.inputs.jsonFileName }}"
+          git commit -m "Update JSON parameters"
+          git push
