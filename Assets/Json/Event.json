@@ -1,113 +1,15 @@
 {
     "Banners": [
         {
-            "Priority": -14,
-            "BannerImageName": "[233x68][ENG]12package",
-            "PopupImageName": "[600x420][ENG]12package",
+            "Priority": 90,
+            "BannerImageName": "[233x68][ENG]2025roadmap",
+            "PopupImageName": "[600x420][ENG]2025roadmap",
             "UseDateTime": true,
-            "BeginDateTime": "2024-12-20T01:33:00",
-            "EndDateTime": "2025-01-17T13:34:00",
-            "Url": "https://bit.ly/9CM_241220Promo",
+            "BeginDateTime": "2025-01-15T13:19:00",
+            "EndDateTime": "2025-01-31T23:59:00",
+            "Url": "https://bit.ly/9CM_2025_Roadmap",
             "UseAgentAddress": false,
-            "Description": "2412package",
-            "EnableKeys": [
-                ""
-            ]
-        },
-        {
-            "Priority": -13,
-            "BannerImageName": "[233x68][ENG]sss",
-            "PopupImageName": "[600x400][ENG]sss",
-            "UseDateTime": true,
-            "BeginDateTime": "2024-12-20T01:33:00",
-            "EndDateTime": "2025-01-03T13:34:00",
-            "Url": "https://bit.ly/9CM_SSSUpdate",
-            "UseAgentAddress": false,
-            "Description": "synthesysguide",
-            "EnableKeys": [
-                ""
-            ]
-        },
-        {
-            "Priority": -12,
-            "BannerImageName": "[233x68][ENG]pos",
-            "PopupImageName": "[600x420][ENG]pos",
-            "UseDateTime": true,
-            "BeginDateTime": "2024-12-01T19:29:00",
-            "EndDateTime": "2024-12-24T23:59:00",
-            "Url": "https://bit.ly/9C_PoS_Transition",
-            "UseAgentAddress": false,
-            "Description": "pos",
-            "EnableKeys": [
-                ""
-            ]
-        },
-        {
-            "Priority": -10,
-            "BannerImageName": "[233x68][ENG]_1st",
-            "PopupImageName": "[600x420][ENG]_1st",
-            "UseDateTime": true,
-            "BeginDateTime": "2024-11-27T13:15:00",
-            "EndDateTime": "2024-12-25T23:10:00",
-            "Url": "https://bit.ly/1YR_ANNIV",
-            "UseAgentAddress": false,
-            "Description": "1주년이벤트",
-            "EnableKeys": [
-                ""
-            ]
-        },
-        {
-            "Priority": -8,
-            "BannerImageName": "[233x68][ENG]_1stsns",
-            "PopupImageName": "[600x420][ENG]_1stsns",
-            "UseDateTime": true,
-            "BeginDateTime": "2024-11-27T13:15:00",
-            "EndDateTime": "2024-12-25T23:10:00",
-            "Url": "https://bit.ly/9CM_1yrAPT",
-            "UseAgentAddress": false,
-            "Description": "1주년이벤트sns",
-            "EnableKeys": [
-                ""
-            ]
-        },
-        {
-            "Priority": -6,
-            "BannerImageName": "[233x68][ENG]_1stshop",
-            "PopupImageName": "[600x420][ENG]_1stshop",
-            "UseDateTime": true,
-            "BeginDateTime": "2024-11-27T15:42:00",
-            "EndDateTime": "2024-12-25T23:42:00",
-            "Url": "https://bit.ly/9CM_1yrPromo",
-            "UseAgentAddress": false,
-            "Description": "1st_promotion",
-            "EnableKeys": [
-                ""
-            ]
-        },
-        {
-            "Priority": -4,
-            "BannerImageName": "[233x68][ENG]_1stmileage",
-            "PopupImageName": "[600x400][ENG]_1stmileage",
-            "UseDateTime": true,
-            "BeginDateTime": "2024-11-27T15:42:00",
-            "EndDateTime": "2024-12-25T23:42:00",
-            "Url": "https://bit.ly/9CM_MileageShop",
-            "UseAgentAddress": false,
-            "Description": "1st_mileage",
-            "EnableKeys": [
-                ""
-            ]
-        },
-        {
-            "Priority": 5,
-            "BannerImageName": "2024 modathon banner (1)",
-            "PopupImageName": "2024 modathon img (1)",
-            "UseDateTime": true,
-            "BeginDateTime": "2024-10-13T14:44:00",
-            "EndDateTime": "2024-12-31T14:44:00",
-            "Url": "https://nine-chronicles.dev/event/2024modathon",
-            "UseAgentAddress": false,
-            "Description": "modathon banner fixed",
+            "Description": "2025roadmap",
             "EnableKeys": [
                 ""
             ]
