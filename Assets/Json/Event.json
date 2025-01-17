@@ -1,6 +1,20 @@
 {
     "Banners": [
         {
+            "Priority": 80,
+            "BannerImageName": "[233x68][ENG]2501promo",
+            "PopupImageName": "[600x420][ENG]2501promo",
+            "UseDateTime": true,
+            "BeginDateTime": "2025-01-16T10:46:00",
+            "EndDateTime": "2025-02-13T23:46:00",
+            "Url": "https://bit.ly/9CM_250117_Promo",
+            "UseAgentAddress": false,
+            "Description": "2501promo",
+            "EnableKeys": [
+                ""
+            ]
+        },
+        {
             "Priority": 90,
             "BannerImageName": "[233x68][ENG]2025roadmap",
             "PopupImageName": "[600x420][ENG]2025roadmap",
