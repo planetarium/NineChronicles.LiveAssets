@@ -1,6 +1,7 @@
 {
     "PlanetRegistryUrl": "https://planets-internal.nine-chronicles.com/planets/",
     "DefaultPlanetId": "0x100000000003",
+    "SelectedPlanetId": "0x100000000003",
 
     "NoMiner": true,
     "RpcClient": true,
