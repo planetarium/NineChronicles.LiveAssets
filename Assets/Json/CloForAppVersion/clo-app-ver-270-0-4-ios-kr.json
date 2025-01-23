@@ -17,7 +17,7 @@
 
     "maintenance" : false,
     "EnableGuestLogin" : true,
-    "ingameDebugConsole" : true,
+    "ingameDebugConsole" : false,
     
     "MixpanelDebugError" : false,
     "MixpanelDebugAssert" : false,
