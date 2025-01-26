@@ -4,7 +4,7 @@
     "EventRewards": [
         {
             "BeginDateTime": "2024-11-12T00:00:00",
-            "EndDateTime": "2025-01-25T23:59:00",
+            "EndDateTime": "2025-01-27T03:00:00",
 
             "ToggleL10NKey": "UI_EVENT_TOGGLE_1",
             "DescriptionL10NKey": "UI_EVENT_DESCRIPTION_1",
