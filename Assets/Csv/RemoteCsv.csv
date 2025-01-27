@@ -3518,3 +3518,36 @@ Một ngày, khi một đội quân lớn đến xâm lược đất của cô, 
 "UI_RUNESTONE_SAEHRIMNIR5","Saehrimnir HPA Rune Stone","제림니르 HPA 룬스톤","Pedra Rúnica HPA de Jerimir","ジェリムニル HPA ルーンストーン","Runa de HPA de Jerimnir","อัตลักษณ์ HPA ของ JERIMNIR","Runestone HAP Jerimir","ХП Рунный камень Жеримнир","제림니르 HPA 符文石","Saehrimnir HPA Rune石碑","Jerimnir HPA Runestone","Rune Stone HPA của Jerimnir"
 "UI_RUNESTONE_SAEHRIMNIR6","Saehrimnir Thorn Rune Stonee","제림니르 가시 룬스톤","Pedra Rúnica Saehrimnir Espinho","サーヒリムニル・ソーン・ルーン・ストーン","Piedra rúnica Saehrimnir Thorn","ซาเอาริมนิร ธอร์น รูนสโตน","Batu Runik Duri Saehrimnir","Саэримнир Камень Руны с Тернием","萨埃赫林米尔荆棘符文石","Saehrimnir荊棘符文石","Bato ng Rune na Tino ng Saehrimnir","Đá runic Saehrimnir Thorn"
 "PLANET_0x000000000003","Thor","토르","Thor","ソー","Thor","ทอร์","Thor","Тор","雷神托尔","索爾","Thor","Thor"
+"UI_INTRODUCE_STAKING","NCG rewards are claimable upon reaching a set amount, 
+while item rewards can be claimed weekly.
+The staked NCG is refundable after one week.","NCG는 일정단위이상 모였을때, 
+아이템은 일주일마다 보상받기가 가능합니다.
+NCG는 감액요청시 1주일후에 돌려받으실 수 있습니다.","As recompensas NCG podem ser reclamadas ao atingir um valor determinado, enquanto as recompensas de itens podem ser reclamadas semanalmente. O NCG apostado é reembolsável após uma semana.","設定された金額に達した時にNCG報酬を請求することができますが、アイテム報酬は週に一度請求することができます。
+ステーキングされたNCGは1週間後に返金可能です。","Las recompensas de NCG se pueden reclamar al alcanzar una cantidad establecida, mientras que las recompensas de artículos se pueden reclamar semanalmente. El NCG apostado es reembolsable después de una semana.","NCG รางวัลสามารถเคลมเมื่อถึงจำนวนที่กำหนดไว้
+ในขณะที่รางวัลสิ่งของสามารถเคลมได้ทุกสัปดาห์
+NCG ที่เดิมพันจะได้รับการคืนเงินหลังจากหนึ่งสัปดาห์","Hadiah NCG dapat diklaim setelah mencapai jumlah tertentu, sementara hadiah barang dapat diklaim setiap minggu. NCG yang dipertaruhkan dapat dikembalikan setelah satu minggu.","Награды NCG можно получить после достижения определенной суммы, в то время как награды в виде предметов можно забирать еженедельно. Закрепленный NCG можно вернуть через неделю.","一旦达到设定金额，NCG奖励即可领取，而物品奖励可以每周领取。一周后，已质押的NCG可以退回。","達到一定數量後，可領取NCG獎勵，而物品獎勵則可以每週領取。NCG的賭注在一週後可以退還。","Ang mga gantimpala ng NCG ay maaaring makuha kapag umabot na sa takdang halaga, samantalang ang mga gantimpalang item ay maaaring makuha lingguhan. Ang nai-stake na NCG ay mababawi pagkatapos ng isang linggo.","Phần thưởng NCG có thể đòi được khi đạt một lượng nhất định, 
+trong khi phần thưởng vật phẩm có thể đòi hàng tuần.
+NCG đã cược có thể được hoàn trả sau một tuần."
+"UI_WARNING_STAKING_REDUCE","Reducing staked NCG lowers your rewards.
+The reduced NCG is claimable after one week.
+Would you like to proceed?","NCG를 감액하시면 보상은 바로 줄어듭니다.
+또한 감액하신 NCG는 1주일 지나면 받으실수 있습니다.
+진행하시겠습니까?","Reduzir o NCG apostado diminui suas recompensas.
+O NCG reduzido pode ser reivindicado após uma semana.
+Gostaria de prosseguir?","ステーキングしたNCGを減らすと、報酬が下がります。 
+減少したNCGは1週間後に請求できます。
+進行しますか？","Reducir los NCG apostados disminuye tus recompensas. 
+El NCG reducido se puede reclamar después de una semana. 
+¿Deseas continuar?","การลดจำนวน NCG ที่คุณเข้ามาจะทำให้รางวัลของคุณลดลง
+NCG ที่ถูกลดนั้นสามารถเรียกเก็บได้หลังจากหนึ่งสัปดาห์
+คุณต้องการดำเนินการต่อหรือไม่?","Mengurangi NCG yang dipertaruhkan akan mengurangi hadiah Anda.
+NCG yang dikurangi dapat diklaim setelah satu minggu.
+Apakah Anda ingin melanjutkan?","Уменьшение вашего ставки NCG снижает ваши вознаграждения. Уменьшенное NCG можно забрать через одну неделю. Вы хотите продолжить?","减少质押的NCG会降低您的奖励。
+减少的NCG在一周后可以领取。
+你想继续吗？","減少賭注的NCG會降低你的獎勵。 
+經減少的NCG在一週後可以申請。 
+你想繼續嗎?","Ang pagbawas sa inilaang NCG ay nagpapababa ng iyong mga gantimpala. 
+Ang nabawasang NCG ay maaaring makuha pagkatapos ng isang linggo.
+Gusto mo bang magpatuloy?","Giảm số NCG đã cược sẽ làm giảm phần thưởng của bạn.
+Số NCG đã giảm có thể được yêu cầu sau một tuần.
+Bạn có muốn tiếp tục không?"
