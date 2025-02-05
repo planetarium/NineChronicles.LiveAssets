@@ -1,6 +1,20 @@
 {
     "Banners": [
         {
+            "Priority": 74,
+            "BannerImageName": "[233x68][ENG]clanwar",
+            "PopupImageName": "[600x420][ENG]clanwar",
+            "UseDateTime": true,
+            "BeginDateTime": "2025-02-04T18:32:00",
+            "EndDateTime": "2025-02-14T18:32:00",
+            "Url": "https://bit.ly/9CM_Clan_War",
+            "UseAgentAddress": false,
+            "Description": "2502clanwar",
+            "EnableKeys": [
+                ""
+            ]
+        },
+        {
             "Priority": 76,
             "BannerImageName": "[233x68][ENG]payback",
             "PopupImageName": "[600x420][ENG]payback",
