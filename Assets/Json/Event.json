@@ -1,6 +1,20 @@
 {
     "Banners": [
         {
+            "Priority": 72,
+            "BannerImageName": "[233x68][ENG]valentine25",
+            "PopupImageName": "[600x420][ENG]valentine25",
+            "UseDateTime": true,
+            "BeginDateTime": "2025-02-13T14:29:00",
+            "EndDateTime": "2025-03-13T23:59:00",
+            "Url": "https://bit.ly/9CM_2025Valentines",
+            "UseAgentAddress": false,
+            "Description": "2025valentine",
+            "EnableKeys": [
+                ""
+            ]
+        },
+        {
             "Priority": 74,
             "BannerImageName": "[233x68][ENG]clanwar",
             "PopupImageName": "[600x420][ENG]clanwar",
