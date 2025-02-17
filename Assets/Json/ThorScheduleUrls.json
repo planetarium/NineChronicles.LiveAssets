@@ -1,7 +1,7 @@
 {
     "MainNet": {
         "StartDateUtcString": "2024-11-28T11:00:00+09:00",
-        "EndDateUtcString": "2025-02-28T11:00:00+09:00",
+        "EndDateUtcString": "2025-03-04T11:00:00+09:00",
         "InformationUrl": "https://bit.ly/1YR_ANNIV"
     },
     "Others":{
