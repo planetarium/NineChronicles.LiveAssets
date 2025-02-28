@@ -1,6 +1,20 @@
 {
     "Banners": [
         {
+            "Priority": 70,
+            "BannerImageName": "thorclosebanner",
+            "PopupImageName": "thorclosebig",
+            "UseDateTime": true,
+            "BeginDateTime": "2025-02-27T14:20:00",
+            "EndDateTime": "2025-03-28T14:20:00",
+            "Url": "https://bit.ly/9CM-Thor-Closure",
+            "UseAgentAddress": false,
+            "Description": "thorclose",
+            "EnableKeys": [
+                ""
+            ]
+        },
+        {
             "Priority": 72,
             "BannerImageName": "[233x68][ENG]valentine25",
             "PopupImageName": "[600x420][ENG]valentine25",
