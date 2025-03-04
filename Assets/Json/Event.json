@@ -1,6 +1,20 @@
 {
     "Banners": [
         {
+            "Priority": 68,
+            "BannerImageName": "233_68_goodbyethor",
+            "PopupImageName": "600_420_goodbyethor",
+            "UseDateTime": true,
+            "BeginDateTime": "2025-03-04T11:18:00",
+            "EndDateTime": "2025-03-31T23:56:00",
+            "Url": "https://bit.ly/9CM-Goodbye-Thor",
+            "UseAgentAddress": false,
+            "Description": "goodbyethor",
+            "EnableKeys": [
+                ""
+            ]
+        },
+        {
             "Priority": 70,
             "BannerImageName": "thorclosebanner",
             "PopupImageName": "thorclosebig",
@@ -29,20 +43,6 @@
             ]
         },
         {
-            "Priority": 74,
-            "BannerImageName": "[233x68][ENG]clanwar",
-            "PopupImageName": "[600x420][ENG]clanwar",
-            "UseDateTime": true,
-            "BeginDateTime": "2025-02-04T18:32:00",
-            "EndDateTime": "2025-02-14T18:32:00",
-            "Url": "https://bit.ly/9CM_Clan_War",
-            "UseAgentAddress": false,
-            "Description": "2502clanwar",
-            "EnableKeys": [
-                ""
-            ]
-        },
-        {
             "Priority": 76,
             "BannerImageName": "[233x68][ENG]payback",
             "PopupImageName": "[600x420][ENG]payback",
@@ -52,20 +52,6 @@
             "Url": "https://bit.ly/9CM_DustPayback",
             "UseAgentAddress": false,
             "Description": "200270payback",
-            "EnableKeys": [
-                ""
-            ]
-        },
-        {
-            "Priority": 78,
-            "BannerImageName": "[233x68][ENG]200270",
-            "PopupImageName": "[600x420][ENG]200270",
-            "UseDateTime": true,
-            "BeginDateTime": "2025-01-26T12:32:00",
-            "EndDateTime": "2025-02-10T23:33:00",
-            "Url": "https://bit.ly/v202070Update",
-            "UseAgentAddress": false,
-            "Description": "200270update",
             "EnableKeys": [
                 ""
             ]
@@ -83,32 +69,6 @@
             "EnableKeys": [
                 ""
             ]
-        },
-        {
-            "Priority": 90,
-            "BannerImageName": "[233x68][ENG]2025roadmap",
-            "PopupImageName": "[600x420][ENG]2025roadmap",
-            "UseDateTime": true,
-            "BeginDateTime": "2025-01-15T13:19:00",
-            "EndDateTime": "2025-01-31T23:59:00",
-            "Url": "https://bit.ly/9CM_2025_Roadmap",
-            "UseAgentAddress": false,
-            "Description": "2025roadmap",
-            "EnableKeys": [
-                ""
-            ]
-        },
-        {
-            "Priority": 97,
-            "BannerImageName": "9c-k_migration",
-            "PopupImageName": "9c-k_migration",
-            "UseDateTime": false,
-            "BeginDateTime": "",
-            "EndDateTime": "",
-            "Url": "https://bit.ly/9CK_Migrate",
-            "UseAgentAddress": false,
-            "Description": "9c-k_migration",
-            "EnableKeys": []
         },
         {
             "Priority": 98,
