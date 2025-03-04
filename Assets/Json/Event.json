@@ -2,14 +2,14 @@
     "Banners": [
         {
             "Priority": 68,
-            "BannerImageName": "233_68_goodbyethor",
-            "PopupImageName": "600_420_goodbyethor",
+            "BannerImageName": "233_68_9Cthorbye EN",
+            "PopupImageName": "600_420_9Cthorbye",
             "UseDateTime": true,
-            "BeginDateTime": "2025-03-04T11:18:00",
-            "EndDateTime": "2025-03-31T23:56:00",
+            "BeginDateTime": "2025-03-03T14:09:00",
+            "EndDateTime": "2025-03-31T23:09:00",
             "Url": "https://bit.ly/9CM-Goodbye-Thor",
             "UseAgentAddress": false,
-            "Description": "goodbyethor",
+            "Description": "25thorbye",
             "EnableKeys": [
                 ""
             ]
