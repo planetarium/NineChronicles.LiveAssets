@@ -1,8 +1,7 @@
 {
     "AppProtocolVersion": "200280/AB2da648b9154F2cCcAFBD85e0Bc3d51f97330Fc/MEQCICFTBd2bbzPoJDC4eE0sA6gQet0j.bSDS2Eocs+4TXeGAiAecHOKqqS6xDA5czZ588g5LmCddk.R6cTnlzjRW5F5WQ==/ZHU5OnRpbWVzdGFtcHUxMDoyMDI1LTAyLTE0ZQ==",
     "PlanetRegistryUrl": "https://planets.nine-chronicles.com/planets/",
-    "DefaultPlanetId": "0x000000000003",
-    "SelectedPlanetId": "0x000000000003",
+    "DefaultPlanetId": "0x000000000001",
 
     "NoMiner": true,
     "RpcClient": true,
