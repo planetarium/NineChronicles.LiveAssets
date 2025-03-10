@@ -9,7 +9,8 @@
     "RpcServerPort": 0,
 
     "MeadPledgePortalUrl": "https://developer-mode.nine-chronicles.com",
-    
+    "IAPServiceHost": "",
+    "SeasonPassServiceHost": "",
 
     "SheetBucketUrl": "https://sheets.planetarium.dev",
 
@@ -18,7 +19,7 @@
 
     "maintenance" : false,
     "EnableGuestLogin" : true,
-    "ingameDebugConsole" : true,
+    "ingameDebugConsole" : false,
 
     "MixpanelDebugError" : false,
     "MixpanelDebugAssert" : false,
