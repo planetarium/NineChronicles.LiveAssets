@@ -89,7 +89,7 @@
             "UseAgentAddress": false,
             "Description": "Monster Collection",
             "EnableKeys": [],
-            "IsMainnet": false,
+            "IsMainnet": true,
             "WithSign": true
         }
     ]
