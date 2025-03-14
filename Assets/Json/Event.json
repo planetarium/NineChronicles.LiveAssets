@@ -77,6 +77,20 @@
             "UseAgentAddress": false,
             "Description": "Monster Collection",
             "EnableKeys": []
+        },
+        {
+            "Priority": 999,
+            "BannerImageName": "[233x68]0901Event",
+            "PopupImageName": "[600x420]0901Promo",
+            "UseDateTime": false,
+            "BeginDateTime": "",
+            "EndDateTime": "",
+            "Url": "https://petpop-internal.9c.gg/api/user/connect",
+            "UseAgentAddress": false,
+            "Description": "Monster Collection",
+            "EnableKeys": [],
+            "IsMainnet": false,
+            "WithSign": true
         }
     ]
 }
