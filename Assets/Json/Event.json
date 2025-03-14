@@ -1,6 +1,20 @@
 {
     "Banners": [
         {
+            "Priority": 66,
+            "BannerImageName": "[233x68][ENG]marchsale",
+            "PopupImageName": "[600x420][ENG]marchsale",
+            "UseDateTime": true,
+            "BeginDateTime": "2025-03-13T11:16:00",
+            "EndDateTime": "2025-03-31T23:16:00",
+            "Url": "https://bit.ly/9CM_0314Promo",
+            "UseAgentAddress": false,
+            "Description": "marchsale",
+            "EnableKeys": [
+                ""
+            ]
+        },
+        {
             "Priority": 68,
             "BannerImageName": "233_68_9Cthorbye EN",
             "PopupImageName": "600_420_9Cthorbye",
@@ -24,48 +38,6 @@
             "Url": "https://bit.ly/9CM-Thor-Closure",
             "UseAgentAddress": false,
             "Description": "thorclose",
-            "EnableKeys": [
-                ""
-            ]
-        },
-        {
-            "Priority": 72,
-            "BannerImageName": "[233x68][ENG]valentine25",
-            "PopupImageName": "[600x420][ENG]valentine25",
-            "UseDateTime": true,
-            "BeginDateTime": "2025-02-13T14:29:00",
-            "EndDateTime": "2025-03-13T23:59:00",
-            "Url": "https://bit.ly/9CM_2025Valentines",
-            "UseAgentAddress": false,
-            "Description": "2025valentine",
-            "EnableKeys": [
-                ""
-            ]
-        },
-        {
-            "Priority": 76,
-            "BannerImageName": "[233x68][ENG]payback",
-            "PopupImageName": "[600x420][ENG]payback",
-            "UseDateTime": true,
-            "BeginDateTime": "2025-01-26T12:32:00",
-            "EndDateTime": "2025-02-09T23:33:00",
-            "Url": "https://bit.ly/9CM_DustPayback",
-            "UseAgentAddress": false,
-            "Description": "200270payback",
-            "EnableKeys": [
-                ""
-            ]
-        },
-        {
-            "Priority": 80,
-            "BannerImageName": "[233x68][ENG]2501promo",
-            "PopupImageName": "[600x420][ENG]2501promo",
-            "UseDateTime": true,
-            "BeginDateTime": "2025-01-16T10:46:00",
-            "EndDateTime": "2025-02-13T23:46:00",
-            "Url": "https://bit.ly/9CM_250117_Promo",
-            "UseAgentAddress": false,
-            "Description": "2501promo",
             "EnableKeys": [
                 ""
             ]
