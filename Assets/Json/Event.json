@@ -1,6 +1,21 @@
 {
     "Banners": [
         {
+            "Priority": 64,
+            "BannerImageName": "[233x68][ENG]thorreturn",
+            "PopupImageName": "[600x420][ENG]thorreturn",
+            "UseDateTime": true,
+            "BeginDateTime": "2025-03-23T11:35:00",
+            "EndDateTime": "2025-04-13T23:35:00",
+            "Url": "https://bit.ly/9CM_RoThor",
+            "UseAgentAddress": false,
+            "Description": "2503event",
+            "EnableKeys": [
+                ""
+            ],
+            "IsMainnet": true
+        },
+        {
             "Priority": 66,
             "BannerImageName": "[233x68][ENG]marchsale",
             "PopupImageName": "[600x420][ENG]marchsale",
