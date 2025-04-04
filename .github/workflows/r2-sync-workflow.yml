@@ -1,0 +1,43 @@
+name: R2 Sync Workflow
+
+on:
+  push:
+    branches:
+      - main
+      - ci/*
+      - r2-sync
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Upload assets to R2
+      uses: ryand56/r2-upload-action@latest
+      with:
+        r2-account-id: ${{ secrets.R2_ACCOUNT_ID }}
+        r2-access-key-id: ${{ secrets.R2_ACCESS_KEY_ID }}
+        r2-secret-access-key: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+        r2-bucket: ${{ secrets.R2_BUCKET }}
+        source-dir: Assets
+        destination-dir: live-assets
+    - name: Invalidate Cloudflare cache for multiple zones
+      run: |
+        # Zone IDs와 Domains를 배열로 변환
+        IFS=',' read -ra ZONE_IDS <<< "${{ secrets.CLOUDFLARE_ZONE_IDS }}"
+        IFS=',' read -ra DOMAINS <<< "${{ secrets.CLOUDFLARE_DOMAINS }}"
+
+        # 배열의 길이 확인
+        ZONE_COUNT=${#ZONE_IDS[@]}
+        DOMAIN_COUNT=${#DOMAINS[@]}
+
+        # 각 Zone ID와 Domain에 대해 캐시 무효화 실행
+        for ((i=0; i<ZONE_COUNT; i++)); do
+          echo "Invalidating cache for Zone ID: ${ZONE_IDS[i]} and Domain: ${DOMAINS[i]}"
+          curl -X POST "https://api.cloudflare.com/client/v4/zones/${ZONE_IDS[i]}/purge_cache" \
+            -H "X-Auth-Email: ${{ secrets.CLOUDFLARE_EMAIL }}" \
+            -H "X-Auth-Key: ${{ secrets.CLOUDFLARE_API_KEY }}" \
+            -H "Content-Type: application/json" \
+            -d "{\"files\": [\"${DOMAINS[i]}/live-assets/*\"]}"
+        done
