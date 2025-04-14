@@ -1,22 +1,6 @@
 {
     "Banners": [
         {
-            "Priority": 60,
-            "BannerImageName": "thorclosebanner",
-            "PopupImageName": "thorclosebig",
-            "UseDateTime": false,
-            "BeginDateTime": "",
-            "EndDateTime": "",
-            "Url": "https://internal.petpop.fun/api/user/connect",
-            "UseAgentAddress": false,
-            "Description": "petpop connect",
-            "EnableKeys": [
-                ""
-            ],
-            "IsMainnet": false,
-            "WithSign": true
-        },
-        {
             "Priority": 64,
             "BannerImageName": "[233x68][ENG]thorreturn",
             "PopupImageName": "[600x420][ENG]thorreturn",
