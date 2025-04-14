@@ -46,10 +46,14 @@
             "UseDateTime": false,
             "BeginDateTime": "",
             "EndDateTime": "",
-            "Url": "https://nine-chronicles.com/earn#Stake",
+            "Url": "https://internal.petpop.fun/api/user/connect",
             "UseAgentAddress": false,
-            "Description": "Monster Collection",
-            "EnableKeys": []
+            "Description": "stak",
+            "EnableKeys": [
+                ""
+            ],
+            "IsMainnet": true,
+            "WithSign": true
         }
     ]
 }
