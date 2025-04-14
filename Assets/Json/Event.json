@@ -1,6 +1,22 @@
 {
     "Banners": [
         {
+            "Priority": 60,
+            "BannerImageName": "thorclosebanner",
+            "PopupImageName": "thorclosebig",
+            "UseDateTime": false,
+            "BeginDateTime": "",
+            "EndDateTime": "",
+            "Url": "https://internal.petpop.fun/api/user/connect",
+            "UseAgentAddress": false,
+            "Description": "petpop connect",
+            "EnableKeys": [
+                ""
+            ],
+            "IsMainnet": false,
+            "WithSign": true
+        },
+        {
             "Priority": 64,
             "BannerImageName": "[233x68][ENG]thorreturn",
             "PopupImageName": "[600x420][ENG]thorreturn",
@@ -14,48 +30,6 @@
                 ""
             ],
             "IsMainnet": true
-        },
-        {
-            "Priority": 66,
-            "BannerImageName": "[233x68][ENG]marchsale",
-            "PopupImageName": "[600x420][ENG]marchsale",
-            "UseDateTime": true,
-            "BeginDateTime": "2025-03-13T11:16:00",
-            "EndDateTime": "2025-03-31T23:16:00",
-            "Url": "https://bit.ly/9CM_0314Promo",
-            "UseAgentAddress": false,
-            "Description": "marchsale",
-            "EnableKeys": [
-                ""
-            ]
-        },
-        {
-            "Priority": 68,
-            "BannerImageName": "233_68_9Cthorbye EN",
-            "PopupImageName": "600_420_9Cthorbye",
-            "UseDateTime": true,
-            "BeginDateTime": "2025-03-03T14:09:00",
-            "EndDateTime": "2025-03-31T23:09:00",
-            "Url": "https://bit.ly/9CM-Goodbye-Thor",
-            "UseAgentAddress": false,
-            "Description": "25thorbye",
-            "EnableKeys": [
-                ""
-            ]
-        },
-        {
-            "Priority": 70,
-            "BannerImageName": "thorclosebanner",
-            "PopupImageName": "thorclosebig",
-            "UseDateTime": true,
-            "BeginDateTime": "2025-02-27T14:20:00",
-            "EndDateTime": "2025-03-28T14:20:00",
-            "Url": "https://bit.ly/9CM-Thor-Closure",
-            "UseAgentAddress": false,
-            "Description": "thorclose",
-            "EnableKeys": [
-                ""
-            ]
         },
         {
             "Priority": 98,
