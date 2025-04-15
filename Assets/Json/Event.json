@@ -1,6 +1,22 @@
 {
     "Banners": [
         {
+            "Priority": 50,
+            "BannerImageName": "banner_233x68",
+            "PopupImageName": "banner_600x420",
+            "UseDateTime": true,
+            "BeginDateTime": "2025-04-14T13:31:00",
+            "EndDateTime": "2025-04-30T15:02:00",
+            "Url": "https://petpop.fun/api/user/connect",
+            "UseAgentAddress": false,
+            "Description": "petpop connect",
+            "EnableKeys": [
+                ""
+            ],
+            "IsMainnet": true,
+            "WithSign": true
+        },
+        {
             "Priority": 98,
             "BannerImageName": "Banner_Event56",
             "PopupImageName": "Main_Event56",
