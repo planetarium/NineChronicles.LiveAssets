@@ -1,6 +1,22 @@
 {
     "Banners": [
         {
+            "Priority": 40,
+            "BannerImageName": "[233x68][ENG]popcrossover",
+            "PopupImageName": "[600x420][ENG]popcrossover",
+            "UseDateTime": true,
+            "BeginDateTime": "2025-04-14T13:31:00",
+            "EndDateTime": "2025-04-30T15:02:00",
+            "Url": "https://bit.ly/9CXPetPop",
+            "UseAgentAddress": false,
+            "Description": "petpop cross",
+            "EnableKeys": [
+                ""
+            ],
+            "IsMainnet": true,
+            "WithSign": false
+        },
+        {
             "Priority": 50,
             "BannerImageName": "banner_233x68",
             "PopupImageName": "banner_600x420",
