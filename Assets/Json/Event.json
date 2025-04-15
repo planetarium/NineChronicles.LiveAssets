@@ -1,19 +1,20 @@
 {
     "Banners": [
         {
-            "Priority": 64,
-            "BannerImageName": "[233x68][ENG]thorreturn",
-            "PopupImageName": "[600x420][ENG]thorreturn",
-            "UseDateTime": true,
-            "BeginDateTime": "2025-03-23T11:35:00",
-            "EndDateTime": "2025-04-13T23:35:00",
-            "Url": "https://bit.ly/9CM_RoThor",
+            "Priority": 90,
+            "BannerImageName": "banner_233x68",
+            "PopupImageName": "banner_600x420",
+            "UseDateTime": false,
+            "BeginDateTime": "",
+            "EndDateTime": "",
+            "Url": "https://petpop.fun/api/user/connect",
             "UseAgentAddress": false,
-            "Description": "2503event",
+            "Description": "petpopopen",
             "EnableKeys": [
                 ""
             ],
-            "IsMainnet": true
+            "IsMainnet": true,
+            "WithSign": true
         },
         {
             "Priority": 98,
@@ -46,14 +47,14 @@
             "UseDateTime": false,
             "BeginDateTime": "",
             "EndDateTime": "",
-            "Url": "https://internal.petpop.fun/api/user/connect",
+            "Url": "https://nine-chronicles.com/earn#Stake",
             "UseAgentAddress": false,
-            "Description": "stak",
+            "Description": "monstercollection",
             "EnableKeys": [
                 ""
             ],
             "IsMainnet": true,
-            "WithSign": true
+            "WithSign": false
         }
     ]
 }
