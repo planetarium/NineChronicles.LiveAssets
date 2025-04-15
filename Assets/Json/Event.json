@@ -1,7 +1,7 @@
 {
     "Banners": [
         {
-            "Priority": 40,
+            "Priority": 50,
             "BannerImageName": "[233x68][ENG]popcrossover",
             "PopupImageName": "[600x420][ENG]popcrossover",
             "UseDateTime": true,
@@ -17,7 +17,7 @@
             "WithSign": false
         },
         {
-            "Priority": 50,
+            "Priority": 40,
             "BannerImageName": "banner_233x68",
             "PopupImageName": "banner_600x420",
             "UseDateTime": true,
