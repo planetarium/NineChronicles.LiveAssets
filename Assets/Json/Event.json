@@ -1,15 +1,15 @@
 {
     "Banners": [
         {
-            "Priority": 50,
-            "BannerImageName": "[233x68][ENG]popcrossover",
-            "PopupImageName": "[600x420][ENG]popcrossover",
+            "Priority": 30,
+            "BannerImageName": "[233x68][ENG]09tease",
+            "PopupImageName": "[600x420][ENG]09tease",
             "UseDateTime": true,
-            "BeginDateTime": "2025-04-14T13:31:00",
-            "EndDateTime": "2025-04-30T15:02:00",
-            "Url": "https://bit.ly/9CXPetPop",
+            "BeginDateTime": "2025-04-16T16:08:00",
+            "EndDateTime": "2025-04-24T04:08:00",
+            "Url": "https://bit.ly/9CM_World9_Teaser",
             "UseAgentAddress": false,
-            "Description": "petpop cross",
+            "Description": "9worldteaser",
             "EnableKeys": [
                 ""
             ],
@@ -31,6 +31,22 @@
             ],
             "IsMainnet": true,
             "WithSign": true
+        },
+        {
+            "Priority": 50,
+            "BannerImageName": "[233x68][ENG]popcrossover",
+            "PopupImageName": "[600x420][ENG]popcrossover",
+            "UseDateTime": true,
+            "BeginDateTime": "2025-04-14T13:31:00",
+            "EndDateTime": "2025-04-30T15:02:00",
+            "Url": "https://bit.ly/9CXPetPop",
+            "UseAgentAddress": false,
+            "Description": "petpop cross",
+            "EnableKeys": [
+                ""
+            ],
+            "IsMainnet": true,
+            "WithSign": false
         },
         {
             "Priority": 98,
