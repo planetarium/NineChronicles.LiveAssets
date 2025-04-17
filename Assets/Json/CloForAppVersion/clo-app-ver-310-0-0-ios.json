@@ -9,7 +9,7 @@
 
     "MeadPledgePortalUrl": "https://developer-mode.nine-chronicles.com",
     "IAPServiceHost": "https://xd2n1dpmce.execute-api.us-east-2.amazonaws.com/internal",
-    "SeasonPassServiceHost": "https://seasonpass-internal-rke2.9c.gg",
+    "SeasonPassServiceHost": "https://seasonpass-internal.9c.gg",
 
     "SheetBuckUrl": "https://sheets.planetarium.dev",
 
