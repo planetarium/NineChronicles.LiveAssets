@@ -1,15 +1,15 @@
 {
     "Banners": [
         {
-            "Priority": 30,
-            "BannerImageName": "[233x68][ENG]09tease",
-            "PopupImageName": "[600x420][ENG]09tease",
+            "Priority": 35,
+            "BannerImageName": "[233x68][ENG]vanarush",
+            "PopupImageName": "[600x420][ENG]vanarush",
             "UseDateTime": true,
-            "BeginDateTime": "2025-04-16T16:08:00",
-            "EndDateTime": "2025-04-24T04:08:00",
-            "Url": "https://bit.ly/9CM_World9_Teaser",
+            "BeginDateTime": "2025-04-23T14:22:00",
+            "EndDateTime": "2025-04-26T23:22:00",
+            "Url": "https://bit.ly/VanaheimRush",
             "UseAgentAddress": false,
-            "Description": "9worldteaser",
+            "Description": "vanarushevent",
             "EnableKeys": [
                 ""
             ],
