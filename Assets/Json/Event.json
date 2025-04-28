@@ -2,14 +2,14 @@
     "Banners": [
         {
             "Priority": 35,
-            "BannerImageName": "[233x68][ENG]vanarush",
-            "PopupImageName": "[600x420][ENG]vanarush",
+            "BannerImageName": "[233x68][ENG]vanarushre",
+            "PopupImageName": "[600x420][ENG]vanarushre",
             "UseDateTime": true,
-            "BeginDateTime": "2025-04-23T14:22:00",
-            "EndDateTime": "2025-04-26T23:22:00",
+            "BeginDateTime": "2025-04-25T16:59:00",
+            "EndDateTime": "2025-05-21T23:59:00",
             "Url": "https://bit.ly/VanaheimRush",
             "UseAgentAddress": false,
-            "Description": "vanarushevent",
+            "Description": "vanaheimeventre",
             "EnableKeys": [
                 ""
             ],
