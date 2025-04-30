@@ -17,15 +17,15 @@
             "WithSign": false
         },
         {
-            "Priority": 40,
-            "BannerImageName": "banner_233x68",
-            "PopupImageName": "banner_600x420",
-            "UseDateTime": true,
-            "BeginDateTime": "2025-04-14T13:31:00",
-            "EndDateTime": "2025-04-30T15:02:00",
+            "Priority": 60,
+            "BannerImageName": "233petpop",
+            "PopupImageName": "640petpop",
+            "UseDateTime": false,
+            "BeginDateTime": "",
+            "EndDateTime": "",
             "Url": "https://petpop.fun/api/user/connect",
             "UseAgentAddress": false,
-            "Description": "petpop connect",
+            "Description": "petpops",
             "EnableKeys": [
                 ""
             ],
@@ -33,44 +33,20 @@
             "WithSign": true
         },
         {
-            "Priority": 50,
-            "BannerImageName": "[233x68][ENG]popcrossover",
-            "PopupImageName": "[600x420][ENG]popcrossover",
-            "UseDateTime": true,
-            "BeginDateTime": "2025-04-14T13:31:00",
-            "EndDateTime": "2025-04-30T15:02:00",
-            "Url": "https://bit.ly/9CXPetPop",
-            "UseAgentAddress": false,
-            "Description": "petpop cross",
-            "EnableKeys": [
-                ""
-            ],
-            "IsMainnet": true,
-            "WithSign": false
-        },
-        {
-            "Priority": 98,
-            "BannerImageName": "Banner_Event56",
-            "PopupImageName": "Main_Event56",
+            "Priority": 90,
+            "BannerImageName": "233savekey",
+            "PopupImageName": "640savekey",
             "UseDateTime": false,
             "BeginDateTime": "",
             "EndDateTime": "",
             "Url": "https://bit.ly/9C_M_Save_Your_Private_Key",
             "UseAgentAddress": false,
-            "Description": "Save_Your_Private_Key",
-            "EnableKeys": []
-        },
-        {
-            "Priority": 99,
-            "BannerImageName": "Banner_4",
-            "PopupImageName": "InviteFriend",
-            "UseDateTime": false,
-            "BeginDateTime": "",
-            "EndDateTime": "",
-            "Url": "https://nine-chronicles.com/earn#Referral",
-            "UseAgentAddress": true,
-            "Description": "Invite Your friend",
-            "EnableKeys": []
+            "Description": "savekey",
+            "EnableKeys": [
+                ""
+            ],
+            "IsMainnet": true,
+            "WithSign": false
         },
         {
             "Priority": 100,
@@ -82,6 +58,22 @@
             "Url": "https://nine-chronicles.com/earn#Stake",
             "UseAgentAddress": false,
             "Description": "monstercollection",
+            "EnableKeys": [
+                ""
+            ],
+            "IsMainnet": true,
+            "WithSign": false
+        },
+        {
+            "Priority": 110,
+            "BannerImageName": "233invitefriend",
+            "PopupImageName": "640InviteFriend",
+            "UseDateTime": false,
+            "BeginDateTime": "",
+            "EndDateTime": "",
+            "Url": "https://nine-chronicles.com/earn#Referral",
+            "UseAgentAddress": false,
+            "Description": "invitefriend",
             "EnableKeys": [
                 ""
             ],
