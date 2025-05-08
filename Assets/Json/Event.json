@@ -1,6 +1,22 @@
 {
     "Banners": [
         {
+            "Priority": 30,
+            "BannerImageName": "[233x68]vanaarena[ENG]",
+            "PopupImageName": "[600x420]vanaarena[ENG]",
+            "UseDateTime": true,
+            "BeginDateTime": "2025-05-07T17:13:00",
+            "EndDateTime": "2025-05-22T17:13:00",
+            "Url": "https://bit.ly/9CM_600KArena",
+            "UseAgentAddress": false,
+            "Description": "vanaarena",
+            "EnableKeys": [
+                ""
+            ],
+            "IsMainnet": true,
+            "WithSign": false
+        },
+        {
             "Priority": 35,
             "BannerImageName": "[233x68][ENG]vanarushre",
             "PopupImageName": "[600x420][ENG]vanarushre",
