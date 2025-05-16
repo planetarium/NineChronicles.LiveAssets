@@ -1,6 +1,22 @@
 {
     "Banners": [
         {
+            "Priority": 25,
+            "BannerImageName": "[233x68][ENG]craft",
+            "PopupImageName": "[600x420]craft",
+            "UseDateTime": true,
+            "BeginDateTime": "2025-05-15T11:51:00",
+            "EndDateTime": "2025-05-31T23:51:00",
+            "Url": "https://bit.ly/9cm_CraftingBoost",
+            "UseAgentAddress": false,
+            "Description": "petoption",
+            "EnableKeys": [
+                ""
+            ],
+            "IsMainnet": true,
+            "WithSign": false
+        },
+        {
             "Priority": 30,
             "BannerImageName": "[233x68]vanaarena2[ENG]",
             "PopupImageName": "[600x420]vanaarena2[ENG]",
