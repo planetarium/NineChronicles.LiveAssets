@@ -19,7 +19,7 @@
     "EnableGuestLogin" : false,
     "ingameDebugConsole" : false,
 
-    "SheetBucketUrl": "http://sheets.planetarium.dev",
+    "SheetBucketUrl": "http://sheets.libplanet.io",
 
     "MixpanelDebugError" : false,
     "MixpanelDebugAssert" : false,
