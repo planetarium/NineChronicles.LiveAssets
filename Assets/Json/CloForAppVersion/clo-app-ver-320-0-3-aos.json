@@ -19,7 +19,7 @@
     "EnableGuestLogin" : false,
     "ingameDebugConsole" : false,
 
-    "SheetBucketUrl": "https://sheets.libplanet.io",
+    "SheetBucketUrl": "http://sheets.libplanet.io",
 
     "MixpanelDebugError" : false,
     "MixpanelDebugAssert" : false,
