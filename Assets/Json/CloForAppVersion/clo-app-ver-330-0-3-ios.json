@@ -17,7 +17,7 @@
 
     "maintenance" : false,
     "EnableGuestLogin" : false,
-    "ingameDebugConsole" : true,
+    "ingameDebugConsole" : false,
 
     "SheetBucketUrl": "https://sheets.libplanet.io",
 
