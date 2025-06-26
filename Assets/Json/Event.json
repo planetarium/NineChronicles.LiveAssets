@@ -1,47 +1,15 @@
 {
     "Banners": [
         {
-            "Priority": 25,
-            "BannerImageName": "[233x68][ENG]craft",
-            "PopupImageName": "[600x420]craft",
+            "Priority": 50,
+            "BannerImageName": "[233x68][ENG]dustvault",
+            "PopupImageName": "[600x420][ENG]dustvault",
             "UseDateTime": true,
-            "BeginDateTime": "2025-05-15T11:51:00",
-            "EndDateTime": "2025-05-31T23:51:00",
-            "Url": "https://bit.ly/9cm_CraftingBoost",
+            "BeginDateTime": "2025-06-25T14:47:00",
+            "EndDateTime": "2025-07-23T22:47:00",
+            "Url": "https://docs.nine-chronicles.com/introduction/intro/roadmap-and-completed/release-notes#v200330",
             "UseAgentAddress": false,
-            "Description": "petoption",
-            "EnableKeys": [
-                ""
-            ],
-            "IsMainnet": true,
-            "WithSign": false
-        },
-        {
-            "Priority": 30,
-            "BannerImageName": "[233x68]vanaarena2[ENG]",
-            "PopupImageName": "[600x420]vanaarena2[ENG]",
-            "UseDateTime": true,
-            "BeginDateTime": "2025-05-07T12:36:00",
-            "EndDateTime": "2025-05-21T12:36:00",
-            "Url": "https://bit.ly/9CM_600KArena",
-            "UseAgentAddress": false,
-            "Description": "vanaarenare",
-            "EnableKeys": [
-                ""
-            ],
-            "IsMainnet": true,
-            "WithSign": false
-        },
-        {
-            "Priority": 35,
-            "BannerImageName": "[233x68][ENG]vanarushre",
-            "PopupImageName": "[600x420][ENG]vanarushre",
-            "UseDateTime": true,
-            "BeginDateTime": "2025-04-25T16:59:00",
-            "EndDateTime": "2025-05-21T23:59:00",
-            "Url": "https://bit.ly/VanaheimRush",
-            "UseAgentAddress": false,
-            "Description": "vanaheimeventre",
+            "Description": "eventdungeondustvalt",
             "EnableKeys": [
                 ""
             ],
