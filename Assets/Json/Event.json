@@ -1,15 +1,15 @@
 {
     "Banners": [
         {
-            "Priority": 50,
-            "BannerImageName": "[233x68][ENG]dustvault",
-            "PopupImageName": "[600x420][ENG]dustvault",
+            "Priority": 49,
+            "BannerImageName": "233dustvault",
+            "PopupImageName": "600dustvault",
             "UseDateTime": true,
-            "BeginDateTime": "2025-06-25T14:47:00",
-            "EndDateTime": "2025-07-23T22:47:00",
+            "BeginDateTime": "2025-06-25T18:30:00",
+            "EndDateTime": "2025-07-23T23:30:00",
             "Url": "https://docs.nine-chronicles.com/introduction/intro/roadmap-and-completed/release-notes#v200330",
             "UseAgentAddress": false,
-            "Description": "eventdungeondustvalt",
+            "Description": "2506dustvault2",
             "EnableKeys": [
                 ""
             ],
