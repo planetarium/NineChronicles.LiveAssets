@@ -3922,18 +3922,18 @@ Not meant for memories.","[npc:52]스스스… 돌아가라… 이곳은… 너�
 And judging by that voice… it remembers pain.","[npc:08]뭔가 끔찍한 걸 깨운 것 같군.
 저 목소리를 보아하니… 고통을 기억하고 있어.","[npc:08]Parece que acordamos algo feio. E a julgar por essa voz... ele se lembra da dor.","","","","","","","","",""
 "DIALOG_172_1_0","[npc:05]No choice.
-We engage, but don’t destroy it completely.
+We engage, but don't destroy it completely.
 
-It might be tied to Freya’s mind.","[npc:05]선택의 여지는 없군.
+It might be tied to Freya's mind.","[npc:05]선택의 여지는 없군.
 싸우자.
 
 하지만 완전히 파괴하진 마.
 프레이야의 정신과 연결되어 있을 수도 있어.","[npc:05]Sem escolha. Engajamos, mas não o destruímos completamente. Pode estar ligado à mente de Freya.","","","","","","","","",""
-"DIALOG_173_1_0","[npc:06]There’s something embedded in the wall… it looks like a broken sigil.","[npc:06]벽 안에 뭔가 박혀 있어요… 부서진 인장처럼 보여요.","[npc:06]Há algo embutido na parede... parece um sigilo quebrado.","","","","","","","","",""
-"DIALOG_174_1_0","[npc:08]That’s no ordinary seal.
-It’s divine.
+"DIALOG_173_1_0","[npc:06]There's something embedded in the wall… it looks like a broken sigil.","[npc:06]벽 안에 뭔가 박혀 있어요… 부서진 인장처럼 보여요.","[npc:06]Há algo embutido na parede... parece um sigilo quebrado.","","","","","","","","",""
+"DIALOG_174_1_0","[npc:08]That's no ordinary seal.
+It's divine.
 
-Freya must’ve placed it to lock something in.","[npc:08]보통 인장이 아냐.
+Freya must've placed it to lock something in.","[npc:08]보통 인장이 아냐.
 신성 마법이야.
 
 프레이야가 뭔가를 가두기 위해 걸어둔 거겠지.","[npc:08] Isso não é um selo comum. É divino. Freya deve ter colocado para trancar algo.","","","","","","","","",""
@@ -3942,10 +3942,10 @@ And it may not be alone.","[npc:05]그렇다면, 지금은… 이미 풀려났�
 그리고… 혼자일 것 같진 않아.","[npc:05]Então, o que quer que estivesse selado... agora está livre. E pode não estar sozinho.","","","","","","","","",""
 "DIALOG_176_1_0","[npc:53]Intruders.
 You walk among graves… bearing her scent…","[npc:53]침입자들… 무덤 위를 걷는구나… 그녀의 기운을 품고서…","[npc:53]Intrusos. Você caminha entre túmulos... carregando o cheiro dela...","","","","","","","","",""
-"DIALOG_177_1_0","[npc:08]Another one of Freya’s remnants twisted by grief.
-Let’s be quick.","[npc:08]또 하나의 프레이야의 잔재가 슬픔에 휘말려 버렸군.
+"DIALOG_177_1_0","[npc:08]Another one of Freya's remnants twisted by grief.
+Let's be quick.","[npc:08]또 하나의 프레이야의 잔재가 슬픔에 휘말려 버렸군.
 빠르게 끝내자.","[npc:08] Mais um dos remanescentes de Freya distorcido pela dor. Vamos ser rápidos.","","","","","","","","",""
-"DIALOG_178_1_0","[npc:06]We can’t destroy everything she touched… there must be another way.","[npc:06]그녀가 남긴 걸 전부 부술 순 없어요… 다른 방법이 있을 거예요.","[npc:06]Não podemos destruir tudo o que ela tocou... deve haver outra maneira.","","","","","","","","",""
+"DIALOG_178_1_0","[npc:06]We can't destroy everything she touched… there must be another way.","[npc:06]그녀가 남긴 걸 전부 부술 순 없어요… 다른 방법이 있을 거예요.","[npc:06]Não podemos destruir tudo o que ela tocou... deve haver outra maneira.","","","","","","","","",""
 "DIALOG_179_1_0","[npc:01]I used to sit beside Freya when she sang to the trees.
 Her voice..
 
@@ -3954,7 +3954,7 @@ it made even the wind pause.","[npc:01]프레이야가 나무들에게 노래를
 
 fazia até o vento parar.","","","","","","","","",""
 "DIALOG_180_1_0","[npc:09]She believed in harmony above all else.
-If she’s changed… then something truly terrible happened.","[npc:09]그녀는 무엇보다 조화를 믿었어.
+If she's changed… then something truly terrible happened.","[npc:09]그녀는 무엇보다 조화를 믿었어.
 그런 그녀가 변했다면… 정말 끔찍한 일이 있었던 거야.","[npc:09] Ela acreditava na harmonia acima de tudo. Se ela mudou... então algo realmente terrível aconteceu.","","","","","","","","",""
 "DIALOG_181_1_0","[npc:06]We have to reach her.
 Before she forgets who she is.","[npc:06]우린 꼭 프레이야를 찾아야 해요.
@@ -3974,7 +3974,7 @@ A silent sentinel.","나는 나를 지울 거야… 그리고 이 세계가 원�
 "DIALOG_185_1_0","[npc:57]The world must not remember me.
 Memory is weakness.","[npc:57]이 세계는 나를 기억해서는 안 돼.
 기억은… 약점이야.","[npc:57]O mundo não deve se lembrar de mim. Memória é fraqueza.","","","","","","","","",""
-"DIALOG_186_1_0","[npc:08]Then we’ll make you remember who you really are!","[npc:08]그렇다면… 우리가 당신을 기억나게 해줄게!","[npc:08] Então faremos você se lembrar de quem você realmente é!","","","","","","","","",""
+"DIALOG_186_1_0","[npc:08]Then we'll make you remember who you really are!","[npc:08]그렇다면… 우리가 당신을 기억나게 해줄게!","[npc:08] Então faremos você se lembrar de quem você realmente é!","","","","","","","","",""
 "DIALOG_187_1_0","[npc:57]You strike… yet hesitate.
 Do you pity me?","[npc:57]공격하면서도 망설이는군.
 나를… 불쌍하게 여기는 건가?","[npc:57] Você ataca... mas hesita. Você tem pena de mim?","","","","","","","","",""
@@ -3985,9 +3985,9 @@ You carry their hopes.
 
 Their voices…","[npc:57]안 돼… 이제야 보이는구나.
 너희 안에 있어… 그들의 목소리가…","[npc:57]Não… Eu vejo agora. Você carrega suas esperanças. Suas vozes…","","","","","","","","",""
-"DIALOG_189_1_1","But it’s too late.
-I… I can’t go back…","하지만 너무 늦었어… 나는… 다시는 돌아갈 수 없어…","Mas é tarde demais. Eu... eu não posso voltar...","","","","","","","","",""
-"DIALOG_190_1_0","[npc:05]She’s breaking… now’s our chance!","[npc:05]균열이 생겼어! 지금이 기회야!","[npc:05] Ela está quebrando... agora é nossa chance![","","","","","","","","",""
+"DIALOG_189_1_1","But it's too late.
+I… I can't go back…","하지만 너무 늦었어… 나는… 다시는 돌아갈 수 없어…","Mas é tarde demais. Eu... eu não posso voltar...","","","","","","","","",""
+"DIALOG_190_1_0","[npc:05]She's breaking… now's our chance!","[npc:05]균열이 생겼어! 지금이 기회야!","[npc:05] Ela está quebrando... agora é nossa chance![","","","","","","","","",""
 "DIALOG_191_1_0","[npc:06]Freya, please! Remember who you are!","[npc:06]프레이야! 제발… 당신 자신을 기억해줘요!","[npc:06] Freya, por favor! Lembre-se de quem você é!","","","","","","","","",""
 "DIALOG_192_1_0","[npc:57]No more names.
 No more memories.
@@ -4004,7 +4004,7 @@ Myself.","남은 것들은 지울 거야.
 You're not just duty.
 
 Fight it, Freya!","[npc:08]당신은 기억도, 의무도 아니야! 싸워요, 프레이야!","[npc:08] Você não é apenas memória. Você não é apenas dever. Lute contra isso, Freya!","","","","","","","","",""
-"DIALOG_194_1_0","[npc:57]I was never strong enough… That’s why I must disappear.","[npc:57]난… 강하지 않았어.
+"DIALOG_194_1_0","[npc:57]I was never strong enough… That's why I must disappear.","[npc:57]난… 강하지 않았어.
 그래서… 사라져야 해.","[npc:57] Eu nunca fui forte o suficiente… É por isso que devo desaparecer.","","","","","","","","",""
 "DIALOG_195_1_0","[npc:06]You once told me life meant more than survival.
 You believed in beauty, in peace.","[npc:06]당신은 말했어요.
@@ -4032,21 +4032,21 @@ Seus nomes... Eu me lembro...","","","","","","","","",""
 "DIALOG_199_1_0","[npc:06]Freya!","[npc:06]프레이야!","[npc:06]Freya!","","","","","","","","",""
 "DIALOG_200_1_0","[npc:57]If I disappear again… end it for me.","[npc:57]내가 또다시 잊는다면… 그땐 끝내줘.","[npc:57]Se eu desaparecer de novo... acabe com isso por mim.","","","","","","","","",""
 "DIALOG_200_1_1","[npc:57]Ah… the silence.
-It’s… peaceful.","아아… 이 고요함… 평화롭구나.","[npc:57]Ah… o silêncio. É… pacífico.","","","","","","","","",""
-"DIALOG_201_1_0","[npc:06]Freya, you don’t have to disappear.
+It's… peaceful.","아아… 이 고요함… 평화롭구나.","[npc:57]Ah… o silêncio. É… pacífico.","","","","","","","","",""
+"DIALOG_201_1_0","[npc:06]Freya, you don't have to disappear.
 You were never a burden.","[npc:06]프레이야, 사라지지 않아도 돼요.
 당신은 결코 짐이 아니었어요.","[npc:06]Freya, você não precisa desaparecer. Você nunca foi um fardo.","","","","","","","","",""
 "DIALOG_202_1_0","[npc:57]Thank you… for remembering me.","[npc:57]고마워… 나를 기억해줘서.","[npc:57] Obrigado… por se lembrar de mim.","","","","","","","","",""
 "DIALOG_203_1_0","[npc:08]The cycle stopped… but I still feel something watching.","[npc:08]순환은 멈췄지만… 여전히 누군가가 지켜보는 기분이 들어.","[npc:08] O ciclo parou… mas ainda sinto algo observando.","","","","","","","","",""
-"DIALOG_204_1_0","[npc:05]Odin’s presence hasn’t vanished.
-We’ve only delayed him.","[npc:05]오딘의 기운은 사라지지 않았어.
+"DIALOG_204_1_0","[npc:05]Odin's presence hasn't vanished.
+We've only delayed him.","[npc:05]오딘의 기운은 사라지지 않았어.
 그저… 잠시 늦췄을 뿐이야.","[npc:05] A presença de Odin não desapareceu. Nós apenas o atrasamos.","","","","","","","","",""
 "DIALOG_205_1_0","[npc:01]Really… you're going? Vanir still needs rebuilding…","[npc:01]정말… 떠나는 거야? 바나헤임은 아직 복구도 덜 됐는데…","[npc:01] Sério... você vai? Vanir ainda precisa ser reconstruída...","","","","","","","","",""
-"DIALOG_206_1_0","[npc:06]I don’t want to see this world repeat itself ever again.","[npc:06]이 세계가 다시 반복되는 건… 보고 싶지 않아요.","[npc:06]Eu não quero ver este mundo se repetir nunca mais.","","","","","","","","",""
-"DIALOG_207_1_0","[npc:09]Odin isn’t just a god with memory.
+"DIALOG_206_1_0","[npc:06]I don't want to see this world repeat itself ever again.","[npc:06]이 세계가 다시 반복되는 건… 보고 싶지 않아요.","[npc:06]Eu não quero ver este mundo se repetir nunca mais.","","","","","","","","",""
+"DIALOG_207_1_0","[npc:09]Odin isn't just a god with memory.
 He is memory that refuses to die.","[npc:09]오딘은 단순한 기억을 지닌 신이 아니야.
 죽기를 거부하는 기억 그 자체지.","[npc:09]Odin não é apenas um deus com memória. Ele é a memória que se recusa a morrer.","","","","","","","","",""
-"DIALOG_208_1_0","[npc:06]That’s why we’ll move forward.
+"DIALOG_208_1_0","[npc:06]That's why we'll move forward.
 One step at a time… toward him.","[npc:06]그래서 가야 해요.
 천천히, 하지만 반드시… 오딘을 향해서.","[npc:06]É por isso que seguiremos em frente. Um passo de cada vez... em direção a ele.","","","","","","","","",""
 "DIALOG_208_1_1","(A shadow flickers in the crimson sky.
