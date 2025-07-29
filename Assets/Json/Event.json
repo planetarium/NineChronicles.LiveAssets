@@ -1,15 +1,15 @@
 {
     "Banners": [
         {
-            "Priority": 49,
-            "BannerImageName": "233dustvault",
-            "PopupImageName": "600dustvault",
+            "Priority": 50,
+            "BannerImageName": "sacredhammer233",
+            "PopupImageName": "sacredhammer420",
             "UseDateTime": true,
-            "BeginDateTime": "2025-06-25T18:30:00",
-            "EndDateTime": "2025-07-23T23:30:00",
-            "Url": "https://docs.nine-chronicles.com/introduction/intro/roadmap-and-completed/release-notes#v200330",
+            "BeginDateTime": "2025-07-28T16:21:00",
+            "EndDateTime": "2025-08-22T16:21:00",
+            "Url": "https://ninechronicles.medium.com/9cm-world-9-final-release-ultimate-hammer-ultimate-collection-9952f7305643",
             "UseAgentAddress": false,
-            "Description": "2506dustvault2",
+            "Description": "sacredhammerpackage",
             "EnableKeys": [
                 ""
             ],
