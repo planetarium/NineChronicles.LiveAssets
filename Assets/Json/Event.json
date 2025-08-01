@@ -1,6 +1,22 @@
 {
     "Banners": [
         {
+            "Priority": 40,
+            "BannerImageName": "0801portalmission233",
+            "PopupImageName": "0801portalmission640",
+            "UseDateTime": false,
+            "BeginDateTime": "",
+            "EndDateTime": "",
+            "Url": "https://nine-chronicles.com/earn#Play",
+            "UseAgentAddress": false,
+            "Description": "0801portalmission",
+            "EnableKeys": [
+                ""
+            ],
+            "IsMainnet": true,
+            "WithSign": false
+        },
+        {
             "Priority": 50,
             "BannerImageName": "sacredhammer233",
             "PopupImageName": "sacredhammer420",
