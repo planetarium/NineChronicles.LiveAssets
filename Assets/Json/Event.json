@@ -14,7 +14,9 @@
                 ""
             ],
             "IsMainnet": true,
-            "WithSign": false
+            "WithSign": false,
+            "ButtonType": "IN_GAME",
+            "SummonType": "GRIMORE"
         },
         {
             "Priority": 50,
@@ -30,7 +32,9 @@
                 ""
             ],
             "IsMainnet": true,
-            "WithSign": false
+            "WithSign": false,
+            "ButtonType": "IN_GAME",
+            "SummonType": "ARUA"
         },
         {
             "Priority": 60,
@@ -46,7 +50,9 @@
                 ""
             ],
             "IsMainnet": true,
-            "WithSign": true
+            "WithSign": true,
+            "ButtonType": "IN_GAME",
+            "SummonType": "RUNE"
         },
         {
             "Priority": 90,
@@ -62,7 +68,9 @@
                 ""
             ],
             "IsMainnet": true,
-            "WithSign": false
+            "WithSign": false,
+            "ButtonType": "IN_GAME",
+            "SummonType": "COSTUME"
         },
         {
             "Priority": 100,
