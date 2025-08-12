@@ -13,7 +13,7 @@
             "EnableKeys": [
                 ""
             ],
-            "IsMainnet": true,
+            "IsMainnet": false,
             "WithSign": false,
             "ButtonType": "IN_GAME",
             "SummonType": "GRIMORE"
