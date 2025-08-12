@@ -4083,5 +4083,5 @@ The group steps forward.).","(붉은 하늘 위로 어렴풋한 그림자가 일
 "ITEM_DESCRIPTION_10048","This is a material used to craft runes and level up. It can be obtained as a [ADVENTUREBOSS] reward.","룬 제작과 레벨 업에 사용되는 재료입니다. [어드벤쳐보스] 보상으로 획득할 수 있습니다.","","","","","","","","","",""
 "ITEM_DESCRIPTION_10049","This is a material used to craft runes and level up. It can be obtained as a [ADVENTUREBOSS] reward.","룬 제작과 레벨 업에 사용되는 재료입니다. [어드벤쳐보스] 보상으로 획득할 수 있습니다.","","","","","","","","","",""
 "ITEM_DESCRIPTION_10050","This is a material used to craft runes and level up. It can be obtained as a [ADVENTUREBOSS] reward.","룬 제작과 레벨 업에 사용되는 재료입니다. [어드벤쳐보스] 보상으로 획득할 수 있습니다.","","","","","","","","","",""
-"SKILL_DESCRIPTION_210004","{0}% chance to grant self ATK increase by {2}% for {1} turns.","","","","","","","","","","",""
-"SKILL_DESCRIPTION_250000","{0}% chance to grant self SPD increase by {2}% for {1} turns.","","","","","","","","","","",""
+"SKILL_DESCRIPTION_210004","{0}% chance to grant self ATK increase by {2} for {1} turns.","","","","","","","","","","",""
+"SKILL_DESCRIPTION_250000","{0}% chance to grant self SPD increase by {2} for {1} turns.","","","","","","","","","","",""
