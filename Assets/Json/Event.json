@@ -1,6 +1,42 @@
 {
     "Banners": [
         {
+            "Priority": 30,
+            "BannerImageName": "200350_costume_233",
+            "PopupImageName": "200350_costume_600",
+            "UseDateTime": true,
+            "BeginDateTime": "2025-08-20T12:53:00",
+            "EndDateTime": "2025-09-30T12:53:00",
+            "Url": "https://planetarium.github.io/9c-event-manager/",
+            "UseAgentAddress": false,
+            "Description": "200350costume",
+            "EnableKeys": [
+                ""
+            ],
+            "IsMainnet": true,
+            "WithSign": false,
+            "ButtonType": "IN_GAME",
+            "SummonType": "COSTUME"
+        },
+        {
+            "Priority": 35,
+            "BannerImageName": "200350_rune_233",
+            "PopupImageName": "200350_rune_600",
+            "UseDateTime": true,
+            "BeginDateTime": "2025-08-20T12:53:00",
+            "EndDateTime": "2025-09-30T12:53:00",
+            "Url": "https://planetarium.github.io/9c-event-manager/",
+            "UseAgentAddress": false,
+            "Description": "200350rune",
+            "EnableKeys": [
+                ""
+            ],
+            "IsMainnet": true,
+            "WithSign": false,
+            "ButtonType": "IN_GAME",
+            "SummonType": "RUNE"
+        },
+        {
             "Priority": 40,
             "BannerImageName": "0801portalmission233",
             "PopupImageName": "0801portalmission640",
