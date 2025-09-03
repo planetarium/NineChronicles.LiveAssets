@@ -1,15 +1,15 @@
 {
     "Banners": [
         {
-            "Priority": 20,
-            "BannerImageName": "[233]humanpassport",
-            "PopupImageName": "[600]humanpassport",
+            "Priority": 21,
+            "BannerImageName": "humanpassport233",
+            "PopupImageName": "humanpassport600",
             "UseDateTime": true,
-            "BeginDateTime": "2025-09-02T16:12:00",
-            "EndDateTime": "2025-11-30T16:12:00",
+            "BeginDateTime": "2025-09-02T23:01:00",
+            "EndDateTime": "2025-11-30T23:01:00",
             "Url": "https://medium.com/nine-chronicles/please-use-human-passport-718f824f8479",
             "UseAgentAddress": false,
-            "Description": "humanpassport",
+            "Description": "humanpassport2",
             "EnableKeys": [
                 ""
             ],
