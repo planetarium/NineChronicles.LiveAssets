@@ -1,6 +1,23 @@
 {
     "Banners": [
         {
+            "Priority": 20,
+            "BannerImageName": "[233]humanpassport",
+            "PopupImageName": "[600]humanpassport",
+            "UseDateTime": true,
+            "BeginDateTime": "2025-09-02T16:12:00",
+            "EndDateTime": "2025-11-30T16:12:00",
+            "Url": "https://medium.com/nine-chronicles/please-use-human-passport-718f824f8479",
+            "UseAgentAddress": false,
+            "Description": "humanpassport",
+            "EnableKeys": [
+                ""
+            ],
+            "IsMainnet": true,
+            "WithSign": false,
+            "ButtonType": "URL"
+        },
+        {
             "Priority": 30,
             "BannerImageName": "200350_costume_233",
             "PopupImageName": "200350_costume_600",
@@ -46,22 +63,6 @@
             "Url": "https://nine-chronicles.com/earn#Play",
             "UseAgentAddress": false,
             "Description": "0801portalmission",
-            "EnableKeys": [
-                ""
-            ],
-            "IsMainnet": true,
-            "WithSign": false
-        },
-        {
-            "Priority": 50,
-            "BannerImageName": "sacredhammer233",
-            "PopupImageName": "sacredhammer420",
-            "UseDateTime": true,
-            "BeginDateTime": "2025-07-28T16:21:00",
-            "EndDateTime": "2025-08-22T16:21:00",
-            "Url": "https://ninechronicles.medium.com/9cm-world-9-final-release-ultimate-hammer-ultimate-collection-9952f7305643",
-            "UseAgentAddress": false,
-            "Description": "sacredhammerpackage",
             "EnableKeys": [
                 ""
             ],
