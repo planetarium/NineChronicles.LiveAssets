@@ -4101,7 +4101,7 @@ Agora, atualizaremos as informações relacionadas.","前回のログインか�
 La información de tu cuenta ha sido archivada.
 Ahora actualizaremos la información relacionada.","เป็นเวลานานแล้วนับจากที่คุณเข้าสู่ระบบครั้งล่าสุด
 ข้อมูลบัญชีของคุณถูกเก็บถาวรแล้ว
-ขณะนี้เราจะโหลดข้อมูลที่เกี่ยวข้องอีกครั้ง","Sudah lama sejak terakhir kali Anda masuk.
+ขณะนี้เรากำลังโหลดข้อมูลที่เกี่ยวข้องอีกครั้ง","Sudah lama sejak terakhir kali Anda masuk.
 Informasi akun Anda telah diarsipkan.
 Kami akan memuat ulang informasi terkait.","Прошло некоторое время с момента вашего последнего входа.
 Данные вашей учётной записи архивированы.
@@ -4134,7 +4134,7 @@ Silakan sambungkan kembali untuk melanjutkan.","Информация об учё
 按“确定”关闭。
 请重新连接以继续。","帳戶資訊已成功更新。
 按“確定”關閉。
-請重新連接以繼續。","Ang impormasyon sa account ay matagumpay na na-update.
+請重新連接以繼續。","Matagumpay na na-update ang impormasyon sa account.
 Pindutin ang OK upang isara.
 Mangyaring kumonekta muli upang magpatuloy.","Thông tin tài khoản đã được cập nhật thành công.
 Nhấn OK để đóng.
@@ -4157,10 +4157,11 @@ Silakan coba lagi nanti.","Не удалось обновить информац
 Нажмите «ОК», чтобы закрыть.
 Повторите попытку позже.","更新账户信息失败。
 按“确定”关闭。
-请稍后重试。","更新帳號資訊失敗。
+请稍后重试。","更新帳戶資訊失敗。
 按“確定”關閉。
 請稍後重試。","Nabigong i-update ang impormasyon ng account.
 Pindutin ang OK upang isara.
 Pakisubukang muli mamaya.","Không cập nhật được thông tin tài khoản.
 Nhấn OK để đóng.
 Vui lòng thử lại sau."
+"UI_SUCCESS","SUCCESS","성공","SUCESSO","成功","ÉXITO","ความสำเร็จ","KESUKSESAN","УСПЕХ","成功","成功","TAGUMPAY","THÀNH CÔNG"
