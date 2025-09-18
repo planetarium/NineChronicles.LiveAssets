@@ -54,20 +54,21 @@
             "SummonType": "RUNE"
         },
         {
-            "Priority": 40,
-            "BannerImageName": "0801portalmission233",
-            "PopupImageName": "0801portalmission640",
+            "Priority": 41,
+            "BannerImageName": "233Missoin",
+            "PopupImageName": "600Mission",
             "UseDateTime": false,
             "BeginDateTime": "",
             "EndDateTime": "",
-            "Url": "https://nine-chronicles.com/earn#Play",
+            "Url": "\thttps://nine-chronicles.com/earn#Play",
             "UseAgentAddress": false,
-            "Description": "0801portalmission",
+            "Description": "0918missionnew",
             "EnableKeys": [
                 ""
             ],
             "IsMainnet": true,
-            "WithSign": false
+            "WithSign": false,
+            "ButtonType": "URL"
         },
         {
             "Priority": 60,
