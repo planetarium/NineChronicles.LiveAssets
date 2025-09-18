@@ -54,15 +54,15 @@
             "SummonType": "RUNE"
         },
         {
-            "Priority": 41,
-            "BannerImageName": "233Missoin",
-            "PopupImageName": "600Mission",
+            "Priority": 40,
+            "BannerImageName": "233Missoin2",
+            "PopupImageName": "600Mission2",
             "UseDateTime": false,
             "BeginDateTime": "",
             "EndDateTime": "",
-            "Url": "\thttps://nine-chronicles.com/earn#Play",
+            "Url": "https://nine-chronicles.com/earn#Play",
             "UseAgentAddress": false,
-            "Description": "0918missionnew",
+            "Description": "0918_mission_2",
             "EnableKeys": [
                 ""
             ],
