@@ -1,6 +1,23 @@
 {
     "Banners": [
         {
+            "Priority": 14,
+            "BannerImageName": "233NCRANK",
+            "PopupImageName": "600NCRANK",
+            "UseDateTime": true,
+            "BeginDateTime": "2025-09-22T16:30:00",
+            "EndDateTime": "2025-10-20T16:30:00",
+            "Url": "https://medium.com/nine-chronicles/adventurers-4ac554dd573c",
+            "UseAgentAddress": false,
+            "Description": "NCRANK",
+            "EnableKeys": [
+                ""
+            ],
+            "IsMainnet": true,
+            "WithSign": false,
+            "ButtonType": "URL"
+        },
+        {
             "Priority": 15,
             "BannerImageName": "233_NCU",
             "PopupImageName": "600_NCU",
@@ -10,6 +27,23 @@
             "Url": "https://medium.com/@ninechronicles/official-launch-of-nine-chronicles-universe-ebed2954b50e",
             "UseAgentAddress": false,
             "Description": "ncuopen",
+            "EnableKeys": [
+                ""
+            ],
+            "IsMainnet": true,
+            "WithSign": false,
+            "ButtonType": "URL"
+        },
+        {
+            "Priority": 16,
+            "BannerImageName": "233RUBYVALUT",
+            "PopupImageName": "600RUBYVALUT",
+            "UseDateTime": true,
+            "BeginDateTime": "2025-09-22T16:30:00",
+            "EndDateTime": "2025-10-20T16:30:00",
+            "Url": "https://docs.nine-chronicles.com/introduction/intro/roadmap-and-completed/release-notes#v200360",
+            "UseAgentAddress": false,
+            "Description": "rubyvalut",
             "EnableKeys": [
                 ""
             ],
