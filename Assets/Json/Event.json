@@ -1,6 +1,23 @@
 {
     "Banners": [
         {
+            "Priority": 15,
+            "BannerImageName": "233_NCU",
+            "PopupImageName": "600_NCU",
+            "UseDateTime": true,
+            "BeginDateTime": "2025-09-22T12:40:00",
+            "EndDateTime": "2025-10-21T12:41:00",
+            "Url": "https://medium.com/@ninechronicles/official-launch-of-nine-chronicles-universe-ebed2954b50e",
+            "UseAgentAddress": false,
+            "Description": "ncuopen",
+            "EnableKeys": [
+                ""
+            ],
+            "IsMainnet": true,
+            "WithSign": false,
+            "ButtonType": "URL"
+        },
+        {
             "Priority": 21,
             "BannerImageName": "humanpassport233",
             "PopupImageName": "humanpassport600",
@@ -69,22 +86,6 @@
             "IsMainnet": true,
             "WithSign": false,
             "ButtonType": "URL"
-        },
-        {
-            "Priority": 60,
-            "BannerImageName": "233petpop",
-            "PopupImageName": "640petpop",
-            "UseDateTime": false,
-            "BeginDateTime": "",
-            "EndDateTime": "",
-            "Url": "https://petpop.fun/api/user/connect",
-            "UseAgentAddress": false,
-            "Description": "petpops",
-            "EnableKeys": [
-                ""
-            ],
-            "IsMainnet": true,
-            "WithSign": true
         },
         {
             "Priority": 90,
