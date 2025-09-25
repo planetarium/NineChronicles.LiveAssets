@@ -1,19 +1,19 @@
 {
     "Banners": [
         {
-            "Priority": 30,
-            "BannerImageName": "200350_costume_233",
-            "PopupImageName": "200350_costume_600",
+            "Priority": 15,
+            "BannerImageName": "233_NCU",
+            "PopupImageName": "600_NCU",
             "UseDateTime": true,
-            "BeginDateTime": "2025-08-20T12:53:00",
-            "EndDateTime": "2025-12-30T12:53:00",
-            "Url": "https://planetarium.github.io/9c-event-manager/",
+            "BeginDateTime": "2025-09-22T12:40:00",
+            "EndDateTime": "2025-10-21T12:41:00",
+            "Url": "https://medium.com/@ninechronicles/official-launch-of-nine-chronicles-universe-ebed2954b50e",
             "UseAgentAddress": false,
-            "Description": "200350costume",
+            "Description": "ncuopen3",
             "EnableKeys": [
                 ""
             ],
-            "IsMainnet": false,
+            "IsMainnet": true,
             "WithSign": false,
             "ButtonType": "IN_GAME",
             "InGameNavigationData": {
@@ -23,19 +23,19 @@
             }
         },
         {
-            "Priority": 30,
-            "BannerImageName": "200350_costume_233",
-            "PopupImageName": "200350_costume_600",
+            "Priority": 15,
+            "BannerImageName": "233_NCU",
+            "PopupImageName": "600_NCU",
             "UseDateTime": true,
-            "BeginDateTime": "2025-08-20T12:53:00",
-            "EndDateTime": "2025-12-30T12:53:00",
-            "Url": "https://planetarium.github.io/9c-event-manager/",
+            "BeginDateTime": "2025-09-22T12:40:00",
+            "EndDateTime": "2025-10-21T12:41:00",
+            "Url": "https://medium.com/@ninechronicles/official-launch-of-nine-chronicles-universe-ebed2954b50e",
             "UseAgentAddress": false,
-            "Description": "200350costume",
+            "Description": "ncuopen2",
             "EnableKeys": [
                 ""
             ],
-            "IsMainnet": false,
+            "IsMainnet": true,
             "WithSign": false,
             "ButtonType": "IN_GAME",
             "InGameNavigationData": {
@@ -44,19 +44,19 @@
             }
         },
         {
-            "Priority": 30,
-            "BannerImageName": "200350_costume_233",
-            "PopupImageName": "200350_costume_600",
+            "Priority": 15,
+            "BannerImageName": "233_NCU",
+            "PopupImageName": "600_NCU",
             "UseDateTime": true,
-            "BeginDateTime": "2025-08-20T12:53:00",
-            "EndDateTime": "2025-12-30T12:53:00",
-            "Url": "https://planetarium.github.io/9c-event-manager/",
+            "BeginDateTime": "2025-09-22T12:40:00",
+            "EndDateTime": "2025-10-21T12:41:00",
+            "Url": "https://medium.com/@ninechronicles/official-launch-of-nine-chronicles-universe-ebed2954b50e",
             "UseAgentAddress": false,
-            "Description": "200350costume",
+            "Description": "ncuopen1",
             "EnableKeys": [
                 ""
             ],
-            "IsMainnet": false,
+            "IsMainnet": true,
             "WithSign": false,
             "ButtonType": "IN_GAME",
             "InGameNavigationData": {
