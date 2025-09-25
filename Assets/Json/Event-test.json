@@ -16,7 +16,7 @@
             "IsMainnet": true,
             "WithSign": false,
             "ButtonType": "IN_GAME",
-            "InGameNavigationData": {
+            "NavigationData": {
                 "PlaceType": "Stage",
                 "WorldId": 1,
                 "StageId": 1
@@ -38,7 +38,7 @@
             "IsMainnet": true,
             "WithSign": false,
             "ButtonType": "IN_GAME",
-            "InGameNavigationData": {
+            "NavigationData": {
                 "PlaceType": "EventDungeonStage",
                 "StageId": "1"
             }
@@ -59,7 +59,7 @@
             "IsMainnet": true,
             "WithSign": false,
             "ButtonType": "IN_GAME",
-            "InGameNavigationData": {
+            "NavigationData": {
                 "PlaceType": "Summon",
                 "SummonType": "COSTUME" 
             }
