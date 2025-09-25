@@ -40,7 +40,7 @@
             "ButtonType": "IN_GAME",
             "NavigationData": {
                 "PlaceType": "EventDungeonStage",
-                "StageId": "1"
+                "StageId": 1
             }
         },
         {
