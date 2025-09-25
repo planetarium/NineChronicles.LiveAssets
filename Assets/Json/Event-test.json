@@ -1,58 +1,189 @@
 {
     "Banners": [
         {
-            "Priority": 40,
-            "BannerImageName": "0801portalmission233",
-            "PopupImageName": "0801portalmission640",
-            "UseDateTime": false,
-            "BeginDateTime": "",
-            "EndDateTime": "",
-            "Url": "https://nine-chronicles.com/earn#Play",
+            "Priority": 30,
+            "BannerImageName": "200350_costume_233",
+            "PopupImageName": "200350_costume_600",
+            "UseDateTime": true,
+            "BeginDateTime": "2025-08-20T12:53:00",
+            "EndDateTime": "2025-09-30T12:53:00",
+            "Url": "https://planetarium.github.io/9c-event-manager/",
             "UseAgentAddress": false,
-            "Description": "0801portalmission",
+            "Description": "200350costume",
             "EnableKeys": [
                 ""
             ],
             "IsMainnet": false,
             "WithSign": false,
             "ButtonType": "IN_GAME",
-            "SummonType": "GRIMORE"
+            "InGameNavigationData": {
+                "PlaceType": "Stage",
+                "WorldId": 1,
+                "StageId": 1
+            }
         },
         {
-            "Priority": 50,
-            "BannerImageName": "sacredhammer233",
-            "PopupImageName": "sacredhammer420",
+            "Priority": 30,
+            "BannerImageName": "200350_costume_233",
+            "PopupImageName": "200350_costume_600",
             "UseDateTime": true,
-            "BeginDateTime": "2025-07-28T16:21:00",
-            "EndDateTime": "2025-08-22T16:21:00",
-            "Url": "https://ninechronicles.medium.com/9cm-world-9-final-release-ultimate-hammer-ultimate-collection-9952f7305643",
+            "BeginDateTime": "2025-08-20T12:53:00",
+            "EndDateTime": "2025-09-30T12:53:00",
+            "Url": "https://planetarium.github.io/9c-event-manager/",
             "UseAgentAddress": false,
-            "Description": "sacredhammerpackage",
+            "Description": "200350costume",
+            "EnableKeys": [
+                ""
+            ],
+            "IsMainnet": false,
+            "WithSign": false,
+            "ButtonType": "IN_GAME",
+            "InGameNavigationData": {
+                "PlaceType": "EventDungeonStage",
+                "StageId": "1"
+            }
+        },
+        {
+            "Priority": 30,
+            "BannerImageName": "200350_costume_233",
+            "PopupImageName": "200350_costume_600",
+            "UseDateTime": true,
+            "BeginDateTime": "2025-08-20T12:53:00",
+            "EndDateTime": "2025-09-30T12:53:00",
+            "Url": "https://planetarium.github.io/9c-event-manager/",
+            "UseAgentAddress": false,
+            "Description": "200350costume",
+            "EnableKeys": [
+                ""
+            ],
+            "IsMainnet": false,
+            "WithSign": false,
+            "ButtonType": "IN_GAME",
+            "InGameNavigationData": {
+                "PlaceType": "Summon",
+                "SummonType": "COSTUME" 
+            }
+        },
+        {
+            "Priority": 14,
+            "BannerImageName": "233NCRANK",
+            "PopupImageName": "600NCRANK",
+            "UseDateTime": true,
+            "BeginDateTime": "2025-09-22T16:30:00",
+            "EndDateTime": "2025-10-20T16:30:00",
+            "Url": "https://medium.com/nine-chronicles/adventurers-4ac554dd573c",
+            "UseAgentAddress": false,
+            "Description": "NCRANK",
+            "EnableKeys": [
+                ""
+            ],
+            "IsMainnet": true,
+            "WithSign": false,
+            "ButtonType": "URL"
+        },
+        {
+            "Priority": 15,
+            "BannerImageName": "233_NCU",
+            "PopupImageName": "600_NCU",
+            "UseDateTime": true,
+            "BeginDateTime": "2025-09-22T12:40:00",
+            "EndDateTime": "2025-10-21T12:41:00",
+            "Url": "https://medium.com/@ninechronicles/official-launch-of-nine-chronicles-universe-ebed2954b50e",
+            "UseAgentAddress": false,
+            "Description": "ncuopen",
+            "EnableKeys": [
+                ""
+            ],
+            "IsMainnet": true,
+            "WithSign": false,
+            "ButtonType": "URL"
+        },
+        {
+            "Priority": 16,
+            "BannerImageName": "233RUBYVALUT",
+            "PopupImageName": "600RUBYVALUT",
+            "UseDateTime": true,
+            "BeginDateTime": "2025-09-22T16:30:00",
+            "EndDateTime": "2025-10-20T16:30:00",
+            "Url": "https://docs.nine-chronicles.com/introduction/intro/roadmap-and-completed/release-notes#v200360",
+            "UseAgentAddress": false,
+            "Description": "rubyvalut",
+            "EnableKeys": [
+                ""
+            ],
+            "IsMainnet": true,
+            "WithSign": false,
+            "ButtonType": "URL"
+        },
+        {
+            "Priority": 21,
+            "BannerImageName": "humanpassport233",
+            "PopupImageName": "humanpassport600",
+            "UseDateTime": true,
+            "BeginDateTime": "2025-09-02T23:01:00",
+            "EndDateTime": "2025-11-30T23:01:00",
+            "Url": "https://medium.com/nine-chronicles/please-use-human-passport-718f824f8479",
+            "UseAgentAddress": false,
+            "Description": "humanpassport2",
+            "EnableKeys": [
+                ""
+            ],
+            "IsMainnet": true,
+            "WithSign": false,
+            "ButtonType": "URL"
+        },
+        {
+            "Priority": 30,
+            "BannerImageName": "200350_costume_233",
+            "PopupImageName": "200350_costume_600",
+            "UseDateTime": true,
+            "BeginDateTime": "2025-08-20T12:53:00",
+            "EndDateTime": "2025-09-30T12:53:00",
+            "Url": "https://planetarium.github.io/9c-event-manager/",
+            "UseAgentAddress": false,
+            "Description": "200350costume",
             "EnableKeys": [
                 ""
             ],
             "IsMainnet": true,
             "WithSign": false,
             "ButtonType": "IN_GAME",
-            "SummonType": "ARUA"
+            "SummonType": "COSTUME"
         },
         {
-            "Priority": 60,
-            "BannerImageName": "233petpop",
-            "PopupImageName": "640petpop",
-            "UseDateTime": false,
-            "BeginDateTime": "",
-            "EndDateTime": "",
-            "Url": "https://petpop.fun/api/user/connect",
+            "Priority": 35,
+            "BannerImageName": "200350_rune_233",
+            "PopupImageName": "200350_rune_600",
+            "UseDateTime": true,
+            "BeginDateTime": "2025-08-20T12:53:00",
+            "EndDateTime": "2025-09-30T12:53:00",
+            "Url": "https://planetarium.github.io/9c-event-manager/",
             "UseAgentAddress": false,
-            "Description": "petpops",
+            "Description": "200350rune",
             "EnableKeys": [
                 ""
             ],
             "IsMainnet": true,
-            "WithSign": true,
+            "WithSign": false,
             "ButtonType": "IN_GAME",
             "SummonType": "RUNE"
+        },
+        {
+            "Priority": 40,
+            "BannerImageName": "233Missoin2",
+            "PopupImageName": "600Mission2",
+            "UseDateTime": false,
+            "BeginDateTime": "",
+            "EndDateTime": "",
+            "Url": "https://nine-chronicles.com/earn#Play",
+            "UseAgentAddress": false,
+            "Description": "0918_mission_2",
+            "EnableKeys": [
+                ""
+            ],
+            "IsMainnet": true,
+            "WithSign": false,
+            "ButtonType": "URL"
         },
         {
             "Priority": 90,
@@ -68,9 +199,7 @@
                 ""
             ],
             "IsMainnet": true,
-            "WithSign": false,
-            "ButtonType": "IN_GAME",
-            "SummonType": "COSTUME"
+            "WithSign": false
         },
         {
             "Priority": 100,
