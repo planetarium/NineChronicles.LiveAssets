@@ -84,7 +84,11 @@
             "IsMainnet": true,
             "WithSign": false,
             "ButtonType": "IN_GAME",
-            "SummonType": "COSTUME"
+            "SummonType": "COSTUME",
+            "NavigationData": {
+                "PlaceType": "Summon",
+                "SummonType": "COSTUME" 
+            }
         },
         {
             "Priority": 35,
@@ -102,7 +106,10 @@
             "IsMainnet": true,
             "WithSign": false,
             "ButtonType": "IN_GAME",
-            "SummonType": "RUNE"
+            "NavigationData": {
+                "PlaceType": "Summon",
+                "SummonType": "RUNE" 
+            }
         },
         {
             "Priority": 40,
