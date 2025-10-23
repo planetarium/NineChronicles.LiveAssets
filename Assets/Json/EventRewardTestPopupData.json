@@ -1,0 +1,28 @@
+{
+    "EnableEventRewardPopup": true,
+    "TitleL10NKey": "UI_EVENT_REWARD_POPUP_TITLE",
+    "EventRewards": [
+        {
+            "BeginDateTime": "2025-10-23T00:00:00",
+            "EndDateTime": "2026-01-27T03:00:00",
+
+            "ToggleL10NKey": "UI_EVENT_TOGGLE_1",
+            "DescriptionL10NKey": "UI_EVENT_DESCRIPTION_1",
+
+            "ContentPresetType": "PatrolReward",
+            "Content": null
+        }
+    ],
+    "EnabledThorChainContent": {
+        "ImageName": "event_reward_image_thor_O",
+        "ShortcutTypes": [
+            "Arena",
+            "WorldBoss",
+            "MobileShop"
+        ]
+    },
+    "DisabledThorChainContent": {
+        "ImageName": "event_reward_image_thor_X",
+        "ShortcutTypes": []
+    }
+}
