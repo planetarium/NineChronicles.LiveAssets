@@ -1,7 +1,7 @@
 {
     "AppProtocolVersion": "200370/AB2da648b9154F2cCcAFBD85e0Bc3d51f97330Fc/MEUCIQDvaEtWlUXkLYIVwIInB25Ff1Ex+kY5b.aECcgLkFt6XgIgHi16XLCgMdNdTu7tvCYGLuZsTlt7eBxL9A6FyfhP7yE=/ZHU5OnRpbWVzdGFtcHUxMDoyMDI1LTA5LTIzZQ==",
-    "PlanetRegistryUrl": "https://planets-internal.nine-chronicles.com/planets/",
-    "DefaultPlanetId": "0x100000000001",
+    "PlanetRegistryUrl": "https://planets.nine-chronicles.com/planets/",
+    "DefaultPlanetId": "0x000000000001",
     "StateRestoreUrl": "https://backoffice.nine-chronicles.com/api/AddressStateAction/create-set-address-state-transaction",
 
     "NoMiner": true,
@@ -9,9 +9,9 @@
     "RpcServerHost": "empty",
     "RpcServerPort": 0,
 
-    "MeadPledgePortalUrl": "https://developer-mode.nine-chronicles.com",
-    "IAPServiceHost": "https://iap-internal-api.9c.gg",
-    "SeasonPassServiceHost": "https://seasonpass-internal.9c.gg",
+    "MeadPledgePortalUrl": "https://nine-chronicles.com",
+    "IAPServiceHost": "https://iap-api.9c.gg",
+    "SeasonPassServiceHost": "https://seasonpass.9c.gg",
 
     "SheetBucketUrl": "https://sheets.libplanet.io",
 
@@ -27,4 +27,3 @@
     "MixpanelDebugException" : false,
     "MixpanelDebugWarning" : false
 }
-
