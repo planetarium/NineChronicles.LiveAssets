@@ -53,7 +53,8 @@
                 "ShortcutTypes": [
                     "Arena",
                     "AdventureBoss",
-                    "WorldBoss"
+                    "WorldBoss",
+                    "EventDungeonStage"
                 ]
             }
         },
