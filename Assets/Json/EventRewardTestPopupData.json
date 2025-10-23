@@ -51,9 +51,6 @@
             "Content": {
                 "ImageName": "event_reward_image_3",
                 "ShortcutTypes": [
-                    "Arena",
-                    "AdventureBoss",
-                    "WorldBoss",
                     "EventDungeonStage"
                 ]
             }
