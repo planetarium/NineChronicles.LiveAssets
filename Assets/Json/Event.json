@@ -1,6 +1,23 @@
 {
     "Banners": [
         {
+            "Priority": 18,
+            "BannerImageName": "mission3x233",
+            "PopupImageName": "mission3x600",
+            "UseDateTime": true,
+            "BeginDateTime": "2025-10-31T09:16:00",
+            "EndDateTime": "2025-12-31T21:16:00",
+            "Url": "https://nine-chronicles.com/earn#Play",
+            "UseAgentAddress": false,
+            "Description": "missionevent",
+            "EnableKeys": [
+                ""
+            ],
+            "IsMainnet": true,
+            "WithSign": false,
+            "ButtonType": "URL"
+        },
+        {
             "Priority": 20,
             "BannerImageName": "doublemileage233",
             "PopupImageName": "doublemileage600",
