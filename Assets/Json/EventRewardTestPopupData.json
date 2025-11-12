@@ -11,7 +11,7 @@
 
             "ContentPresetType": "ClaimGift",
             "Content": {
-                "ImageName": "event_reward_image_0",
+                "ImageName": "event_reward_image_2_0",
                 "ShortcutTypes": []
             }
         },
@@ -34,7 +34,7 @@
 
             "ContentPresetType": "None",
             "Content": {
-                "ImageName": "event_reward_image_2",
+                "ImageName": "event_reward_image_2_2",
                 "ShortcutTypes": [
                     "MobileShop"
                 ]
@@ -49,7 +49,7 @@
 
             "ContentPresetType": "None",
             "Content": {
-                "ImageName": "event_reward_image_3",
+                "ImageName": "event_reward_image_2_3",
                 "ShortcutTypes": [
                     "EventDungeon"
                 ]
@@ -67,7 +67,7 @@
         }
     ],
     "EnabledThorChainContent": {
-        "ImageName": "event_reward_image_thor_O",
+        "ImageName": "event_reward_image_2_thor_O",
         "ShortcutTypes": [
             "Arena",
             "WorldBoss",
@@ -75,7 +75,7 @@
         ]
     },
     "DisabledThorChainContent": {
-        "ImageName": "event_reward_image_thor_X",
+        "ImageName": "event_reward_image_2_thor_X",
         "ShortcutTypes": []
     }
 }
