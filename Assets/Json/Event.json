@@ -1,6 +1,23 @@
 {
     "Banners": [
         {
+            "Priority": 16,
+            "BannerImageName": "V8Follow233x68",
+            "PopupImageName": "V8Follow600x420",
+            "UseDateTime": true,
+            "BeginDateTime": "2025-11-17T18:21:00",
+            "EndDateTime": "2025-12-31T18:21:00",
+            "Url": "https://nine-chronicles.com/earn#Play",
+            "UseAgentAddress": false,
+            "Description": "verse8twitter",
+            "EnableKeys": [
+                ""
+            ],
+            "IsMainnet": true,
+            "WithSign": false,
+            "ButtonType": "URL"
+        },
+        {
             "Priority": 18,
             "BannerImageName": "mission3x233",
             "PopupImageName": "mission3x600",
