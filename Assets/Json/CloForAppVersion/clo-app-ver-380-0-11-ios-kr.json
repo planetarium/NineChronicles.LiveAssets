@@ -10,8 +10,8 @@
     "RpcServerPort": 0,
 
     "MeadPledgePortalUrl": "https://developer-mode.nine-chronicles.com",
-    "IAPServiceHost": "https://iap-internal-api.9c.gg",
-    "SeasonPassServiceHost": "https://seasonpass-internal.9c.gg",
+    "IAPServiceHost": "https://iap-api.9c.gg",
+    "SeasonPassServiceHost": "https://seasonpass.9c.gg",
 
     "SheetBucketUrl": "https://sheets.libplanet.io",
 
