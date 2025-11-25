@@ -20,7 +20,7 @@
     "WebMarketUrl" : "https://nine-chronicles.com/market",
 
     "maintenance" : false,
-    "EnableGuestLogin" : true,
+    "EnableGuestLogin" : false,
     "ingameDebugConsole" : false,
 
     "MixpanelDebugError" : false,
