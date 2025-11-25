@@ -18,6 +18,23 @@
             "ButtonType": "URL"
         },
         {
+            "Priority": 13,
+            "BannerImageName": "233thorsecond",
+            "PopupImageName": "600thorsecond",
+            "UseDateTime": true,
+            "BeginDateTime": "2025-11-24T18:38:00",
+            "EndDateTime": "2026-01-28T18:38:00",
+            "Url": "https://ninechronicles.medium.com/thor-planet-service-announcement-14876959ee5d",
+            "UseAgentAddress": false,
+            "Description": "thorsecond",
+            "EnableKeys": [
+                ""
+            ],
+            "IsMainnet": true,
+            "WithSign": false,
+            "ButtonType": "URL"
+        },
+        {
             "Priority": 14,
             "BannerImageName": "233x682ndAnniversary",
             "PopupImageName": "600x4202ndAnniversary",
