@@ -1,8 +1,8 @@
 {
     "MainNet": {
-        "StartDateUtcString": "2024-11-28T11:00:00+09:00",
-        "EndDateUtcString": "2025-04-01T11:00:00+09:00",
-        "InformationUrl": "https://bit.ly/1YR_ANNIV"
+        "StartDateUtcString": "2025-11-25T11:00:00+09:00",
+        "EndDateUtcString": "2026-01-29T11:00:00+09:00",
+        "InformationUrl": "https://medium.com/nine-chronicles/thor-planet-service-announcement-14876959ee5d"
     },
     "Others":{
         "StartDateUtcString": "2025-11-12T00:00:00+09:00",
