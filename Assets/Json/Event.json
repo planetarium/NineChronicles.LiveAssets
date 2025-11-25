@@ -1,6 +1,40 @@
 {
     "Banners": [
         {
+            "Priority": 12,
+            "BannerImageName": "233x689CxV8GameJam",
+            "PopupImageName": "600x4209CxV8GameJam",
+            "UseDateTime": true,
+            "BeginDateTime": "2025-11-24T15:50:00",
+            "EndDateTime": "2025-12-16T23:53:00",
+            "Url": "https://x.com/NineChronicles/status/1993152695008735542",
+            "UseAgentAddress": false,
+            "Description": "2ndanniversaryv8",
+            "EnableKeys": [
+                ""
+            ],
+            "IsMainnet": true,
+            "WithSign": false,
+            "ButtonType": "URL"
+        },
+        {
+            "Priority": 14,
+            "BannerImageName": "233x682ndAnniversary",
+            "PopupImageName": "600x4202ndAnniversary",
+            "UseDateTime": true,
+            "BeginDateTime": "2025-11-24T15:50:00",
+            "EndDateTime": "2025-12-24T15:53:00",
+            "Url": "https://medium.com/nine-chronicles/nine-chronicles-m-turns-2-773988b0c77d",
+            "UseAgentAddress": false,
+            "Description": "2ndanniversary",
+            "EnableKeys": [
+                ""
+            ],
+            "IsMainnet": true,
+            "WithSign": false,
+            "ButtonType": "URL"
+        },
+        {
             "Priority": 16,
             "BannerImageName": "V8Follow233x68",
             "PopupImageName": "V8Follow600x420",
