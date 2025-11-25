@@ -19,8 +19,8 @@
     "GoogleMarketUrl" : "https://play.google.com/store/apps/details?id=com.planetariumlabs.ninechroniclesmobile",
     "WebMarketUrl" : "https://nine-chronicles.com/market",
 
-    "maintenance" : true,
-    "EnableGuestLogin" : true,
+    "maintenance" : false,
+    "EnableGuestLogin" : false,
     "ingameDebugConsole" : false,
 
     "MixpanelDebugError" : false,
