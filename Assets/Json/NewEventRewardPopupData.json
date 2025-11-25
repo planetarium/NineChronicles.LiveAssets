@@ -3,8 +3,8 @@
     "TitleL10NKey": "UI_EVENT_REWARD_POPUP_TITLE",
     "EventRewards": [
         {
-            "BeginDateTime": "2025-10-23T00:00:00",
-            "EndDateTime": "2026-01-27T03:00:00",
+            "BeginDateTime": "2025-11-25T00:00:00",
+            "EndDateTime": "2026-01-29T00:00:00",
 
             "ToggleL10NKey": "UI_EVENT_TOGGLE_0",
             "DescriptionL10NKey": "UI_EVENT_DESCRIPTION_0",
@@ -16,8 +16,8 @@
             }
         },
         {
-            "BeginDateTime": "2025-10-23T00:00:00",
-            "EndDateTime": "2026-01-27T03:00:00",
+            "BeginDateTime": "2025-11-25T00:00:00",
+            "EndDateTime": "2026-01-29T00:00:00",
 
             "ToggleL10NKey": "UI_EVENT_TOGGLE_1",
             "DescriptionL10NKey": "UI_EVENT_DESCRIPTION_1",
@@ -26,8 +26,8 @@
             "Content": null
         },
         {
-            "BeginDateTime": "2025-10-23T00:00:00",
-            "EndDateTime": "2026-01-27T03:00:00",
+            "BeginDateTime": "2025-11-25T00:00:00",
+            "EndDateTime": "2026-01-29T00:00:00",
 
             "ToggleL10NKey": "UI_EVENT_TOGGLE_2",
             "DescriptionL10NKey": "UI_EVENT_DESCRIPTION_2",
@@ -41,8 +41,8 @@
             }
         },
         {
-            "BeginDateTime": "2025-10-23T00:00:00",
-            "EndDateTime": "2026-01-27T03:00:00",
+            "BeginDateTime": "2025-11-25T00:00:00",
+            "EndDateTime": "2026-01-29T00:00:00",
 
             "ToggleL10NKey": "UI_EVENT_TOGGLE_3",
             "DescriptionL10NKey": "UI_EVENT_DESCRIPTION_3",
@@ -56,8 +56,8 @@
             }
         },
         {
-            "BeginDateTime": "2025-10-23T00:00:00",
-            "EndDateTime": "2026-01-27T03:00:00",
+            "BeginDateTime": "2025-11-25T00:00:00",
+            "EndDateTime": "2026-01-29T00:00:00",
 
             "ToggleL10NKey": "UI_EVENT_TOGGLE_4",
             "DescriptionL10NKey": "UI_EVENT_DESCRIPTION_4",
