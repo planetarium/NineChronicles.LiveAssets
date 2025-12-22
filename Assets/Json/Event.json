@@ -1,6 +1,23 @@
 {
     "Banners": [
         {
+            "Priority": 11,
+            "BannerImageName": "planetariumpackage233",
+            "PopupImageName": "planetariumpackage600",
+            "UseDateTime": true,
+            "BeginDateTime": "2025-12-21T17:46:00",
+            "EndDateTime": "2026-01-09T17:46:00",
+            "Url": "https://planetarium-package.xyz/",
+            "UseAgentAddress": false,
+            "Description": "planetariumpackage",
+            "EnableKeys": [
+                ""
+            ],
+            "IsMainnet": true,
+            "WithSign": false,
+            "ButtonType": "URL"
+        },
+        {
             "Priority": 12,
             "BannerImageName": "233x689CxV8GameJam",
             "PopupImageName": "600x4209CxV8GameJam",
