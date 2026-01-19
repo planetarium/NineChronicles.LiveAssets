@@ -11,6 +11,21 @@
 
             "ContentPresetType": "PatrolReward",
             "Content": null
+        },
+        {
+            "BeginDateTime": "2025-11-25T00:00:00",
+            "EndDateTime": "2026-01-29T00:00:00",
+
+            "ToggleL10NKey": "UI_EVENT_TOGGLE_3",
+            "DescriptionL10NKey": "UI_EVENT_DESCRIPTION_3",
+
+            "ContentPresetType": "None",
+            "Content": {
+                "ImageName": "event_reward_image_2_3",
+                "ShortcutTypes": [
+                    "Collection"
+                ]
+            }
         }
     ],
     "EnabledThorChainContent": {
