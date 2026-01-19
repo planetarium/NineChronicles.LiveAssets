@@ -232,6 +232,22 @@
             ],
             "IsMainnet": true,
             "WithSign": false
-        }
+        },
+        {
+            "Priority": 115,
+            "BannerImageName": "200350_rune_233",
+            "PopupImageName": "200350_rune_600",
+            "UseDateTime": true,
+            "Url": "https://planetarium.github.io/9c-event-manager/",
+            "UseAgentAddress": false,
+            "Description": "200350rune",
+            "EnableKeys": [
+                ""
+            ],
+            "IsMainnet": false,
+            "WithSign": false,
+            "ButtonType": "IN_GAME",
+            "SummonType": "Collection"
+        }        
     ]
 }
