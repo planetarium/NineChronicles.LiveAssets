@@ -1,5 +1,5 @@
 {
-    "EnableEventRewardPopup": true,
+    "EnableEventRewardPopup": false,
     "TitleL10NKey": "UI_EVENT_REWARD_POPUP_TITLE",
     "EventRewards": [
         {
