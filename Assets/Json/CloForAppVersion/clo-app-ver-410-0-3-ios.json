@@ -14,7 +14,8 @@
   "AppleMarketUrl" : "https://apps.apple.com/us/app/nine-chronicles-m/id6462364578",
   "GoogleMarketUrl" : "https://play.google.com/store/apps/details?id=com.planetariumlabs.ninechroniclesmobile",
   "WebMarketUrl" : "https://nine-chronicles.com/market",
-  "maintenance" : true,
+  "maintenance" : false,
+  "requiredUpdate" : true,
   "EnableGuestLogin" : false,
   "ingameDebugConsole" : false
 }
