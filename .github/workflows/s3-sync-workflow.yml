@@ -14,7 +14,15 @@ jobs:
     - name: Upload assets to S3
       uses: jakejarvis/s3-sync-action@master
       with:
-        args: --follow-symlinks --exclude '.git/*' --exclude 'Json/Event.json'
+        # 백오피스가 S3에 직접 쓰는 파일은 여기서 덮어쓰지 않는다(저장소 사본은 옛 버전).
+        args: >-
+          --follow-symlinks --exclude '.git/*'
+          --exclude 'Json/Event.json'
+          --exclude 'Json/TextNotice*.json'
+          --exclude 'Json/EventRewardPopupData.json'
+          --exclude 'Json/NewEventRewardPopupData.json'
+          --exclude 'Json/Ncu.json'
+          --exclude 'Images/EventRewardPopup/*'
       env:
         AWS_S3_BUCKET: ${{ secrets.AWS_S3_BUCKET }}
         AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
